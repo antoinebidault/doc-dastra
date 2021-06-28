@@ -1,0 +1,2 @@
+# Blocage des cookies
+
