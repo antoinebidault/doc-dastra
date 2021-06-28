@@ -116,10 +116,6 @@
 * [Feuille de route](security/feuille-de-route.md)
 * [Qualité de nos services](security/qualite-de-nos-services.md)
 
-## Les nouveautés <a id="nouveautes"></a>
-
-* [Journal des modifications](nouveautes/journal-des-modifications.md)
-
 ## DIVERS
 
 * [FAQ Tarifs](divers/faq.md)
