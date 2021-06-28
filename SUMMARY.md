@@ -75,10 +75,6 @@
 * [Security at Dastra](security/general.md)
 * [Security roadmap](security/feuille-de-route.md)
 
-## What's new?
-
-* [Changelog](whats-new/changelog.md)
-
 ## Other
 
 * [Quality of Service](other/qualite-de-nos-services.md)
