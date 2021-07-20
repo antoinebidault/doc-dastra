@@ -4,6 +4,8 @@ description: Résumé des notions clefs du Règlement Général sur la Protectio
 
 # Les notions clefs du RGPD
 
+
+
 {% page-ref page="donnee-personnelle.md" %}
 
 {% page-ref page="registre-de-traitement.md" %}
