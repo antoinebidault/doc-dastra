@@ -9,12 +9,12 @@
   * [Donnée personnelle](le-rgpd-en-bref/rgpd-en-bref/donnee-personnelle.md)
   * [Registre des traitements](le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md)
   * [Analyse d'impact](le-rgpd-en-bref/rgpd-en-bref/analyse-dimpact.md)
+  * [Durées de conservation](le-rgpd-en-bref/rgpd-en-bref/durees-de-conservation.md)
   * [Droits des personnes](le-rgpd-en-bref/rgpd-en-bref/droits-des-personnes.md)
   * [Risques sous-traitants](le-rgpd-en-bref/rgpd-en-bref/risques-sous-traitants.md)
   * [Confidentialité dès la conception et par défaut](le-rgpd-en-bref/rgpd-en-bref/confidentialite-des-la-conception-et-par-defaut.md)
   * [Mesures de sécurité](le-rgpd-en-bref/rgpd-en-bref/mesures-de-securite.md)
   * [Violations de données](le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md)
-  * [Durées de conservation](le-rgpd-en-bref/rgpd-en-bref/durees-de-conservation.md)
 
 ## Bien commencer <a id="commencer"></a>
 
