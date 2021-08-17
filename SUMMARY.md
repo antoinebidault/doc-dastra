@@ -8,6 +8,7 @@
 * [Les notions clefs du RGPD](le-rgpd-en-bref/rgpd-en-bref/README.md)
   * [Donnée personnelle](le-rgpd-en-bref/rgpd-en-bref/donnee-personnelle.md)
   * [Registre des traitements](le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md)
+  * [Analyse d'impact](le-rgpd-en-bref/rgpd-en-bref/analyse-dimpact.md)
   * [Droits des personnes](le-rgpd-en-bref/rgpd-en-bref/droits-des-personnes.md)
   * [Risques sous-traitants](le-rgpd-en-bref/rgpd-en-bref/risques-sous-traitants.md)
   * [Confidentialité dès la conception et par défaut](le-rgpd-en-bref/rgpd-en-bref/confidentialite-des-la-conception-et-par-defaut.md)
