@@ -121,3 +121,15 @@ Celui-ci doit contenir :
 
 ![Un traitement &quot;sous-traitant&quot; dans Dastra](../../.gitbook/assets/image%20%28191%29.png)
 
+## Pour aller plus loin
+
+{% page-ref page="../../features/editer-le-registre/" %}
+
+{% page-ref page="../../features/editer-le-registre/gerer-votre-registre.md" %}
+
+{% page-ref page="../../features/editer-le-registre/remplir-le-questionnaire/" %}
+
+
+
+
+

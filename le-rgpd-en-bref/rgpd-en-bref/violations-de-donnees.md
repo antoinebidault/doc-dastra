@@ -31,3 +31,9 @@ Une violation de données personnelles est une violation de la sécurité qui pr
 
 Toute violation de cette obligation est sanctionnée par les autorités de protection des données.
 
+## Pour aller plus loin
+
+{% page-ref page="../../features/documenter-les-violations-de-donnees/" %}
+
+
+

@@ -93,6 +93,14 @@ Pour cela, la fonctionnalité Audit de Dastra est idéale :
 
 {% embed url="https://www.youtube.com/watch?v=BK8A3L9P7T0" caption="Webinar \"Durées de conservation : comment les déterminer ?\"" %}
 
+{% page-ref page="../../features/editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md" %}
+
+{% page-ref page="../../features/audit/" %}
+
+{% page-ref page="../../features/planifier/" %}
+
+
+
 
 
 

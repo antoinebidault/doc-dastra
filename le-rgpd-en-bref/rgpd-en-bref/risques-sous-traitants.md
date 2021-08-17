@@ -26,3 +26,13 @@ Chaque sous-traitant doit tenir un registre de tous les traitements effectués p
 
 Le sous-traitant n'est pas responsable des dommages matériels ou moraux causés par le traitement des données personnelles uniquement s'il n'a pas respecté les obligations prévues par le RGPD qui lui incombent spécifiquement ou s'il a agi en dehors des instructions légales du responsable du traitement. Le sous-traitant est soumis aux mêmes amendes et pénalités administratives que le responsable du traitement.
 
+## Pour aller plus loin
+
+{% page-ref page="../../features/editer-le-registre/risques.md" %}
+
+{% page-ref page="../../commencer/tutoriel/etape-4-gerer-les-risques.md" %}
+
+
+
+
+

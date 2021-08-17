@@ -125,5 +125,15 @@ Dans le cas contraire, proposer des **mesures complémentaires** et réévaluer 
 
 {% embed url="https://www.youtube.com/watch?v=yfaJC-YESPk" caption="Webinar \"Comment aborder l\'étape PIA avec un outil ?\"" %}
 
+{% page-ref page="../../features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md" %}
+
+{% page-ref page="../../features/audit/" %}
+
+{% page-ref page="../../features/editer-le-registre/risques.md" %}
+
+
+
+
+
 
 

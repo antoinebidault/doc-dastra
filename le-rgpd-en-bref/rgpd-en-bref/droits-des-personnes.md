@@ -75,5 +75,15 @@ Tout le monde peut, l'accès à toutes les informations le concernant, connaîtr
 * Les personnes concernées peuvent demander à recevoir, dans un format structuré, couramment utilisé et lisible par machine, les données les concernant qu'elles ont fournies à un responsable de traitement. 
 * Lorsque cela est techniquement possible, ils peuvent également demander que ces données soient transmises directement d'un responsable de traitement à un autre.
 
+## Pour aller plus loin
+
+{% page-ref page="../../features/gerer-les-exercices-des-droits/" %}
+
+{% page-ref page="../../features/editer-le-registre/remplir-le-questionnaire/droits-des-personnes.md" %}
+
+
+
+
+
 
 

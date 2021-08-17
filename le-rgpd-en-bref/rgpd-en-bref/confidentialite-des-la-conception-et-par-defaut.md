@@ -32,5 +32,15 @@ Réglementer strictement l'accessibilité aux données personnelles via une auto
 
 Fournir dès le début du traitement un dispositif de purge des données à la date d'expiration de leur durée de conservation
 
+## Pour aller plus loin
+
+{% page-ref page="../../features/editer-le-registre/remplir-le-questionnaire/mesures-de-securite.md" %}
+
+{% page-ref page="../../features/planifier/" %}
+
+{% page-ref page="../../features/planifier/allez-plus-loin-avec-la-planification.md" %}
+
+
+
 
 

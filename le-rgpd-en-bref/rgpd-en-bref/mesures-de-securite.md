@@ -23,5 +23,11 @@ La sécurisation des données personnelles implique l'identification et la mise 
 
 Pour plus d'information, consulter le [guide de la sécurité des données personnelles](https://www.cnil.fr/fr/principes-cles/guide-de-la-securite-des-donnees-personnelles) de la CNIL.
 
+## Pour aller plus loin
+
+{% page-ref page="../../features/editer-le-registre/remplir-le-questionnaire/mesures-de-securite.md" %}
+
+
+
 
 

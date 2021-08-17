@@ -57,3 +57,11 @@ Le règlement européen interdit de recueillir ou d’utiliser ces données, sau
 * si leur utilisation est justifiée par l'**intérêt public** et **autorisé par la CNIL** ;
 * si elles concernent les membres ou adhérents d'une **association** ou d'une **organisation politique, religieuse, philosophique ou syndicale**. 
 
+## Pour aller plus loin
+
+{% page-ref page="../../features/editer-le-registre/visualiser-la-cartographie-des-donnees.md" %}
+
+{% page-ref page="../../features/editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md" %}
+
+
+
