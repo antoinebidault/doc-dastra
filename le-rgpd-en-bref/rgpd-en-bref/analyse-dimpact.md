@@ -66,7 +66,7 @@ Le PIA est un processus continu :
 * Une bonne pratique est de la mettre à jour tous les 3 à 5 ans
 * Dans tous les cas, dès lors qu’une modification intervient sur le traitement
 
-![Un processus it&#xE9;ratif](../../.gitbook/assets/image%20%28188%29.png)
+![Un processus it&#xE9;ratif](../../.gitbook/assets/image%20%28189%29.png)
 
 ## Comment faire un PIA ?
 

@@ -14,6 +14,7 @@
   * [Confidentialité dès la conception et par défaut](le-rgpd-en-bref/rgpd-en-bref/confidentialite-des-la-conception-et-par-defaut.md)
   * [Mesures de sécurité](le-rgpd-en-bref/rgpd-en-bref/mesures-de-securite.md)
   * [Violations de données](le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md)
+  * [Durées de conservation](le-rgpd-en-bref/rgpd-en-bref/durees-de-conservation.md)
 
 ## Bien commencer <a id="commencer"></a>
 
