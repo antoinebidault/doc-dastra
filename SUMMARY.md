@@ -72,7 +72,7 @@
   * [Allez plus loin avec la planification](features/planifier/allez-plus-loin-avec-la-planification.md)
 * [La gestion des exercices des droits](features/gerer-les-exercices-des-droits/README.md)
   * [Implémentez un widget d'exercice des droits](features/gerer-les-exercices-des-droits/implementez-un-widget-dexercice-des-droits.md)
-* [La gestion des violations de données](features/documenter-les-violations-de-donnees/README.md)
+* [Le registre des violations de données](features/documenter-les-violations-de-donnees/README.md)
   * [Documenter une nouvelle violation de données](features/documenter-les-violations-de-donnees/documenter-une-violation-de-donnees.md)
   * [Exportez vos violations de données](features/documenter-les-violations-de-donnees/exportez-vos-violations-de-donnees.md)
 * [La collecte du consentement aux cookies](features/gerer-le-consentement-aux-cookies/README.md)

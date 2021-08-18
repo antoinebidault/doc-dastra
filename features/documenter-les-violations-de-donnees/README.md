@@ -2,7 +2,7 @@
 description: Apprenez à gérer les notifications de violations de données.
 ---
 
-# La gestion des violations de données
+# Le registre des violations de données
 
 Tous les organismes qui traitent des données personnelles doivent mettre en place des mesures pour prévenir les violations de données et réagir de manière appropriée en cas d'incident.
 
