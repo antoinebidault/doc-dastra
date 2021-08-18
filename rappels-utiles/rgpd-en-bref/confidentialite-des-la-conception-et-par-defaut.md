@@ -61,19 +61,26 @@ Ils sont donc tenus **responsables du respect des règles** imposées par le RGP
 Les principes de Privacy by Design peuvent être appliqués de différentes manières dans Dastra :
 
 * **Créer des formulaires d'audit spécifiques** permettant de collecter les informations nécessaires
-* **Identifier et analyser les risques** pour évaluer les mesures à mettre en œuvre afin de répondre aux enjeux 
-*  **Identifier, assigner et faire le suivi** **des tâches** de remédiation 
-* **Documenter** dans les fiches de traitement les mesures mises en œuvre pour constituer les preuves de respect des principes ainsi qu'une piste d'audit
-
-## Pour aller plus loin
 
 {% page-ref page="../../features/audit/" %}
 
+* **Identifier et analyser les risques** pour évaluer les mesures à mettre en œuvre afin de répondre aux enjeux 
+
 {% page-ref page="../../features/la-gestion-des-risques/" %}
+
+*  **Identifier, assigner et faire le suivi** **des tâches** de remédiation
 
 {% page-ref page="../../features/planifier/" %}
 
+* **Documenter** **le registre** en indiquant dans les fiches de traitement les mesures mises en œuvre et ainsi constituer la piste d'audit
+
 {% page-ref page="../../features/editer-le-registre/" %}
+
+## Pour aller plus loin
+
+{% page-ref page="../la-gestion-des-risques/" %}
+
+{% page-ref page="mesures-de-securite.md" %}
 
 
 
