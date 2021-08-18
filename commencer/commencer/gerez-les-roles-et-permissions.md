@@ -2,7 +2,7 @@
 description: Découvrez comment gérer les rôles et permissions dans Dastra.
 ---
 
-# Gérez les rôles et permissions
+# Gérer les rôles et permissions
 
 Au moment d'inviter un utilisateur, Dastra propose, par défaut, trois rôles possibles :
 

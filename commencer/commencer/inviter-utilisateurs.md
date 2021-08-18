@@ -2,7 +2,7 @@
 description: Découvrez comment le système d'invitation de Dastra fonctionne.
 ---
 
-# Invitez d'autres utilisateurs
+# Inviter d'autres utilisateurs
 
 ## Invitez un utilisateur
 

@@ -1,8 +1,8 @@
 ---
-description: Apprenez à réaliser des audits avec Dastra.
+description: Apprenez à réaliser des audits et des PIA avec Dastra.
 ---
 
-# Les audits
+# Les audits et PIA
 
 Il est possible, dans Dastra, de concevoir des modèles d'audit personnalisés, de lancer des campagnes, d'inviter des utilisateurs à y répondre, depuis la fonctionnalité "Audit" de Dastra à gauche de l'écran.
 
@@ -20,7 +20,13 @@ Consultez et partagez le rapport d'audit :
 
 {% page-ref page="rapport-daudit.md" %}
 
+{% hint style="info" %}
+Dans Dastra, un PIA est considéré comme un modèle d'audit particulier.
+{% endhint %}
 
+## Aller plus loin
+
+{% page-ref page="../la-gestion-des-risques/" %}
 
 
 

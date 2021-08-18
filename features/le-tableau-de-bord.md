@@ -4,6 +4,8 @@ description: Apprenez à utiliser le tableau de bord de Dastra.
 
 # Le tableau de bord
 
+## Introduction
+
 Le tableau de bord de Dastra est la première page auquel vous accédez au moment d'entrer dans votre espace de travail, et constitue une synthèse de votre conformité RGPD.
 
 Celui-ci est composé de 3 sections principales :
@@ -26,9 +28,27 @@ Vous pouvez également imprimer le tableau de bord ou invitez directement en uti
 
 ![Les boutons imprimer et inviter un utilisateurs](../.gitbook/assets/image%20%28147%29.png)
 
-Explorez dès maintenant les fonctionnalités, comme par exemple le registre des traitements :
+## Aller plus loin
+
+Explorez dès maintenant les fonctionnalités :
 
 {% page-ref page="editer-le-registre/" %}
+
+{% page-ref page="la-visualisation-des-donnees/" %}
+
+{% page-ref page="la-gestion-des-risques/" %}
+
+{% page-ref page="planifier/" %}
+
+{% page-ref page="gerer-les-exercices-des-droits/" %}
+
+{% page-ref page="documenter-les-violations-de-donnees/" %}
+
+{% page-ref page="gerer-le-consentement-aux-cookies/" %}
+
+{% page-ref page="audit/" %}
+
+{% page-ref page="settings/" %}
 
 
 

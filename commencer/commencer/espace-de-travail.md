@@ -2,7 +2,7 @@
 description: Apprenez à créer votre premier espace de travail dans Dastra.
 ---
 
-# Créez et paramétrez un espace de travail
+# Créer et paramétrer un espace de travail
 
 ## Connectez-vous à Dastra.eu 
 

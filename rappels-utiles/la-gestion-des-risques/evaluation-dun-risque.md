@@ -60,7 +60,7 @@ Un risque « **net** » \(ou résiduel\) est, au contraire, évalué en prenant 
 
 
 
-![Exemple de visualisation de risques dans Dastra.](../../.gitbook/assets/image%20%28196%29.png)
+![Exemple de visualisation de risques dans Dastra.](../../.gitbook/assets/image%20%28202%29.png)
 
 Aller plus loin
 
