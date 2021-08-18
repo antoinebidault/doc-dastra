@@ -49,9 +49,9 @@ L’article 30 du RGPD prévoit des obligations spécifiques pour le _registre d
 1. un pour les traitements de données personnelles dont vous êtes vous-même responsable,
 2. un autre pour les traitements que vous opérez, en tant que sous-traitant, pour le compte de vos clients.
 
-## Le registre "Responsable de traitement"
+## Le registre "Responsable de traitement" dans Dastra
 
-Pour chaque traitement, le registre d'un responsable de traitement doit indiquer au minima :
+Pour chaque traitement, le registre d'un responsable de traitement indique au minima :
 
 1. le cas échéant, **le nom et les coordonnées** du [responsable conjoint du traitement](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article26) mis en œuvre
 2. les **finalités** du traitement, l’objectif en vue duquel vous avez collecté ces données
@@ -104,11 +104,11 @@ Pour chaque traitement, le registre d'un responsable de traitement doit indiquer
 
 
 
-## Le registre "sous-traitant"
+## Le registre "sous-traitant" dans Dastra
 
 Chaque sous-traitant est tenu de renseigner un registre moins étendu. 
 
-Celui-ci doit contenir : 
+Celui-ci contient : 
 
 * les **coordonnées du sous-traitant**, de son représentant le cas échéant et de son DPO 
 * les **coordonnées de tous les responsables de traitement pour le compte desquels le sous-traitant agit** \(les clients généralement\)
