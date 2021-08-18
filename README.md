@@ -44,10 +44,6 @@ Pour plus d'informations, consultez notre [manifesto](https://www.dastra.eu/fr/m
 
 ![La gestion documentaire](.gitbook/assets/image.png)
 
-{% hint style="info" %}
-Dastra peut être testé gratuitement pendant 1 mois en s'inscrivant sur lien : [https://app.dastra.eu/signup](https://app.dastra.eu/signup)
-{% endhint %}
-
 ## Comment faire pour découvrir Dastra ?
 
 Commencez dès maintenant à découvrir Dastra, d'abord avec les fonctionnalités et mise en place, puis le tutoriel :
@@ -55,6 +51,12 @@ Commencez dès maintenant à découvrir Dastra, d'abord avec les fonctionnalité
 {% page-ref page="commencer/commencer/" %}
 
 {% page-ref page="commencer/tutoriel/" %}
+
+{% hint style="info" %}
+Dastra peut être testé gratuitement et sans carte bleue pendant 1 mois en s'inscrivant sur lien : [https://app.dastra.eu/signup](https://app.dastra.eu/signup)   
+  
+N'hésitez pas à vous inscrire, c'est immédiat et sans engagement !
+{% endhint %}
 
 ## Aller plus loin
 
