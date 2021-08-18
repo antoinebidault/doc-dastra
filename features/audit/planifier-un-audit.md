@@ -2,7 +2,7 @@
 description: Apprenez à planifier un audit avec Dastra.
 ---
 
-# Planifier un audit
+# Planifier un audit ou un PIA
 
 Une fois le modèle d'audit créé et personnalisé, lancez une campagne en cliquant sur le bouton "Planifier un audit". Renseignez le nom de la campagne et les répondants, invitez les répondants internes comme externes et ensuite attendez les réponses. Ceux-ci recevront un mail contenant un lien vers un espace en ligne où ils pourront renseigner leurs réponses.
 

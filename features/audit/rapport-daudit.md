@@ -1,4 +1,8 @@
-# Rapport d'audit
+---
+description: Apprenez à partager un rapport d'audit ou un PIA.
+---
+
+# Partager un rapport d'audit ou PIA
 
 Une fois les réponses obtenues, vous pouvez consulter, valider, publier, revoir exporter ou archiver votre rapport d'audit.
 
