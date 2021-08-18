@@ -2,7 +2,7 @@
 description: Découvrez ce qu'est Dastra.
 ---
 
-# Introduction
+# Introduction à Dastra
 
 **Dastra** est une solution de protection des données personnelles avec laquelle les équipes en charge de la protection des données peuvent piloter et gérer tous les cas d'utilisation du RGPD, de la gestion de l'enregistrement des activités de traitement à la mise en œuvre d'un widget de cookies sur leurs sites Web.
 
@@ -40,15 +40,23 @@ Pour plus d'informations, consultez notre [manifesto](https://www.dastra.eu/fr/m
 
 ![Le questionnaire de violation de donn&#xE9;es](.gitbook/assets/image%20%28112%29.png)
 
-* Centralisez la documentation permettant de répondre à la conformité RGPD.
+* **Centralisez la documentation** permettant de répondre à la conformité RGPD.
 
 ![La gestion documentaire](.gitbook/assets/image.png)
 
-Commencez à utiliser Dastra, d'abord avec la mise en place, puis le tutoriel :
+{% hint style="info" %}
+Dastra peut être testé gratuitement pendant 1 mois en s'inscrivant sur lien : [https://app.dastra.eu/signup](https://app.dastra.eu/signup)
+{% endhint %}
+
+## Comment faire pour découvrir Dastra ?
+
+Commencez dès maintenant à découvrir Dastra, d'abord avec les fonctionnalités et mise en place, puis le tutoriel :
 
 {% page-ref page="commencer/commencer/" %}
 
 {% page-ref page="commencer/tutoriel/" %}
+
+## Aller plus loin
 
 
 

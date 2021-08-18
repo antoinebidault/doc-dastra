@@ -6,7 +6,7 @@ description: Apprenez à répondre aux demandes d'exercices de droits.
 
 Avec le RGPD, les citoyens européens sont en mesure de demander à une entreprise ou organisation traitant des données personnelles qui les concernent l'exercice de leurs droits. Ces dernières ont l'obligation de faciliter l'exercice des droits.
 
-{% page-ref page="../../le-rgpd-en-bref/rgpd-en-bref/droits-des-personnes.md" %}
+{% page-ref page="../../rappels-utiles/rgpd-en-bref/droits-des-personnes.md" %}
 
 Pour faire cela, l'entreprise ou l'organisation doit mettre en place des procédures permettant de répondre aux demandes d'exercice des droits et d'en apporter la preuve. Cela passe notamment par des étapes à suivre et une documentation dans un registre. 
 

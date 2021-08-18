@@ -8,7 +8,7 @@ Tous les organismes qui traitent des données personnelles doivent mettre en pla
 
 Pour plus d'informations sur ce qu'est une violation de données et les obligations pour les entreprises :
 
-{% page-ref page="../../le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md" %}
+{% page-ref page="../../rappels-utiles/rgpd-en-bref/violations-de-donnees.md" %}
 
 ## Le registre des notifications de violation de données
 

@@ -34,9 +34,9 @@ Dans Dastra, un risque peut être associé à **un ou plusieurs objets**, parmi 
 
 ## Aller plus loin
 
-{% page-ref page="../../le-rgpd-en-bref/la-gestion-des-risques/definition-des-risques.md" %}
+{% page-ref page="../../rappels-utiles/la-gestion-des-risques/definition-des-risques.md" %}
 
-{% page-ref page="../../le-rgpd-en-bref/la-gestion-des-risques/evaluation-dun-risque.md" %}
+{% page-ref page="../../rappels-utiles/la-gestion-des-risques/evaluation-dun-risque.md" %}
 
 {% page-ref page="risques.md" %}
 

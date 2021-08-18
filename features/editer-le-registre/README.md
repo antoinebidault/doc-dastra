@@ -38,7 +38,7 @@ Si vous souhaitez apprendre à partager le registre, cliquez ici :
 
 ## Pour aller plus loin
 
-{% page-ref page="../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md" %}
+{% page-ref page="../../rappels-utiles/rgpd-en-bref/registre-de-traitement.md" %}
 
 {% page-ref page="../la-gestion-des-risques/risques.md" %}
 

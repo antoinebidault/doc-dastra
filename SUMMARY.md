@@ -1,23 +1,23 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction à Dastra](README.md)
 
-## Rappels utiles <a id="le-rgpd-en-bref"></a>
+## Rappels utiles
 
-* [Introduction au RGPD](le-rgpd-en-bref/quest-ce-que-le-rgpd.md)
-* [Les notions clefs du RGPD](le-rgpd-en-bref/rgpd-en-bref/README.md)
-  * [Donnée personnelle](le-rgpd-en-bref/rgpd-en-bref/donnee-personnelle.md)
-  * [Registre des traitements](le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md)
-  * [Analyse d'impact](le-rgpd-en-bref/rgpd-en-bref/analyse-dimpact.md)
-  * [Durées de conservation](le-rgpd-en-bref/rgpd-en-bref/durees-de-conservation.md)
-  * [Droits des personnes](le-rgpd-en-bref/rgpd-en-bref/droits-des-personnes.md)
-  * [Confidentialité dès la conception et par défaut](le-rgpd-en-bref/rgpd-en-bref/confidentialite-des-la-conception-et-par-defaut.md)
-  * [Mesures de sécurité](le-rgpd-en-bref/rgpd-en-bref/mesures-de-securite.md)
-  * [Violations de données](le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md)
-* [La gestion des risques](le-rgpd-en-bref/la-gestion-des-risques/README.md)
-  * [Définition des risques](le-rgpd-en-bref/la-gestion-des-risques/definition-des-risques.md)
-  * [Evaluation d'un risque](le-rgpd-en-bref/la-gestion-des-risques/evaluation-dun-risque.md)
-  * [Risques sous-traitants](le-rgpd-en-bref/la-gestion-des-risques/risques-sous-traitants.md)
+* [Introduction au RGPD](rappels-utiles/quest-ce-que-le-rgpd.md)
+* [Les notions clefs du RGPD](rappels-utiles/rgpd-en-bref/README.md)
+  * [Donnée personnelle](rappels-utiles/rgpd-en-bref/donnee-personnelle.md)
+  * [Registre des traitements](rappels-utiles/rgpd-en-bref/registre-de-traitement.md)
+  * [Analyse d'impact](rappels-utiles/rgpd-en-bref/analyse-dimpact.md)
+  * [Durées de conservation](rappels-utiles/rgpd-en-bref/durees-de-conservation.md)
+  * [Droits des personnes](rappels-utiles/rgpd-en-bref/droits-des-personnes.md)
+  * [Confidentialité dès la conception et par défaut](rappels-utiles/rgpd-en-bref/confidentialite-des-la-conception-et-par-defaut.md)
+  * [Mesures de sécurité](rappels-utiles/rgpd-en-bref/mesures-de-securite.md)
+  * [Violations de données](rappels-utiles/rgpd-en-bref/violations-de-donnees.md)
+* [La gestion des risques](rappels-utiles/la-gestion-des-risques/README.md)
+  * [Définition des risques](rappels-utiles/la-gestion-des-risques/definition-des-risques.md)
+  * [Evaluation d'un risque](rappels-utiles/la-gestion-des-risques/evaluation-dun-risque.md)
+  * [Risques sous-traitants](rappels-utiles/la-gestion-des-risques/risques-sous-traitants.md)
 
 ## Bien commencer <a id="commencer"></a>
 

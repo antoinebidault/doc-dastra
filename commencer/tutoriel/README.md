@@ -55,7 +55,7 @@ Bravo, vous avez réalisé le tutoriel !
 
 N'hésitez pas à aller explorer ensuite les fonctionnalités de Dastra, en commençant par exemple par le registre des traitements:
 
-{% page-ref page="../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md" %}
+{% page-ref page="../../rappels-utiles/rgpd-en-bref/registre-de-traitement.md" %}
 
 
 
