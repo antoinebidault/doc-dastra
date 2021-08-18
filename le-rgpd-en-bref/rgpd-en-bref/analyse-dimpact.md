@@ -129,7 +129,7 @@ Dans le cas contraire, proposer des **mesures complémentaires** et réévaluer 
 
 {% page-ref page="../../features/audit/" %}
 
-{% page-ref page="../../features/editer-le-registre/risques.md" %}
+{% page-ref page="../../features/la-gestion-des-risques/risques.md" %}
 
 
 

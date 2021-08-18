@@ -1,14 +1,24 @@
 ---
-description: Apprenez à éditer votre registre de traitement.
+description: Apprenez à éditer votre registre de traitement avec Dastra.
 ---
 
 # Le registre des traitements
 
-## Qu'est-ce qu'un registre de traitement ?
+## Introduction
 
-Le registre de traitement vous permet de faire la cartographie de vos traitements de données et d'avoir une vue d'ensemble de ce que vous faites avec les données personnelles concernées. Disposer d'un registre complété est une obligation de l’article 30 du RGPD, mais au delà de l'aspect contraignant, c'est surtout un outil pour mieux connaître ses données et maîtriser la chaîne de valeur associée - depuis leur production jusqu'à l'usage qui en est fait.  
+Le registre de traitement vous permet de faire la cartographie de vos **traitements de données** et d'avoir une **vue d'ensemble** de ce que vous faites avec les données personnelles concernées. Disposer d'un registre complété est une **obligation** de l’article 30 du RGPD, mais au delà de l'aspect contraignant, c'est surtout un **outil pour mieux connaître ses données** et **maîtriser la chaîne de valeur** associée - depuis leur production jusqu'à l'usage qui en est fait.  
 
-Chez Dastra, nous pensons que notre rôle est de vous faciliter le travail de cartographie des traitements, pour vous permettre de vous concentrer sur votre métier. Pour cela, nous vous accompagnons à travers un registre intelligent et un questionnaire qui vous guide étape par étape dans la constitution de votre registre.
+Chez Dastra, nous pensons que notre rôle est de vous **faciliter le travail** de cartographie des traitements, pour vous permettre de vous concentrer sur votre métier. Pour cela, nous vous accompagnons à travers un registre **intelligent** et des **questionnaires** qui vous guident étape par étape dans la constitution de votre registre.
+
+## Le registre Dastra en quelques mots
+
+La fonctionnalité de registres des activités de traitements Dastra répond à tous les attendus de la règlementation. Le registre des traitements Dastra, à la fois Responsable de Traitement et Sous traitant, repose sur des référentiels \(acteurs, applications, jeux de données, données, risques et mesures de sécurité\) permettant de **cartographier vos traitements** et **gagner du temps** dans la gestion au quotidien du registre. 
+
+Les traitements sont duplicables et des modèles de traitement sont disponible dans une bibliothèque librement accessible à tous nos utilisateurs. Un workflow est intégré, une fonction de recherche est présente nativement et il est possible d’importer / exporter des fiches de traitements sous différent formats \( pdf , word , html, excel , csv, json \) ainsi que d’y attacher ou déposer des pièces jointes.
+
+![Aper&#xE7;u d&apos;un registre](../../.gitbook/assets/image%20%28197%29.png)
+
+## Comment établir son registre de traitement ?
 
 Si vous souhaitez apprendre à concevoir et gérer votre registre de traitement de données, commencez ici:
 
@@ -25,6 +35,14 @@ Si vous souhaitez comprendre les différentes étapes du questionnaire, cliquez 
 Si vous souhaitez apprendre à partager le registre, cliquez ici :
 
 {% page-ref page="partager-le-registre.md" %}
+
+## Pour aller plus loin
+
+{% page-ref page="../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md" %}
+
+{% page-ref page="../la-gestion-des-risques/risques.md" %}
+
+{% page-ref page="../planifier/" %}
 
 
 

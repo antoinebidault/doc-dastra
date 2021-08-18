@@ -12,7 +12,7 @@ description: Résumé des notions clefs du Règlement Général sur la Protectio
 
 {% page-ref page="droits-des-personnes.md" %}
 
-{% page-ref page="risques-sous-traitants.md" %}
+{% page-ref page="../la-gestion-des-risques/risques-sous-traitants.md" %}
 
 {% page-ref page="confidentialite-des-la-conception-et-par-defaut.md" %}
 

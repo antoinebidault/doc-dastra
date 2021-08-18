@@ -2,7 +2,7 @@
 description: Apprenez ce qu'est le Règlement Général de la Protection des Données.
 ---
 
-# Qu'est-ce que le RGPD ?
+# Introduction au RGPD
 
 Le Règlement Général sur la Protection des Données \(RGPD\) est le règlement de l'Union européenne sur la protection des données et de la vie privée. Toutes les entreprises et administrations traitant des données personnelles de résidents européens sont concernées. Il est applicable depuis le 25 mai 2018.
 

@@ -2,19 +2,22 @@
 
 * [Introduction](README.md)
 
-## Le RGPD en bref
+## Rappels utiles <a id="le-rgpd-en-bref"></a>
 
-* [Qu'est-ce que le RGPD ?](le-rgpd-en-bref/quest-ce-que-le-rgpd.md)
+* [Introduction au RGPD](le-rgpd-en-bref/quest-ce-que-le-rgpd.md)
 * [Les notions clefs du RGPD](le-rgpd-en-bref/rgpd-en-bref/README.md)
   * [Donnée personnelle](le-rgpd-en-bref/rgpd-en-bref/donnee-personnelle.md)
   * [Registre des traitements](le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md)
   * [Analyse d'impact](le-rgpd-en-bref/rgpd-en-bref/analyse-dimpact.md)
   * [Durées de conservation](le-rgpd-en-bref/rgpd-en-bref/durees-de-conservation.md)
   * [Droits des personnes](le-rgpd-en-bref/rgpd-en-bref/droits-des-personnes.md)
-  * [Risques sous-traitants](le-rgpd-en-bref/rgpd-en-bref/risques-sous-traitants.md)
   * [Confidentialité dès la conception et par défaut](le-rgpd-en-bref/rgpd-en-bref/confidentialite-des-la-conception-et-par-defaut.md)
   * [Mesures de sécurité](le-rgpd-en-bref/rgpd-en-bref/mesures-de-securite.md)
   * [Violations de données](le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md)
+* [La gestion des risques](le-rgpd-en-bref/la-gestion-des-risques/README.md)
+  * [Définition des risques](le-rgpd-en-bref/la-gestion-des-risques/definition-des-risques.md)
+  * [Evaluation d'un risque](le-rgpd-en-bref/la-gestion-des-risques/evaluation-dun-risque.md)
+  * [Risques sous-traitants](le-rgpd-en-bref/la-gestion-des-risques/risques-sous-traitants.md)
 
 ## Bien commencer <a id="commencer"></a>
 
@@ -35,7 +38,7 @@
   * [L'aide en ligne](commencer/le-support/laide-en-ligne.md)
   * [Faire une demande de support](commencer/le-support/faire-une-demande-de-support.md)
 
-## Les fonctionalités <a id="features"></a>
+## Les fonctionnalités <a id="features"></a>
 
 * [Le tableau de bord](features/le-tableau-de-bord.md)
 * [Le registre des traitements](features/editer-le-registre/README.md)
@@ -55,9 +58,10 @@
     * [Mesures de sécurité](features/editer-le-registre/remplir-le-questionnaire/mesures-de-securite.md)
     * [Analyse d'impact](features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
     * [Documents](features/editer-le-registre/remplir-le-questionnaire/documents.md)
-  * [Associer un risque au traitement](features/editer-le-registre/risques.md)
   * [Visualiser la cartographie des données](features/editer-le-registre/visualiser-la-cartographie-des-donnees.md)
   * [Partager le registre](features/editer-le-registre/partager-le-registre.md)
+* [La gestion des risques](features/la-gestion-des-risques/README.md)
+  * [Associer un risque à un traitement](features/la-gestion-des-risques/risques.md)
 * [La planification](features/planifier/README.md)
   * [Créez votre plan d'action](features/planifier/gerer-vos-taches.md)
   * [Exportez vos tâches](features/planifier/exportez-vos-taches.md)
