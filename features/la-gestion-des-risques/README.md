@@ -2,7 +2,7 @@
 description: Apprenez à gérer les risques avec Dastra.
 ---
 
-# La gestion des risques
+# La gestion des risques dans Dastra
 
 ## Introduction
 

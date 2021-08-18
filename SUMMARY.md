@@ -60,7 +60,7 @@
     * [Documents](features/editer-le-registre/remplir-le-questionnaire/documents.md)
   * [Visualiser la cartographie des données](features/editer-le-registre/visualiser-la-cartographie-des-donnees.md)
   * [Partager le registre](features/editer-le-registre/partager-le-registre.md)
-* [La gestion des risques](features/la-gestion-des-risques/README.md)
+* [La gestion des risques dans Dastra](features/la-gestion-des-risques/README.md)
   * [Associer un risque à un traitement](features/la-gestion-des-risques/risques.md)
 * [La planification](features/planifier/README.md)
   * [Créez votre plan d'action](features/planifier/gerer-vos-taches.md)
