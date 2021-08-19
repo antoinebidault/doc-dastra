@@ -43,6 +43,8 @@
 
 * [Le tableau de bord](features/le-tableau-de-bord.md)
 * [Le registre des traitements](features/editer-le-registre/README.md)
+  * [Le registre "Responsable de traitement"](features/editer-le-registre/le-registre-responsable-de-traitement.md)
+  * [Le registre "Sous-traitant"](features/editer-le-registre/le-registre-sous-traitant.md)
   * [Etablissez votre registre](features/editer-le-registre/gerer-votre-registre.md)
   * [Exporter / importer le registre](features/editer-le-registre/exporter-importer-le-registre.md)
   * [Déclarer un traitement](features/editer-le-registre/gerer-votre-traitement.md)
