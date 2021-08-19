@@ -24,6 +24,18 @@ Dans la section contenant les tuiles, vous pouvez modifier l'ordre d'apparence d
 
 ![Un exemple de tuile du tableau de bord](../.gitbook/assets/image%20%28107%29.png)
 
+Il existe plusieurs **catégories de tuiles** disponible dans le tableau de bord :
+
+* **Traitements de données** 
+* **Analyse de risque**
+* **Vos audits**
+* **Tâches à échéance**
+* **Exercice des droits des personnes**
+* **Widget de consentement aux cookies**
+* **Derniers incidents**
+
+## Comment partager le tableau de bord ?
+
 Vous pouvez également imprimer le tableau de bord ou invitez directement en utilisateur en cliquant sur l'un des boutons disponibles en haut à droite de la section réservée aux tuiles.
 
 ![Les boutons imprimer et inviter un utilisateurs](../.gitbook/assets/image%20%28147%29.png)

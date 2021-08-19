@@ -115,6 +115,7 @@
     * [SAML 2](features/settings/single-sign-on-sso/saml-2.md)
   * [Référentiels](features/settings/referentials.md)
   * [Rôles et permissions](features/settings/roles-et-permissions.md)
+  * [Les workflows](features/settings/les-workflows.md)
 
 ## La documentation API <a id="api-references"></a>
 

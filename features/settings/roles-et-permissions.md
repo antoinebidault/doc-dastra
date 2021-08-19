@@ -1,6 +1,6 @@
 ---
 description: >-
-  Chaque organisation est différtente, c'est pourquoi, les rôles et les
+  Chaque organisation est différente, c'est pourquoi, les rôles et les
   permissions sont extrêmement souples dans Dastra.
 ---
 
