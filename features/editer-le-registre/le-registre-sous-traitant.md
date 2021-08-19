@@ -30,7 +30,7 @@ Celui-ci contient :
 
 \*\*\*\*
 
-![Un traitement &quot;sous-traitant&quot; dans Dastra](../../.gitbook/assets/image%20%28191%29.png)
+![Les diff&#xE9;rentes sections d&apos;un traitement &quot;sous-traitant&quot; dans Dastra](../../.gitbook/assets/image%20%28191%29.png)
 
 ## Aller plus loin
 
