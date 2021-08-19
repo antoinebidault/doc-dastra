@@ -18,6 +18,19 @@ Les traitements sont duplicables et des modèles de traitement sont disponible d
 
 ![Aper&#xE7;u d&apos;un registre](../../.gitbook/assets/image%20%28206%29.png)
 
+## Registre "Responsable de traitement" versus "Sous-traitant"
+
+L’article 30 du RGPD prévoit des obligations spécifiques pour le _registre du responsable de traitement_ de données personnelles et pour le _registre du sous-traitant_. Si votre organisme agit à la fois en tant que sous-traitant et responsable de traitement, votre registre doit donc clairement distinguer les deux catégories d’activités.
+
+**En pratique, dans cette hypothèse, la CNIL vous recommande de tenir 2 registres :**
+
+1. un pour les traitements de données personnelles dont vous êtes vous-même responsable,
+2. un autre pour les traitements que vous opérez, en tant que sous-traitant, pour le compte de vos clients.
+
+{% page-ref page="le-registre-responsable-de-traitement.md" %}
+
+{% page-ref page="le-registre-sous-traitant.md" %}
+
 ## Comment établir son registre de traitement ?
 
 Si vous souhaitez apprendre à concevoir et gérer votre registre de traitement de données, commencez ici:
