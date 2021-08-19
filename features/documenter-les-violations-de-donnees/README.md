@@ -28,15 +28,9 @@ Le registre des violations de données apparaît.
 
 ![L&apos;espace de gestion des violations](../../.gitbook/assets/image%20%28156%29.png)
 
-
+## Aller plus loin
 
 {% page-ref page="documenter-une-violation-de-donnees.md" %}
 
 {% page-ref page="exportez-vos-violations-de-donnees.md" %}
-
-
-
-
-
-
 
