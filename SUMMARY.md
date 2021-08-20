@@ -112,6 +112,7 @@
   * [Planifier un audit ou un PIA](features/audit/planifier-un-audit.md)
   * [Partager un rapport d'audit ou PIA](features/audit/rapport-daudit.md)
 * [La configuration avancée](features/settings/README.md)
+  * [Les notifications](features/settings/les-notifications.md)
   * [Single Sign On \(SSO\)](features/settings/single-sign-on-sso/README.md)
     * [OpenId](features/settings/single-sign-on-sso/openid.md)
     * [SAML 2](features/settings/single-sign-on-sso/saml-2.md)
