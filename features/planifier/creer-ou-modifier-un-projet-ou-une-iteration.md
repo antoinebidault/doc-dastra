@@ -37,7 +37,7 @@ Vous accéderez ainsi à l'interface des itérations où vous pourrez créer de 
 
 ## Aller plus loin
 
-{% page-ref page="exportez-vos-taches.md" %}
+{% page-ref page="suivre-les-taches.md" %}
 
 
 

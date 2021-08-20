@@ -30,7 +30,7 @@ Vous accéderez ainsi au module de planification :
 
 {% page-ref page="creer-ou-modifier-un-projet-ou-une-iteration.md" %}
 
-{% page-ref page="exportez-vos-taches.md" %}
+{% page-ref page="suivre-les-taches.md" %}
 
 {% page-ref page="synchroniser-avec-dautres-calendriers.md" %}
 
