@@ -4,6 +4,8 @@ description: Apprenez à notifier une violation de données avec DASTRA.
 
 # Documenter une nouvelle violation de données
 
+## Introduction
+
 Il y a 2 manières possible pour renseigner une nouvelle violation de données dans DASTRA :
 
 1. Renseigner directement manuellement toute nouvelle violation
