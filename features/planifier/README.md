@@ -24,21 +24,15 @@ Vous accéderez ainsi au module de planification :
 
 ![Module de planification](../../.gitbook/assets/image%20%28239%29.png)
 
-## Glossaire
-
-* Tâche : une tâche correspond à un travail qui doit exécuter.
-* Projet : liste de tâches correspondant usuellement à un périmètre fonctionnel
-* Itération : liste de tâches correspondant usuellement à du travail devant être réalisé sur une période donné
-
-
-
-
-
-Si vous souhaitez apprendre à créer une tâche, cliquez ici :
+## Aller plus loin
 
 {% page-ref page="gerer-vos-taches.md" %}
 
-Aller plus loin
+{% page-ref page="creer-ou-modifier-un-projet-ou-une-iteration.md" %}
 
+{% page-ref page="exportez-vos-taches.md" %}
 
+{% page-ref page="synchroniser-avec-dautres-calendriers.md" %}
+
+{% page-ref page="allez-plus-loin-avec-la-planification.md" %}
 
