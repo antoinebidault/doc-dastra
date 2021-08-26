@@ -25,6 +25,12 @@ Les disques de données sur les serveurs hébergeant des données clients sur le
 
 Les fichiers physiques sont également encryptées statiquement dans le service Azure Storage avec uns système d'encryptage transparent 256-bit [AES encryption](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard), un des algorithme les plus solide qui est FIPS 140-2 compliant.
 
+## Test de pénétration 
+
+Nous faisons auditer régulièrement notre application par un auditeur tiers indépendant. 
+
+Le dernier test a été réalisé le 12 juillet 2021 et n'a révélé aucune vulnérabilité critique.
+
 ## **Journaux d'audit d'organisation**
 
 Les administrateurs d'organisation peuvent suivre tous les changements apportés à la gestion des utilisateurs et permissions d'accès.
