@@ -51,6 +51,8 @@ Si vous souhaitez apprendre à partager le registre, cliquez ici :
 
 ## Pour aller plus loin
 
+{% embed url="https://www.youtube.com/watch?v=R\_Z2m4sb-44" caption="Comment passer en mode run sur la gestion des registres de traitements" %}
+
 {% page-ref page="../../rappels-utiles/rgpd-en-bref/registre-de-traitement.md" %}
 
 {% page-ref page="../la-gestion-des-risques/risques.md" %}

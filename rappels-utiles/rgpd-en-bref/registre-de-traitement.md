@@ -18,6 +18,8 @@ Document de recensement et d’analyse, il doit refléter la réalité de vos tr
 * **combien de temps vous les conservez**,
 * **comment elles sont sécurisées**.
 
+{% embed url="https://youtu.be/R\_Z2m4sb-44" caption="Comment passer en mode run sur la gestion des registres de traitements" %}
+
 ## Un registre, pourquoi faire ?
 
  Le registre est rendu **obligatoire** par [l’article 30 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article30). Au-delà de la réponse à l’obligation prévue par l’article 30 du RGPD, le registre est un **outil de pilotage et de démonstration de votre conformité au RGPD**. 
