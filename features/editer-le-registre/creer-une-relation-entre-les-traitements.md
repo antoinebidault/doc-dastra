@@ -56,19 +56,27 @@ Cette relation permet de garder une trace de la source de duplication du traitem
 
 #### Transmet strictement \(Héritage fort\) :
 
-Asservissement strict entre le traitement A et le traitement B. Les champs du traitement B préexistants sont supprimés au moment où le lien est mis en place. Les champs du traitement B asservi au traitement A ne sont pas modifiables dans le traitement B, et aucun nouveau champ ne peut être ajouté, supprimé ou modifié. Dans la mesure où les éléments de référentiels sont conservés, les champs préexistants au traitement B sont rétablis lorsque le lien est révoqué.
+Les champs du traitement d'origine \(A\) remplacent les champs du traitement cible \(B\). 
+
+Asservissement strict entre le traitement A et le traitement B. Les champs du traitement B préexistants sont supprimés au moment où le lien est mis en place. Les champs du traitement B asservis au traitement A ne sont pas modifiables dans le traitement B, et aucun nouveau champ ne peut être ajouté, supprimé ou modifié. Dans la mesure où les éléments de référentiels sont conservés, les champs préexistants au traitement B sont rétablis lorsque le lien est révoqué.
 
 #### Hérite strictement de \(Héritage fort\) : 
 
-Asservissement stricte entre A et B. Les champs de B préexistants sont supprimés au moment où le lien est mis en place. Les champs de B asservi à A ne sont pas modifiables dans B, et aucun nouveau champ ne peut être ajoutable, supprimable ou modifiable. Si possible, les champs préexistants à B sont rétablis lorsque le lien est révoqué.
+Les champs du traitement cible \(B\) remplacent les champs du traitement d'origine \(A\). 
+
+Asservissement strict entre le traitement B et le traitement A. Les champs de A préexistants sont supprimés au moment où le lien est mis en place. Les champs de A asservis à B ne sont pas modifiables dans A, et aucun nouveau champ ne peut être ajouté, supprimé ou modifié. Dans la mesure où les éléments de référentiels sont conservés, les champs préexistants au traitement B sont rétablis lorsque le lien est révoqué.
 
 #### Hérite de \(Héritage faible\) : 
 
-Le traitement "héritier" \(B\) hérite automatiquement des champs du traitement "tuteur" \(A\). Le traitement héritier B peut ajouter, supprimer ou modifier des nouveaux champs, mais ne peut pas modifier les champs hérités de A. Toute modification dans les champs A est automatiquement répercutée dans les champs de B hérités. Lorsque le lien est révoqué, les champs hérités redeviennent gérables par le traitement héritier. Les champs préexistant à B avant la mise en place du lien sont conservés une fois le lien créé.
+Le traitement cible \(B\) hérite automatiquement des champs du traitement d'origine \(A\). 
+
+Il est possible d'ajouter, de supprimer ou modifier des nouveaux champs dans le traitement B, mais ne peut pas modifier les champs hérités du traitement A. Toute modification dans les champs du traitement A est automatiquement répercutée dans les champs hérités du traitement B . Lorsque le lien est révoqué, les champs hérités du traitement A redeviennent modifiables dans le traitement B. Les champs préexistant dans le traitement B avant la mise en place du lien sont conservés une fois le lien créé.
 
 #### Transmet \(Héritage faible\) : 
 
-Le traitement "héritier" \(B\) hérite automatiquement des champs du traitement "tuteur" \(A\). Le traitement héritier B peut ajouter, supprimer ou modifier des nouveaux champs, mais ne peut pas modifier les champs hérités de A. Toute modification dans les champs A est automatiquement répercutée dans les champs de B hérités. Lorsque le lien est révoqué, les champs hérités redeviennent gérables par le traitement héritier. Les champs préexistant à B avant la mise en place du lien sont conservés une fois le lien créé.
+Le traitement d'origine \(A\) transmet automatiquement ses champs au traitement cible \(B\). 
+
+Le traitement cible B hérite automatiquement des champs du traitement d'origine A. Le traitement cible B peut ajouter, supprimer ou modifier des nouveaux champs, mais ne peut pas modifier les champs hérités du traitement A. Toute modification dans les champs du traitement A est automatiquement répercutée dans les champs hérités du traitement B. Lorsque le lien est révoqué, les champs hérités redeviennent modifiables dans le traitement B. Les champs préexistant à B avant la mise en place du lien sont conservés une fois le lien créé.
 
 
 
