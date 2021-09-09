@@ -61,6 +61,7 @@
     * [Mesures de sécurité](features/editer-le-registre/remplir-le-questionnaire/mesures-de-securite.md)
     * [Analyse d'impact](features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
     * [Documents](features/editer-le-registre/remplir-le-questionnaire/documents.md)
+  * [Créer une relation entre les traitements](features/editer-le-registre/creer-une-relation-entre-les-traitements.md)
   * [Partager le registre](features/editer-le-registre/partager-le-registre.md)
 * [La visualisation des données](features/la-visualisation-des-donnees/README.md)
   * [Visualiser l'arborescence des traitements](features/la-visualisation-des-donnees/visualiser-larborescence-des-traitements.md)
