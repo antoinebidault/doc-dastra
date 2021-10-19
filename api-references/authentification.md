@@ -14,13 +14,15 @@ Votre clé d'API permet de faire beaucoup de chose, c'est pourquoi, vous devez l
 
 ### Méthode d'authentification
 
-L'authentification de l'API s'effectue grâce à l'aide du protocole OAuth2.&#x20;
+L'authentification de l'API s'effectue grâce à l'aide du [protocole OAuth2](https://oauth.net/2/) utilisant le flow "Client credential". Ce mode d'authentification doit être utilisé uniquement pour des requêtes de serveur à serveur et ne doit en aucun cas être utilisé côté navigateur (SPA en javascript par exemple).
 
-Here is how to fetch a token from the API on the server side. This access token has a lifetime of 5 minutes. For optimizing requests, we suggests you to store it into the cache.
+![](<../.gitbook/assets/API authentication scheam.svg>)
+
+### Récupération du token
 
 {% swagger method="post" path="/connect/token" baseUrl="https://account.dastra.eu" summary="" %}
 {% swagger-description %}
-Perform an authorization request using the Basic Headers
+Perform a token request using BASIC Headers
 {% endswagger-description %}
 
 {% swagger-parameter in="body" type="scope" required="true" %}
@@ -32,7 +34,7 @@ client_credentials
 {% endswagger-parameter %}
 
 {% swagger-parameter in="header" type="Authorization" required="true" %}
-Basic {PublicKey}:{PrivateKey}
+Basic {base64("{PublicKey}:{PrivateKey}")}
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="The access_token necessary to perform operations on the REST API" %}
@@ -47,9 +49,7 @@ Basic {PublicKey}:{PrivateKey}
 {% endswagger-response %}
 {% endswagger %}
 
-Une fois que vous avez récupéré un access\_token,
-
-Vous pouvez ensuite appeler n'importe quel endpoint de l'API Rest à l'aide de ce jeton d'accès.&#x20;
+Une fois que vous avez récupéré un access\_token, vous pouvez ensuite appeler n'importe quel endpoint de l'API Rest à l'aide de ce jeton d'accès en le passant en "Bearer token".&#x20;
 
 Par exemple, pour récupérer la liste de vos espaces de travail :
 
