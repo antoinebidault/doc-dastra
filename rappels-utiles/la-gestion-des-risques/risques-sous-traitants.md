@@ -16,7 +16,7 @@ Le sous-traitant doit permettre la réalisation d'audits par le responsable du t
 
 ## Supervision de la chaîne de sous-traitance
 
-Le sous-traitant ne recrute pas d'autre sous-traitant \(sous-traitant de niveau 2\) sans autorisation écrite préalable, spécifique ou générale de la personne en charge du traitement. Tout contrat avec un sous-traitant de niveau 2 doit prévoir les mêmes obligations de protection des données prévues dans le contrat conclu avec le responsable du traitement.
+Le sous-traitant ne recrute pas d'autre sous-traitant (sous-traitant de niveau 2) sans autorisation écrite préalable, spécifique ou générale de la personne en charge du traitement. Tout contrat avec un sous-traitant de niveau 2 doit prévoir les mêmes obligations de protection des données prévues dans le contrat conclu avec le responsable du traitement.
 
 ## Registre des sous-traitants
 
@@ -28,11 +28,13 @@ Le sous-traitant n'est pas responsable des dommages matériels ou moraux causés
 
 ## Pour aller plus loin
 
-{% page-ref page="../../features/la-gestion-des-risques/risques.md" %}
+{% content-ref url="../../features/la-gestion-des-risques/risques.md" %}
+[risques.md](../../features/la-gestion-des-risques/risques.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../commencer/tutoriel/etape-4-gerer-les-risques.md" %}
-
-
+{% content-ref url="../../commencer/tutoriel/etape-4-gerer-les-risques.md" %}
+[etape-4-gerer-les-risques.md](../../commencer/tutoriel/etape-4-gerer-les-risques.md)
+{% endcontent-ref %}
 
 
 

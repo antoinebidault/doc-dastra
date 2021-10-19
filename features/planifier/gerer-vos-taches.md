@@ -10,20 +10,20 @@ La création et le suivi d'une tâche de protection des données n'a jamais ét�
 
 Dans Dastra, une tâche correspond à un travail qui doit exécuter.
 
-## Création d'une tâche 
+## Création d'une tâche&#x20;
 
 Pour créer une tâche, vous avez deux possibilités :
 
 * Soit vous créez une tâche directement dans le plan d'action
-* Soit vous créez une tâche directement dans un autre module de l'application \(registres des traitements, violation de données, droits des personnes, audits, cookies\)
+* Soit vous créez une tâche directement dans un autre module de l'application (registres des traitements, violation de données, droits des personnes, audits, cookies)
 
 #### Créer une tâche dans le plan d'action
 
 Dans la page principale du module "planification", cliquez sur "Nouvelle tâche". Une nouvelle fenêtre "Nouvelle tâche" apparaît à droite de l'écran vous permettant de décrire la tâche désirée. Une fois décrite, cliquez sur "Enregistrer".
 
-![Bouton de cr&#xE9;ation d&apos;une nouvelle t&#xE2;che](../../.gitbook/assets/image%20%2828%29.png)
+![Bouton de création d'une nouvelle tâche](<../../.gitbook/assets/image (177).png>)
 
-![Interface de documentation de la t&#xE2;che](../../.gitbook/assets/image%20%28152%29.png)
+![Interface de documentation de la tâche](<../../.gitbook/assets/image (176).png>)
 
 {% hint style="info" %}
 Chaque tâche dans Dastra peut être affectée à un élément présent dans l'application,  par exemple :
@@ -35,7 +35,7 @@ Chaque tâche dans Dastra peut être affectée à un élément présent dans l'a
 * Une mesure de sécurité
 * Un audit / PIA
 * Un exercice de droit
-* Un incident 
+* Un incident&#x20;
 
 Une fois ces tâches créées et associées, vous pourrez les retrouver directement dans la fiche de chacun de ces éléments sous l'onglet "Tâches".
 {% endhint %}
@@ -46,15 +46,15 @@ Dastra vous permet de créer une tâche au moment où vous en avez besoin, direc
 
 * Edition d'un traitement de données
 
-![T&#xE2;ches attach&#xE9;es &#xE0; des traitements de donn&#xE9;es](../../.gitbook/assets/image%20%28127%29.png)
+![Tâches attachées à des traitements de données](<../../.gitbook/assets/image (26).png>)
 
 * Gestion d'une demande d'exercice de droits
 
-![T&#xE2;ches attach&#xE9;es &#xE0; des demandes d&apos;exercice de droits](../../.gitbook/assets/image%20%28108%29.png)
+![Tâches attachées à des demandes d'exercice de droits](<../../.gitbook/assets/image (27).png>)
 
 * Violation de données
 
-![T&#xE2;ches attach&#xE9;es &#xE0; une notification de violation de donn&#xE9;es](../../.gitbook/assets/image%20%28136%29.png)
+![Tâches attachées à une notification de violation de données](<../../.gitbook/assets/image (28).png>)
 
 * Génération de tâches depuis un audit
 
@@ -66,7 +66,7 @@ Un plan d'action peut également être généré automatiquement suite à la ré
 
 Il est possible de créer une liste de sous-tâches à chaque tâche dans Dastra. Pour cela, modifiez une tâche et cliquez sur le bouton "ajouter une sous-tâche".
 
-![Bouton &quot;ajouter une sous-t&#xE2;che&quot;](../../.gitbook/assets/image%20%28235%29.png)
+![Bouton "ajouter une sous-tâche"](<../../.gitbook/assets/image (223).png>)
 
 ## Allouer une tâche
 
@@ -78,7 +78,7 @@ Cette personnes seront notifiées par mail dès la modification d'une tâche.
 
 Pour modifier une tâche, il suffit de cliquer sur les trois points à droite d'une tâche, et de sélectionner "Modifier".
 
-![Menu d&#xE9;roulant d&apos;une t&#xE2;che](../../.gitbook/assets/image%20%28236%29.png)
+![Menu déroulant d'une tâche](<../../.gitbook/assets/image (222).png>)
 
 {% hint style="info" %}
 Pour modifier le statut d'une tâche encore plus simplement, vous pouvez "cliquer - déposer" celle-ci depuis l'onglet "tableau".
@@ -90,9 +90,10 @@ Dans Dastra, il est possible d'archiver ou de supprimer une tâche depuis le men
 
 Contrairement à la suppression, l'archivage d'une tâche ne la supprime pas dans Dastra. Une mention "archivée" apparaît dans la tâche. Pour faire disparaître de la visualisation une tâche, il suffit de désactiver le filtre "voir les tâches archivées
 
-![Filtre &quot;voir les t&#xE2;ches archiv&#xE9;es&quot; d&#xE9;sactiv&#xE9;](../../.gitbook/assets/image%20%28240%29.png)
+![Filtre "voir les tâches archivées" désactivé](<../../.gitbook/assets/image (224).png>)
 
 ## Aller plus loin
 
-{% page-ref page="creer-ou-modifier-un-projet-ou-une-iteration.md" %}
-
+{% content-ref url="creer-ou-modifier-un-projet-ou-une-iteration.md" %}
+[creer-ou-modifier-un-projet-ou-une-iteration.md](creer-ou-modifier-un-projet-ou-une-iteration.md)
+{% endcontent-ref %}

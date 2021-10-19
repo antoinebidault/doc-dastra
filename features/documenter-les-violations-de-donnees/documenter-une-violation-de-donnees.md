@@ -15,15 +15,14 @@ Il y a 2 manières possible pour renseigner une nouvelle violation de données d
 
 En cliquant sur le bouton "Ajouter une violation de données", une fenêtre apparaît où vous pouvez détailler la violation de données. Suivez les étapes et cliquez sur "Enregistrer et quitter". Ca y est, vous avez documenté votre première violation de données manuellement !
 
-![Les &#xE9;tapes de la documentation de la violation](../../.gitbook/assets/image%20%282%29.png)
+![Les étapes de la documentation de la violation](<../../.gitbook/assets/image (172).png>)
 
 ### Import / export du registre des violations de données
 
-L'ensemble du registre des violations de données est importable et exportable. Pour importer une violation, cliquer sur les trois points verticaux à droite de l'écran. 
+L'ensemble du registre des violations de données est importable et exportable. Pour importer une violation, cliquer sur les trois points verticaux à droite de l'écran.&#x20;
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](<../../.gitbook/assets/image (33).png>)
 
 Un fenêtre apparaît avec un bouton "import". Cliquez dessus, télécharger le modèle de registre puis suivez les instructions pour importer les violations dans Dastra. Une fois importée, la violation sera directement disponible dans le registre de violations de données.
 
-![Fen&#xEA;tre d&apos;import de registre de violations de donn&#xE9;es](../../.gitbook/assets/image%20%2873%29.png)
-
+![Fenêtre d'import de registre de violations de données](<../../.gitbook/assets/image (173).png>)

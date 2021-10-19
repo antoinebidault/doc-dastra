@@ -6,11 +6,10 @@ description: >-
 
 # Les finalités des cookies
 
-| Type | Id |
-| :--- | :--- |
-| Nécessaires | 0 |
-| Préférences | 1 |
-| Analytique | 2 |
-| Marketing | 3 |
-| Autre | 4 |
-
+| Type        | Id |
+| ----------- | -- |
+| Nécessaires | 0  |
+| Préférences | 1  |
+| Analytique  | 2  |
+| Marketing   | 3  |
+| Autre       | 4  |

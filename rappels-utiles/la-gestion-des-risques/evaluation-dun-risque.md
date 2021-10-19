@@ -16,9 +16,9 @@ Où la **probabilité** est la fréquence d'occurence d'un évènement rédouté
 
 et l'**impact** est la gravité des effets et/ou la sévérité des conséquences de cet évènement redouté.
 
-L'impact d'un risque est classé par défaut en 4 catégories : 
+L'impact d'un risque est classé par défaut en 4 catégories :&#x20;
 
-* Catastrophique, 
+* Catastrophique,&#x20;
 * Important,
 * Moyen,
 * Faible.
@@ -42,17 +42,17 @@ Selon leur niveau de probabilité et d'impact, les risques peuvent être classé
 * Les risques qui doivent être limités autant que possible.
 * Les risques acceptables soit parce que la probabilité et/ou la sévérité du risque est/sont négligeables en comparaisons d'autres risques.
 
-Les risques intolérables sont représentés en **rouge** dans Dastra.
+Les risques intolérables sont représentés en** rouge** dans Dastra.
 
-Les risques qui doivent être limités autant que possible sont représentés en **orange** ou en **jaune** dans Dastra.
+Les risques qui doivent être limités autant que possible sont représentés en** orange **ou en **jaune** dans Dastra.
 
 Les risques acceptables sont représentés en **vert** dans Dastra.
 
-## Risque brut vs. risque net \(ou résiduel\)
+## Risque brut vs. risque net (ou résiduel)
 
-Un risque « **brut** » est considéré sans l’ensemble des dispositifs de maîtrise et de contrôle qui l’entoure – organisation, contrôles divers, documentation, etc. 
+Un risque « **brut** » est considéré sans l’ensemble des dispositifs de maîtrise et de contrôle qui l’entoure – organisation, contrôles divers, documentation, etc.&#x20;
 
-Un risque « **net** » \(ou résiduel\) est, au contraire, évalué en prenant compte l’ensemble des dispositifs déjà en place et effectifs.
+Un risque « **net** » (ou résiduel) est, au contraire, évalué en prenant compte l’ensemble des dispositifs déjà en place et effectifs.
 
 
 
@@ -60,11 +60,14 @@ Un risque « **net** » \(ou résiduel\) est, au contraire, évalué en prenant 
 
 
 
-![Exemple de visualisation de risques dans Dastra.](../../.gitbook/assets/image%20%28202%29.png)
+![Exemple de visualisation de risques dans Dastra.](<../../.gitbook/assets/image (198).png>)
 
 Aller plus loin
 
-{% page-ref page="../../features/la-gestion-des-risques/risques.md" %}
+{% content-ref url="../../features/la-gestion-des-risques/risques.md" %}
+[risques.md](../../features/la-gestion-des-risques/risques.md)
+{% endcontent-ref %}
 
-{% page-ref page="risques-sous-traitants.md" %}
-
+{% content-ref url="risques-sous-traitants.md" %}
+[risques-sous-traitants.md](risques-sous-traitants.md)
+{% endcontent-ref %}

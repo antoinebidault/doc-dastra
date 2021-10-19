@@ -8,17 +8,21 @@ Dans Dastra et au-delà de la présente documentation, le support est accessible
 
 ### L'assistant dastronaute
 
-{% page-ref page="lassistant-dastronaute.md" %}
+{% content-ref url="lassistant-dastronaute.md" %}
+[lassistant-dastronaute.md](lassistant-dastronaute.md)
+{% endcontent-ref %}
 
 ### L'aide en ligne
 
-{% page-ref page="laide-en-ligne.md" %}
+{% content-ref url="laide-en-ligne.md" %}
+[laide-en-ligne.md](laide-en-ligne.md)
+{% endcontent-ref %}
 
 ### Le formulaire de demande de support
 
-{% page-ref page="faire-une-demande-de-support.md" %}
-
-
+{% content-ref url="faire-une-demande-de-support.md" %}
+[faire-une-demande-de-support.md](faire-une-demande-de-support.md)
+{% endcontent-ref %}
 
 
 

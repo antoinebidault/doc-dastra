@@ -6,15 +6,17 @@ description: Apprenez à répondre aux demandes d'exercices de droits.
 
 Avec le RGPD, les citoyens européens sont en mesure de demander à une entreprise ou organisation traitant des données personnelles qui les concernent l'exercice de leurs droits. Ces dernières ont l'obligation de faciliter l'exercice des droits.
 
-{% page-ref page="../../rappels-utiles/rgpd-en-bref/droits-des-personnes.md" %}
+{% content-ref url="../../rappels-utiles/rgpd-en-bref/droits-des-personnes.md" %}
+[droits-des-personnes.md](../../rappels-utiles/rgpd-en-bref/droits-des-personnes.md)
+{% endcontent-ref %}
 
-Pour faire cela, l'entreprise ou l'organisation doit mettre en place des procédures permettant de répondre aux demandes d'exercice des droits et d'en apporter la preuve. Cela passe notamment par des étapes à suivre et une documentation dans un registre. 
+Pour faire cela, l'entreprise ou l'organisation doit mettre en place des procédures permettant de répondre aux demandes d'exercice des droits et d'en apporter la preuve. Cela passe notamment par des étapes à suivre et une documentation dans un registre.&#x20;
 
 ## Le registre de demande d'exercice de droits
 
-Dastra vous permet de constituer un registre de demandes d'exercice de droits centralisant toutes les demandes passées, présentes et à venir. Celui-ci est disponible en cliquant dans l'onglet "exercice des droits" dans le bandeau à gauche de l'écran. 
+Dastra vous permet de constituer un registre de demandes d'exercice de droits centralisant toutes les demandes passées, présentes et à venir. Celui-ci est disponible en cliquant dans l'onglet "exercice des droits" dans le bandeau à gauche de l'écran.&#x20;
 
-![Registre de demande d&apos;exercice de droits](../../.gitbook/assets/image%20%2841%29.png)
+![Registre de demande d'exercice de droits](<../../.gitbook/assets/image (29).png>)
 
 ## Renseigner une nouvelle demande d'exercice de droits
 
@@ -28,19 +30,19 @@ Il y a 3 manières de faire pour renseigner une nouvelle demande d'exercice de d
 
 En cliquant sur le bouton "Créer une demande", une fenêtre apparaît où vous pouvez détailler la demande d'exercice de droits. Cliquez sur "Enregistrer et quitter". Ca y est, vous avez créé votre première demande d'exercice de droits manuellement !
 
-![Etape de documentation d&apos;une demande](../../.gitbook/assets/image%20%28106%29.png)
+![Etape de documentation d'une demande](<../../.gitbook/assets/image (174).png>)
 
 
 
 ### Import / export du registre de demandes d'exercices de droits
 
-L'ensemble du registre des demandes est importable et exportable. Pour importer une demande, cliquez sur les trois points verticaux à droite de l'écran. 
+L'ensemble du registre des demandes est importable et exportable. Pour importer une demande, cliquez sur les trois points verticaux à droite de l'écran.&#x20;
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](<../../.gitbook/assets/image (33).png>)
 
 Un fenêtre apparaît avec un bouton "import". Cliquez dessus, télécharger le modèle de registre puis suivez les instructions pour importer les demandes dans Dastra. Une fois importée, la demande sera directement disponible dans le registre de demandes.
 
-![Fen&#xEA;tre d&apos;import de registre de demandes d&apos;exercice de droits](../../.gitbook/assets/image%20%28148%29.png)
+![Fenêtre d'import de registre de demandes d'exercice de droits](<../../.gitbook/assets/image (34).png>)
 
 ### Mise en place de widget de demande d'exercice de droits
 
@@ -48,9 +50,9 @@ Les demandes d'exercice des droits peuvent également provenir d'un widget spéc
 
 
 
-{% page-ref page="implementez-un-widget-dexercice-des-droits.md" %}
-
-
+{% content-ref url="implementez-un-widget-dexercice-des-droits.md" %}
+[implementez-un-widget-dexercice-des-droits.md](implementez-un-widget-dexercice-des-droits.md)
+{% endcontent-ref %}
 
 
 

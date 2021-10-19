@@ -16,13 +16,11 @@ L'ensemble de nos services sont monitorés par des sondes en temps réel. Vous p
 
 ## Disponibilité
 
-Notre objectif est d'assurer un taux de disponibilité de 99.5% et un temps de réponse de notre API Rest &lt; 1000ms
+Notre objectif est d'assurer un taux de disponibilité de 99.5% et un temps de réponse de notre API Rest < 1000ms
 
 ## Support
 
 Notre équipe support s'engage à répondre à tous les tickets en moins de 48h.
-
-
 
 
 

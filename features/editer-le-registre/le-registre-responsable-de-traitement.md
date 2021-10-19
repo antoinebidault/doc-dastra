@@ -19,18 +19,18 @@ La suite de cette page traite uniquement du registre "Responsable de traitement"
 
 Pour chaque traitement, le registre d'un responsable de traitement indique au minima :
 
-1. le cas échéant, **le nom et les coordonnées** du [responsable conjoint du traitement](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article26) mis en œuvre
+1. le cas échéant, **le nom et les coordonnées **du [responsable conjoint du traitement](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article26) mis en œuvre
 2. les **finalités** du traitement, l’objectif en vue duquel vous avez collecté ces données
-3. les catégories **de personnes concernées** \(client, prospect, employé, etc.\)
-4. les catégories de **données personnelles** \(exemples : identité, situation familiale, économique ou financière, données bancaires, données de connexion, donnés de localisation, etc.\)
+3. les catégories** de personnes concernées **(client, prospect, employé, etc.)
+4. les catégories de **données personnelles** (exemples : identité, situation familiale, économique ou financière, données bancaires, données de connexion, donnés de localisation, etc.)
 5. **les catégories de destinataires** auxquels les données à caractère personnel ont été ou seront communiquées, y compris les sous-traitants auxquels vous recourez
 6. les **transferts** de données à caractère personnel vers un pays tiers ou à une organisation internationale et, dans certains cas très particuliers, les garanties prévues pour ces transferts ;
 7. les **délais prévus pour l'effacement** des différentes catégories de données, c’est-à-dire la durée de conservation, ou à défaut les critères permettant de la déterminer
 8. dans la mesure du possible, une **description générale des mesures de sécurité** techniques et organisationnelles que vous mettez en œuvre
 
-![Les diff&#xE9;rentes sections d&apos;un traitement &quot;responsable de traitement&quot; dans Dastra](../../.gitbook/assets/image%20%28194%29.png)
+![Les différentes sections d'un traitement "responsable de traitement" dans Dastra](<../../.gitbook/assets/image (194).png>)
 
-### Les acteurs 
+### Les acteurs&#x20;
 
 * L'identité et les informations de contacts du responsable du traitement
 * L'identité et les informations de contacts du DPO le cas échéant
@@ -43,30 +43,31 @@ Pour chaque traitement, le registre d'un responsable de traitement indique au mi
 
 ### La base légale
 
-* Respect d'une obligation légale 
+* Respect d'une obligation légale&#x20;
 * Exécution d'un contrat
 * Intérêt légitime de l'entreprise ou d'un tiers
 * Intérêt public
-* Consentement 
+* Consentement&#x20;
 * Sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne
 
 ### L'inventaire des données et des personnes concernées
 
 * Type de personnes concernées
-* Catégories de données 
+* Catégories de données&#x20;
 * Délais de suppression des données ou règle applicable
 
-### Les destinataires et les transferts de données hors EEE 
+### Les destinataires et les transferts de données hors EEE&#x20;
 
-*  Identification des destinataires comprenant les destinataires internes \(service concerné par le traitement\) ; organismes externes \(partenaires commerciaux ou institutionnels\) ; sous-traitants \(hébergeur, fournisseur de solutions\) ; personne concernée le cas échéant et responsables conjoints 
-* Pour chaque destinataire, identification des transferts en dehors de l'Espace économique européen \(EEE\) et les outils juridiques utilisés \(Règles d'entreprise contraignantes en cas de transferts hors UE avec les filiales, clauses contractuelles types, pays reconnu adéquat...\)
+* &#x20;Identification des destinataires comprenant les destinataires internes (service concerné par le traitement) ; organismes externes (partenaires commerciaux ou institutionnels) ; sous-traitants (hébergeur, fournisseur de solutions) ; personne concernée le cas échéant et responsables conjoints&#x20;
+* Pour chaque destinataire, identification des transferts en dehors de l'Espace économique européen (EEE) et les outils juridiques utilisés (Règles d'entreprise contraignantes en cas de transferts hors UE avec les filiales, clauses contractuelles types, pays reconnu adéquat...)
 
 ### Les mesures de sécurité
 
-* Mesures techniques et organisationnelles mises en place pour sécuriser chaque traitement de données 
+* Mesures techniques et organisationnelles mises en place pour sécuriser chaque traitement de données&#x20;
 * Par exemple, chiffrement des données, pseudonymisation, limitation des accès
 
-## Aller plus loin 
+## Aller plus loin&#x20;
 
-{% page-ref page="gerer-votre-registre.md" %}
-
+{% content-ref url="gerer-votre-registre.md" %}
+[gerer-votre-registre.md](gerer-votre-registre.md)
+{% endcontent-ref %}

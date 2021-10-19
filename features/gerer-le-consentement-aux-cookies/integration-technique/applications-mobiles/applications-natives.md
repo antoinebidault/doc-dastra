@@ -7,40 +7,24 @@ description: >-
 
 # Applications natives
 
-{% api-method method="get" host="https://api.dastra.eu" path="/v1/client/cookie-widget-settings/:id?key=:key" %}
-{% api-method-summary %}
-Récupérer la configuration du widget
-{% endapi-method-summary %}
-
-{% api-method-description %}
+{% swagger baseUrl="https://api.dastra.eu" path="/v1/client/cookie-widget-settings/:id?key=:key" method="get" summary="Récupérer la configuration du widget" %}
+{% swagger-description %}
 Cet endpoint permet de récupérer l'intégralité de la configuration du widget
-{% endapi-method-description %}
+{% endswagger-description %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="number" required=true %}
+{% swagger-parameter in="path" name="id" type="number" %}
 ID of the widget configuration
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
+{% endswagger-parameter %}
 
-{% api-method-query-parameters %}
-{% api-method-parameter name="culture" type="string" required=false %}
-The locale of the widget configuration \(en, fr...\)
-{% endapi-method-parameter %}
+{% swagger-parameter in="query" name="culture" type="string" %}
+The locale of the widget configuration (en, fr...)
+{% endswagger-parameter %}
 
-{% api-method-parameter name="key" type="string" required=true %}
+{% swagger-parameter in="query" name="key" type="string" %}
 The public api key provided
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Cake successfully retrieved.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="Cake successfully retrieved." %}
 ```
 {
   "translation": {
@@ -157,91 +141,178 @@ Cake successfully retrieved.
   "tenantId": 1
 }
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
-{% api-method method="post" host="https://api.dastra.eu" path="/v1/client/collect/:id?key=:key" %}
-{% api-method-summary %}
-Enregistrement des consentements
-{% endapi-method-summary %}
-
-{% api-method-description %}
+{% swagger baseUrl="https://api.dastra.eu" path="/v1/client/collect/:id?key=:key" method="post" summary="Enregistrement des consentements" %}
+{% swagger-description %}
 Cette méthode permet de collecter les consentements aux cookies
-{% endapi-method-description %}
+{% endswagger-description %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" required=true %}
+{% swagger-parameter in="path" name="id" type="string" %}
 ID of the widget configuration
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
+{% endswagger-parameter %}
 
-{% api-method-query-parameters %}
-{% api-method-parameter name="key" type="string" required=true %}
+{% swagger-parameter in="query" name="key" type="string" %}
 The public api key
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
+{% endswagger-parameter %}
 
-{% api-method-body-parameters %}
-{% api-method-parameter name="consents" type="object" required=false %}
- La liste des consentements de l'utilisateur  
-  
-`{  
-"cookieConsents":  
-[  
-  {  
-    "consent":true, // True if consented, false if refused  
-    "id":"e213aca4-79b7-4b93-2bad-08d897969898", // Cookies id  
-    "date":"2021-03-15T14:00:04.133Z",  
-    "name":"yrdy",  
-    "slug":"yrdy",  
-    "purpose":3  
-  }  
-],  
-"lang":"fr-FR",  
-"consentId":"6f47576e-5a0c-4219-8efe-331e72bab73a",  
-"date":1615809009744  
-}`  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
-{% endapi-method-parameter %}
+{% swagger-parameter in="body" name="consents" type="object" %}
+ La liste des consentements de l'utilisateur
 
-{% api-method-parameter name="type" type="string" required=true %}
+\
+
+
+
+
+\
+
+
+
+
+`{`
+
+\
+
+
+`"cookieConsents":`
+
+\
+
+
+`[`
+
+\
+
+
+`  {`
+
+\
+
+
+`    "consent":true, // True if consented, false if refused`
+
+\
+
+
+`    "id":"e213aca4-79b7-4b93-2bad-08d897969898", // Cookies id`
+
+\
+
+
+`    "date":"2021-03-15T14:00:04.133Z",`
+
+\
+
+
+`    "name":"yrdy",`
+
+\
+
+
+`    "slug":"yrdy",`
+
+\
+
+
+`    "purpose":3`
+
+\
+
+
+`  }`
+
+\
+
+
+`],`
+
+\
+
+
+`"lang":"fr-FR",`
+
+\
+
+
+`"consentId":"6f47576e-5a0c-4219-8efe-331e72bab73a",`
+
+\
+
+
+`"date":1615809009744`
+
+\
+
+
+`}`
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+` `
+{% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="type" type="string" %}
 CookieEventType Visit,Quit,Consents
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="consentId" type="string" required=false %}
-The current consent Id \(If any collected before\)
-{% endapi-method-parameter %}
+{% swagger-parameter in="body" name="consentId" type="string" %}
+The current consent Id (If any collected before)
+{% endswagger-parameter %}
 
-{% api-method-parameter name="userId" type="string" required=false %}
-Custom user id \(
-{% endapi-method-parameter %}
-{% endapi-method-body-parameters %}
-{% endapi-method-request %}
+{% swagger-parameter in="body" name="userId" type="string" %}
+Custom user id (
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Return the id of the consent collected
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="Return the id of the consent collected" %}
 ```
 140f213b-de17-4572-99a7-5075ccbcbbec
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
+{% endswagger-response %}
+{% endswagger %}

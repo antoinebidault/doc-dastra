@@ -17,9 +17,9 @@ En plus des fonctionnalités de scan, de classification, de widget des cookies e
 
 Pour en savoir plus, n'hésitez pas à [nous contacter directement](https://www.dastra.eu/fr/Contact?type=Demo) ou consulter la section suivante:
 
-{% page-ref page="../integration-technique/" %}
-
-
+{% content-ref url="../integration-technique/" %}
+[integration-technique](../integration-technique/)
+{% endcontent-ref %}
 
 
 

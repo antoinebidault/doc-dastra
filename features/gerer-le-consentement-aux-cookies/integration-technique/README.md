@@ -6,17 +6,30 @@ description: >-
 
 # Intégration technique
 
-{% page-ref page="fonctionnement-du-widget.md" %}
+{% content-ref url="fonctionnement-du-widget.md" %}
+[fonctionnement-du-widget.md](fonctionnement-du-widget.md)
+{% endcontent-ref %}
 
-{% page-ref page="integration-dans-les-cms/" %}
+{% content-ref url="integration-dans-les-cms/" %}
+[integration-dans-les-cms](integration-dans-les-cms/)
+{% endcontent-ref %}
 
-{% page-ref page="comment-tester-lintegration-dun-widget.md" %}
+{% content-ref url="comment-tester-lintegration-dun-widget.md" %}
+[comment-tester-lintegration-dun-widget.md](comment-tester-lintegration-dun-widget.md)
+{% endcontent-ref %}
 
-{% page-ref page="blocage-des-cookies/google-tag-manager.md" %}
+{% content-ref url="blocage-des-cookies/google-tag-manager.md" %}
+[google-tag-manager.md](blocage-des-cookies/google-tag-manager.md)
+{% endcontent-ref %}
 
-{% page-ref page="blocage-des-cookies/" %}
+{% content-ref url="blocage-des-cookies/" %}
+[blocage-des-cookies](blocage-des-cookies/)
+{% endcontent-ref %}
 
-{% page-ref page="design-avance.md" %}
+{% content-ref url="design-avance.md" %}
+[design-avance.md](design-avance.md)
+{% endcontent-ref %}
 
-{% page-ref page="iab-et-cmp.md" %}
-
+{% content-ref url="iab-et-cmp.md" %}
+[iab-et-cmp.md](iab-et-cmp.md)
+{% endcontent-ref %}

@@ -14,13 +14,13 @@ Cette visualisation permet en particulier de comprendre à quelles entités et/o
 
 Pour visualiser l'arborescence des traitements, cliquer sur le module "Registres" puis  cliquez sur la flèche à droite du bouton, pour sélectionner l'option "**Arborescence**".
 
-![Module &quot;Registres&quot;](../../.gitbook/assets/image%20%28208%29.png)
+![Module "Registres"](<../../.gitbook/assets/image (199).png>)
 
-![Fl&#xE8;che &#xE0; droite du bouton &amp; menu d&#xE9;roulant](../../.gitbook/assets/image%20%28203%29.png)
+![Flèche à droite du bouton & menu déroulant](<../../.gitbook/assets/image (201).png>)
 
 Ainsi, vous pourrez visualiser l'**arborescence des traitements**.
 
-![L&apos;arborescence des traitements dans Dastra](../../.gitbook/assets/image%20%28211%29.png)
+![L'arborescence des traitements dans Dastra](<../../.gitbook/assets/image (211).png>)
 
 {% hint style="info" %}
 Les filtres et le bouton paramétrage vous permettra de modifier la visualisation de l'arborescence à votre convenance.
@@ -28,5 +28,6 @@ Les filtres et le bouton paramétrage vous permettra de modifier la visualisatio
 
 ## Aller plus loin
 
-{% page-ref page="../../commencer/commencer/creer-et-parametrer-des-entites-et-departements.md" %}
-
+{% content-ref url="../../commencer/commencer/creer-et-parametrer-des-entites-et-departements.md" %}
+[creer-et-parametrer-des-entites-et-departements.md](../../commencer/commencer/creer-et-parametrer-des-entites-et-departements.md)
+{% endcontent-ref %}

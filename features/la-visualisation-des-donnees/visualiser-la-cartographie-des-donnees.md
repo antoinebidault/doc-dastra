@@ -16,13 +16,13 @@ Pour visualiser la cartographie des données du registre, cliquer sur le module 
 
 
 
-![Module &quot;Registres&quot;](../../.gitbook/assets/image%20%28208%29.png)
+![Module "Registres"](<../../.gitbook/assets/image (199).png>)
 
-![Fl&#xE8;che &#xE0; droite du bouton &amp; menu d&#xE9;roulant](../../.gitbook/assets/image%20%28203%29.png)
+![Flèche à droite du bouton & menu déroulant](<../../.gitbook/assets/image (201).png>)
 
 Ainsi, vous pourrez **visualiser la cartographie des données du registre**.
 
-![Exemple de cartographie](../../.gitbook/assets/image%20%28119%29.png)
+![Exemple de cartographie](<../../.gitbook/assets/image (168).png>)
 
 {% hint style="info" %}
 Une fois la cartographie affichée, il est possible de la modifier en **double cliquant** sur les éléments pour ajouter des filtres.
@@ -32,5 +32,6 @@ Une barre de recherche permet également des faire des filtres additionnels.
 
 ## Aller plus loin
 
-{% page-ref page="visualiser-la-carte-des-transferts.md" %}
-
+{% content-ref url="visualiser-la-carte-des-transferts.md" %}
+[visualiser-la-carte-des-transferts.md](visualiser-la-carte-des-transferts.md)
+{% endcontent-ref %}

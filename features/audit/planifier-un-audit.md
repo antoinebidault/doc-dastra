@@ -17,5 +17,3 @@ Il est possible dans Dastra de relancer les personnes qui n'ont pas répondu aux
 * Jeu de données
 {% endhint %}
 
-
-

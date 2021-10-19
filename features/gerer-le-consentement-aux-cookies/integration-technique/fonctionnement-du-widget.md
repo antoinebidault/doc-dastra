@@ -4,9 +4,9 @@
 
 Globalement, le widget de consentement fonctionne en 3 grandes étapes :
 
-1. La **proposition** de la fenêtre de consentement
-2. La **collecte** du consentement \(stockage des preuves\)
-3. **L'exécution** réelle du consentement de l'utilisateur
+1. La **proposition **de la fenêtre de consentement
+2. La **collecte **du consentement (stockage des preuves)
+3. **L'exécution **réelle du consentement de l'utilisateur
 
 {% hint style="info" %}
 Le widget Dastra permet de couvrir les deux premières étapes de manière partiellement automatique. Pour la troisième étape consistant à appliquer réellement les préférences de l'utilisateur en matière de cookies, vous allez avoir besoin d'intégrer techniquement le système de consentement aux services tiers pouvant potentiellement poser des cookies. Consultez le [guide de blocage des cookies](blocage-des-cookies/) pour plus d'informations/
@@ -14,7 +14,7 @@ Le widget Dastra permet de couvrir les deux premières étapes de manière parti
 
 Le SDK javascript du widget doit être appelé sur toutes les pages du site utilisant les cookies.
 
-![Sch&#xE9;ma de fonctionnement global du widget de consentement des cookies](../../../.gitbook/assets/cookie-consent.png)
+![Schéma de fonctionnement global du widget de consentement des cookies](../../../.gitbook/assets/cookie-consent.png)
 
 ### 1. Visite sur le site du client
 
@@ -30,11 +30,11 @@ Si le client n'a pas correctement renseigné son domaine dans l'éditeur de widg
 
 ### 4. Demande du consentement à l'utilisateur
 
-Si le cookie "euconsent" \(vous pouvez choisir le nom du cookie si vous le souhaitez\) est absent, la fenêtre de consentement s'affichera. Pour tester le bon affichage du widget, vous pouvez supprimer ce cookie de votre navigateur. 
+Si le cookie "euconsent" (vous pouvez choisir le nom du cookie si vous le souhaitez) est absent, la fenêtre de consentement s'affichera. Pour tester le bon affichage du widget, vous pouvez supprimer ce cookie de votre navigateur.&#x20;
 
 ### 5. La collecte du consentement
 
-Les consentements seront automatiquement collectés par l'API de Dastra via une requête POST en json. 
+Les consentements seront automatiquement collectés par l'API de Dastra via une requête POST en json.&#x20;
 
 Bien que dans l'interface du widget, l'expression du consentement s'effectue par finalité, le stockage quant à lui, s'effectue par service.
 
@@ -79,7 +79,7 @@ Voici à quoi ressemble la preuve de consentement telle qu'elle est stockée dan
 }
 ```
 
- En retour, l'api renverra une chaîne nommée "consentId" qui sera ensuite stockée dans le navigateur dans le localStorage pour une durée de 180 jours max. Cette chaîne est l'identifiant unique de la preuve de consentement. Dans le cas d'un litige, c'est cet identifiant qu'il faudra chercher dans le navigateur du client.
+&#x20;En retour, l'api renverra une chaîne nommée "consentId" qui sera ensuite stockée dans le navigateur dans le localStorage pour une durée de 180 jours max. Cette chaîne est l'identifiant unique de la preuve de consentement. Dans le cas d'un litige, c'est cet identifiant qu'il faudra chercher dans le navigateur du client.
 
 ### 6. L'exécution du consentement
 
@@ -87,17 +87,19 @@ Lorsque nous avons collecté le consentement de l'utilisateur, il est désormais
 
 Pour cette phase, nous vous invitons à consulter le guide sur le blocage des cookies :
 
-{% page-ref page="blocage-des-cookies/" %}
+{% content-ref url="blocage-des-cookies/" %}
+[blocage-des-cookies](blocage-des-cookies/)
+{% endcontent-ref %}
 
 
 
 {% hint style="info" %}
-A l'exception des cookies strictement nécessaires, l'intégralité des services tiers effectuant du traçage doivent être bloqués par défaut. 
+A l'exception des cookies strictement nécessaires, l'intégralité des services tiers effectuant du traçage doivent être bloqués par défaut.&#x20;
 {% endhint %}
 
 Bravo, vous êtes prêt à démarrer l'intégration technique du widget:
 
-{% page-ref page="integration-dans-les-cms/" %}
-
-
+{% content-ref url="integration-dans-les-cms/" %}
+[integration-dans-les-cms](integration-dans-les-cms/)
+{% endcontent-ref %}
 

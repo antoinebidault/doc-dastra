@@ -6,19 +6,31 @@ description: Résumé des notions clefs du Règlement Général sur la Protectio
 
 
 
-{% page-ref page="donnee-personnelle.md" %}
+{% content-ref url="donnee-personnelle.md" %}
+[donnee-personnelle.md](donnee-personnelle.md)
+{% endcontent-ref %}
 
-{% page-ref page="registre-de-traitement.md" %}
+{% content-ref url="registre-de-traitement.md" %}
+[registre-de-traitement.md](registre-de-traitement.md)
+{% endcontent-ref %}
 
-{% page-ref page="droits-des-personnes.md" %}
+{% content-ref url="droits-des-personnes.md" %}
+[droits-des-personnes.md](droits-des-personnes.md)
+{% endcontent-ref %}
 
-{% page-ref page="../la-gestion-des-risques/risques-sous-traitants.md" %}
+{% content-ref url="../la-gestion-des-risques/risques-sous-traitants.md" %}
+[risques-sous-traitants.md](../la-gestion-des-risques/risques-sous-traitants.md)
+{% endcontent-ref %}
 
-{% page-ref page="confidentialite-des-la-conception-et-par-defaut.md" %}
+{% content-ref url="confidentialite-des-la-conception-et-par-defaut.md" %}
+[confidentialite-des-la-conception-et-par-defaut.md](confidentialite-des-la-conception-et-par-defaut.md)
+{% endcontent-ref %}
 
-{% page-ref page="mesures-de-securite.md" %}
+{% content-ref url="mesures-de-securite.md" %}
+[mesures-de-securite.md](mesures-de-securite.md)
+{% endcontent-ref %}
 
-{% page-ref page="violations-de-donnees.md" %}
-
-
+{% content-ref url="violations-de-donnees.md" %}
+[violations-de-donnees.md](violations-de-donnees.md)
+{% endcontent-ref %}
 

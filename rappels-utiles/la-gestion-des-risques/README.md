@@ -4,15 +4,21 @@ description: Résumé des notions clefs de gestion des risques
 
 # La gestion des risques
 
-{% page-ref page="definition-des-risques.md" %}
+{% content-ref url="definition-des-risques.md" %}
+[definition-des-risques.md](definition-des-risques.md)
+{% endcontent-ref %}
 
-{% page-ref page="evaluation-dun-risque.md" %}
+{% content-ref url="evaluation-dun-risque.md" %}
+[evaluation-dun-risque.md](evaluation-dun-risque.md)
+{% endcontent-ref %}
 
-{% page-ref page="risques-sous-traitants.md" %}
+{% content-ref url="risques-sous-traitants.md" %}
+[risques-sous-traitants.md](risques-sous-traitants.md)
+{% endcontent-ref %}
 
 ## Aller plus loin
 
-{% page-ref page="../../features/la-gestion-des-risques/" %}
-
-
+{% content-ref url="../../features/la-gestion-des-risques/" %}
+[la-gestion-des-risques](../../features/la-gestion-des-risques/)
+{% endcontent-ref %}
 

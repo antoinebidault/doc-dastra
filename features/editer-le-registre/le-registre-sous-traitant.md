@@ -17,22 +17,23 @@ La suite de cette page traite uniquement du registre "Sous-traitant".
 
 ## Le registre Sous-traitant
 
-Chaque sous-traitant est tenu de renseigner un registre moins étendu. 
+Chaque sous-traitant est tenu de renseigner un registre moins étendu.&#x20;
 
-Celui-ci contient : 
+Celui-ci contient :&#x20;
 
-* les **coordonnées du sous-traitant**, de son représentant le cas échéant et de son DPO 
-* les **coordonnées de tous les responsables de traitement pour le compte desquels le sous-traitant agit** \(les clients généralement\)
+* les **coordonnées du sous-traitant**, de son représentant le cas échéant et de son DPO&#x20;
+* les** coordonnées de tous les responsables de traitement pour le compte desquels le sous-traitant agit** (les clients généralement)
 * les **catégories de données** traitées
-* les **destinataires** 
+* les **destinataires **
 * les **transferts** hors EEE
 * les **mesures de sécurité**
 
-\*\*\*\*
+****
 
-![Les diff&#xE9;rentes sections d&apos;un traitement &quot;sous-traitant&quot; dans Dastra](../../.gitbook/assets/image%20%28191%29.png)
+![Les différentes sections d'un traitement "sous-traitant" dans Dastra](<../../.gitbook/assets/image (195).png>)
 
 ## Aller plus loin
 
-{% page-ref page="le-registre-responsable-de-traitement.md" %}
-
+{% content-ref url="le-registre-responsable-de-traitement.md" %}
+[le-registre-responsable-de-traitement.md](le-registre-responsable-de-traitement.md)
+{% endcontent-ref %}

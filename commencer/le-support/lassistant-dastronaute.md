@@ -6,11 +6,9 @@ description: Apprenez à utiliser l'assistant dastronaute.
 
 Dans votre espace de travail, vous disposez d'un assistant dastronaute présent en permanence en bas à droite de votre écran:
 
-![L&apos;assistant dastronaute](../../.gitbook/assets/image%20%2892%29.png)
+![L'assistant dastronaute](<../../.gitbook/assets/image (146).png>)
 
-En cliquant sur cet assistant, une fenêtre apparait contenant des suggestions d'actions. 
+En cliquant sur cet assistant, une fenêtre apparait contenant des suggestions d'actions.&#x20;
 
-![Un exemple de suggestions d&apos;actions](../../.gitbook/assets/image%20%2898%29.png)
-
-
+![Un exemple de suggestions d'actions](<../../.gitbook/assets/image (147).png>)
 

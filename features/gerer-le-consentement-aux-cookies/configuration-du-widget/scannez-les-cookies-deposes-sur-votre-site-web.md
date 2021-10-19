@@ -10,39 +10,41 @@ DASTRA vous permets de scanner les cookies déposés sur votre site web grâce �
 
 Vous devez tout d'abord vous connecter à votre votre espace de travail Dastra. Pour apprendre à faire cela, rendez-vous sur la page suivante:
 
-{% page-ref page="../../../commencer/tutoriel/" %}
+{% content-ref url="../../../commencer/tutoriel/" %}
+[tutoriel](../../../commencer/tutoriel/)
+{% endcontent-ref %}
 
 Ensuite, vous devez vous rendre dans le module "Consentement aux cookies", et cliquer sur le bouton "Nouveau widget".
 
-![Cliquer sur cette ic&#xF4;ne pour acc&#xE9;der au module &quot;Consentement aux cookies&quot; ](../../../.gitbook/assets/image%20%28163%29.png)
+![Cliquer sur cette icône pour accéder au module "Consentement aux cookies" ](<../../../.gitbook/assets/image (46).png>)
 
-![Cliquer sur le bouton &apos;Nouveau widget&quot;](../../../.gitbook/assets/image%20%2822%29.png)
+![Cliquer sur le bouton 'Nouveau widget"](<../../../.gitbook/assets/image (47).png>)
 
 Un nouvel écran s'affiche. Vous vous trouvez dans la section "Scan des cookies".
 
-![](../../../.gitbook/assets/image%20%28157%29.png)
+![](<../../../.gitbook/assets/image (48).png>)
 
-## Scannez les cookies déposés sur votre site web 
+## Scannez les cookies déposés sur votre site web&#x20;
 
 Une fois dans la section "Scan des cookies", il vous suffit de saisir le nom de domaine de votre site internet dans l'espace réservé, et de cliquer sur "Soumettre".
 
-![Section &quot;Scan des cookies&quot;](../../../.gitbook/assets/image%20%28144%29.png)
+![Section "Scan des cookies"](<../../../.gitbook/assets/image (49).png>)
 
 {% hint style="info" %}
 Votre nom de domaine doit inclure l'intégralité du préfixe "https://www." pour être pris en compte par notre moteur.
 {% endhint %}
 
- Attendez quelques secondes, et ça y est, les cookies déposés sur votre site web sont identifiés !
+&#x20;Attendez quelques secondes, et ça y est, les cookies déposés sur votre site web sont identifiés !
 
-![Le scan est en cours](../../../.gitbook/assets/image%20%289%29.png)
+![Le scan est en cours](<../../../.gitbook/assets/image (50).png>)
 
-![Ecran d&apos;affichage des cookies](../../../.gitbook/assets/image%20%2880%29.png)
+![Ecran d'affichage des cookies](<../../../.gitbook/assets/image (51).png>)
 
 Une fois les cookies déposés sur votre site web scannés, vous pouvez procéder à leur classification.
 
-{% page-ref page="classifiez-les-cookies-par-categories-de-consentement.md" %}
-
-
+{% content-ref url="classifiez-les-cookies-par-categories-de-consentement.md" %}
+[classifiez-les-cookies-par-categories-de-consentement.md](classifiez-les-cookies-par-categories-de-consentement.md)
+{% endcontent-ref %}
 
 
 

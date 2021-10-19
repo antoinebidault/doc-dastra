@@ -8,7 +8,7 @@ description: >-
 
 ## Intégration CSS
 
-De manière à obtenir de bonnes performances d'affichage, le rendu du widget de Dastra se fait directement dans la page du site, dans le container avec l'id **\#dastra-widget**
+De manière à obtenir de bonnes performances d'affichage, le rendu du widget de Dastra se fait directement dans la page du site, dans le container avec l'id **#dastra-widget**
 
 Il est possible de surcharger l'apparence du widget à l'aide de règles CSS simple.
 
@@ -49,10 +49,8 @@ Exemple basique :
 ```
 
 {% hint style="info" %}
- Attention, certaines modifications sur le container du widget peut engendrer des effets indésirables.
+&#x20;Attention, certaines modifications sur le container du widget peut engendrer des effets indésirables.
 {% endhint %}
-
-
 
 
 

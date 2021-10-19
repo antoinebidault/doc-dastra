@@ -8,7 +8,7 @@ description: Cette page explique comment gérer les langues du widget de consent
 
 Rendez-vous sur la page de templating du widget, onglet "Text". Vous pouvez ajouter une ou plusieurs locales.
 
-![](../../../.gitbook/assets/image%20%28173%29.png)
+![](<../../../.gitbook/assets/image (183).png>)
 
 {% hint style="warning" %}
 Attention, seuls le français et l'anglais sont supportés aujourd'hui.
@@ -29,6 +29,4 @@ Pour forcer la langue du widget, il suffit d'ajouter un attribut data-lang="" à
 ```markup
 <div id="cookie-consent" data-lang="fr"></div>
 ```
-
-
 

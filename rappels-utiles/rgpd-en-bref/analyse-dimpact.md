@@ -19,8 +19,8 @@ Il s'agit principalement d'une **étude des risques pour les personnes et non po
 Le PIA est un document décomposé en trois parties :
 
 * Une **description détaillée** du [traitement](https://www.dastra.eu/fr/article/traitement-donnees-personnelles/386) mis en œuvre, comprenant tant les aspects techniques qu’opérationnels ;
-* L’**évaluation**, de nature plus juridique, **de la nécessité et de la proportionnalité** concernant les principes et droits fondamentaux \(finalité, données et durées de conservation, information et droits des personnes, etc.\) non négociables, qui sont fixés par la loi et doivent être respectés, quels que soient les risques ;
-* L’**étude**, de nature plus technique, des **risques sur la sécurité des données** \(confidentialité, intégrité et disponibilité\) ainsi que leurs impacts potentiels sur la vie privée, qui permet de déterminer les mesures techniques et organisationnelles nécessaires pour protéger les données.
+* L’**évaluation**, de nature plus juridique, **de la nécessité et de la proportionnalité** concernant les principes et droits fondamentaux (finalité, données et durées de conservation, information et droits des personnes, etc.) non négociables, qui sont fixés par la loi et doivent être respectés, quels que soient les risques ;
+* L’**étude**, de nature plus technique, des **risques sur la sécurité des données** (confidentialité, intégrité et disponibilité) ainsi que leurs impacts potentiels sur la vie privée, qui permet de déterminer les mesures techniques et organisationnelles nécessaires pour protéger les données.
 
 ## Périmètre du PIA
 
@@ -31,16 +31,16 @@ Le PIA peut porter sur :
 * Traitements identiques mis en œuvre par plusieurs responsables de traitements
 * Traitements partagés par plusieurs responsables de traitement
 * Traitements similaires en termes de finalités, fonctionnalités, risques, technologies, etc.
-* **Un produit technologique \(matériel ou logiciel\)**
+* **Un produit technologique (matériel ou logiciel)**
 
-Une analyse d’impact doit être obligatoirement réalisée lors que le traitement entraine un **risque élevé** pour les droits et libertés des personnes concernées. 
+Une analyse d’impact doit être obligatoirement réalisée lors que le traitement entraine un **risque élevé** pour les droits et libertés des personnes concernées.&#x20;
 
 Par droits et libertés, il faut entendre non seulement le droit au respect de la vie privée mais également les autres droits fondamentaux, tels que la liberté de circulation, la non-discrimination, le droit à la vie etc.
 
 {% hint style="info" %}
-Les traitements à risques élevés peuvent être identifiés si ceux-ci correspondent à au moins 2 de ces critères ci-dessous \(source : EDPD\) :
+Les traitements à risques élevés peuvent être identifiés si ceux-ci correspondent à au moins 2 de ces critères ci-dessous (source : EDPD) :
 
-*  Évaluation/notation \(scoring\)
+* &#x20;Évaluation/notation (scoring)
 * Décision automatique avec effet juridique ou similaire
 * Surveillance systématique
 * [Données sensibles](https://www.dastra.eu/fr/article/donnee-sensible/401)
@@ -66,7 +66,7 @@ Le PIA est un processus continu :
 * Une bonne pratique est de la mettre à jour tous les 3 à 5 ans
 * Dans tous les cas, dès lors qu’une modification intervient sur le traitement
 
-![Un processus it&#xE9;ratif](../../.gitbook/assets/image%20%28190%29.png)
+![Un processus itératif](<../../.gitbook/assets/image (188).png>)
 
 ## Comment faire un PIA ?
 
@@ -94,7 +94,7 @@ Il faut s’aider des référentiels sectoriels, des codes de conduite, des labe
 
 #### Et enfin **analyser les risques pour les personnes concernées** : les atteintes potentielles à la vie privée
 
-Pour chaque **événement redouté** \(accès illégitime à des données, modification non désirée de données et disparition de données\) :
+Pour chaque **événement redouté** (accès illégitime à des données, modification non désirée de données et disparition de données) :
 
 * déterminer les **impacts** potentiels sur la vie privée des personnes concernées s’ils survenaient
 * estimer sa **gravité**, notamment en fonction du caractère préjudiciable des impacts potentiels et, le cas échéant, des mesures susceptibles de les modifier ;
@@ -107,14 +107,14 @@ Dans le cas contraire, proposer des **mesures complémentaires** et réévaluer 
 
 ## Qui est impliqué ?
 
-* **Le** [**responsable du traitement**](https://www.dastra.eu/fr/article/responsable-de-traitement/392) \(RT\)
-  * Les équipes du RT dont les équipes du métier concerné \(MOA, MOE\), les responsables de la conformité, les équipes juridiques
+* **Le** [**responsable du traitement**](https://www.dastra.eu/fr/article/responsable-de-traitement/392) (RT)
+  * Les équipes du RT dont les équipes du métier concerné (MOA, MOE), les responsables de la conformité, les équipes juridiques
   * Le RT peut déléguer à des conseils extérieurs mais cela reste sous sa responsabilité
 * **Le DPO**
   * Conseil et vérification d’exécution, évaluation des mesures et risques résiduels, suggère les PIA
-* **Les personnes concernées \(ou leurs représentants\), le cas échéant**
+* **Les personnes concernées (ou leurs représentants), le cas échéant**
   * Leur avis peut être pris et documenté
-* **Les** [**sous-traitants**](https://www.dastra.eu/fr/article/sous-traitant/388)\*\*\*\*
+* **Les **[**sous-traitants**](https://www.dastra.eu/fr/article/sous-traitant/388)****
   * Assistance et fourniture d’informations
 * **Le RSSI ou la direction informatique**
   * Proposition de mener un DPIA, assistance
@@ -123,15 +123,21 @@ Dans le cas contraire, proposer des **mesures complémentaires** et réévaluer 
 
 ## Pour aller plus loin
 
-{% embed url="https://www.youtube.com/watch?v=yfaJC-YESPk" caption="Webinar \"Comment aborder l\'étape PIA avec un outil ?\"" %}
+{% embed url="https://www.youtube.com/watch?v=yfaJC-YESPk" %}
+Webinar "Comment aborder l'étape PIA avec un outil ?"
+{% endembed %}
 
-{% page-ref page="../../features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md" %}
+{% content-ref url="../../features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md" %}
+[analyse-dimpact.md](../../features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../features/audit/" %}
+{% content-ref url="../../features/audit/" %}
+[audit](../../features/audit/)
+{% endcontent-ref %}
 
-{% page-ref page="../../features/la-gestion-des-risques/risques.md" %}
-
-
+{% content-ref url="../../features/la-gestion-des-risques/risques.md" %}
+[risques.md](../../features/la-gestion-des-risques/risques.md)
+{% endcontent-ref %}
 
 
 

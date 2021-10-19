@@ -8,11 +8,11 @@ Pour réaliser un blocage effectif des cookies, il existe plusieurs méthodes po
 
 ## Suppression des cookies
 
-Cette méthode est la plus rapide à mettre en place, mais aussi la moins fiable. Dans le panel de configuration du widget Dastra, si vous renseignez le nom des cookies associés à chaque service, cela supprimera automatiquement les cookies concernés à chaque affichage de page. 
+Cette méthode est la plus rapide à mettre en place, mais aussi la moins fiable. Dans le panel de configuration du widget Dastra, si vous renseignez le nom des cookies associés à chaque service, cela supprimera automatiquement les cookies concernés à chaque affichage de page.&#x20;
 
-![](../../../../.gitbook/assets/image%20%2838%29.png)
+![](<../../../../.gitbook/assets/image (85).png>)
 
-Ce fonctionnement peut-être effectif dans certain cas, mais risque de perturber de manière importante la fiabilité des outils tiers utilisés \(Outils de web analytique notamment\). Il est très souvent préférable d'utiliser en complément une autre des méthodes ci-dessous.
+Ce fonctionnement peut-être effectif dans certain cas, mais risque de perturber de manière importante la fiabilité des outils tiers utilisés (Outils de web analytique notamment). Il est très souvent préférable d'utiliser en complément une autre des méthodes ci-dessous.
 
 ## Bloquer un snippet de code dans la page
 
@@ -36,12 +36,12 @@ Par :
 
 Remplacez le "{your-service-slug}" par l'identifiant de votre service saisi lors de la config de votre widget :
 
-![](../../../../.gitbook/assets/image%20%2886%29.png)
+![](<../../../../.gitbook/assets/image (86).png>)
 
 Si le client a accepté les cookie, le contenu du script sera automatiquement exécuté.
 
 {% hint style="info" %}
-Ce fonctionnement peut avoir plusieurs effets de bord : notamment des problèmes de highlight de la synthaxe dans la plupart des IDEs. 
+Ce fonctionnement peut avoir plusieurs effets de bord : notamment des problèmes de highlight de la synthaxe dans la plupart des IDEs.&#x20;
 
 Le bout de script ne sera pas du tout exécuté dans le cas d'une erreur d'implémentation du widget de Dastra.
 {% endhint %}
@@ -88,7 +88,7 @@ En pur javascript, vous pouvez utiliser les évènements déclenchés sur le win
 
 Voir page suivante:
 
-{% page-ref page="google-tag-manager.md" %}
-
-
+{% content-ref url="google-tag-manager.md" %}
+[google-tag-manager.md](google-tag-manager.md)
+{% endcontent-ref %}
 

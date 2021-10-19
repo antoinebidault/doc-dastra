@@ -14,19 +14,19 @@ Celui-ci est composé de 3 sections principales :
 * La barre de veille à droite de l'écran,
 * La section au centre contenant les tuiles synthétisant les différentes fonctionnalités.
 
-![La barre de fonctionnalit&#xE9;s &#xE0; gauche de l&apos;&#xE9;cran](../.gitbook/assets/image%20%28121%29.png)
+![La barre de fonctionnalités à gauche de l'écran](<../.gitbook/assets/image (154).png>)
 
-![La barre de veille &#xE0; droite de l&apos;&#xE9;cran.](../.gitbook/assets/image%20%2844%29.png)
+![La barre de veille à droite de l'écran.](<../.gitbook/assets/image (159).png>)
 
 ### Les tuiles du tableau de bord
 
 Dans la section contenant les tuiles, vous pouvez modifier l'ordre d'apparence de ces tuiles en cliquant sur le bouton glisser / déposer permettant de déplacer l'ordre d'apparence de la tuile.
 
-![Un exemple de tuile du tableau de bord](../.gitbook/assets/image%20%28107%29.png)
+![Un exemple de tuile du tableau de bord](<../.gitbook/assets/image (160).png>)
 
-Il existe plusieurs **catégories de tuiles** disponible dans le tableau de bord :
+Il existe plusieurs **catégories de tuiles **disponible dans le tableau de bord :
 
-* **Traitements de données** 
+* **Traitements de données **
 * **Analyse de risque**
 * **Vos audits**
 * **Tâches à échéance**
@@ -38,31 +38,47 @@ Il existe plusieurs **catégories de tuiles** disponible dans le tableau de bord
 
 Vous pouvez également imprimer le tableau de bord ou invitez directement en utilisateur en cliquant sur l'un des boutons disponibles en haut à droite de la section réservée aux tuiles.
 
-![Les boutons imprimer et inviter un utilisateurs](../.gitbook/assets/image%20%28147%29.png)
+![Les boutons imprimer et inviter un utilisateurs](<../.gitbook/assets/image (161).png>)
 
 ## Aller plus loin
 
 Explorez dès maintenant les fonctionnalités :
 
-{% page-ref page="editer-le-registre/" %}
+{% content-ref url="editer-le-registre/" %}
+[editer-le-registre](editer-le-registre/)
+{% endcontent-ref %}
 
-{% page-ref page="la-visualisation-des-donnees/" %}
+{% content-ref url="la-visualisation-des-donnees/" %}
+[la-visualisation-des-donnees](la-visualisation-des-donnees/)
+{% endcontent-ref %}
 
-{% page-ref page="la-gestion-des-risques/" %}
+{% content-ref url="la-gestion-des-risques/" %}
+[la-gestion-des-risques](la-gestion-des-risques/)
+{% endcontent-ref %}
 
-{% page-ref page="planifier/" %}
+{% content-ref url="planifier/" %}
+[planifier](planifier/)
+{% endcontent-ref %}
 
-{% page-ref page="gerer-les-exercices-des-droits/" %}
+{% content-ref url="gerer-les-exercices-des-droits/" %}
+[gerer-les-exercices-des-droits](gerer-les-exercices-des-droits/)
+{% endcontent-ref %}
 
-{% page-ref page="documenter-les-violations-de-donnees/" %}
+{% content-ref url="documenter-les-violations-de-donnees/" %}
+[documenter-les-violations-de-donnees](documenter-les-violations-de-donnees/)
+{% endcontent-ref %}
 
-{% page-ref page="gerer-le-consentement-aux-cookies/" %}
+{% content-ref url="gerer-le-consentement-aux-cookies/" %}
+[gerer-le-consentement-aux-cookies](gerer-le-consentement-aux-cookies/)
+{% endcontent-ref %}
 
-{% page-ref page="audit/" %}
+{% content-ref url="audit/" %}
+[audit](audit/)
+{% endcontent-ref %}
 
-{% page-ref page="settings/" %}
-
-
+{% content-ref url="settings/" %}
+[settings](settings/)
+{% endcontent-ref %}
 
 
 

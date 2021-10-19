@@ -9,16 +9,14 @@ description: >-
 
 Dans le but de réduire les erreurs de saisies, le registre Dastra vous permet d'administrer un ou plusieurs référentiels de manière totalement autonomes et indépendamment du registre. Le schéma ci-dessous illustre ainsi la réutilisabilité du registre des traitements.
 
-![Sch&#xE9;ma illustrant les relations entre traitements et r&#xE9;f&#xE9;rentiels \(applicatifs et sous-traitance\)](../../.gitbook/assets/image%20%2883%29.png)
+![Schéma illustrant les relations entre traitements et référentiels (applicatifs et sous-traitance)](<../../.gitbook/assets/image (91).png>)
 
 ## Liste des référentiels proposés par Dastra
 
 * **Applications**
-* **Acteurs** \(DPO, RP, resp conjoint...\) : les acteurs sont différenciés des utilisateurs car ils n'ont pas nécessairement besoin de venir se connecter à la plateforme.
+* **Acteurs **(DPO, RP, resp conjoint...) : les acteurs sont différenciés des utilisateurs car ils n'ont pas nécessairement besoin de venir se connecter à la plateforme.
 * **Sous-traitants**
-* **Clients** \(Registre en tant que sous traitant uniquement\)
-* **Règles de conservation** des données \(Avec le dataset et les types de données associé\)
+* **Clients **(Registre en tant que sous traitant uniquement)
+* **Règles de conservation **des données (Avec le dataset et les types de données associé)
 * **Mesures de sécurité**
-
-
 

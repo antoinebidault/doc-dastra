@@ -6,19 +6,27 @@ description: Apprenez à configurer Dastra à travers les fonctions avancées.
 
 Apprenez à mettre en place le SSO :
 
-{% page-ref page="single-sign-on-sso/" %}
+{% content-ref url="single-sign-on-sso/" %}
+[single-sign-on-sso](single-sign-on-sso/)
+{% endcontent-ref %}
 
 Apprenez à gérer les référentiels :
 
-Apprenez-en davantage sur les rôles et permissions: 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="roles-et-permissions.md" %}
+Apprenez-en davantage sur les rôles et permissions:&#x20;
+
+{% content-ref url="roles-et-permissions.md" %}
+[roles-et-permissions.md](roles-et-permissions.md)
+{% endcontent-ref %}
 
 Si besoin, consultez la section API :
 
-{% page-ref page="../../api-references/authentification.md" %}
-
-
+{% content-ref url="../../api-references/authentification.md" %}
+[authentification.md](../../api-references/authentification.md)
+{% endcontent-ref %}
 
 
 

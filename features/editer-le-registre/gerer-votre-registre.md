@@ -15,17 +15,19 @@ description: >-
 
 Avec Dastra, vous pouvez facilement télécharger votre registre de traitement existant au lieu d'avoir à le saisir manuellement, et ce quel que soit le format actuel - excel, texte ou csv.
 
-{% page-ref page="exporter-importer-le-registre.md" %}
+{% content-ref url="exporter-importer-le-registre.md" %}
+[exporter-importer-le-registre.md](exporter-importer-le-registre.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 N'oubliez pas de publier vos activités de traitement de données si vous souhaitez qu'elles soient prises en compte dans le tableau de bord.
 {% endhint %}
 
-## Créer un nouveau registre de traitement à partir de zéro 
+## Créer un nouveau registre de traitement à partir de zéro&#x20;
 
 Avec Dastra, un registre est automatiquement créé dès que l'espace de travail est défini. Si vous ne souhaitez pas télécharger un registre existant, vous pouvez commencer à le remplir immédiatement celui créé par défaut en créant votre première activité de traitement. Si vous voulez savoir comment, cliquez sur le lien suivant:
 
-{% page-ref page="gerer-votre-traitement.md" %}
-
-
+{% content-ref url="gerer-votre-traitement.md" %}
+[gerer-votre-traitement.md](gerer-votre-traitement.md)
+{% endcontent-ref %}
 

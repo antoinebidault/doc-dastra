@@ -14,7 +14,7 @@ Tout d'abord, reconnaissez la nature de votre activité en relation avec la prot
 * Une société de conseil ?
 * Un cabinet d'avocat ?
 * Un cabinet d'expert-comptable ?
-* Un intégrateur ? 
+* Un intégrateur ?&#x20;
 * Un indépendant ?
 * Un revendeur SaaS ?
 * Un éditeur de logiciel ?
@@ -39,4 +39,3 @@ Multipliez le total de chacun de ces critères ensemble, puis appliquez la règl
 ## Contactez-nous
 
 Quelque soit le résultat, [contactez-nous](https://www.dastra.eu/fr/contact?type=quote) pour que nous discutions de votre évaluation et que nous puissions vous proposer la meilleure offre de partenariat possible pour votre activité.
-

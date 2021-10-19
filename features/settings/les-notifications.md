@@ -12,7 +12,7 @@ Dans Dastra, il est possible de personnaliser les notifications que vous recevez
 
 Pour cela, cliquez sur votre profil en haut à droite une fois dans l'application, puis sur le bouton "Notifications". Vous accéderez ainsi au centre des notifications.
 
-![Bouton &quot;Notifications&quot;](../../.gitbook/assets/image%20%28242%29.png)
+![Bouton "Notifications"](<../../.gitbook/assets/image (242).png>)
 
 Une fois dans le centre, vous avez la possibilité d'activer ou de désactiver les notifications reçues.
 
@@ -29,6 +29,4 @@ Les différentes catégories des notifications possibles sont les suivantes :
 * Activités sur les audits
 * Activités sur les modèles d'audit
 * Activités sur les rapports d'analyse
-
-
 
