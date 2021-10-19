@@ -8,15 +8,13 @@ description: Pour s'authentifier sur l'API Dastra vous devez utiliser
 
 L'API Rest Dastra utilise les clés d'API pour authentifier chaque requête. Vous pouvez gérer vos clés dans l['interface de configuration de votre organisation](https://app.dastra.eu/general-settings/api).&#x20;
 
+Vous pouvez utiliser une clé d'API pour un espace de travail spécifique ou l'organisation complète.
 
+Votre clé d'API permet de faire beaucoup de chose, c'est pourquoi, vous devez la conserver précieusement. Ne partagez pas votre clé secrète dans les parties publiques d'applications comme GitHub, le code client...etc...
 
 ### Méthode d'authentification
 
 L'authentification de l'API s'effectue grâce à l'aide du protocole OAuth2.&#x20;
-
-Vous pouvez utiliser une clé d'API pour un espace de travail spécifique ou l'organisation complète.
-
-Votre clé d'API permet de faire beaucoup de chose, c'est pourquoi, vous devez la conserver précieusement. Ne partagez pas votre clé secrète dans les parties publiques d'applications comme GitHub, le code client...etc...
 
 Here is how to fetch a token from the API on the server side. This access token has a lifetime of 5 minutes. For optimizing requests, we suggests you to store it into the cache.
 
