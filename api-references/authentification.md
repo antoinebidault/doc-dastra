@@ -12,11 +12,44 @@ Vous pouvez utiliser une clé d'API pour un espace de travail spécifique ou l'o
 
 Votre clé d'API permet de faire beaucoup de chose, c'est pourquoi, vous devez la conserver précieusement. Ne partagez pas votre clé secrète dans les parties publiques d'applications comme GitHub, le code client...etc...
 
+Si vous souhaitez utiliser l'authentification OAuth2 en mode "authorization\_code", il sera nécessaire de bien configurer le ou les urls de redirection ainsi que les origines CORs autorisées.
+
+![](<../.gitbook/assets/image (249).png>)
+
 ### Méthode d'authentification
 
 L'authentification de l'API s'effectue grâce à l'aide du [protocole OAuth2](https://oauth.net/2/) utilisant le flow "Client credential". Ce mode d'authentification doit être utilisé uniquement pour des requêtes de serveur à serveur et ne doit en aucun cas être utilisé côté navigateur (SPA en javascript par exemple).
 
 ![](<../.gitbook/assets/API authentication scheam.svg>)
+
+## OAuth2 "Authorization code" flow
+
+### Authorization
+
+la phase d'autorisation s'effectue en appelant l'url suivante :
+
+```
+https://account.dastra.eu/connect/authorize?
+    response_type=code&
+    client_id={YOUR_CLIENT_ID}&
+    redirect_uri=https://YOUR_APP/callback&
+    scope=api1+offline_access&
+    state={STATE}
+```
+
+**Paramètres**
+
+| Parameter Name  | Description                                                                                                                                                                                                                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `response_type` | code                                                                                                                                                                                                                                                                                       |
+| `client_id`     | La clé publique de votre clé d'api configuré dans votre compte Dastra                                                                                                                                                                                                                      |
+| `redirect_uri`  | L'url configuré dans la clé d'API de Dastra. Vous serez automatiquement redirigé sur cette page à l'issue du processus d'authorisation                                                                                                                                                     |
+| `scope`         | <p>api1 => obligatoire</p><p>offline_access <em>=> </em>pour récupérer un refresh_token (sessions longues)</p>                                                                                                                                                                             |
+| `state`         | Une clé aléatoire généré par votre application qui permet d'éviter les attaques de type cross-site request forgery (CSRF) , lire [Mitigate CSRF Attacks With State Parameters](https://auth0.com/docs/protocols/oauth2/mitigate-csrf-attacks). Les librairies cliente gèrent ça rapidement |
+
+
+
+## OAuth2 "Client credential" flow
 
 ### Récupération du token
 
@@ -104,14 +137,6 @@ Bearer {access_token}
 {% endswagger %}
 
 
-
-{% hint style="info" %}
-Pour l'instant, les requêtes cross-orgin ne sont pas autorisées par l'API. Il ne faut donc jamais effectuer de requêtes vers l'API REST côté client !&#x20;
-
-Elles seront de toutes façon bloquées par le navigateur avec CORS.
-
-Si vous avez besoin de cette fonctionnalité, n'hésitez pas à nous envoyer un mail à [contact@dastra.eu](mailto:contact@dastra.eu).
-{% endhint %}
 
 Toutes les requêtes doivent s'effectuer en [HTTPS](http://en.wikipedia.org/wiki/HTTP\_Secure) et toujours côté serveur. Les requêtes sans authentification échoueront avec le code d'erreur 401
 
