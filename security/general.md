@@ -37,7 +37,7 @@ Les administrateurs d'organisation peuvent suivre tous les changements apportés
 
 ## Identifiants uniques
 
-Chaque utilisateur possède un identifiant unique et l'utilisation de comptes partagés entre plusieurs utilisateurs n'est pas autorisé.
+Chaque utilisateur possède un identifiant unique et l'utilisation de comptes partagés entre plusieurs utilisateurs n'est pas autorisée.
 
 ## Sauvegarde des données
 
