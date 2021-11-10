@@ -53,7 +53,7 @@ Au moins 8 caractères comportant 3 des 4 types de caractères (majuscules, minu
 
 Temporisation d’accès au compte après plusieurs échecs.
 
-Encryptage des mots de passe en base de données avec des règles d'encryptages très fortes
+Chiffrement des mots de passe en base de données.
 
 ## **Contrôles de jeton d'API**
 

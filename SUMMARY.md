@@ -19,7 +19,7 @@
   * [Evaluation d'un risque](rappels-utiles/la-gestion-des-risques/evaluation-dun-risque.md)
   * [Risques sous-traitants](rappels-utiles/la-gestion-des-risques/risques-sous-traitants.md)
 
-## Bien commencer <a id="commencer"></a>
+## Bien commencer <a href="commencer" id="commencer"></a>
 
 * [La mise en place](commencer/commencer/README.md)
   * [Créer et paramétrer un espace de travail](commencer/commencer/espace-de-travail.md)
@@ -39,7 +39,7 @@
   * [L'aide en ligne](commencer/le-support/laide-en-ligne.md)
   * [Faire une demande de support](commencer/le-support/faire-une-demande-de-support.md)
 
-## Les fonctionnalités <a id="features"></a>
+## Les fonctionnalités <a href="features" id="features"></a>
 
 * [Le tableau de bord](features/le-tableau-de-bord.md)
 * [Le registre des traitements](features/editer-le-registre/README.md)
@@ -98,7 +98,7 @@
     * [Gestion de la langue](features/gerer-le-consentement-aux-cookies/integration-technique/languages.md)
     * [Tester l'intégration d'un widget](features/gerer-le-consentement-aux-cookies/integration-technique/comment-tester-lintegration-dun-widget.md)
     * [Blocage des cookies](features/gerer-le-consentement-aux-cookies/integration-technique/blocage-des-cookies/README.md)
-      * [Blocage des iframes \(twitter/youtube...\)](features/gerer-le-consentement-aux-cookies/integration-technique/blocage-des-cookies/iframes.md)
+      * [Blocage des iframes (twitter/youtube...)](features/gerer-le-consentement-aux-cookies/integration-technique/blocage-des-cookies/iframes.md)
       * [Google Tag Manager](features/gerer-le-consentement-aux-cookies/integration-technique/blocage-des-cookies/google-tag-manager.md)
     * [Design avancé](features/gerer-le-consentement-aux-cookies/integration-technique/design-avance.md)
     * [Gérer le consentement programmatiquement](features/gerer-le-consentement-aux-cookies/integration-technique/gerer-le-consentement-programmatiquement.md)
@@ -114,23 +114,22 @@
   * [Partager un rapport d'audit ou PIA](features/audit/rapport-daudit.md)
 * [La configuration avancée](features/settings/README.md)
   * [Les notifications](features/settings/les-notifications.md)
-  * [Single Sign On \(SSO\)](features/settings/single-sign-on-sso/README.md)
+  * [Single Sign On (SSO)](features/settings/single-sign-on-sso/README.md)
     * [OpenId](features/settings/single-sign-on-sso/openid.md)
     * [SAML 2](features/settings/single-sign-on-sso/saml-2.md)
   * [Référentiels](features/settings/referentials.md)
   * [Rôles et permissions](features/settings/roles-et-permissions.md)
   * [Les workflows](features/settings/les-workflows.md)
 
-## La documentation API <a id="api-references"></a>
+## La documentation API <a href="api-references" id="api-references"></a>
 
 * [Authentification](api-references/authentification.md)
 * [API References](https://api.dastra.eu/swagger)
 
-## La sécurité <a id="security"></a>
+## La sécurité <a href="security" id="security"></a>
 
 * [La sécurité chez Dastra](security/general.md)
 * [Authentification forte](security/mfa.md)
-* [Feuille de route](security/feuille-de-route.md)
 * [Qualité de nos services](security/qualite-de-nos-services.md)
 
 ## DIVERS
@@ -142,4 +141,3 @@
 ## Référentiels
 
 * [Référentiel RH de la CNIL](referentiels/referentiel-rh-de-la-cnil.md)
-
