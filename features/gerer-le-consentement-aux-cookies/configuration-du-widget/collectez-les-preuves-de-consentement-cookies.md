@@ -28,6 +28,8 @@ A partir de cette interface, vous pouvez également personnaliser les preuves de
 
 Bravo, vous collectez maintenant les preuves de consentement cookies !&#x20;
 
+La durée de vie des preuves de consentement est d'un an.&#x20;
+
 Pour rendre votre site dynamique et prendre en compte véritablement le consentement de l'internaute, rendez-vous à la prochaine rubrique "aller plus loin":
 
 {% content-ref url="allez-plus-loin-sur-le-consentement-des-cookies.md" %}
