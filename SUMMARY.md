@@ -77,7 +77,7 @@
   * [Personnaliser le workflow des tâches](features/planifier/allez-plus-loin-avec-la-planification.md)
 * [La gestion des exercices des droits](features/gerer-les-exercices-des-droits/README.md)
   * [Intégration technique](features/gerer-les-exercices-des-droits/integration-technique.md)
-  * [Intégration de l'API](features/gerer-les-exercices-des-droits/integration-de-lapi.md)
+  * [👨💻 Intégration de l'API](features/gerer-les-exercices-des-droits/integration-de-lapi.md)
   * [Implémentez un widget d'exercice des droits](features/gerer-les-exercices-des-droits/implementez-un-widget-dexercice-des-droits.md)
 * [Le registre des violations de données](features/documenter-les-violations-de-donnees/README.md)
   * [Documenter une nouvelle violation de données](features/documenter-les-violations-de-donnees/documenter-une-violation-de-donnees.md)

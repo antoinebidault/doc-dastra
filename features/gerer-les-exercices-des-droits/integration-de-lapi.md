@@ -4,7 +4,7 @@ description: >-
   droit sans intégrer le SDK javascript en passant par l'API Rest
 ---
 
-# Intégration de l'API
+# 👨💻 Intégration de l'API
 
 Si vous souhaitez intégrer les demandes d'exercices de droits au sein d'une application qui n'utilise pas Javascript (ex: application mobile, système embarqués, application desktop...). Dastra ne s'intègre pas nativement à toutes les plateformes de développement mobile et ne supporte que la version Javascript. Il est cependant possible de poster directement une demande en intégrant votre propre formulaire en utilisant le endpoint suivant :
 
@@ -17,11 +17,15 @@ On success, an email is sent to the user using identity validation
 Data subject request
 {% endswagger-parameter %}
 
+{% swagger-parameter in="body" name="purpose" required="true" %}
+Unknown, Information, Access, Rectification, Erasure, Restriction, Opposition, Portability, AdvanceDirectives
+{% endswagger-parameter %}
+
 {% swagger-parameter in="body" name="message" %}
 Subject's message (html is not authorized)
 {% endswagger-parameter %}
 
-{% swagger-parameter in="header" name="Authorization" %}
+{% swagger-parameter in="header" name="Authorization" required="true" %}
 ApiKey <your public key>
 {% endswagger-parameter %}
 
@@ -45,8 +49,8 @@ A userId provided by the js SDK if he is in an authorized environment (intranet)
 A dynamic object containing specific key value pairs (for custom fields for example)
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="purpose" %}
-Unknown, Information, Access, Rectification, Erasure, Restriction, Opposition, Portability, AdvanceDirectives
+{% swagger-parameter in="path" name="id" type="Number" required="true" %}
+The widget id displayed in the widget's list page
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="An email is sent automatically to the provided email" %}
