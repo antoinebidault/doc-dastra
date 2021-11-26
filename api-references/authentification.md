@@ -16,12 +16,6 @@ Si vous souhaitez utiliser l'authentification OAuth2 en mode "authorization\_cod
 
 ![](<../.gitbook/assets/image (249).png>)
 
-### Méthode d'authentification
-
-L'authentification de l'API s'effectue grâce à l'aide du [protocole OAuth2](https://oauth.net/2/) utilisant le flow "Client credential". Ce mode d'authentification doit être utilisé uniquement pour des requêtes de serveur à serveur et ne doit en aucun cas être utilisé côté navigateur (SPA en javascript par exemple).
-
-![](<../.gitbook/assets/API authentication scheam.svg>)
-
 ## OAuth2 "Authorization code" flow
 
 ### Authorization
@@ -50,6 +44,12 @@ https://account.dastra.eu/connect/authorize?
 
 
 ## OAuth2 "Client credential" flow
+
+### Méthode d'authentification
+
+L'authentification de l'API s'effectue grâce à l'aide du [protocole OAuth2](https://oauth.net/2/) utilisant le flow "Client credential". Ce mode d'authentification doit être utilisé uniquement pour des requêtes de serveur à serveur et ne doit en aucun cas être utilisé côté navigateur (SPA en javascript par exemple).
+
+![](<../.gitbook/assets/API authentication scheam.svg>)
 
 ### Récupération du token
 
