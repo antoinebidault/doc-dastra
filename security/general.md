@@ -11,9 +11,11 @@ description: >-
 
 L'ensemble de vos données sont stockés chez Microsoft Azure dans des ressources localisées en France.
 
-## **Authentification à deux facteurs obligatoire **
+## **Authentification à deux facteurs obligatoire**&#x20;
 
 Il est possible pour tous les propriétaires d'organisation de forcer l'utilisation de l'authentification à deux facteurs. L'authentification à 2 facteurs fonctionne en utilisant TOTP
+
+[En savoir plus sur l'authentification forte](mfa.md)
 
 ## Chiffrement des données en transit
 
@@ -77,5 +79,5 @@ Il est possible de filtrer les utilisateurs à la connexion en fonction de leurs
 
 ## Liste d'autorisation des domaines des emails
 
-Les administrateurs peuvent définit une liste blanche de domaines d'emails autorisés (ex: gmail.com). Pour effectuer ces réglages, rendez vous dans **Configuration **=> **Sécurité** => **Filtres de domaines**
+Les administrateurs peuvent définit une liste blanche de domaines d'emails autorisés (ex: gmail.com). Pour effectuer ces réglages, rendez vous dans **Configuration** => **Sécurité** => **Filtres de domaines**
 
