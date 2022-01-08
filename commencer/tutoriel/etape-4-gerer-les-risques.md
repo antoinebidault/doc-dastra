@@ -32,18 +32,27 @@ Ces critères sont directement intégrés à notre workflow de création de trai
 
 ### L'évaluation des risques
 
-Les risques dans Dastra sont déclaratifs, et peuvent être rattachés à un ou plusieurs traitements depuis l'onglet "Risques". Ceux-ci sont évalués quantitativement sous deux niveaux:
+Le module de gestion des risques dans Dastra vous permet de gérer les risques au niveau de vos traitements, de vos acteurs (par exemple, les sous-traitants) et de vos applications.&#x20;
 
-* Niveau d'impact
-* Niveau de probabilité
+La méthodologie de gestion des risques répond aux exigences standard de gestion des risques sur les systèmes d'information.&#x20;
 
-Le risque global se calcule de la façon suivante :&#x20;
+4 étapes sont ainsi à suivre :&#x20;
+
+1 : identification du risque
+
+2 : évaluation du risque
+
+3 : réponse au risque
+
+4 : surveillance du risque
+
+
+
+Le risque d'une manière générale se mesure de la façon suivante :&#x20;
 
 $$
 Risque  = Probabilité  * Impact
 $$
-
-![Exemple d'inventaire des risques](<../../.gitbook/assets/image (136).png>)
 
 ### Les audits
 
