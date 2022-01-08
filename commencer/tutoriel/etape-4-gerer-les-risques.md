@@ -54,6 +54,10 @@ $$
 Risque  = Probabilité  * Impact
 $$
 
+{% content-ref url="../../features/la-gestion-des-risques/" %}
+[la-gestion-des-risques](../../features/la-gestion-des-risques/)
+{% endcontent-ref %}
+
 ### Les audits
 
 Pour aller plus loin dans la gestion des risques, Dastra vous propose également de concevoir des audits, réaliser des campagnes et collecter les résultats sous forme de rapport d'audit exportable.
