@@ -49,7 +49,7 @@ Vous l'avez compris, une intégration se compose d'un élement déclencheur et d
 
 * **Les déclencheurs existants:**
 
-1. Nouvelle demande d'exercice de droits créées
+1. Nouvelle demande d'exercice de droits créée
 2. Nouvelle tâche créée
 
 * **les actions existantes:**
