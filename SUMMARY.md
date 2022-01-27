@@ -6,7 +6,7 @@
   * [Starting a project on Dastra](commencer/commencer-un-projet-sur-dastra.md)
   * [Joining a project](commencer/rejoindre-un-projet.md)
 
-## GDPR in brief <a id="le-rgpd-en-bref"></a>
+## GDPR in brief <a href="#le-rgpd-en-bref" id="le-rgpd-en-bref"></a>
 
 * [What is GDPR ?](le-rgpd-en-bref/quest-ce-que-le-rgpd.md)
 * [GDPR key concepts](le-rgpd-en-bref/rgpd-en-bref/README.md)
@@ -65,10 +65,11 @@
   * [Report a data breach](features/notifier-les-violations-de-donnees/notifiez-une-violation-de-donnees.md)
   * [Export your data breach notifications](features/notifier-les-violations-de-donnees/exportez-vos-notifications-de-violation-de-donnees.md)
 
-## API documentation <a id="api-references"></a>
+## API documentation <a href="#api-references" id="api-references"></a>
 
 * [Authentication](api-references/authentification.md)
 * [API References](https://api.dastra.eu/swagger)
+* [Integrations](api-references/integrations.md)
 
 ## Security
 
@@ -84,4 +85,3 @@
 
 * [CNIL referentials](referentials/cnil/README.md)
   * [HR referential from CNIL](referentials/cnil/hr-referential-from-cnil.md)
-

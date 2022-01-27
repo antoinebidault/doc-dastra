@@ -8,7 +8,7 @@ description: Learn how to share the record of processing.
 
 From the "Record" section of DASTRA, click on the button with the three dashes at the top right corner, then in the drop-down menu, on "share".
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](<../../.gitbook/assets/image (82).png>)
 
 Once clicked, a window appears on the screen asking you the expiration date of the sharing link, then click on "create a link".
 
@@ -18,13 +18,12 @@ The share link is a limited lifetime link that you can use to share the registry
 
 ## Generation of a sharing link for data processing
 
-Repeat the process described above, but by clicking on the three-stroke button specific to the ****processing activity you wish to share, then click on "share".
+Repeat the process described above, but by clicking on the three-stroke button specific to the **** processing activity you wish to share, then click on "share".
 
-![](../../.gitbook/assets/image%20%2896%29.png)
-
-
+![](<../../.gitbook/assets/image (96).png>)
 
 
 
-\*\*\*\*
 
+
+****
