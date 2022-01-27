@@ -55,9 +55,9 @@ Le [guide de la CNIL sur les durées de conservation](https://www.cnil.fr/sites/
 En appliquant le principe de protection des données dès la conception :
 
 * **Définir avec précision la finalité poursuivie**, c’est-à-dire ce à quoi les données personnelles vont servir ;
-* Les** différents cycles de la vie de ces données**, les durées applicables, ainsi que les données concernées ;
+* Les **différents cycles de la vie de ces données**, les durées applicables, ainsi que les données concernées ;
 * **Identifier les personnes qui auront besoin de traiter les données** lors de l’utilisation courante, et celles en cas d’archivage intermédiaire ; assurer la traçabilité des accès aux données archivées ;
-* **Prévoir une procédure de purge automatique **et sélective des données (pour les archives publiques, cette purge est soumise à l’autorisation d’élimination du responsable du contrôle scientifique et technique) ;
+* **Prévoir une procédure de purge automatique** et sélective des données (pour les archives publiques, cette purge est soumise à l’autorisation d’élimination du responsable du contrôle scientifique et technique) ;
 * Si un **processus d’anonymisation** est envisagé, vérifier que les données ne permettront pas de « réidentifier » les personnes concernées à l’issue du processus.
 
 ### **Où trouver les références ?**
@@ -73,13 +73,13 @@ Si aucun texte ou norme n’apporte de solutions, il est nécessaire de détermi
 
 ## Qui est impliqué ?
 
-* Le** service chargé de la mise en œuvre du traitement **(qui peut être un sous-traitant) apportera tous les éléments permettant de comprendre ses besoins et, ainsi, de déterminer la durée d’utilisation courante des données visées ;
+* Le **service chargé de la mise en œuvre du traitement** (qui peut être un sous-traitant) apportera tous les éléments permettant de comprendre ses besoins et, ainsi, de déterminer la durée d’utilisation courante des données visées ;
 * Le **délégué à la protection des données (DPO)** est l’interlocuteur privilégié lorsqu’il a été désigné ; il est en effet chargé de veiller à la conformité des traitements mis en œuvre au sein de la structure, ainsi que de conseiller le responsable de traitement ;
-* Le** service interne d’archives à la structure ou à la collectivité**, le cas échéant, peut éclairer les pratiques en matière de conservation des données pour le traitement concerné (gestion du cycle de vie de la donnée, etc.) ;
+* Le **service interne d’archives à la structure ou à la collectivité**, le cas échéant, peut éclairer les pratiques en matière de conservation des données pour le traitement concerné (gestion du cycle de vie de la donnée, etc.) ;
 * Un **conseil**, qu’il soit interne à la structure (par exemple : direction juridique d’une entreprise), ou externe (ex : avocat, entreprise de services du numérique, etc.). Ce dernier peut, en particulier, aider à cibler les éventuelles dispositions législatives ou réglementaires applicables ;
 * La **fédération professionnelle** à laquelle le responsable de traitement est adhérent, peut fournir un support à son réseau dans la détermination des durées de conservation.
 
-Dans le secteur public (pour les structures publiques et pour les organismes privés chargés d’une mission de service public), les interlocuteurs à privilégier sont le **service d’archives départemental territorialement compétent **(pour les services déconcentrés et les collectivités territoriales et leurs groupements), ou la mission des archives du ministère de tutelle (pour les services de l’administration centrale). Ces interlocuteurs pourront renseigner la structure sur les obligations qui lui sont applicables, et la guider dans leur mise en œuvre (détermination de la DUA et du sort final).
+Dans le secteur public (pour les structures publiques et pour les organismes privés chargés d’une mission de service public), les interlocuteurs à privilégier sont le **service d’archives départemental territorialement compétent** (pour les services déconcentrés et les collectivités territoriales et leurs groupements), ou la mission des archives du ministère de tutelle (pour les services de l’administration centrale). Ces interlocuteurs pourront renseigner la structure sur les obligations qui lui sont applicables, et la guider dans leur mise en œuvre (détermination de la DUA et du sort final).
 
 ## Comment contrôler ?
 

@@ -14,11 +14,11 @@ Le widget est intégré au **SDK javascript** de dastra.
 
 ## Prérequis
 
-Afin de mettre en place le widget d'exercice de droit, vous devez disposer d'**une clé publique d'API ** : [lire la documentation](../settings/gestion-des-cles-dapi.md) ou[ accéder directement à la page de gestion des clés d'API](https://app.dasta.eu/general-settings/api)
+Afin de mettre en place le widget d'exercice de droit, vous devez disposer d'**une clé publique d'API** : [lire la documentation](../settings/gestion-des-cles-dapi.md) ou[ accéder directement à la page de gestion des clés d'API](https://app.dasta.eu/general-settings/api)
 
 ## Mise en place du widget dans l'interface dédiée
 
-Pour commencer, vous devez **mettre en place le widget **dans[ le panel de gestion des widgets](https://app.dasta.eu/workspace/data-subject-request/integrations) d'exercice de droits :&#x20;
+Pour commencer, vous devez **mettre en place le widget** dans[ le panel de gestion des widgets](https://app.dasta.eu/workspace/data-subject-request/integrations) d'exercice de droits :&#x20;
 
 ![](<../../.gitbook/assets/image (250).png>)
 
@@ -55,7 +55,7 @@ Voici un exemple simple d'intégration du widget (en mode popup avec un bouton d
 </script>
 ```
 
-Vous pouvez remplacer le nom de la colonne **refId **par le nom de propriété suivante :&#x20;
+Vous pouvez remplacer le nom de la colonne **refId** par le nom de propriété suivante :&#x20;
 
 * refId : the unique identifier of the user
 * familyName&#x20;

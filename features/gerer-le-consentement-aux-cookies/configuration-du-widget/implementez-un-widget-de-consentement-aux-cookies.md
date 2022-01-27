@@ -20,7 +20,7 @@ Ce widget se compose de plusieurs éléments:
 
 ## Prérequis&#x20;
 
-Pour implémenter votre widget de consentement aux cookies, vous devez préalablement avoir **identifié **et **classifié **par catégories de finalités **les cookies déposés sur votre site internet. **Le module Consentement aux cookies de DASTRA permets de faire cela en quelques clics.
+Pour implémenter votre widget de consentement aux cookies, vous devez préalablement avoir **identifié** et **classifié** par catégories de finalités **les cookies déposés sur votre site internet.** Le module Consentement aux cookies de DASTRA permets de faire cela en quelques clics.
 
 {% hint style="info" %}
 Pour rendre l'implémentation du widget de consentement aux cookies plus facile, Dastra a intégré dans le même module toutes les étapes nécessaires, depuis la mise en place des pré-requis jusqu'aux lignes de code.
@@ -46,7 +46,7 @@ Pour mettre en place un widget de consentement aux cookies sur votre site intern
 
 ![Section "Cookies" du module Consentement aux cookies"](<../../../.gitbook/assets/image (56).png>)
 
-A partir de cette interface, vous pouvez **personnaliser intégralement votre widget **pour qu'il s'affiche de la façon dont vous le souhaitez sur votre site internet.&#x20;
+A partir de cette interface, vous pouvez **personnaliser intégralement votre widget** pour qu'il s'affiche de la façon dont vous le souhaitez sur votre site internet.&#x20;
 
 {% hint style="info" %}
 Vous pouvez également apporter d'autres modifications sur le widget, comme modifier la position relative, les couleurs, le texte et les déclencheurs dans les sections "Texte", "Design" et "Déclencheurs".

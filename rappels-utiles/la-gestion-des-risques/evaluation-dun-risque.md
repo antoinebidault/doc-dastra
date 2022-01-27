@@ -42,9 +42,9 @@ Selon leur niveau de probabilité et d'impact, les risques peuvent être classé
 * Les risques qui doivent être limités autant que possible.
 * Les risques acceptables soit parce que la probabilité et/ou la sévérité du risque est/sont négligeables en comparaisons d'autres risques.
 
-Les risques intolérables sont représentés en** rouge** dans Dastra.
+Les risques intolérables sont représentés en **rouge** dans Dastra.
 
-Les risques qui doivent être limités autant que possible sont représentés en** orange **ou en **jaune** dans Dastra.
+Les risques qui doivent être limités autant que possible sont représentés en **orange** ou en **jaune** dans Dastra.
 
 Les risques acceptables sont représentés en **vert** dans Dastra.
 

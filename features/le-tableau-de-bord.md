@@ -24,9 +24,9 @@ Dans la section contenant les tuiles, vous pouvez modifier l'ordre d'apparence d
 
 ![Un exemple de tuile du tableau de bord](<../.gitbook/assets/image (160).png>)
 
-Il existe plusieurs **catégories de tuiles **disponible dans le tableau de bord :
+Il existe plusieurs **catégories de tuiles** disponible dans le tableau de bord :
 
-* **Traitements de données **
+* **Traitements de données**&#x20;
 * **Analyse de risque**
 * **Vos audits**
 * **Tâches à échéance**

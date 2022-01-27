@@ -19,7 +19,7 @@
   * [Evaluation d'un risque](rappels-utiles/la-gestion-des-risques/evaluation-dun-risque.md)
   * [Risques sous-traitants](rappels-utiles/la-gestion-des-risques/risques-sous-traitants.md)
 
-## 🧑🎓 Bien commencer <a href="commencer" id="commencer"></a>
+## 🧑🎓 Bien commencer <a href="#commencer" id="commencer"></a>
 
 * [La mise en place](commencer/commencer/README.md)
   * [Créer et paramétrer un espace de travail](commencer/commencer/espace-de-travail.md)
@@ -39,7 +39,7 @@
   * [L'aide en ligne](commencer/le-support/laide-en-ligne.md)
   * [Faire une demande de support](commencer/le-support/faire-une-demande-de-support.md)
 
-## ⚙ Les fonctionnalités <a href="features" id="features"></a>
+## ⚙ Les fonctionnalités <a href="#features" id="features"></a>
 
 * [Le tableau de bord](features/le-tableau-de-bord.md)
 * [Le registre des traitements](features/editer-le-registre/README.md)
@@ -124,12 +124,13 @@
   * [Rôles et permissions](features/settings/roles-et-permissions.md)
   * [Les workflows](features/settings/les-workflows.md)
 
-## 📄 La documentation API <a href="api-references" id="api-references"></a>
+## 📄 La documentation API <a href="#api-references" id="api-references"></a>
 
 * [Authentification](api-references/authentification.md)
 * [API References](https://api.dastra.eu/swagger)
+* [Intégrations](api-references/integrations.md)
 
-## 🛡 La sécurité <a href="security" id="security"></a>
+## 🛡 La sécurité <a href="#security" id="security"></a>
 
 * [La sécurité chez Dastra](security/general.md)
 * [Authentification forte](security/mfa.md)

@@ -6,10 +6,10 @@ description: Apprenez à visualiser les données dans Dastra.
 
 ## Introduction
 
-Dans Dastra, les **données **peuvent être **visualisées** de plusieurs manières :&#x20;
+Dans Dastra, les **données** peuvent être **visualisées** de plusieurs manières :&#x20;
 
 * L'**arborescence** organisationnelle des traitements,
-* La **cartographie **des données du registre de traitement,
+* La **cartographie** des données du registre de traitement,
 * Les **transferts** de données.
 
 ## Accéder à la visualisation des données

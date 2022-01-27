@@ -6,7 +6,7 @@ description: Apprenez à visualiser la carte des transferts de données dans Das
 
 ## Introduction
 
-Dans Dastra, les données peuvent être visualisées de plusieurs manières. Une d'entre elle est la **carte des transferts **de données.
+Dans Dastra, les données peuvent être visualisées de plusieurs manières. Une d'entre elle est la **carte des transferts** de données.
 
 Cette visualisation permet en particulier d'explorer, analyser et de comprendre les transferts géographiques de données.
 

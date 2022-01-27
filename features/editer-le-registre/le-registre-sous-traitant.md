@@ -22,9 +22,9 @@ Chaque sous-traitant est tenu de renseigner un registre moins étendu.&#x20;
 Celui-ci contient :&#x20;
 
 * les **coordonnées du sous-traitant**, de son représentant le cas échéant et de son DPO&#x20;
-* les** coordonnées de tous les responsables de traitement pour le compte desquels le sous-traitant agit** (les clients généralement)
+* les **coordonnées de tous les responsables de traitement pour le compte desquels le sous-traitant agit** (les clients généralement)
 * les **catégories de données** traitées
-* les **destinataires **
+* les **destinataires**&#x20;
 * les **transferts** hors EEE
 * les **mesures de sécurité**
 

@@ -4,7 +4,7 @@ description: Apprenez à collecter les preuves de consentement cookies avec Dast
 
 # Collectez les preuves de consentement cookies
 
-Une fois le widget de consentement aux cookies DASTRA implémenté sur votre site internet, le module de Consentement aux cookies DASTRA vous permets également de** collecter** et d'**exporter** les **preuves de consentement aux cookies**.
+Une fois le widget de consentement aux cookies DASTRA implémenté sur votre site internet, le module de Consentement aux cookies DASTRA vous permets également de **collecter** et d'**exporter** les **preuves de consentement aux cookies**.
 
 ## Prérequis
 

@@ -16,7 +16,7 @@ Pour cela, rendez-vous sur l'onglet "Liste" dans le module "Planification", puis
 
 ![Le menu déroulant des tâches.](<../../.gitbook/assets/image (238).png>)
 
-Cela permettra de générer un **lien **et/ou de télécharger un **fichier .ics** avec lequel il sera possible de synchroniser le calendrier des tâches qui vous sont assignées avec n'importe quel application de calendrier (Outlook, Google...).
+Cela permettra de générer un **lien** et/ou de télécharger un **fichier .ics** avec lequel il sera possible de synchroniser le calendrier des tâches qui vous sont assignées avec n'importe quel application de calendrier (Outlook, Google...).
 
 * [Synchroniser un calendrier Outlook](https://support.microsoft.com/fr-fr/office/importer-des-calendriers-dans-outlook-8e8364e1-400e-4c0f-a573-fe76b5a2d379)
 * [Synchroniser un calendrier google agenda](https://support.google.com/calendar/answer/37118?hl=fr\&co=GENIE.Platform%3DDesktop)

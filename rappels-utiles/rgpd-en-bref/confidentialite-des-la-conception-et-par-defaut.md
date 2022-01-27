@@ -44,9 +44,9 @@ Fournir dès le début du traitement un dispositif de purge des données à la d
 
 Afin de mettre en place le privacy by design, la protection des données personnelles doit être prise en compte **à chaque étape du processus de création de nouveaux projets**. Cela signifie que les  entreprises doivent, a minima et ce **avant la mise en production des projets** :
 
-* **Informer **le DPO ou équivalent de l'existence de ces projets
+* **Informer** le DPO ou équivalent de l'existence de ces projets
 * **Analyser les risque**s associés à la vie privée dans ces projets&#x20;
-* **Identifier **et** mettre en œuvre** dans le projet **les mesures **intégrant la protection des données à caractère personnel
+* **Identifier** et **mettre en œuvre** dans le projet **les mesures** intégrant la protection des données à caractère personnel
 * **Documenter** l'ensemble des éléments afin de constituer des preuves de respect des principes de privacy by design & by default.
 
 {% hint style="info" %}
@@ -72,13 +72,13 @@ Les principes de Privacy by Design peuvent être appliqués de différentes mani
 [la-gestion-des-risques](../../features/la-gestion-des-risques/)
 {% endcontent-ref %}
 
-* ** Identifier, assigner et faire le suivi** **des tâches** de remédiation
+* &#x20;**Identifier, assigner et faire le suivi** **des tâches** de remédiation
 
 {% content-ref url="../../features/planifier/" %}
 [planifier](../../features/planifier/)
 {% endcontent-ref %}
 
-* **Documenter** **le registre **en indiquant dans les fiches de traitement les mesures mises en œuvre et ainsi constituer la piste d'audit
+* **Documenter** **le registre** en indiquant dans les fiches de traitement les mesures mises en œuvre et ainsi constituer la piste d'audit
 
 {% content-ref url="../../features/editer-le-registre/" %}
 [editer-le-registre](../../features/editer-le-registre/)

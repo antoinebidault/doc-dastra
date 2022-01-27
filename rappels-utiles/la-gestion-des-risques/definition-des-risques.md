@@ -6,7 +6,7 @@ description: Quelques rappels utiles sur la définition des risques.
 
 ## Qu'est-ce qu'un risque ?
 
-Un risque de sécurité est défini par l’Agence nationale de la sécurité des systèmes d’information (ANSSI) comme étant un scénario qui combine un **événement redouté **(sources de menaces, bien essentiel, critère de sécurité, besoin de sécurité, impacts) et** un ou plusieurs scénarios de menaces **(sources de menaces, bien support, critère de sécurité, menaces, vulnérabilités).
+Un risque de sécurité est défini par l’Agence nationale de la sécurité des systèmes d’information (ANSSI) comme étant un scénario qui combine un **événement redouté** (sources de menaces, bien essentiel, critère de sécurité, besoin de sécurité, impacts) et **un ou plusieurs scénarios de menaces** (sources de menaces, bien support, critère de sécurité, menaces, vulnérabilités).
 
 ## Typologies de risques
 

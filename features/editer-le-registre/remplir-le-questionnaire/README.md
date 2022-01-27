@@ -24,7 +24,7 @@ Les 12 étapes sont:&#x20;
 [generalites.md](generalites.md)
 {% endcontent-ref %}
 
-* **Parties prenantes **- Cette section vous permet de répertorier les parties prenantes en charge du traitement des données ou les acteurs autres que le responsable du traitement et le DPO.
+* **Parties prenantes** - Cette section vous permet de répertorier les parties prenantes en charge du traitement des données ou les acteurs autres que le responsable du traitement et le DPO.
 
 {% content-ref url="acteurs.md" %}
 [acteurs.md](acteurs.md)
@@ -36,7 +36,7 @@ Les 12 étapes sont:&#x20;
 [categorie-de-donnees.md](categorie-de-donnees.md)
 {% endcontent-ref %}
 
-* **Finalité **- description des finalités du traitement de données à caractère personnel&#x20;
+* **Finalité** - description des finalités du traitement de données à caractère personnel&#x20;
 
 {% content-ref url="finalites.md" %}
 [finalites.md](finalites.md)
@@ -54,31 +54,31 @@ Les 12 étapes sont:&#x20;
 [personnes-concernees.md](personnes-concernees.md)
 {% endcontent-ref %}
 
-* **Droits des personnes - **Détaillez les modalités à la disposition des personnes concernées pour exercer chacun de leurs droits.&#x20;
+* **Droits des personnes -** Détaillez les modalités à la disposition des personnes concernées pour exercer chacun de leurs droits.&#x20;
 
 {% content-ref url="droits-des-personnes.md" %}
 [droits-des-personnes.md](droits-des-personnes.md)
 {% endcontent-ref %}
 
-* **Destinataires **- Cette section répertorie les destinataires des données de traitement.&#x20;
+* **Destinataires** - Cette section répertorie les destinataires des données de traitement.&#x20;
 
 {% content-ref url="destinataires.md" %}
 [destinataires.md](destinataires.md)
 {% endcontent-ref %}
 
-* **Transferts de données **- répertorie tous les transferts de données appliqués dans le cadre du traitement de données à caractère personnel.&#x20;
+* **Transferts de données** - répertorie tous les transferts de données appliqués dans le cadre du traitement de données à caractère personnel.&#x20;
 
 {% content-ref url="transferts-de-donnees-hors-ue.md" %}
 [transferts-de-donnees-hors-ue.md](transferts-de-donnees-hors-ue.md)
 {% endcontent-ref %}
 
-* **Mesures de sécurité **- décrit les mesures de sécurité organisationnelles et techniques prévues pour préserver la confidentialité des données.&#x20;
+* **Mesures de sécurité** - décrit les mesures de sécurité organisationnelles et techniques prévues pour préserver la confidentialité des données.&#x20;
 
 {% content-ref url="mesures-de-securite.md" %}
 [mesures-de-securite.md](mesures-de-securite.md)
 {% endcontent-ref %}
 
-* **Analyse d'impact **- décrit l'impact de ce traitement&#x20;
+* **Analyse d'impact** - décrit l'impact de ce traitement&#x20;
 
 {% content-ref url="analyse-dimpact.md" %}
 [analyse-dimpact.md](analyse-dimpact.md)

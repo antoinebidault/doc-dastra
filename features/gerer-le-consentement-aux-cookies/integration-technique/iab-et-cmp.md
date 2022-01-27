@@ -1,7 +1,7 @@
 # TCF 1.1/2.0
 
 {% hint style="danger" %}
-**Pour l'instant, cette fonctionnalité est encore en phase expérimentale. Toute implémentation du TCF ne sera pas effective **
+**Pour l'instant, cette fonctionnalité est encore en phase expérimentale. Toute implémentation du TCF ne sera pas effective**&#x20;
 {% endhint %}
 
 Le [consent management platform (CMP) framework](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) est actuellement supporté par le widget Dastra. Pour activer l'optin des vendors de l'IAB, il vous suffit de vous rendre dans la partie "services" de la configuration du widget et d'activer la case correspondante.

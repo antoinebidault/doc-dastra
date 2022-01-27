@@ -14,7 +14,7 @@ Les utilisateurs pourront ainsi se logger à la fois avec leur mot de passe habi
 * Rendez-vous dans https://app.dastra.eu/general-settings/two-factor
 * Cliquez sur "**activer l'authentification forte**"
 * Télécharger une application d'authentification à 2 facteurs
-* **Scannez le qr code **avec l'appli que vous avez choisi
+* **Scannez le qr code** avec l'appli que vous avez choisi
 
 ![](<../.gitbook/assets/image (103).png>)
 

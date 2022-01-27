@@ -8,7 +8,7 @@ Au moment d'inviter un utilisateur, Dastra propose, par défaut, trois rôles po
 
 * **Administrateur**: Les utilisateurs peuvent faire tout ce que les auteurs peuvent faire, en plus de modifier les paramètres d'organisation et d'espaces.
 * **Contributeur:** Les utilisateurs peuvent lire et éditer des espaces. Ils peuvent voir les brouillons et les modifications qui ne sont pas encore publiés. Ils peuvent publier des modifications. Ils ne peuvent pas modifier les paramètres d'organisation ni les paramètres d'espaces.
-* **Lecteur: **Les utilisateurs peuvent uniquement visiter les espaces publiés dans l'organisation. Ils ne peuvent pas éditer et ne peuvent pas voir les modifications qui ne sont pas encore publiées.
+* **Lecteur:** Les utilisateurs peuvent uniquement visiter les espaces publiés dans l'organisation. Ils ne peuvent pas éditer et ne peuvent pas voir les modifications qui ne sont pas encore publiées.
 
 {% hint style="info" %}
 Dans Dastra, un utilisateur peut cumuler plusieurs rôles différents. Pour assigner plusieurs rôles à un utilisateur, rendez-vous dans la section "Utilisateur", puis cliquer sur le bouton "rôle" correspondant à l'utilisateur en question.

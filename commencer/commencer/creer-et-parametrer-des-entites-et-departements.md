@@ -20,7 +20,7 @@ Rendez-vous dans "Configuration" à gauche de l'écran, puis cliquez sur "Entit�
 
 ![Bouton "Entités et départements"](<../../.gitbook/assets/image (203).png>)
 
-Vous accéderez ainsi à l'écran de** création et de paramétrage** des entités et départements :
+Vous accéderez ainsi à l'écran de **création et de paramétrage** des entités et départements :
 
 ![Module"entités et départements"](<../../.gitbook/assets/image (204).png>)
 

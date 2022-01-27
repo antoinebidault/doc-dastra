@@ -19,9 +19,9 @@ La suite de cette page traite uniquement du registre "Responsable de traitement"
 
 Pour chaque traitement, le registre d'un responsable de traitement indique au minima :
 
-1. le cas échéant, **le nom et les coordonnées **du [responsable conjoint du traitement](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article26) mis en œuvre
+1. le cas échéant, **le nom et les coordonnées** du [responsable conjoint du traitement](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article26) mis en œuvre
 2. les **finalités** du traitement, l’objectif en vue duquel vous avez collecté ces données
-3. les catégories** de personnes concernées **(client, prospect, employé, etc.)
+3. les catégories **de personnes concernées** (client, prospect, employé, etc.)
 4. les catégories de **données personnelles** (exemples : identité, situation familiale, économique ou financière, données bancaires, données de connexion, donnés de localisation, etc.)
 5. **les catégories de destinataires** auxquels les données à caractère personnel ont été ou seront communiquées, y compris les sous-traitants auxquels vous recourez
 6. les **transferts** de données à caractère personnel vers un pays tiers ou à une organisation internationale et, dans certains cas très particuliers, les garanties prévues pour ces transferts ;

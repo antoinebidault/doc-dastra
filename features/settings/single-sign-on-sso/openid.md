@@ -29,7 +29,7 @@ Pour faire le rapprochement entre les comptes locaux (ceux hébergés dans Dastr
 Voici les informations dont vous avez besoin pour configurer le service provider :&#x20;
 
 * **Authority/domain (ex: https://account.oauth.sso.com)**
-* **Id du client : ClientId **
+* **Id du client : ClientId**&#x20;
 * **Secret key**
 * **Response Type, par défaut id\_token**
 * **Scope : par défaut "openid profile email"**

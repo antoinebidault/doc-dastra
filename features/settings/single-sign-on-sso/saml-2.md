@@ -24,13 +24,13 @@ Pour faire le rapprochement entre les comptes locaux (ceux hébergés dans Dastr
 
 Voici les informations dont vous avez besoin pour configurer le service provider :&#x20;
 
-* **Identity Provider's Entity id **(issuer)
+* **Identity Provider's Entity id** (issuer)
 * **Single sign on url**
 * **Le certificat au format RAW** (Encodé base64)
 
 Pour configurer votre fournisseur d'authentification, vous allez avoir besoin des informations suivantes :
 
-* **Issuer **: par défaut "https://www.dastra.eu"
+* **Issuer** : par défaut "https://www.dastra.eu"
 * **SP Redirect URI** : par défaut [https://account.dastra.eu/Saml2/Acs](https://localhost:44375/Saml2/Acs)
 
 ## 2. Configuration du fournisseur de service

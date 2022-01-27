@@ -8,13 +8,13 @@ Une finalité constitue l’objectif poursuivi par la mise en place  de votre fi
 
 La définition de la finalité est fondamentale car elle est un prérequis pour les autres éléments encadrant le traitement tels que la durée de conservation des données, l’adéquation, la pertinence, la proportionnalité des données ainsi que l’exactitude et de la mise à jour des données.
 
-[**L’article 5 1. b) du RGPD **](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5)prévoit que la finalité doit être déterminée, explicite et légitime.
+[**L’article 5 1. b) du RGPD** ](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5)prévoit que la finalité doit être déterminée, explicite et légitime.
 
-**La finalité doit être déterminée **: la finalité doit être définie de manière suffisamment précise pour adapter les garanties nécessaires de protection des données et afin de délimiter le périmètre du traitement des données. Le niveau de détails nécessaire dépend du contexte particulier de la collecte des données et des données concernées. Parfois, un langage simple sera suffisant. Par exemple, un commerce familial de proximité ne nécessitera pas le même niveau de détail pour décrire la finalité du fichier des clients que pour une multinationale utilisant des algorithmes complexes permettant des offres personnalisées et de la publicité ciblée. La finalité doit être déterminée avant la mise en œuvre du traitement.
+**La finalité doit être déterminée** : la finalité doit être définie de manière suffisamment précise pour adapter les garanties nécessaires de protection des données et afin de délimiter le périmètre du traitement des données. Le niveau de détails nécessaire dépend du contexte particulier de la collecte des données et des données concernées. Parfois, un langage simple sera suffisant. Par exemple, un commerce familial de proximité ne nécessitera pas le même niveau de détail pour décrire la finalité du fichier des clients que pour une multinationale utilisant des algorithmes complexes permettant des offres personnalisées et de la publicité ciblée. La finalité doit être déterminée avant la mise en œuvre du traitement.
 
 **La finalité doit être explicite** : la finalité ne pas être ambiguë et doit être exprimée clairement. &#x20;
 
-**La finalité doit être légitime **: la légitimité renvoie à la base légale fondant le traitement de données exigée par l’[**article 6 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2).&#x20;
+**La finalité doit être légitime** : la légitimité renvoie à la base légale fondant le traitement de données exigée par l’[**article 6 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2).&#x20;
 
 Cette notion demande également la finalité ne contrevienne pas à la loi d’une manière générale. Par exemple, la finalité ne sera pas légitime si elle conduit à une discrimination interdite par le code pénal. On peut prendre en compte le droit du travail, le droit de la consommation ou le droit des contrats notamment.&#x20;
 
@@ -44,7 +44,7 @@ Il doit être aussi simple à donner qu’à retirer. Vous devez documenter la p
 
 ### Contrat ou mesures précontractuelles
 
-La base légale du **contrat **doit répondre à trois critères pour être valide : il doit&#x20;
+La base légale du **contrat** doit répondre à trois critères pour être valide : il doit&#x20;
 
 * exister une relation contractuelle ou précontractuelle entre le responsable du traitement et la personne concernée ;&#x20;
 * le contrat doit être valide au regard du droit applicable et&#x20;

@@ -59,9 +59,9 @@ Pour chaque service, vous allez devoir identifier la manière avec laquelle le t
 
 Pour bloquer les cookies par défaut, il existe plusieurs stratégies possibles qui dépendront de vos besoins:
 
-* **Ne plus utiliser **: cette librairie n'est en fait pas nécessaire, vous pouvez donc la retirer complètement des sources du site ;
-* **Bloquer complètement **: L'exécution de la balise est totalement bloquée tant que l'utilisateur n'a pas accepté les cookies ;
-* **Blocage partiel **: Seules les fonctionnalités de traçage sont bloquées (si la librairie le permet). Certaines librairies peuvent en effet fonctionner avec un mode complètement dégradé sans aucune dégradation de performance.
+* **Ne plus utiliser** : cette librairie n'est en fait pas nécessaire, vous pouvez donc la retirer complètement des sources du site ;
+* **Bloquer complètement** : L'exécution de la balise est totalement bloquée tant que l'utilisateur n'a pas accepté les cookies ;
+* **Blocage partiel** : Seules les fonctionnalités de traçage sont bloquées (si la librairie le permet). Certaines librairies peuvent en effet fonctionner avec un mode complètement dégradé sans aucune dégradation de performance.
 
 
 

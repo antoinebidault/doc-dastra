@@ -6,7 +6,7 @@ description: Apprenez ce qu'est une donnée personnelle.
 
 ## Définition d'une donnée personnelle
 
-D'après la CNIL, les données personnelles sont** toutes les informations relatives à une personne physique identifiée ou identifiable**.&#x20;
+D'après la CNIL, les données personnelles sont **toutes les informations relatives à une personne physique identifiée ou identifiable**.&#x20;
 
 Une personne physique peut être identifiée:&#x20;
 
@@ -51,9 +51,9 @@ Exemple de données sensibles : les empreintes digitales, qui relèvent de la ca
 
 Le règlement européen interdit de recueillir ou d’utiliser ces données, sauf, notamment, dans les cas suivants :
 
-* si la personne concernée a donné son** consentement** exprès (démarche active, explicite et de préférence écrite, qui doit être libre, spécifique, et informée) ;
-* si les informations sont manifestement rendues **publiques **par la personne concernée ;
-* si elles sont **nécessaires **à la **sauvegarde de la vie humaine **;
+* si la personne concernée a donné son **consentement** exprès (démarche active, explicite et de préférence écrite, qui doit être libre, spécifique, et informée) ;
+* si les informations sont manifestement rendues **publiques** par la personne concernée ;
+* si elles sont **nécessaires** à la **sauvegarde de la vie humaine** ;
 * si leur utilisation est justifiée par l'**intérêt public** et **autorisé par la CNIL** ;
 * si elles concernent les membres ou adhérents d'une **association** ou d'une **organisation politique, religieuse, philosophique ou syndicale**.&#x20;
 

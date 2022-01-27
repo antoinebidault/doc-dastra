@@ -14,9 +14,9 @@ Dans le but de réduire les erreurs de saisies, le registre Dastra vous permet d
 ## Liste des référentiels proposés par Dastra
 
 * **Applications**
-* **Acteurs **(DPO, RP, resp conjoint...) : les acteurs sont différenciés des utilisateurs car ils n'ont pas nécessairement besoin de venir se connecter à la plateforme.
+* **Acteurs** (DPO, RP, resp conjoint...) : les acteurs sont différenciés des utilisateurs car ils n'ont pas nécessairement besoin de venir se connecter à la plateforme.
 * **Sous-traitants**
-* **Clients **(Registre en tant que sous traitant uniquement)
-* **Règles de conservation **des données (Avec le dataset et les types de données associé)
+* **Clients** (Registre en tant que sous traitant uniquement)
+* **Règles de conservation** des données (Avec le dataset et les types de données associé)
 * **Mesures de sécurité**
 

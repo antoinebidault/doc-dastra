@@ -4,9 +4,9 @@
 
 Globalement, le widget de consentement fonctionne en 3 grandes étapes :
 
-1. La **proposition **de la fenêtre de consentement
-2. La **collecte **du consentement (stockage des preuves)
-3. **L'exécution **réelle du consentement de l'utilisateur
+1. La **proposition** de la fenêtre de consentement
+2. La **collecte** du consentement (stockage des preuves)
+3. **L'exécution** réelle du consentement de l'utilisateur
 
 {% hint style="info" %}
 Le widget Dastra permet de couvrir les deux premières étapes de manière partiellement automatique. Pour la troisième étape consistant à appliquer réellement les préférences de l'utilisateur en matière de cookies, vous allez avoir besoin d'intégrer techniquement le système de consentement aux services tiers pouvant potentiellement poser des cookies. Consultez le [guide de blocage des cookies](blocage-des-cookies/) pour plus d'informations/

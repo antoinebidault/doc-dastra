@@ -28,7 +28,7 @@ Comment passer en mode run sur la gestion des registres de traitements
 
 Il vous permet de documenter vos traitements de données et de vous poser les bonnes questions : ai-je vraiment besoin de cette donnée dans le cadre de mon traitement ? Est-il pertinent de conserver toutes les données aussi longtemps ? Les données sont-elles suffisamment protégées ? Etc.
 
-Sa création et sa mise à jour sont ainsi l’occasion d’**identifier et de hiérarchiser les risques au regard du RGPD**. Cette** étape essentielle** vous permettra d’en déduire un plan d’**action de mise en conformité **de vos traitements aux règles de protection des données.
+Sa création et sa mise à jour sont ainsi l’occasion d’**identifier et de hiérarchiser les risques au regard du RGPD**. Cette **étape essentielle** vous permettra d’en déduire un plan d’**action de mise en conformité** de vos traitements aux règles de protection des données.
 
 ## Quelles entreprises sont concernées par l'obligation de remplir un registre ?
 
@@ -41,7 +41,7 @@ Les entreprises de moins de 250 salariés bénéficient d’une dérogation en c
 * les traitements susceptibles de comporter un risque pour les droits et libertés des personnes (exemple : systèmes de géolocalisation, de vidéosurveillance, etc.)
 * les traitements qui portent sur des données sensibles (exemple : données de santé, infractions, etc.).
 
-**En pratique, cette dérogation est donc limitée à des cas très particuliers de traitements, **mis en œuvre de manière occasionnelle et non routinière, comme par exemple une campagne de communication à l’occasion de l’ouverture d’un nouvel établissement, sous réserve que ces traitements ne soulèvent aucun risque pour les personnes concernées. En cas de doute sur l’application de cette dérogation à un traitement, la CNIL vous recommande de l’intégrer dans votre registre
+**En pratique, cette dérogation est donc limitée à des cas très particuliers de traitements,** mis en œuvre de manière occasionnelle et non routinière, comme par exemple une campagne de communication à l’occasion de l’ouverture d’un nouvel établissement, sous réserve que ces traitements ne soulèvent aucun risque pour les personnes concernées. En cas de doute sur l’application de cette dérogation à un traitement, la CNIL vous recommande de l’intégrer dans votre registre
 {% endhint %}
 
 ## Contenu du registre de traitement
@@ -57,9 +57,9 @@ L’article 30 du RGPD prévoit des obligations spécifiques pour le _registre d
 
 Pour chaque traitement, le registre d'un responsable de traitement indique au minima :
 
-1. le cas échéant, **le nom et les coordonnées **du [responsable conjoint du traitement](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article26) mis en œuvre
+1. le cas échéant, **le nom et les coordonnées** du [responsable conjoint du traitement](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article26) mis en œuvre
 2. les **finalités** du traitement, l’objectif en vue duquel vous avez collecté ces données
-3. les catégories** de personnes concernées **(client, prospect, employé, etc.)
+3. les catégories **de personnes concernées** (client, prospect, employé, etc.)
 4. les catégories de **données personnelles** (exemples : identité, situation familiale, économique ou financière, données bancaires, données de connexion, donnés de localisation, etc.)
 5. **les catégories de destinataires** auxquels les données à caractère personnel ont été ou seront communiquées, y compris les sous-traitants auxquels vous recourez
 6. les **transferts** de données à caractère personnel vers un pays tiers ou à une organisation internationale et, dans certains cas très particuliers, les garanties prévues pour ces transferts ;
@@ -115,9 +115,9 @@ Chaque sous-traitant est tenu de renseigner un registre moins étendu.&#x20;
 Celui-ci contient :&#x20;
 
 * les **coordonnées du sous-traitant**, de son représentant le cas échéant et de son DPO&#x20;
-* les** coordonnées de tous les responsables de traitement pour le compte desquels le sous-traitant agit** (les clients généralement)
+* les **coordonnées de tous les responsables de traitement pour le compte desquels le sous-traitant agit** (les clients généralement)
 * les **catégories de données** traitées
-* les **destinataires **
+* les **destinataires**&#x20;
 * les **transferts** hors EEE
 * les **mesures de sécurité**
 

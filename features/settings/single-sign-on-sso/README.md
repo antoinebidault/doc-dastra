@@ -10,11 +10,11 @@ L'**authentification unique**, souvent désignée par le sigle anglais **SSO** (
 
 L'entreprise peut utiliser **son propre système d'authentification** à la place du login local proposé par défaut par Dastra. Parmi les systèmes SSO les plus utilisés, on peut citer Microsoft Active Directory, Google Workspace (ex GSuite), Auth0, etc.
 
-**Le fonctionnement est le suivant : **
+**Le fonctionnement est le suivant :**&#x20;
 
 Un utilisateur (**User Agent**) va solliciter une connexion au fournisseur de service (**Service Provider**) qui ira solliciter un fournisseur d'identité (**Identity Provider**) qui authentifiera l'utilisateur. Cette authentification est ensuite renvoyée adressée au fournisseur du service qui acceptera la demande de connexion de l'utilisateur.&#x20;
 
-Dans notre cas, le User Agent est le **navigateur d'un utilisateur de Dastra**. Le Service Provider est **Dastra **et l'Identity Provider est votre **fournisseur d'authentification favori** (par exemple : Active Directory).  &#x20;
+Dans notre cas, le User Agent est le **navigateur d'un utilisateur de Dastra**. Le Service Provider est **Dastra** et l'Identity Provider est votre **fournisseur d'authentification favori** (par exemple : Active Directory).  &#x20;
 
 
 
@@ -22,7 +22,7 @@ Dans notre cas, le User Agent est le **navigateur d'un utilisateur de Dastra**. 
 
 Au sein d'un abonnement à Dastra, vous avez la possibilité, si vous avez souscrit à la fonctionnalité, de gérer un ou plusieurs login SSO. Pour accéder à la configuration du SSO, allez sur [la page de configuration des logins SSO](https://app.dastra.eu/general-settings/sso) dans l'onglet sécurité du panel de configuration du compte d'abonnement.
 
-Dastra propose deux protocoles d'authentification unique, [**SAML 2**](saml-2.md)** **et [**Open ID**](openid.md). Pour accéder à l'aide de configuration, cliquez sur les liens ci-dessous.&#x20;
+Dastra propose deux protocoles d'authentification unique, [**SAML 2**](saml-2.md) **** et [**Open ID**](openid.md). Pour accéder à l'aide de configuration, cliquez sur les liens ci-dessous.&#x20;
 
 {% content-ref url="saml-2.md" %}
 [saml-2.md](saml-2.md)
@@ -42,7 +42,7 @@ Si vous souhaitez que les utilisateurs de votre fournisseur d'identité n'ait pa
 Si le compte de l'utilisateur est supprimé ou invalidé dans le fournisseur d'authentification, son compte ne sera pas effacé dans Dastra, il ne pourra en revanche plus se connecter. Vous avez la possibilité d'épurer ses comptes[ via le gestionnaire d'utilisateur de l'abonnement](https://app.dastra.eu/general-settings/users)
 {% endhint %}
 
-Vous pouvez choisir** le rôle assigné par défaut **sur toutes les organisations associées à votre abonnement.
+Vous pouvez choisir **le rôle assigné par défaut** sur toutes les organisations associées à votre abonnement.
 
 ![](<../../../.gitbook/assets/image (124).png>)
 

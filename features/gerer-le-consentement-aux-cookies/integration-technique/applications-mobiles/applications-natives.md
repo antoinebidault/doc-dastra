@@ -185,42 +185,58 @@ The public api key
 \
 
 
-`  {`
+  
+
+`{`
 
 \
 
 
-`    "consent":true, // True if consented, false if refused`
+    
+
+`"consent":true, // True if consented, false if refused`
 
 \
 
 
-`    "id":"e213aca4-79b7-4b93-2bad-08d897969898", // Cookies id`
+    
+
+`"id":"e213aca4-79b7-4b93-2bad-08d897969898", // Cookies id`
 
 \
 
 
-`    "date":"2021-03-15T14:00:04.133Z",`
+    
+
+`"date":"2021-03-15T14:00:04.133Z",`
 
 \
 
 
-`    "name":"yrdy",`
+    
+
+`"name":"yrdy",`
 
 \
 
 
-`    "slug":"yrdy",`
+    
+
+`"slug":"yrdy",`
 
 \
 
 
-`    "purpose":3`
+    
+
+`"purpose":3`
 
 \
 
 
-`  }`
+  
+
+`}`
 
 \
 
@@ -295,7 +311,11 @@ The public api key
 \
 
 
-` `
+ 
+
+``
+
+ 
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="type" type="string" %}
