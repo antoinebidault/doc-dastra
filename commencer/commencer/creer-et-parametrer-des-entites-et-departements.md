@@ -6,6 +6,11 @@ description: Apprenez à créer et paramétrer des entités et des départements
 
 ### Introduction
 
+Les unités organisationnelles permettent de structurer votre espace de travail. Deux types d'unités organisationnelles peuvent être créés :&#x20;
+
+* les **entités** qui correspondent à des entités juridiques et représentent un responsable de traitement,
+* les **départements** qui permettent d'organiser les entités.
+
 Dans Dastra, la notion d'espace de travail est décorrélée de celle d'entité juridique. Ainsi, **un espace de travail peut faire référence à plusieurs entités juridiques** distinctes (comme dans un groupe par exemple). En revanche, il ne peut y avoir qu'un seul représentant légal par entité juridique.
 
 {% hint style="info" %}
@@ -48,7 +53,7 @@ Réalisez les modifications souhaitées et cliquez sur "enregistrer".
 
 ## Créer ou modifier un département
 
-Pour créer un département, il vous suffit de cliquer sur le bouton "Créer un département" depuis le module "Entités et départements" et remplir les champs demandés.
+Pour créer un département, il vous suffit de cliquer sur le bouton "Créer un département" depuis le module "Unités organisationnelles" et remplir les champs demandés.
 
 ![Bouton "Créer un département"](<../../.gitbook/assets/image (209).png>)
 

@@ -2,17 +2,17 @@
 description: Découvrez comment le système d'équipes de Dastra fonctionne.
 ---
 
-# Créer puis affectez des équipes
+# Créer puis affecter des équipes
 
-Dans Dastra, les utilisateurs sont regroupés par équipe, qui elles-mêmes sont affectées soit à des entités juridiques, soit à des départements. Ainsi, il est possible de gérer finement les rôles et responsabilités.
+Dans Dastra, les utilisateurs sont regroupés par équipe, qui elles-mêmes sont affectées à des unités organisationnelles. Ainsi, il est possible de gérer finement les accès.
 
 ### Créer une nouvelle équipe ou assigner un nouvel utilisateur à une équipe existante
 
-Pour créer une nouvelle équipe ou assigner un nouvel utilisateur à une équipe existante, cliquer sur le bouton "Configuration" en bas à gauche de l'écran, puis le bouton "Equipes".
+Pour créer une nouvelle équipe ou assigner un nouvel utilisateur à une équipe existante, cliquer sur le bouton "Réglages" en bas à gauche de l'écran, puis le bouton "Equipes".
 
-![](<../../.gitbook/assets/image (131).png>)
+![Les boutons d'accès aux équipes](<../../.gitbook/assets/image (253).png>)
 
-![](<../../.gitbook/assets/image (132).png>)
+
 
 Pour créer une équipe, cliquez sur le bouton "Ajouter une équipe".
 

@@ -26,7 +26,7 @@
   * [Créer et paramétrer les unités organisationnelles](commencer/commencer/creer-et-parametrer-des-entites-et-departements.md)
   * [Inviter d'autres utilisateurs](commencer/commencer/inviter-utilisateurs.md)
   * [Gérer les rôles et permissions](commencer/commencer/gerez-les-roles-et-permissions.md)
-  * [Créer puis affectez des équipes](commencer/commencer/creer-puis-affectez-des-equipes.md)
+  * [Créer puis affecter des équipes](commencer/commencer/creer-puis-affectez-des-equipes.md)
 * [Le tutoriel](commencer/tutoriel/README.md)
   * [Etape 1 : La mise en place](commencer/tutoriel/etape-1-la-mise-en-place.md)
   * [Etape 2 : Cartographier vos traitements de données à caractère personnel et établir le registre](commencer/tutoriel/etape-2-cartographier-vos-traitements-de-donnees-a-caractere-personnel-et-etablir-le-registre.md)
