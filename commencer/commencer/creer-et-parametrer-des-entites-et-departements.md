@@ -2,7 +2,7 @@
 description: Apprenez à créer et paramétrer des entités et des départements dans Dastra.
 ---
 
-# Créer et paramétrer des entités et départements
+# Créer et paramétrer les unités organisationnelles
 
 ### Introduction
 
@@ -12,9 +12,9 @@ Dans Dastra, la notion d'espace de travail est décorrélée de celle d'entité 
 Chaque entité dans Dastra est considérée comme un responsable de traitement.&#x20;
 {% endhint %}
 
-### Accéder au module "Entités et départements" dans Dastra.
+### Accéder au module "Unités organisationnelles" dans Dastra.
 
-Rendez-vous dans "Configuration" à gauche de l'écran, puis cliquez sur "Entités et départements".
+Rendez-vous dans "Réglages" à gauche de l'écran, puis cliquez sur "Unités organisationnelles".
 
 ![Module "Configuration"](<../../.gitbook/assets/image (202).png>)
 

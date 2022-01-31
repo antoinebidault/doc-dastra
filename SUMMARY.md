@@ -23,7 +23,7 @@
 
 * [La mise en place](commencer/commencer/README.md)
   * [Créer et paramétrer un espace de travail](commencer/commencer/espace-de-travail.md)
-  * [Créer et paramétrer des entités et départements](commencer/commencer/creer-et-parametrer-des-entites-et-departements.md)
+  * [Créer et paramétrer les unités organisationnelles](commencer/commencer/creer-et-parametrer-des-entites-et-departements.md)
   * [Inviter d'autres utilisateurs](commencer/commencer/inviter-utilisateurs.md)
   * [Gérer les rôles et permissions](commencer/commencer/gerez-les-roles-et-permissions.md)
   * [Créer puis affectez des équipes](commencer/commencer/creer-puis-affectez-des-equipes.md)
