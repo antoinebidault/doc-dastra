@@ -42,7 +42,7 @@ Il est néanmoins possible de créer des rôles sur mesure, potentiellement plus
 
 ### Créer un rôle personnalisé
 
-Pour créer un rôle personnalisé, il faut être propriétaire de l'organisation. I l suffit de cliquer sur l'icône du profil en haut à droite de l'écran,  puis de cliquer sur l'onglet "Configuration" dans la liste déroulante.
+Pour créer un rôle personnalisé, il faut être propriétaire de l'organisation. Il suffit de cliquer sur l'icône du profil en haut à droite de l'écran,  puis de cliquer sur l'onglet "Configuration" dans la liste déroulante.
 
 ![](<../../.gitbook/assets/image (133).png>)
 
@@ -51,16 +51,16 @@ Une fois dans le panneau de configuration, cliquez sur le bouton "Rôles et perm
 ![Les rôles "Opérateur du registre RH" et "Assistante" sont des rôles personnalisés](<../../.gitbook/assets/image (134).png>)
 
 {% hint style="info" %}
-Seuls les propriétaires de l'espace de travail peuvent avoir accès à l'écran de gestion des rôles et permissions.
+Seuls les propriétaires de l'organisation peuvent avoir accès à l'écran de gestion des rôles et permissions.
 {% endhint %}
 
-Pour créer un nouveau rôle, cliquez sur "Nouveau rôle", donnez-lui un nom puis cochez les options "Lecture", "Modification", "Import" et "Export" lié à chaque fonctionnalité. Une fois terminé, cliquez sur le bouton "Enregistrer" en bas de l'écran.
+Pour créer un nouveau rôle, cliquez sur "Nouveau rôle", donnez lui un nom puis cochez les options "Lecture", "Modification", "Import" et "Export" liées à chaque fonctionnalité. Une fois terminé, cliquez sur le bouton "Enregistrer" en bas de l'écran.
 
 {% hint style="info" %}
-Pour qu'il soit effectif, le nouveau rôle doit être assigné à des utilisateurs. Pour faire cela, rendez-vous dans la section "Utilisateur", puis cliquer sur le bouton "rôle" correspondant à l'utilisateur en question
+Pour qu'il soit effectif, le nouveau rôle doit être assigné à des utilisateurs. Pour faire cela, rendez-vous dans la section "Utilisateur", puis cliquer sur le bouton "rôle" correspondant à l'utilisateur en question.
 {% endhint %}
 
-Ca y est, les rôles et permissions sont mis en place ! Vous pouvez maintenant consultez le tutoriel ou commencez à explorer les fonctionnalités de Dastra par vous-même.
+Ca y est, les rôles et permissions sont mis en place ! Vous pouvez maintenant consulter le tutoriel ou commencer à explorer les fonctionnalités de Dastra par vous-même.
 
 {% content-ref url="../tutoriel/" %}
 [tutoriel](../tutoriel/)
