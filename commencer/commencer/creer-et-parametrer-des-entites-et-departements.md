@@ -16,21 +16,25 @@ Chaque entité dans Dastra est considérée comme un responsable de traitement.&
 
 Rendez-vous dans "Réglages" à gauche de l'écran, puis cliquez sur "Unités organisationnelles".
 
-![Module "Configuration"](<../../.gitbook/assets/image (202).png>)
 
-![Bouton "Entités et départements"](<../../.gitbook/assets/image (203).png>)
 
-Vous accéderez ainsi à l'écran de **création et de paramétrage** des entités et départements :
+![Bouton d'accès aux réglages de l'espace de travail](<../../.gitbook/assets/image (252).png>)
 
-![Module"entités et départements"](<../../.gitbook/assets/image (204).png>)
 
-## Créer ou modifier une entité légale
+
+![Accès aux paramètres des unités organisationnelles](<../../.gitbook/assets/image (247).png>)
+
+Vous accéderez ainsi à l'écran de **création et de paramétrage** des unités organisationnelles :
+
+![Interface de gestion des unités organisationnelles](<../../.gitbook/assets/image (250).png>)
+
+## Créer ou modifier une entité
 
 Pour créer une entité juridique, il vous suffit de cliquer sur le bouton "Créer une entité (responsable de traitement)" depuis le module "Entités et départements".
 
 ![Bouton "Créer une entité"](<../../.gitbook/assets/image (207).png>)
 
-Renseignez les champs demandés, en particulier indiquez-y son nom et d'y associer son responsable (le représentant légal), ainsi que le délégué à la protection des données (s'il a été nommé) et d'autres acteurs. Seul le nom de l'entité juridique est obligatoire.
+Renseignez les champs demandés : le nom et le pays sont obligatoires. Vous pouvez renseigner le le nom du ou de la responsable (le représentant légal), ainsi que le ou la délégué(e) à la protection des données (le cas échéant) et le représentant au sein de l'UE (le cas échéant).
 
 {% hint style="info" %}
 Contrairement aux départements, le nombre d'entités légales (responsables de traitements) pouvant être entré dans Dastra est limité par un quota qui dépend de votre abonnement. Si vous souhaitez augmenter ce quota, [contactez le service commercial](https://www.dastra.eu/fr/contacts).
