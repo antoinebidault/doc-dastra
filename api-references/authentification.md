@@ -14,7 +14,7 @@ Votre clé d'API permet de faire beaucoup de chose, c'est pourquoi, vous devez l
 
 Si vous souhaitez utiliser l'authentification OAuth2 en mode "authorization\_code", il sera nécessaire de bien configurer le ou les urls de redirection ainsi que les origines CORs autorisées.
 
-![](<../.gitbook/assets/image (249).png>)
+![](<../.gitbook/assets/image (249) (1).png>)
 
 ## OAuth2 "Authorization code" flow
 
@@ -38,7 +38,7 @@ https://account.dastra.eu/connect/authorize?
 | `response_type` | code                                                                                                                                                                                                                                                                                       |
 | `client_id`     | La clé publique de votre clé d'api configuré dans votre compte Dastra                                                                                                                                                                                                                      |
 | `redirect_uri`  | L'url configuré dans la clé d'API de Dastra. Vous serez automatiquement redirigé sur cette page à l'issue du processus d'authorisation                                                                                                                                                     |
-| `scope`         | <p>api1 => obligatoire</p><p>offline_access <em>=> </em>pour récupérer un refresh_token (sessions longues)</p>                                                                                                                                                                             |
+| `scope`         | <p>api1 => obligatoire</p><p>offline_access <em>=></em> pour récupérer un refresh_token (sessions longues)</p>                                                                                                                                                                             |
 | `state`         | Une clé aléatoire généré par votre application qui permet d'éviter les attaques de type cross-site request forgery (CSRF) , lire [Mitigate CSRF Attacks With State Parameters](https://auth0.com/docs/protocols/oauth2/mitigate-csrf-attacks). Les librairies cliente gèrent ça rapidement |
 
 

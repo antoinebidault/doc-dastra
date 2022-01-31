@@ -4,25 +4,49 @@ description: Découvrez comment gérer les rôles et permissions dans Dastra.
 
 # Gérer les rôles et permissions
 
-Au moment d'inviter un utilisateur, Dastra propose, par défaut, trois rôles possibles :
+Au moment d'inviter un utilisateur, Dastra propose, par défaut, **trois rôles** possibles :
 
-* **Administrateur**: Les utilisateurs peuvent faire tout ce que les auteurs peuvent faire, en plus de modifier les paramètres d'organisation et d'espaces.
-* **Contributeur:** Les utilisateurs peuvent lire et éditer des espaces. Ils peuvent voir les brouillons et les modifications qui ne sont pas encore publiés. Ils peuvent publier des modifications. Ils ne peuvent pas modifier les paramètres d'organisation ni les paramètres d'espaces.
-* **Lecteur:** Les utilisateurs peuvent uniquement visiter les espaces publiés dans l'organisation. Ils ne peuvent pas éditer et ne peuvent pas voir les modifications qui ne sont pas encore publiées.
+* **Administrateur** : Les administrateurs ont les droits des contributeurs et peuvent administrer les réglages d'espaces de travail. Les administrateurs sont les seuls à pouvoir passer un traitement en statut "publié", à créer des unités organisationnelles, à inviter des nouveaux utilisateurs dans l'espace de travail.&#x20;
+* **Contributeur** : Les contributeurs peuvent lire et éditer le contenu des espaces de travail. Ils peuvent créer des éléments, modifier les brouillons qui ne sont pas encore publiés. Ils ne peuvent pas modifier les paramètres des espaces de travail.
+* **Lecteur :** Les lecteurs peuvent uniquement visualiser le contenu de l'espace de travail. Ils ne peuvent pas éditer le contenu ni modifier les paramètres de l'espace de travail.
+
+
 
 {% hint style="info" %}
-Dans Dastra, un utilisateur peut cumuler plusieurs rôles différents. Pour assigner plusieurs rôles à un utilisateur, rendez-vous dans la section "Utilisateur", puis cliquer sur le bouton "rôle" correspondant à l'utilisateur en question.
+Seuls les **propriétaires** peuvent modifier les paramètres du compte d'organisation et créer des espaces de travail.
 {% endhint %}
+
+### Attribuer un rôle à un utilisateur
+
+Dans Dastra, un utilisateur peut cumuler plusieurs rôles différents. Pour assigner plusieurs rôles à un utilisateur, rendez-vous dans la section "Utilisateurs" des réglages,&#x20;
+
+{% hint style="info" %}
+![](<../../.gitbook/assets/image (248).png>)
+
+
+
+puis afficher les options liées à l'utilisateur&#x20;
+
+
+
+![](<../../.gitbook/assets/image (251).png>)
+
+
+
+et sélectionner le "rôle" correspondant à l'utilisateur en question.
+{% endhint %}
+
+
 
 Il est néanmoins possible de créer des rôles sur mesure, potentiellement plus adaptés à votre organisation.
 
 ### Créer un rôle personnalisé
 
-Pour créer un rôle personnalisé, il suffit de cliquer sur l'icône du profil en haut à droite de l'écran,  puis de cliquer sur l'onglet "Configuration" dans la liste déroulante.
+Pour créer un rôle personnalisé, il faut être propriétaire de l'organisation. I l suffit de cliquer sur l'icône du profil en haut à droite de l'écran,  puis de cliquer sur l'onglet "Configuration" dans la liste déroulante.
 
 ![](<../../.gitbook/assets/image (133).png>)
 
-Une fois dans le panneau de configuration, cliquez sur le bouton "Rôles et permissions" dans la section "Paramètres du compte". La liste des rôles et permissions s'affiche alors :
+Une fois dans le panneau de configuration, cliquez sur le bouton "Rôles et permissions" dans la section "Organisation". La liste des rôles et permissions s'affiche alors :
 
 ![Les rôles "Opérateur du registre RH" et "Assistante" sont des rôles personnalisés](<../../.gitbook/assets/image (134).png>)
 
