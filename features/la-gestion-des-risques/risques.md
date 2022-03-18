@@ -11,39 +11,43 @@ description: >-
 
 Pour ajouter un risque sur un traitement, il faut aller dans l'onglet risques présent sur la page d'édition du traitement.
 
-![](<../../.gitbook/assets/image (105).png>)
+![](<../../.gitbook/assets/image (252).png>)
+
+
 
 et cliquer sur le bouton "Créer un risque".
 
 ![](<../../.gitbook/assets/image (106).png>)
 
-Vous arrivez sur une page d'édition du risque et vous pouvez commencer à renseigner les informations concernant le risque que vous avez identifié.&#x20;
-
-![](<../../.gitbook/assets/image (107).png>)
+Vous arrivez sur une page d'édition du risque et vous pouvez commencer à renseigner les informations concernant le risque que vous avez identifié.
 
 Vous pouvez ensuite retrouver tous les risques de votre registre dans le référentiel des risques.
 
-![](<../../.gitbook/assets/image (108).png>)
+![Détail de l'onglet Risques sur un traitement](<../../.gitbook/assets/image (251).png>)
 
+Vous pouvez aussi attacher un risque à un traitement directement depuis le module de gestion des risques.&#x20;
 
+Pour ce faire, il vous suffit de vous placer dans l'onglet "Risques" et de "créer un risque"&#x20;
 
 ### Visualiser les risques d'un traitement
 
-Sur chaque traitement, vous pouvez afficher le niveau de risque associé. Pour cela, il suffit de sélectionner l'élément dans l'onglet "Colonnes".
+Pour visualiser les risques sur les traitements, il est nécessaire de vous rendre dans le module Risques de Dastra.&#x20;
 
-![](<../../.gitbook/assets/image (109).png>)
 
-Ensuite, sélectionnez "Niveau de risque".
 
-![](<../../.gitbook/assets/image (111).png>)
+![](<../../.gitbook/assets/image (253).png>)
 
-Vous afficherez le niveau de risque associé :&#x20;
+Vous devez vous rendre sur l'onglet "Risques" et vous aurez une visualisation de l'ensemble des risques triés selon les éléments liés à chaque risque.&#x20;
 
-![](<../../.gitbook/assets/image (113).png>)
+
+
+
+
+### Evaluation du niveau de risque
 
 Le niveau de risque est calculé selon la formule suivante :
 
-`Niveau de risque = valeur de probabilité X valeur d'impact `\
+`Niveau de risque = valeur de probabilité X valeur d'impact` \
 ``
 
 Dans le tableau de bord, un module de risque présente le nombre de risques, les traitements avec les risques les plus élevés, le risque global et le niveau du traitement ayant le plus de risques.&#x20;

@@ -9,7 +9,15 @@ description: >-
 
 ## Hébergement sécurisé sur le Cloud
 
-L'ensemble de vos données sont stockés chez Microsoft Azure dans des ressources localisées en France.
+Nous externalisons l'hébergement des données de la plateforme auprès de Microsoft Azure.&#x20;
+
+Les lieux de stockage des données sont situés à Paris et Marseille en France. Une redondance entre les données est effectuée entre les deux sites.&#x20;
+
+
+
+
+
+
 
 ## **Authentification à deux facteurs obligatoire**&#x20;
 

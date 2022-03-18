@@ -8,7 +8,7 @@ description: Apprenez à gérer les risques avec Dastra.
 
 Vie privée,  stratégiques, de non-conformité, opérationnels, financiers, sous-traitance... La gestion des risques est souvent complexe et peu efficiente. Supprimez la complexité et améliorez l’efficacité de vos plans de contrôle, d’audit et de conformité avec Dastra.
 
-Obtenez une vision globale de vos risques pour alimenter vos plans de remédiation, étendre votre couverture et réduire votre exposition. Rationalisez vos opérations d’évaluation, de contrôle, de reporting et de suivi des tâches de remédiation. Assurez-vous de la mise à jour, de la qualité et de la disponibilité des données risques.
+Obtenez une vision globale de vos risques pour alimenter vos plans de remédiation, étendre votre couverture et réduire votre exposition. Rationalisez vos opérations d’évaluation, de contrôle, de reporting et de suivi des tâches de remédiation. Assurez vous de la mise à jour, de la qualité et de la disponibilité des données risques.
 
 ## La gestion des risques dans Dastra en quelques mots
 
@@ -16,12 +16,12 @@ La fonctionnalité de gestion des risques de la solution Dastra permet d'identif
 
 Avec Dastra, vous pourrez :
 
-* **Visualiser vos risques** par traitement, application, sous-traitant ou jeux de données ;
-* **rationaliser vos opérations** d’évaluation, de contrôle, de reporting et de suivi des tâches de remédiation ;
-* vous assurer de la **mise à jour,** de la **qualité** et de la **disponibilité** des données risques.\
+* **Visualiser vos risques** par traitement, actif ou acteur ;
+* **Rationaliser vos opérations** d’évaluation, de contrôle, de reporting et de suivi des tâches de remédiation ;
+* Vous assurer de la **mise à jour,** de la **qualité** et de la **disponibilité** des données risques.\
 
 
-![Tuile de synthèse des risques](<../../.gitbook/assets/image (197).png>)
+![Tuile de synthèse des risques](<../../.gitbook/assets/Capture d’écran 2022-03-15 140621.png>)
 
 ## Associer un risque&#x20;
 
@@ -29,9 +29,7 @@ Dans Dastra, un risque peut être associé à **un ou plusieurs objets**, parmi 
 
 * Traitement de donnée à caractère personnel
 * Acteur ou sous-traitant
-* Application
-* Donnée ou jeux de données
-* Mesure de sécurité&#x20;
+* Actif&#x20;
 
 ## Aller plus loin
 
