@@ -39,7 +39,7 @@ Les fichiers physiques sont également encryptées statiquement dans le service 
 
 Nous faisons auditer régulièrement notre application par un auditeur tiers indépendant.&#x20;
 
-Le dernier test a été réalisé le 12 juillet 2021 et n'a révélé aucune vulnérabilité critique.
+Le dernier test a été réalisé le 25 janvier 2022 et n'a révélé aucune vulnérabilité critique.
 
 ## **Journaux d'audit d'organisation**
 
