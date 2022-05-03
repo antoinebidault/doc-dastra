@@ -12,15 +12,15 @@ Chez Dastra, nous pensons que notre rôle est de vous **faciliter le travail** d
 
 ## Le registre Dastra en quelques mots
 
-La fonctionnalité de registres des activités de traitements Dastra répond à tous les attendus de la règlementation. Le registre des traitements Dastra, à la fois Responsable de Traitement et Sous traitant, repose sur des référentiels (acteurs, applications, jeux de données, données, risques et mesures de sécurité) permettant de **cartographier vos traitements** et **gagner du temps** dans la gestion au quotidien du registre.&#x20;
+La fonctionnalité de registres des activités de traitements Dastra répond à tous les attendus de la règlementation. Les registres, à la fois Responsable de Traitement et Sous traitant, reposent sur des référentiels (acteurs, actifs, jeux de données, données, risques et mesures de sécurité) permettant de **cartographier vos traitements** et **gagner du temps** dans la gestion au quotidien.
 
-Les traitements sont duplicables et des modèles de traitement sont disponible dans une bibliothèque librement accessible à tous nos utilisateurs. Un workflow est intégré, une fonction de recherche est présente nativement et il est possible d’importer / exporter des fiches de traitements sous différent formats ( pdf , word , html, excel , csv, json ) ainsi que d’y attacher ou déposer des pièces jointes.
+Les traitements sont duplicables et des modèles de traitement sont disponibles dans une bibliothèque librement accessible à tous nos utilisateurs. Un workflow est intégré, une fonction de recherche est présente nativement et il est possible d’importer / exporter des fiches de traitements sous différent formats ( pdf , word , html, excel , csv, json ). Il est possible d'attacher des pièces jointes, des violations ou encore des risques à ces traitements.&#x20;
 
 ![Aperçu d'un registre](<../../.gitbook/assets/image (196).png>)
 
 ## Registre "Responsable de traitement" versus "Sous-traitant"
 
-L’article 30 du RGPD prévoit des obligations spécifiques pour le _registre du responsable de traitement_ de données personnelles et pour le _registre du sous-traitant_. Si votre organisme agit à la fois en tant que sous-traitant et responsable de traitement, votre registre doit donc clairement distinguer les deux catégories d’activités.
+L’article 30 du RGPD prévoit des obligations spécifiques pour le _registre du responsable de traitement_ et pour le _registre du sous-traitant_. Si votre organisme agit à la fois en tant que sous-traitant et responsable de traitement, votre registre doit donc clairement distinguer les deux catégories d’activités.
 
 **En pratique, dans cette hypothèse, la CNIL vous recommande de tenir 2 registres :**
 
