@@ -21,7 +21,7 @@ Seuls les **propriétaires** peuvent modifier les paramètres du compte d'organi
 Dans Dastra, un utilisateur peut cumuler plusieurs rôles différents. Pour assigner plusieurs rôles à un utilisateur, rendez-vous dans la section "Utilisateurs" des réglages,&#x20;
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (248).png>)
+<img src="../../.gitbook/assets/image (248).png" alt="" data-size="original">
 
 
 
@@ -57,7 +57,7 @@ Seuls les propriétaires de l'organisation peuvent avoir accès à l'écran de g
 Pour créer un nouveau rôle, cliquez sur "Nouveau rôle", donnez lui un nom puis cochez les options "Lecture", "Modification", "Import" et "Export" liées à chaque fonctionnalité. Une fois terminé, cliquez sur le bouton "Enregistrer" en bas de l'écran.
 
 {% hint style="info" %}
-Pour qu'il soit effectif, le nouveau rôle doit être assigné à des utilisateurs. Pour faire cela, rendez-vous dans la section "Utilisateur", puis cliquer sur le bouton "rôle" correspondant à l'utilisateur en question.
+Pour qu'il soit effectif, le nouveau rôle doit être assigné à un ou des utilisateurs. Pour faire cela, rendez-vous dans la section "Utilisateur", puis cliquer sur le bouton "rôle" correspondant à l'utilisateur en question.
 {% endhint %}
 
 Ca y est, les rôles et permissions sont mis en place ! Vous pouvez maintenant consulter le tutoriel ou commencer à explorer les fonctionnalités de Dastra par vous-même.
