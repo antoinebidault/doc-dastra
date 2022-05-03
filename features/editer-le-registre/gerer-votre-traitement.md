@@ -10,7 +10,7 @@ Une activité de traitement est une opération ou un ensemble d'opérations effe
 
 ## Créer une activité de traitement&#x20;
 
-Pour créer une activité de traitement, cliquez d'abord sur "Nouveau traitement de données" dans la section Registre.
+Pour créer une activité de traitement, cliquez d'abord sur "Créer un traitement de données" dans la section Registre.
 
 ![Choix du nouveau traitement](<../../.gitbook/assets/image (185).png>)
 
