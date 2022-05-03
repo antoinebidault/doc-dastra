@@ -42,7 +42,7 @@ Pour plus d'informations, consultez notre [manifesto](https://www.dastra.eu/fr/m
 
 * **Centralisez la documentation** permettant de répondre à la conformité RGPD.
 
-![La gestion documentaire](<.gitbook/assets/image (145).png>)
+![Le module de Référentiels, regroupant toutes les données et fichiers de votre espace de travail ](<.gitbook/assets/Capture web\_3-5-2022\_17525\_app.dastra.eu.jpeg>)
 
 ## Comment faire pour découvrir Dastra ?
 
