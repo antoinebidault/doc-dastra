@@ -61,9 +61,9 @@ Importez-le directement dans notre interface par glisser-déposer, puis cliquez 
 
 Ca y est, vos labels de traitements sont importés !
 
-## Etape 2 : import du référentiel des applications
+## Etape 2 : import du référentiel des actifs
 
-Pour importer vos applications existantes, il faut cliquer sur l'onglet "importer vos données" dans la section Registre, onglet Application:
+Pour importer vos applications/actifs existantes, il faut cliquer sur l'onglet "importer" dans le module Référentiels, onglet Actifs :
 
 ![](<../../.gitbook/assets/image (92).png>)
 
@@ -91,13 +91,13 @@ Ca y est, vos applications sont importées !
 
 ## Etape 3 : import du référentiel des acteurs
 
-Recommencez la procédure similaire aux précédentes depuis  la section Registre, onglet Acteurs. Ci-dessous un exemple:
+Recommencez la procédure similaire aux précédentes depuis le module Référentiels, onglet Acteurs. Ci-dessous un exemple:
 
 {% file src="../../.gitbook/assets/sample-actors - EXAMPLE - XLS.xlsx" %}
 
 ## Etape 4 : import du référentiel des sous-traitants
 
-Recommencez la procédure similaire aux précédentes depuis  la section Registre, onglet Sous-traitants. Ci-dessous un exemple:
+Recommencez la procédure similaire aux précédentes depuis la section Registre, onglet Sous-traitants. Ci-dessous un exemple:
 
 {% file src="../../.gitbook/assets/sample-Vendor - CSV.csv" %}
 
@@ -107,11 +107,11 @@ Recommencez la procédure similaire aux précédentes depuis  la section Registr
 
 ## Etape 6 : import du référentiel des mesures de sécurité
 
-Recommencez la procédure similaire aux précédentes depuis  la section Registre, onglet Mesures de sécurité.
+Recommencez la procédure similaire aux précédentes depuis le module Référentiels, onglet Mesures.
 
 ## Etape 7 : import du glossaire de données
 
-Recommencez la procédure similaire aux précédentes depuis  la section Registre, onglet Glossaire de données.
+Recommencez la procédure similaire aux précédentes depuis le module Référentiels, onglet Glossaire de données.
 
 ## Etape 8 : import du référentiel de règle de conservation&#x20;
 
