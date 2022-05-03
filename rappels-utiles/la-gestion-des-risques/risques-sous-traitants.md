@@ -12,11 +12,11 @@ Le contrat de sous-traitance doit préciser l'objet, la durée, la nature et la 
 
 ## Audit
 
-Le sous-traitant doit permettre la réalisation d'audits par le responsable du traitement afin que ce dernier s'assure qu'il respecte les clauses contractuelles relatives à la protection des données personnelles et qu'il ne traite pas les données personnelles transférées uniquement aux fins prévues dans le contrat de sous-traitance et sur une instruction documentée du responsable du traitement.
+Le sous-traitant doit permettre la réalisation d'audits par le responsable du traitement afin que ce dernier s'assure qu'il respecte les clauses contractuelles relatives à la protection des données personnelles et qu'il traite les données personnelles transférées uniquement aux fins prévues dans le contrat de sous-traitance et sur instruction documentée du responsable du traitement.
 
 ## Supervision de la chaîne de sous-traitance
 
-Le sous-traitant ne recrute pas d'autre sous-traitant (sous-traitant de niveau 2) sans autorisation écrite préalable, spécifique ou générale de la personne en charge du traitement. Tout contrat avec un sous-traitant de niveau 2 doit prévoir les mêmes obligations de protection des données prévues dans le contrat conclu avec le responsable du traitement.
+Le sous-traitant ne recrute pas d'autre sous-traitant (sous-traitant de niveau 2) sans autorisation écrite préalable, spécifique ou générale, de la personne en charge du traitement. Tout contrat avec un sous-traitant de niveau 2 doit prévoir les mêmes obligations de protection des données prévues dans le contrat conclu avec le responsable du traitement.
 
 ## Registre des sous-traitants
 
@@ -24,7 +24,7 @@ Chaque sous-traitant doit tenir un registre de tous les traitements effectués p
 
 ## Responsabilité du sous-traitant
 
-Le sous-traitant n'est pas responsable des dommages matériels ou moraux causés par le traitement des données personnelles uniquement s'il n'a pas respecté les obligations prévues par le RGPD qui lui incombent spécifiquement ou s'il a agi en dehors des instructions légales du responsable du traitement. Le sous-traitant est soumis aux mêmes amendes et pénalités administratives que le responsable du traitement.
+Le sous-traitant n'est pas responsable des dommages matériels ou moraux causés par le traitement des données personnelles sauf s'il n'a pas respecté les obligations prévues par le RGPD qui lui incombent spécifiquement, ou s'il a agi en dehors des instructions légales du responsable du traitement. Le sous-traitant est soumis aux mêmes amendes et pénalités administratives que le responsable du traitement.
 
 ## Pour aller plus loin
 
