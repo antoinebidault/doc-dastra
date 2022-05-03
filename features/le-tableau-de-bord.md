@@ -11,12 +11,12 @@ Le tableau de bord de Dastra est la première page auquel vous accédez au momen
 Celui-ci est composé de 3 sections principales :
 
 * La barre de fonctionnalités à gauche de l'écran,
-* La barre de veille à droite de l'écran,
-* La section au centre contenant les tuiles synthétisant les différentes fonctionnalités.
+* L'onglet de la communauté à droite de l'écran,
+* La section au centre contenant les tuiles synthétisant l'actualité et la veille de votre espace, et les différentes fonctionnalités.
 
-![La barre de fonctionnalités à gauche de l'écran](<../.gitbook/assets/image (154).png>)
+![La barre de fonctionnalités à gauche de l'écran](<../.gitbook/assets/Capture web\_3-5-2022\_154256\_app.dastra.eu.jpeg>)
 
-![La barre de veille à droite de l'écran.](<../.gitbook/assets/image (159).png>)
+![L'onglet de la communauté à droite de l'écran.](<../.gitbook/assets/Capture web\_3-5-2022\_154626\_app.dastra.eu.jpeg>)
 
 ### Les tuiles du tableau de bord
 
@@ -26,6 +26,7 @@ Dans la section contenant les tuiles, vous pouvez modifier l'ordre d'apparence d
 
 Il existe plusieurs **catégories de tuiles** disponible dans le tableau de bord :
 
+* **Actualité et veille**
 * **Traitements de données**&#x20;
 * **Analyse de risque**
 * **Vos audits**
