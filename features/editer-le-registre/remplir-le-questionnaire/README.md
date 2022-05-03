@@ -1,7 +1,7 @@
 ---
 description: >-
-  Apprenez à remplir 100% des informations relatives à un seul traitement de
-  données dans votre registre.
+  Apprenez à remplir 100% des informations relatives à un traitement de données
+  dans votre registre.
 ---
 
 # Compléter un traitement
@@ -18,7 +18,7 @@ Le questionnaire Dastra est là pour vous aider à fournir toutes les informatio
 
 Les 12 étapes sont:&#x20;
 
-* **Général** - Cette section vous permet de saisir des informations générales sur le traitement de données à caractère personnel, telles que son nom et sa description.
+* **Général** - Cette section vous permet de saisir des informations générales sur le traitement de données à caractère personnel, telles que son nom et sa description.&#x20;
 
 {% content-ref url="generalites.md" %}
 [generalites.md](generalites.md)
@@ -42,7 +42,7 @@ Les 12 étapes sont:&#x20;
 [finalites.md](finalites.md)
 {% endcontent-ref %}
 
-* **Applications** - Cette section vous permet de répertorier les applications, internes ou externes à l'organisation, prenant en charge l'exécution du traitement de données concerné.&#x20;
+* **Actifs** - Cette section vous permet de répertorier tout ce qui peut être lié avec votre traitements : des applications, des personnes, des objets etc.&#x20;
 
 {% content-ref url="applications.md" %}
 [applications.md](applications.md)
@@ -60,13 +60,11 @@ Les 12 étapes sont:&#x20;
 [droits-des-personnes.md](droits-des-personnes.md)
 {% endcontent-ref %}
 
-* **Destinataires** - Cette section répertorie les destinataires des données de traitement.&#x20;
+* **Destinataires** - Cette section répertorie les destinataires des données de traitement. C'est à cette étape que vous pouvez déclarer un transfert de données hors UE.&#x20;
 
 {% content-ref url="destinataires.md" %}
 [destinataires.md](destinataires.md)
 {% endcontent-ref %}
-
-* **Transferts de données** - répertorie tous les transferts de données appliqués dans le cadre du traitement de données à caractère personnel.&#x20;
 
 {% content-ref url="transferts-de-donnees-hors-ue.md" %}
 [transferts-de-donnees-hors-ue.md](transferts-de-donnees-hors-ue.md)
@@ -84,13 +82,13 @@ Les 12 étapes sont:&#x20;
 [analyse-dimpact.md](analyse-dimpact.md)
 {% endcontent-ref %}
 
-* **Documents** - Dans cet espace, vous pouvez télécharger tout document supplémentaire pour votre activité de traitement de données (par exemple, Code de déontologie, politique de confidentialité, etc.)
+* **Documentation** - Dans cet espace, vous pouvez télécharger tout document supplémentaire pour votre activité de traitement de données (par exemple, Code de déontologie, politique de confidentialité, etc.)
 
 {% content-ref url="documents.md" %}
 [documents.md](documents.md)
 {% endcontent-ref %}
 
-1. **Résumé -** synthèse de ce qui précède.&#x20;
+* **Récapitulatif -** synthèse de ce qui précède.&#x20;
 
 Une fois que vous avez saisi les informations dont vous disposez, vous pouvez commencer à faire le point sur ce qui vous reste à faire.
 
