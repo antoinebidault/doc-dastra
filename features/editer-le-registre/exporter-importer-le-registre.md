@@ -6,14 +6,14 @@ description: Apprenez à exporter et importer un registre existant complet dans 
 
 ## L'export de registre
 
-Pour exporter l'ensemble du registre, il vous suffit de vous rendre dans la fonctionnalité "Registre", de cliquer sur les 3 petits points en haut à droite, puis de sélectionner "exporter le registre".
+Pour exporter l'ensemble du registre, il vous suffit de vous rendre dans le module "Registre", de cliquer sur la flèche en haut à droite à côté de la création d'un traitement, puis de sélectionner "exporter le registre".
 
-![](<../../.gitbook/assets/image (165).png>)
+![Menu déroulant du registre comportant la fonctionnalité d'export](<../../.gitbook/assets/Capture web\_3-5-2022\_164438\_app.dastra.eu.jpeg>)
 
-Choisissez ensuite le format d'export ainsi que le template d'export désiré (par exemple "article 30"), et cliquez sur "Télécharger le fichier". Ca y est, votre registre est exporté !
+Choisissez ensuite le format d'export ainsi que le type d'export désiré (complet ou format article 30), et cliquez sur "Télécharger le fichier". Ca y est, votre registre est exporté !
 
 {% hint style="info" %}
-Il est également possible de n'exporter qu'un ou plusieurs traitements du registre, au lieu du registre entier. Pour cela, sélectionnez les traitements concernés manuellement en cochant les cases à gauche du registre, puis "Action groupée" et "Exporter".
+Il est également possible de n'exporter qu'un ou plusieurs traitements du registre, au lieu du registre entier. Pour cela, sélectionnez les traitements concernés manuellement en cochant les cases à gauche du registre, puis "Choisir une action groupée" et "Exporter".
 {% endhint %}
 
 ## L'import de registre
