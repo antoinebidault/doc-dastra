@@ -20,7 +20,9 @@ Choisissez une des cinq options possibles, détaillez votre réponse et cliquez 
 
 Ca y est, votre demande de support a été envoyé ! notre équipe vous répondra dans les meilleurs délais.
 
+### Le Chat
 
+Si votre problème est urgent ou que vous souhaitez discuter facilement avec nous, il vous est désormais possible de nous contacter directement via le chat Crisp. Cette application vous permet de discuter avec un des membres de notre équipe en direct. Vous y accédez par le panneau d'aide, ou en cliquant sur l'assistant dastronaute puis sur "discutez avec nous sur le chat".&#x20;
 
 ### Autres demandes
 
