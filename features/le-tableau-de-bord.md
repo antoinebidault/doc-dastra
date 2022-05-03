@@ -16,7 +16,7 @@ Celui-ci est composé de 3 sections principales :
 
 ![La barre de fonctionnalités à gauche de l'écran](<../.gitbook/assets/Capture web\_3-5-2022\_154256\_app.dastra.eu.jpeg>)
 
-![L'onglet de la communauté à droite de l'écran.](<../.gitbook/assets/Capture web\_3-5-2022\_154626\_app.dastra.eu.jpeg>)
+![L'onglet de la communauté à droite de l'écran](<../.gitbook/assets/Capture web\_3-5-2022\_154626\_app.dastra.eu.jpeg>)
 
 ### Les tuiles du tableau de bord
 
@@ -39,7 +39,7 @@ Il existe plusieurs **catégories de tuiles** disponible dans le tableau de bord
 
 Vous pouvez également imprimer le tableau de bord ou invitez directement en utilisateur en cliquant sur l'un des boutons disponibles en haut à droite de la section réservée aux tuiles.
 
-![Les boutons imprimer et inviter un utilisateurs](<../.gitbook/assets/image (161).png>)
+![Les boutons imprimer et inviter un utilisateur](<../.gitbook/assets/image (161).png>)
 
 ## Aller plus loin
 
