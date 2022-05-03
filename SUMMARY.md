@@ -53,7 +53,7 @@
     * [Parties prenantes](features/editer-le-registre/remplir-le-questionnaire/acteurs.md)
     * [Finalités](features/editer-le-registre/remplir-le-questionnaire/finalites.md)
     * [Données et conservation](features/editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md)
-    * [Applications](features/editer-le-registre/remplir-le-questionnaire/applications.md)
+    * [Actifs](features/editer-le-registre/remplir-le-questionnaire/applications.md)
     * [Personnes concernées](features/editer-le-registre/remplir-le-questionnaire/personnes-concernees.md)
     * [Droits des personnes](features/editer-le-registre/remplir-le-questionnaire/droits-des-personnes.md)
     * [Destinataires](features/editer-le-registre/remplir-le-questionnaire/destinataires.md)

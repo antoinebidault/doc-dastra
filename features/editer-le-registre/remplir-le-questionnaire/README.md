@@ -1,7 +1,7 @@
 ---
 description: >-
-  Apprenez à remplir 100% des informations relatives à un traitement de données
-  dans votre registre.
+  Apprenez à remplir 100% des informations relatives à un seul traitement de
+  données dans votre registre.
 ---
 
 # Compléter un traitement
@@ -18,7 +18,7 @@ Le questionnaire Dastra est là pour vous aider à fournir toutes les informatio
 
 Les 12 étapes sont:&#x20;
 
-* **Général** - Cette section vous permet de saisir des informations générales sur le traitement de données à caractère personnel, telles que son nom et sa description.&#x20;
+* **Général** - Cette section vous permet de saisir des informations générales sur le traitement de données à caractère personnel, telles que son nom et sa description.
 
 {% content-ref url="generalites.md" %}
 [generalites.md](generalites.md)
@@ -42,7 +42,7 @@ Les 12 étapes sont:&#x20;
 [finalites.md](finalites.md)
 {% endcontent-ref %}
 
-* **Actifs** - Cette section vous permet de répertorier tout ce qui peut être lié avec votre traitements : des applications, des personnes, des objets etc.&#x20;
+* **Applications** - Cette section vous permet de répertorier les applications, internes ou externes à l'organisation, prenant en charge l'exécution du traitement de données concerné.&#x20;
 
 {% content-ref url="applications.md" %}
 [applications.md](applications.md)
