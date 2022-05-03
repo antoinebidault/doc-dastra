@@ -24,13 +24,7 @@ Pour éviter de remplir chaque traitement à la main et prendre en compte tous l
 Ces étapes, non obligatoires, sont néanmoins fortement conseillées notamment lorsque le registre de traitement contient de nombreux traitements.
 {% endhint %}
 
-N'hésitez pas à consulter également les référentiels de la CNIL mis à disposition par Dastra  dans la page suivante:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-
+N'hésitez pas à consulter également notre bibliothèque de modèles de traitements de données : [https://www.dastra.eu/fr/data-processing/referentials](https://www.dastra.eu/fr/data-processing/referentials)
 
 ## Etape 1 : Import des labels de traitement
 
