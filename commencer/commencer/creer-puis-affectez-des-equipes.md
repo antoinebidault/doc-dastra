@@ -16,7 +16,7 @@ Pour créer une nouvelle équipe ou assigner un nouvel utilisateur à une équip
 
 Pour créer une équipe, cliquez sur le bouton "Ajouter une équipe".
 
-Pour ajouter un utilisateur à une équipe existante, cliquez sur le bouton "utilisateurs" à droite de l'équipe. La liste des utilisateurs assignés à cette équipe s'affiche et vous pouvez ajouter les utilisateurs concernés, ou envoyer une invitation à un nouvel utilisateur.
+Pour ajouter un utilisateur à une équipe existante, cliquez sur les 3 points à droite de l'équipe puis sur modifier, ou directement sur le nom de l'équipe concernée. La liste des utilisateurs assignés à cette équipe s'affiche et vous pouvez ajouter les utilisateurs désirés, ou envoyer une invitation à un nouvel utilisateur.
 
 
 
