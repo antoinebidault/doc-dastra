@@ -3,7 +3,7 @@
 La gestion des risques dans Dastra peut prendre plusieurs formes :
 
 * L'analyse d'impact relative à la protection des données (AIPD / PIA),
-* L'identification et l'évaluation des risques,
+* L'identification et l'évaluation des risques (grâce au module Risques),
 * Les audits.
 
 ### L'analyse d'impact
@@ -30,9 +30,9 @@ Ces critères sont directement intégrés à notre workflow de création de trai
 
 ![Exemple de traitement nécessitant potentiellement un PIA.](<../../.gitbook/assets/image (23).png>)
 
-### L'évaluation des risques
+### L'identification et l'évaluation des risques
 
-Le module de gestion des risques dans Dastra vous permet de gérer les risques au niveau de vos traitements, de vos acteurs (par exemple, les sous-traitants) et de vos applications.&#x20;
+Le module Risques dans Dastra vous permet de gérer les risques au niveau de vos traitements, de vos acteurs (par exemple, les sous-traitants) et de vos actifs.&#x20;
 
 La méthodologie de gestion des risques répond aux exigences standard de gestion des risques sur les systèmes d'information.&#x20;
 
