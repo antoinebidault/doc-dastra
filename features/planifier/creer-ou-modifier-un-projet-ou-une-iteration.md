@@ -9,7 +9,7 @@ description: Apprenez à créer ou modifier un projet ou une itération
 Dans Dastra,
 
 * &#x20;un projet fait référence à une liste de tâches correspondant usuellement à un périmètre fonctionnel.
-* une itération fait référence à une liste de tâches correspondant usuellement à du travail devant être réalisé sur une période donné
+* une itération fait référence à une liste de tâches correspondant usuellement à du travail devant être réalisé sur une période donnée
 
 ## Créer ou modifier un projet
 
@@ -34,6 +34,10 @@ Vous accéderez ainsi à l'interface des itérations où vous pourrez créer de 
 ![Bouton " créer une itération"](<../../.gitbook/assets/image (229).png>)
 
 ![Menu déroulant d'une itération](<../../.gitbook/assets/image (230).png>)
+
+Un second onglet, "itérations courantes", vous permet de voir toutes les tâches qui sont situées dans l'itération en cours.&#x20;
+
+![L'onglet itération courante dans le module de planification](<../../.gitbook/assets/Capture web\_4-5-2022\_15256\_app.dastra.eu.jpeg>)
 
 ## Aller plus loin
 
