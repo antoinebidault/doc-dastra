@@ -6,23 +6,27 @@ description: Apprenez à suivre vos tâches
 
 ## Introduction
 
-Dans Dastra,  l'ensemble des tâches du plan d'action peuvent faire l'objet d'un suivi depuis l'onglet "reporting" accessible dans le module "planification", et d'être exportées.
+Dans Dastra,  l'ensemble des tâches du plan d'action peuvent faire l'objet d'un suivi depuis l'onglet "Statistiques", accessible dans le module "planification", et être exportées.
 
-![L'onglet "Reporting"](<../../.gitbook/assets/image (231).png>)
+![L'onglet "Statistiques"](<../../.gitbook/assets/Capture web\_4-5-2022\_15757\_app.dastra.eu.jpeg>)
 
-Cela permet notamment de piloter vos processus et réaliser des reporting à l'aide de KPI dans un mode agile, pour _in fine_ démontrer la responsabilisation ("accountability") de votre entreprise vis-à-vis du RGPD.&#x20;
+Cela permet notamment de piloter vos processus et réaliser des statistiques à l'aide de KPI dans un mode agile, pour _in fine_ démontrer la responsabilisation ("accountability") de votre entreprise vis-à-vis du RGPD.&#x20;
 
 ## Suivi des tâches
 
-#### Liste
+#### Onglet tableau
 
-La liste des tâches vous permet de visualiser l'ensemble des tâches. La visualisation peut être personnalisée grâce à l'interface de configuration dédiée.
+L'onglet colonnes permet d'afficher une liste de l'ensemble des tâches.&#x20;
 
-![Ecran de personnalisation du reporting des tâches](<../../.gitbook/assets/image (241).png>)
+![Onglet tableau du module Planification](<../../.gitbook/assets/Capture web\_4-5-2022\_151055\_app.dastra.eu.jpeg>)
 
-#### Tableau&#x20;
+La visualisation peut être personnalisée grâce à l'interface de configuration dédiée (boutons "filtres" et "colonnes").
 
-Le tableau de synthèse des tâches vous permet de visualiser l'ensemble des tâches par statut de manière graphique.
+![Ecran de personnalisation de l'onglet tableau](<../../.gitbook/assets/image (241).png>)
+
+#### Onglet colonnes&#x20;
+
+L'onglet colonne permet d'accéder à une synthèse des tâches, qui vous permet de visualiser l'ensemble des tâches par statut de manière graphique.
 
 ![Exemple de tableau de synthèse des tâches](<../../.gitbook/assets/image (239).png>)
 
@@ -54,13 +58,11 @@ Il est possible de filtrer les tâches par ordre de priorité, tags, départemen
 
 ## Export des tâches
 
-Pour exporter les tâches, allez dans l'onglet "liste" ou "tableau" du module "planification", puis cliquez sur les trois points verticaux à droite de l'écran, puis sur le bouton "Exportez les données".
-
-![](<../../.gitbook/assets/image (33).png>)
+Pour exporter les tâches, allez dans l'onglet "colonne" ou "tableau" du module "planification", puis cliquez sur la flèche à droite de l'écran, puis sur le bouton "Exportez les données".
 
 ![](<../../.gitbook/assets/image (66).png>)
 
-Un fenêtre apparaît avec un choix de formats possibles à l'export. Cliquez sur le format de votre choix puis sur le bouton "Télécharger le fichier".
+Une fenêtre apparaît avec un choix de formats possibles à l'export. Cliquez sur le format de votre choix puis sur le bouton "Télécharger le fichier".
 
 ![](<../../.gitbook/assets/image (64).png>)
 

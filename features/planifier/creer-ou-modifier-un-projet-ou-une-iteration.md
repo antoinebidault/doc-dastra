@@ -37,7 +37,7 @@ Vous accéderez ainsi à l'interface des itérations où vous pourrez créer de 
 
 Un second onglet, "itérations courantes", vous permet de voir toutes les tâches qui sont situées dans l'itération en cours.&#x20;
 
-![L'onglet itération courante dans le module de planification](<../../.gitbook/assets/Capture web\_4-5-2022\_15256\_app.dastra.eu.jpeg>)
+![L'onglet itération courante dans le module de planification](<../../.gitbook/assets/Capture web\_4-5-2022\_15256\_app.dastra.eu (1).jpeg>)
 
 ## Aller plus loin
 
