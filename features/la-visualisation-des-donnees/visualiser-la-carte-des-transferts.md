@@ -12,13 +12,13 @@ Cette visualisation permet en particulier d'explorer, analyser et de comprendre 
 
 ## Visualiser la carte des transferts
 
-Pour visualiser la cartographie des données du registre, cliquer sur le module "Registres" puis  cliquez sur la flèche à droite du bouton, pour sélectionner l'option "**Carte des transferts**".
+Pour visualiser la carte des transferts, cliquer sur le module "Registres" puis cliquez sur le bouton "**Transferts**" au dessus de votre liste de traitements.&#x20;
 
 
 
 ![Module "Registres"](<../../.gitbook/assets/image (199).png>)
 
-![Flèche à droite du bouton & menu déroulant](<../../.gitbook/assets/image (201).png>)
+![Onglet transfert au dessus des traitements](<../../.gitbook/assets/Capture web\_4-5-2022\_101533\_app.dastra.eu.jpeg>)
 
 Ainsi, vous pourrez **visualiser la carte des transferts.**
 
