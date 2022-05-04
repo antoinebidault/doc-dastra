@@ -6,7 +6,7 @@ description: Apprenez à partager votre registre.
 
 ## Partage de l'intégralité du registre
 
-Depuis la section "Registre" de DASTRA, cliquez sur le bouton avec les trois points en haut à droit du registre, puis dans le menu déroulant, sur "partager".
+Depuis la section "Registre" de DASTRA, cliquez sur la flèche en haut à droite du registre à côté du bouton de création d'un traitement, puis dans le menu déroulant, sur "partager".
 
 Une fois cliqué, une fenêtre apparaît sur l'écran vous demandant la date d'expiration du lien de partage, puis cliquez sur "créer un lien".
 
@@ -14,7 +14,7 @@ Une fois cliqué, une fenêtre apparaît sur l'écran vous demandant la date d'e
 
 
 
-Le partage prendra en compte l'ensemble des traitements avec le statut "publié". Les traitements en brouillon ne sont partagés avec cette fonction. Pour partager un traitement, en brouillon, il faut le partager de manière individuelle.&#x20;
+Le partage prendra en compte l'ensemble des traitements avec le statut "publié". Les traitements en brouillon ne sont pas partagés avec cette fonction. Pour partager un traitement, en brouillon, il faut le partager de manière individuelle.&#x20;
 
 ![Interface de configuration du partage](<../../.gitbook/assets/image (178).png>)
 
@@ -31,21 +31,19 @@ Le lien de partage est un lien à durée de vie limitée que vous pouvez utilise
 
 ## **Génération d'un lien de partage pour un traitement de données**
 
-Reproduisez le processus décrit ci-dessus, mais en cliquant sur le bouton à trois points spécifique au traitement que vous souhaitez partager, puis cliquez sur "partager".
-
-Vous pouvez également cliquer sur le bouton droit de votre souris pour obtenir ce menu.
+Reproduisez le processus décrit ci-dessus, mais en allant à l'intérieur du traitement que vous souhaitez partager. Ensuite, cliquez sur la flèche à côté du bouton enregistrer, puis cliquez sur "partager".
 
 Les traitements sont partageables quelque soit le statut (publié ou brouillon).
 
 ![](<../../.gitbook/assets/image (18).png>)
 
-Il est également possible de partager plusieurs traitements en les sélectionnant et choisissant l'action groupée "partager".&#x20;
+Il est également possible de partager plusieurs traitements en les sélectionnant dans le menu Registre et choisissant l'action groupée "partager".&#x20;
 
 
 
 ## Gérer les liens de partage
 
-L'ensemble des liens de partage créés sur votre espace de travail sont centralisés au niveau de la console de gestion.&#x20;
+L'ensemble des liens de partage créés sur votre espace de travail sont centralisés au niveau de la console de gestion (menu Réglages).&#x20;
 
 Vous pourrez les visualiser et les supprimer le cas échéant.
 
