@@ -39,10 +39,6 @@ Pour visualiser les risques sur les traitements, il est nécessaire de vous rend
 
 Vous devez vous rendre sur l'onglet "Risques" et vous aurez une visualisation de l'ensemble des risques triés selon les éléments liés à chaque risque.&#x20;
 
-
-
-
-
 ### Evaluation du niveau de risque
 
 Le niveau de risque est calculé selon la formule suivante :
@@ -56,8 +52,7 @@ Le risque global est calculé selon la formule suivante :\
 
 
 `somme (probabilité* impact ) / nombre de risques`\
-``\
-``****
+``
 
 Le niveau du traitement ayant le plus de risque est calculé selon la formule suivante :\
 
@@ -70,25 +65,5 @@ Le niveau du traitement ayant le plus de risque est calculé selon la formule su
 {% content-ref url="../planifier/" %}
 [planifier](../planifier/)
 {% endcontent-ref %}
-
-
-
-****
-
-
-
-
-
-
-
-****
-
-****
-
-****
-
-****
-
-****
 
 ****
