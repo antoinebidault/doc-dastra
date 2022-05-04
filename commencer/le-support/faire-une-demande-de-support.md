@@ -16,7 +16,7 @@ Après avoir cliqué sur le bouton support, une fenêtre apparait dans l'applica
 
 Choisissez une des cinq options possibles, détaillez votre réponse et cliquez sur le bouton "Envoyer la requête".&#x20;
 
-![Formulaire de demande de support](<../../.gitbook/assets/Capture web\_3-5-2022\_152923\_app.dastra.eu.jpeg>)
+![Formulaire de demande de support](<../../.gitbook/assets/Capture web\_3-5-2022\_152923\_app.dastra.eu (1).jpeg>)
 
 Ca y est, votre demande de support a été envoyé ! notre équipe vous répondra dans les meilleurs délais.
 

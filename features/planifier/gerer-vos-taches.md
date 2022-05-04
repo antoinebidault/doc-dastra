@@ -8,7 +8,7 @@ description: Apprenez à concevoir et modifier vos tâches.
 
 La création et le suivi d'une tâche de protection des données n'a jamais été plus simple grâce au module planification de Dastra.
 
-Dans Dastra, une tâche correspond à un travail qui doit exécuter.
+Dans Dastra, une tâche correspond à un travail qui doit être exécuté.
 
 ## Création d'une tâche&#x20;
 
@@ -23,7 +23,7 @@ Dans la page principale du module "planification", cliquez sur "Nouvelle tâche"
 
 ![Bouton de création d'une nouvelle tâche](<../../.gitbook/assets/image (177).png>)
 
-![Interface de documentation de la tâche](<../../.gitbook/assets/image (176).png>)
+![Interface de documentation de la tâche](<../../.gitbook/assets/Capture web\_4-5-2022\_14206\_app.dastra.eu.jpeg>)
 
 {% hint style="info" %}
 Chaque tâche dans Dastra peut être affectée à un élément présent dans l'application,  par exemple :
@@ -72,7 +72,7 @@ Il est possible de créer une liste de sous-tâches à chaque tâche dans Dastra
 
 Lors de la création de la tâche, vous aurez la possibilité d'allouer cette tâche à un utilisateur de Dastra, soit en tant que "propriétaire", soit en tant que "contributeur".
 
-Cette personnes seront notifiées par mail dès la modification d'une tâche.
+Ces personnes seront notifiées par mail dès la modification d'une tâche.
 
 ## Modifier une tâche
 
@@ -81,7 +81,7 @@ Pour modifier une tâche, il suffit de cliquer sur les trois points à droite d'
 ![Menu déroulant d'une tâche](<../../.gitbook/assets/image (222).png>)
 
 {% hint style="info" %}
-Pour modifier le statut d'une tâche encore plus simplement, vous pouvez "cliquer - déposer" celle-ci depuis l'onglet "tableau".
+Pour modifier le statut d'une tâche encore plus simplement, vous pouvez "cliquer - déposer" celle-ci depuis l'onglet "tableau", qui permet une répartition des tâches entre 4 colonnes de statut : "nouveau", informations complémentaires requises", "en cours", "fait". Vous pouvez également personnaliser les colonnes de statut.&#x20;
 {% endhint %}
 
 ## Archiver ou supprimer une tâche
