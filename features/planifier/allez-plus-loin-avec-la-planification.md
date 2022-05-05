@@ -8,7 +8,8 @@ Le module Planification de DASTRA vous permets également d'aller plus loin dans
 
 En plus de création, suivi et export des tâches, DASTRA vous permets également:
 
-* De personnaliser le workflow des tâches en vous rendant dans "Configuration" / "Personnalisation des processus" :
+* De personnaliser le workflow des tâches en vous rendant dans "Réglages" / "Déroulement du processus"
+* D'assigner des tags à vos tâches pour pouvoir les trier plus simplement&#x20;
 
 ![Personnalisation du workflow des tâches](<../../.gitbook/assets/image (162).png>)
 
