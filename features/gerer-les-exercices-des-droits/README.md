@@ -16,7 +16,7 @@ Pour faire cela, l'entreprise ou l'organisation doit mettre en place des procéd
 
 Dastra vous permet de constituer un registre de demandes d'exercice de droits centralisant toutes les demandes passées, présentes et à venir. Celui-ci est disponible en cliquant dans l'onglet "exercice des droits" dans le bandeau à gauche de l'écran.&#x20;
 
-![Registre de demande d'exercice de droits](<../../.gitbook/assets/image (29).png>)
+![Registre de demande d'exercice de droits](<../../.gitbook/assets/Capture web\_5-5-2022\_16246\_app.dastra.eu.jpeg>)
 
 ## Renseigner une nouvelle demande d'exercice de droits
 
@@ -32,15 +32,13 @@ En cliquant sur le bouton "Créer une demande", une fenêtre apparaît où vous 
 
 ![Etape de documentation d'une demande](<../../.gitbook/assets/image (174).png>)
 
-
-
 ### Import / export du registre de demandes d'exercices de droits
 
-L'ensemble du registre des demandes est importable et exportable. Pour importer une demande, cliquez sur les trois points verticaux à droite de l'écran.&#x20;
+L'ensemble du registre des demandes est importable et exportable. Pour importer une demande, cliquez sur la flèche à côté du bouton "créer une demande"
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/Capture web\_5-5-2022\_163517\_app.dastra.eu.jpeg>)
 
-Un fenêtre apparaît avec un bouton "import". Cliquez dessus, télécharger le modèle de registre puis suivez les instructions pour importer les demandes dans Dastra. Une fois importée, la demande sera directement disponible dans le registre de demandes.
+Un fenêtre apparaît avec un bouton "import". Cliquez dessus, téléchargez le modèle de registre puis suivez les instructions pour importer les demandes dans Dastra. Une fois importée, la demande sera directement disponible dans le registre de demandes.
 
 ![Fenêtre d'import de registre de demandes d'exercice de droits](<../../.gitbook/assets/image (34).png>)
 
