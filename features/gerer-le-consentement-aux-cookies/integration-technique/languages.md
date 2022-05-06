@@ -6,17 +6,13 @@ description: Cette page explique comment gérer les langues du widget de consent
 
 ## Comment gérer plusieurs langues pour le widget ?
 
-Rendez-vous sur la page de templating du widget, onglet "Text". Vous pouvez ajouter une ou plusieurs locales.
+Rendez-vous sur la page de templating du widget, onglet "Textes et traductions". Vous pouvez ajouter une ou plusieurs langues.
 
-![](<../../../.gitbook/assets/image (183).png>)
+![](<../../../.gitbook/assets/Capture web\_6-5-2022\_102131\_app.dastra.eu.jpeg>)
 
 {% hint style="warning" %}
 Attention, seuls le français et l'anglais sont supportés aujourd'hui.
 {% endhint %}
-
-
-
-
 
 ## Comment est détecté la langue du widget ?
 
