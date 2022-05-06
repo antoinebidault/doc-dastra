@@ -58,7 +58,7 @@ Une fois le paramétrage terminé, cliquez ensuite sur "Publier". Vous pouvez é
 
 Une fois votre widget de consentement aux cookies cible défini, vous pouvez l'intégrer directement sur votre site web grâce aux **lignes de code générées automatiquement** par DASTRA.\
 \
-Pour cela, rendez-vous dans l'interface "Code" du module Consentement aux cookies de DASTRA, et insérez le code généré automatiquement avant la fin de la balise html \<body> de votre site internet.
+Pour cela, rendez-vous dans l'onglet "Installation" une fois que vous avez sélectionné votre widget dans le menu du module de Cookies, et insérez le code généré automatiquement avant la fin de la balise html \<body> de votre site internet.
 
 ![Génération de code html du widget](<../../../.gitbook/assets/image (58).png>)
 
