@@ -12,7 +12,7 @@ DASTRA vous permets de mettre un place un widget de consentement aux cookies dir
 
 Ce widget se compose de plusieurs éléments:
 
-![Un symbole "cookies" apparaissant en bas à gauche de l'écran](<../../../.gitbook/assets/image (41).png>)
+![Un symbole "cookies" apparaissant en bas à gauche de l'écran](<../../../.gitbook/assets/Capture web\_6-5-2022\_93427\_www.dastra.eu.jpeg>)
 
 ![Une fenêtre d'introduction dépliable](<../../../.gitbook/assets/image (42).png>)
 
@@ -23,7 +23,7 @@ Ce widget se compose de plusieurs éléments:
 Pour implémenter votre widget de consentement aux cookies, vous devez préalablement avoir **identifié** et **classifié** par catégories de finalités **les cookies déposés sur votre site internet.** Le module Consentement aux cookies de DASTRA permets de faire cela en quelques clics.
 
 {% hint style="info" %}
-Pour rendre l'implémentation du widget de consentement aux cookies plus facile, Dastra a intégré dans le même module toutes les étapes nécessaires, depuis la mise en place des pré-requis jusqu'aux lignes de code.
+Pour rendre l'implémentation du widget de consentement aux cookies plus facile, Dastra a intégré dans le même module toutes les étapes nécessaires, depuis la mise en place des prérequis jusqu'aux lignes de code.
 {% endhint %}
 
 Pour scanner les cookies déposés sur votre site Web, rendez-vous sur la page suivante :
@@ -40,21 +40,19 @@ Pour classifier les cookies par catégories de consentement, rendez-vous sur la 
 
 ## Définissez l'apparence de votre widget de consentement aux cookies cible
 
-Pour mettre en place un widget de consentement aux cookies sur votre site internet, vous devez vous rendre sur l'interface "Apparence" du module Consentement aux cookies de DASTRA.
+Pour mettre en place un widget de consentement aux cookies sur votre site internet, vous devez vous rendre sur l'interface "Apparence" du module Consentement aux cookies de DASTRA. Une fois que vous avez créé votre premier widget de consentement, cliquez dessus pour faire apparaître une page où vous retrouvez un ensemble de fonctionnalités pour le widget. Cliquez sur "apparence du widget".&#x20;
 
-![Interface "Apparence" du module Consentement aux Cookies DASTRA](<../../../.gitbook/assets/image (55).png>)
-
-![Section "Cookies" du module Consentement aux cookies"](<../../../.gitbook/assets/image (56).png>)
+![Interface "Apparence" du module Consentement aux Cookies DASTRA](<../../../.gitbook/assets/Capture web\_6-5-2022\_93842\_app.dastra.eu.jpeg>)
 
 A partir de cette interface, vous pouvez **personnaliser intégralement votre widget** pour qu'il s'affiche de la façon dont vous le souhaitez sur votre site internet.&#x20;
 
 {% hint style="info" %}
-Vous pouvez également apporter d'autres modifications sur le widget, comme modifier la position relative, les couleurs, le texte et les déclencheurs dans les sections "Texte", "Design" et "Déclencheurs".
+Vous pouvez également apporter d'autres modifications plus générales sur le widget dans les sections "Configuration", "Textes et traductions" et "Déclencheurs".
 {% endhint %}
 
-Une fois le paramétrage terminé, cliquez ensuite sur "Enregistrer et continuer".
+Une fois le paramétrage terminé, cliquez ensuite sur "Publier". Vous pouvez également prévisualisr le rendu final sur la page de votre site web en cliquant sur "Prévisualiser".&#x20;
 
-![](<../../../.gitbook/assets/image (57).png>)
+![](<../../../.gitbook/assets/Capture web\_6-5-2022\_94118\_app.dastra.eu.jpeg>)
 
 ## Insérez le code du widget sur votre site web
 
