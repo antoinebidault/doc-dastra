@@ -26,7 +26,7 @@ Dans Dastra, les PIA sont considérés comme **un modèle d'audit** particulier.
 
 &#x20;Pour accéder à la fonctionnalité "Audit", cliquer sur la fonctionnalité "Audit" à gauche de l'écran.
 
-![](<../../.gitbook/assets/image (137).png>)
+![](<../../.gitbook/assets/Capture web\_6-5-2022\_103140\_app.dastra.eu.jpeg>)
 
 ## Créer ou modifier un modèle d'audit ou de PIA
 
