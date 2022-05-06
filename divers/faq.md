@@ -2,7 +2,7 @@
 
 ## Combien de temps dure mon offre d'essai ?
 
-L'offre d'essai dure 2 semaines.&#x20;
+L'offre d'essai dure 1 mois.&#x20;
 
 ## Que se passe-t-il quand mon offre d'essai expire ?
 
