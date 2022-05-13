@@ -77,7 +77,7 @@ Utilisation du modèle de gestion des accès [RBAC ](https://en.wikipedia.org/wi
 
 ![](<../.gitbook/assets/image (22).png>)
 
-L'autorité d'authentification est [https://account.dastra.eu](https://account.dastra.eu) utilise la technologie [IdentityServer4 ](https://identityserver.io)pour assurer l'authentification de tous nos utilisateurs.&#x20;
+L'autorité d'authentification est [https://account.dastra.eu](https://account.dastra.eu) utilise la technologie [IdentityServer4 ](https://identityserver.io/)pour assurer l'authentification de tous nos utilisateurs.&#x20;
 
 **OpenID** est un système d’[authentification](https://fr.wikipedia.org/wiki/Authentification) décentralisé qui permet l’[authentification unique](https://fr.wikipedia.org/wiki/Authentification\_unique), ainsi que le partage d’attributs. Il permet à un utilisateur de s’authentifier auprès de plusieurs sites (devant prendre en charge cette technologie) sans avoir à retenir un identifiant pour chacun d’eux mais en utilisant à chaque fois un unique identifiant OpenID.
 

@@ -123,6 +123,7 @@
   * [Référentiels](features/settings/referentials.md)
   * [Rôles et permissions](features/settings/roles-et-permissions.md)
   * [Les workflows](features/settings/les-workflows.md)
+  * [Webhooks](features/settings/webhooks.md)
 
 ## 📄 La documentation API <a href="#api-references" id="api-references"></a>
 

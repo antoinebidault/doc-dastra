@@ -28,7 +28,7 @@ Celui-ci vous permettra d'identifier à la volée les services installés sur vo
 [scannez-les-cookies-deposes-sur-votre-site-web.md](scannez-les-cookies-deposes-sur-votre-site-web.md)
 {% endcontent-ref %}
 
-En complément, il est recommandé d'examiner avec précision l'ensemble des services installés sur votre site (examen du code source de la page, inspection des cookies...). Des outils comme [https://builtwith.com/](https://builtwith.com) peuvent également vous venir en aide pour lister ces services.
+En complément, il est recommandé d'examiner avec précision l'ensemble des services installés sur votre site (examen du code source de la page, inspection des cookies...). Des outils comme [https://builtwith.com/](https://builtwith.com/) peuvent également vous venir en aide pour lister ces services.
 
 Pour chaque domaine ou site web que vous souhaitez cartographier, nous vous recommandons de rédiger une liste exhaustive des services tiers utilisant les traceurs.
 
