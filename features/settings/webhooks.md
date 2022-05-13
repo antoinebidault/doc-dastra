@@ -34,7 +34,7 @@ Vous allez pouvoir tester votre webhook en condition réelle **en cliquant sur l
 
 
 
-## Comment sécuriser le webhook ?
+## Comment sécuriser le webhook ? 🛡️
 
 {% hint style="info" %}
 Même si ce n'est pas une obligation, il est **recommandé de valider la requête entrante** du webhook pour éviter les attaques potentielles d'un hackeur qui aurait sniffé le réseau et serait ainsi en capacité de poster n'importe quoi sur votre url de webhook.
@@ -134,3 +134,6 @@ public static string GetRequestBody()
 {% endtab %}
 {% endtabs %}
 
+## Dépannage
+
+Le webhook sera automatiquement bloqué et considéré en erreur quand le seuil de 5 erreurs est dépassé.
