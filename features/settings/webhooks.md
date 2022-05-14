@@ -6,7 +6,7 @@ description: Vous saurez tout sur l'intégration de webhooks dans Dastra
 
 ## Concept
 
-Pour faire simple, les webhooks permettent de **déclencher une action** suite à un événement. Ils sont généralement utilisés pour faire communiquer des systèmes. C’est la façon la plus simple de recevoir une alerte lorsque quelque chose se produit dans un autre système. L'objectif est de notifier les systèmes en temps réel
+Pour faire simple, les webhooks permettent de **déclencher une action** suite à un événement. Ils sont généralement utilisés pour faire communiquer des systèmes. C’est la façon la plus simple de recevoir une alerte lorsque quelque chose se produit dans Dastra. L'objectif est de notifier des applications tierces (API, CRM, Fonctions serverless...) en temps réel.
 
 
 
@@ -105,11 +105,11 @@ function hash_is_valid($secret, $payload, $verify)
 {% tab title="C#" %}
 ```csharp
 
+[HttpPost]
 public IActionResult Handle(){
     string dastraSignature = Request.Headers["Dastra-Signature"];
     string key = "Your validation key";
     string payload = GetRequestBody();
-    
 }
 
 public static bool ValidateSignature(string signature, string payload, string secret)
