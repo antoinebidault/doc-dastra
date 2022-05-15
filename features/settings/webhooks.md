@@ -4,7 +4,7 @@ description: Vous saurez tout sur l'intégration de webhooks dans Dastra
 
 # Webhooks
 
-## Concept
+## Concept 👓
 
 Pour faire simple, les webhooks permettent de **déclencher une action** suite à un événement. Ils sont généralement utilisés pour faire communiquer des systèmes. C’est la façon la plus simple de recevoir une alerte lorsque quelque chose se produit dans Dastra. L'objectif est de notifier des applications tierces (API, CRM, Fonctions serverless...) en temps réel.
 
@@ -17,36 +17,58 @@ Pour configurer vos webhooks, rendez-vous sur la page : [https://app.dastra.eu/g
 ![](<../../.gitbook/assets/image (252).png>)
 
 * Cliquez sur créer une "url de webhook"
-* Renseignez l'url
+* Renseignez l'url de réception de votre webhook. Pour en savoir plus consultez la section [Comment réceptionner le webhook](webhooks.md#undefined).
 * Renseignez l'espace de travail concerné
-* Sélectionnez le ou les évènements auxquels vous souhaitez vous abonner. Le type de données renvoyés sera différent selon le type d'évènement.
+* Sélectionnez le ou les évènements auxquels vous souhaitez vous abonner. Le type de données renvoyés sera différent selon le type d'évènement. Par exemple, vous pouvez déclencher le webhook lors de la création d'une nouvelle demande d'exercice de droit. Dans ce cas le body de la requête contiendra un json
 * Enregistrez le webhook
 
 Vous arrivez sur l'**écran de détail du webhook.**
 
 ![](<../../.gitbook/assets/image (254).png>)
 
+## Comment réceptionner le webhook 🛬
 
+Pour réceptionner les requêtes du webhook, vous devez créer un endpoint d'API de captation de l'évènement. La requête effectuée est en **POST** et sera toujours structurée de cette façon. Le body de la requête contient un json avec le détail de l'évènement déclenché.
 
-## Test
+Voici la structure générale de la réponse envoyée :&#x20;
 
-Vous allez pouvoir tester votre webhook en condition réelle **en cliquant sur le bouton "Tester"**
+```json
+{
+ "webhookId": <id of the webhook configured in dastra>,
+ "signatureUrl": "https://yourapi.com/webhooks/handle",
+ "userId": <The user whot triggered the event>,
+ "eventType": <The id of the event>,
+ "eventName": <The label of the event>,
+ "data": <Event dynamic data>,
+ "date": <date of the event>
+} 
+```
+
+Un timeout de 10 secondes est appliqué sur la requête, au delà de ce temps la requête sera en erreur. Il est nécessaire que le code de réponse soit 200.&#x20;
+
+{% hint style="info" %}
+Il n'existe pour l'instant aucun système permettant de rejouer les webhooks qui ont échoués et donc de compenser une éventuelle indisponibilité des serveurs de réception des webhooks. Dans ce cas, nous vous recommandons d'effectuer une synchronisation manuelle des évènements qui ont échoué.
+{% endhint %}
+
+## Tester votre url de webhooks 🧪
+
+Vous allez pouvoir tester votre webhook en condition réelle **en cliquant sur le bouton "Tester".**
 
 
 
 ## Comment sécuriser le webhook ? 🛡️
 
 {% hint style="info" %}
-Même si ce n'est pas une obligation, il est **recommandé de valider la requête entrante** du webhook pour éviter les attaques potentielles d'un hackeur qui aurait sniffé le réseau et serait ainsi en capacité de poster n'importe quoi sur votre url de webhook.
+Même si ce n'est pas une obligation, il est **recommandé de valider la requête entrante** du webhook pour éviter les attaques potentielles d'un hackeur qui aurait sniffé le réseau et serait ainsi en capacité de poster n'importe quoi sur votre url de webhook et ainsi déclencher ou spammer la création d'éléments dans votre système.
 {% endhint %}
 
 Chaque fois qu'une requête de modification, suppression d'un élément de Dastra est effectuée, nous allons poster un objet sur toutes les urls que vous avez configurés sur l'évènement voulu. Dans chaque requête POST figurera une entête **Dastra-Signature**, cette entête peut être récupérée côté serveur.&#x20;
 
-Cette entête correspond à l'intégralité du JSON posté encrypté en HMAC256 à l'aide de la clé de validation du webhook.
+Cette entête correspond à l'intégralité du JSON posté **encrypté en HMAC-Sha256** à l'aide de la clé de validation du webhook.
 
-> DastraSignature = HMAC256(\<JSON sérialisé du POST>,\<clé de validation du webhook>)
+> DastraSignature = **HMAC256**(\<JSON sérialisé du POST>,\<clé de validation du webhook>)
 
-Quelques exemples de code de validation :
+Voici quelques exemples de validation de la signature de la requête :
 
 {% tabs %}
 {% tab title="PHP" %}
@@ -112,7 +134,7 @@ public IActionResult Handle(){
     string payload = GetRequestBody();
 }
 
-public static bool ValidateSignature(string signature, string payload, string secret)
+private static bool ValidateSignature(string signature, string payload, string secret)
 {
     using (var hmacsha256 = new HMACSHA256(Encoding.UTF8.GetBytes(secret)))
     {
@@ -123,7 +145,7 @@ public static bool ValidateSignature(string signature, string payload, string se
     return result.Equals(signature)
 }
 
-public static string GetRequestBody()
+private static string GetRequestBody()
 {
     var bodyStream = new StreamReader(Request.InputStream);
     bodyStream.BaseStream.Seek(0, SeekOrigin.Begin);
@@ -134,6 +156,6 @@ public static string GetRequestBody()
 {% endtab %}
 {% endtabs %}
 
-## Dépannage
+## Que se passe-t-il quand l'url répond autre chose que 200
 
 Le webhook sera automatiquement bloqué et considéré en erreur quand le seuil de 5 erreurs est dépassé.
