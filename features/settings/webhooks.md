@@ -80,7 +80,7 @@ $secret = "your dastra validation key";// your secret key
 $payload = "";// equest body
 $headers = "";// request message headers array
 
-$signature = "";// the HMAC hash key in the HTTP header x-docusign-signature-1
+$signature = "";// the HMAC hash key in the HTTP header 'Dastra-Signature'
 $result = false;// verification result
 
 if (isset($_POST)) {
