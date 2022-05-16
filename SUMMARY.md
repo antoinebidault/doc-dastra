@@ -42,6 +42,9 @@
 ## ⚙ Les fonctionnalités <a href="#features" id="features"></a>
 
 * [Le tableau de bord](features/le-tableau-de-bord.md)
+* [Généralités](features/generalites/README.md)
+  * [Importer et exporter vos données (Excel, Csv)](features/generalites/importer-et-exporter-vos-donnees-excel-csv.md)
+  * [Gestion des tags](features/generalites/gestion-des-tags.md)
 * [Le registre des traitements](features/editer-le-registre/README.md)
   * [Le registre "Responsable de traitement"](features/editer-le-registre/le-registre-responsable-de-traitement.md)
   * [Le registre "Sous-traitant"](features/editer-le-registre/le-registre-sous-traitant.md)
@@ -76,8 +79,10 @@
   * [Synchroniser avec d'autres calendriers](features/planifier/synchroniser-avec-dautres-calendriers.md)
   * [Personnaliser le workflow des tâches](features/planifier/allez-plus-loin-avec-la-planification.md)
 * [La gestion des exercices des droits](features/gerer-les-exercices-des-droits/README.md)
+  * [Gestion des demandes d'exercices de droits](features/gerer-les-exercices-des-droits/gestion-des-demandes-dexercices-de-droits.md)
+  * [Echanges avec le demandeur](features/gerer-les-exercices-des-droits/echanges-avec-le-demandeur.md)
   * [Intégration technique](features/gerer-les-exercices-des-droits/integration-technique.md)
-  * [👨💻 Intégration de l'API](features/gerer-les-exercices-des-droits/integration-de-lapi.md)
+  * [Intégration de l'API](features/gerer-les-exercices-des-droits/integration-de-lapi.md)
   * [Implémentez un widget d'exercice des droits](features/gerer-les-exercices-des-droits/implementez-un-widget-dexercice-des-droits.md)
 * [Le registre des violations de données](features/documenter-les-violations-de-donnees/README.md)
   * [Documenter une nouvelle violation de données](features/documenter-les-violations-de-donnees/documenter-une-violation-de-donnees.md)
