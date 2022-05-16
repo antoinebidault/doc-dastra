@@ -23,11 +23,11 @@ Rendez-vous dans "Réglages" à gauche de l'écran, puis cliquez sur "Unités or
 
 
 
-![Bouton d'accès aux réglages de l'espace de travail](<../../.gitbook/assets/image (252) (1) (1).png>)
+![Bouton d'accès aux réglages de l'espace de travail](<../../.gitbook/assets/image (252) (1) (1) (1).png>)
 
 
 
-![Accès aux paramètres des unités organisationnelles](<../../.gitbook/assets/image (247).png>)
+![Accès aux paramètres des unités organisationnelles](<../../.gitbook/assets/image (247) (1).png>)
 
 Vous accéderez ainsi à l'écran de **création et de paramétrage** des unités organisationnelles :
 

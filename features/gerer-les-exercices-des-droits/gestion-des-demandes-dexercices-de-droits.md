@@ -18,4 +18,4 @@ Cliquez sur le bouton "**Créer une demande**"
 
 Cliquez sur le menu en haut à droite et sur le bouton "Importer"
 
-Suivez ensuite le guide sur l'import de données dans Dastra
+Suivez ensuite le guide sur l'i[mport de données dans Dastra](../generalites/importer-vos-donnees-excel-csv.md)
