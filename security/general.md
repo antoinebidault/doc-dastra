@@ -13,12 +13,6 @@ Nous externalisons l'hébergement des données de la plateforme auprès de Micro
 
 Les lieux de stockage des données sont situés à Paris et Marseille en France. Une redondance entre les données est effectuée entre les deux sites.&#x20;
 
-
-
-
-
-
-
 ## **Authentification à deux facteurs obligatoire**&#x20;
 
 Il est possible pour tous les propriétaires d'organisation de forcer l'utilisation de l'authentification à deux facteurs. L'authentification à 2 facteurs fonctionne en utilisant TOTP
@@ -88,4 +82,16 @@ Il est possible de filtrer les utilisateurs à la connexion en fonction de leurs
 ## Liste d'autorisation des domaines des emails
 
 Les administrateurs peuvent définit une liste blanche de domaines d'emails autorisés (ex: gmail.com). Pour effectuer ces réglages, rendez vous dans **Configuration** => **Sécurité** => **Filtres de domaines**
+
+## Isolation stricte entre les environnements de production et de développement
+
+Hors mis quelques personnes habilitées, les développeurs de l'application n'utilisent et n'accèdent jamais aux données de l'environnement de production. Cette isolation est stricte et ne peut être contournée.&#x20;
+
+Dans les environnement de tests ou de pré-production, nous n'utilisons que des jeux de données de tests que nous avons produit.
+
+## Pentests réguliers
+
+Tous les ans, nous effectuons un test de pénétration sur tout le périmètre de l'application (API Rest, Service d'authentification, Widgets...).+
+
+Notre méthodologie de test de sécurité suit les recommandations de l'**OWASP** et se compose de différentes phases, de la recherche d'informations de source ouverte (Reconnaissance) à l'exploitation des vulnérabilités découvertes.
 
