@@ -64,7 +64,7 @@ Même si ce n'est pas une obligation, il est **recommandé de valider la requêt
 
 Chaque fois qu'une requête de modification, suppression d'un élément de Dastra est effectuée, nous allons poster un objet sur toutes les urls que vous avez configurés sur l'évènement voulu. Dans chaque requête POST figurera une entête **Dastra-Signature**, cette entête peut être récupérée côté serveur.&#x20;
 
-Cette entête correspond à l'intégralité du JSON posté **encrypté en HMAC-Sha256** à l'aide de la clé de validation du webhook.
+Cette entête correspond à l'intégralité du JSON posté **est hashé à l'aide de l'algorithme HMAC-Sha256** à l'aide de la clé de validation du webhook.
 
 > DastraSignature = **HMAC256**(\<JSON sérialisé du POST>,\<clé de validation du webhook>)
 
