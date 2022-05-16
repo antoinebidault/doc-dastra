@@ -80,7 +80,6 @@
   * [Personnaliser le workflow des tâches](features/planifier/allez-plus-loin-avec-la-planification.md)
 * [La gestion des exercices des droits](features/gerer-les-exercices-des-droits/README.md)
   * [Gestion des demandes d'exercices de droits](features/gerer-les-exercices-des-droits/gestion-des-demandes-dexercices-de-droits.md)
-  * [Echanges avec le demandeur](features/gerer-les-exercices-des-droits/echanges-avec-le-demandeur.md)
   * [Implémentez un widget d'exercice des droits](features/gerer-les-exercices-des-droits/implementez-un-widget-dexercice-des-droits.md)
   * [Intégration technique](features/gerer-les-exercices-des-droits/integration-technique.md)
   * [Intégration de l'API](features/gerer-les-exercices-des-droits/integration-de-lapi.md)

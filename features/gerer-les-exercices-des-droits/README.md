@@ -22,9 +22,9 @@ Dastra vous permet de constituer un registre de demandes d'exercice de droits ce
 
 Il y a 3 manières de faire pour renseigner une nouvelle demande d'exercice de droits dans DASTRA :
 
-1. Renseigner directement la nouvelle demande d'exercice de droits dans l'outil
-2. Importer les demandes par fichier Excel, csv ou texte
-3. Mettre en place un widget d'exercice de droits
+1. [Renseigner directement la nouvelle demande d'exercice de droits dans l'outil](gestion-des-demandes-dexercices-de-droits.md)
+2. Importer les demandes par fichier Excel, csv ou texte. Consultez [notre guide sur l'import de données dans Dastra](../generalites/importer-vos-donnees-excel-csv.md)
+3. [Mettre en place un widget d'exercice de droits](implementez-un-widget-dexercice-des-droits.md)
 
 ### Création manuelle d'une demande d'exercice de droits
 
@@ -45,6 +45,8 @@ Un fenêtre apparaît avec un bouton "import". Cliquez dessus, téléchargez le 
 ### Mise en place de widget de demande d'exercice de droits
 
 Les demandes d'exercice des droits peuvent également provenir d'un widget spécifique paramétrable depuis la plateforme Dastra.
+
+Consultez [notre guide sur la mise en place du widget d'exercice de droits](./#mise-en-place-de-widget-de-demande-dexercice-de-droits)
 
 
 
