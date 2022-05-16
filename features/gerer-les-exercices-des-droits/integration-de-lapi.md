@@ -4,11 +4,13 @@ description: >-
   droit sans intégrer le SDK javascript en passant par l'API Rest
 ---
 
-# 👨💻 Intégration de l'API
+# Intégration de l'API
 
-Si vous souhaitez intégrer les demandes d'exercices de droits au sein d'une application qui n'utilise pas Javascript (ex: application mobile, système embarqués, application desktop...). Dastra ne s'intègre pas nativement à toutes les plateformes de développement mobile et ne supporte que la version Javascript. Il est cependant possible de poster directement une demande en intégrant votre propre formulaire en utilisant le endpoint suivant :
+Si vous souhaitez intégrer les demandes d'exercices de droits au sein d'une application qui n'utilise pas Javascript (ex: application mobile, système embarqués, application desktop...).&#x20;
 
-{% swagger method="post" path="" baseUrl="https://api.dastra/eu/v1/client/save-request/{id}" summary="Create a data subject request" %}
+Dastra ne s'intègre pas nativement à toutes les plateformes de développement mobile et ne supporte que la version Javascript. Il est cependant possible de poster directement une demande en intégrant votre propre formulaire en utilisant le endpoint suivant :
+
+{% swagger method="post" path=" " baseUrl="https://api.dastra/eu/v1/client/save-request/{id}" summary="Create a data subject request" %}
 {% swagger-description %}
 On success, an email is sent to the user using identity validation
 {% endswagger-description %}
@@ -22,6 +24,8 @@ Unknown, Information, Access, Rectification, Erasure, Restriction, Opposition, P
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="message" %}
+
+
 Subject's message (html is not authorized)
 {% endswagger-parameter %}
 
@@ -33,12 +37,12 @@ ApiKey <your public key>
 A specific identifier provided by the customer (Reservation number, Social security number, identity card number....)
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="givenName" %}
-
+{% swagger-parameter in="body" name="givenName" required="false" %}
+Given name
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="familyName" %}
-
+{% swagger-parameter in="body" name="familyName" required="false" %}
+Family name
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="userId" %}
@@ -61,3 +65,4 @@ The widget id displayed in the widget's list page
 ```
 {% endswagger-response %}
 {% endswagger %}
+
