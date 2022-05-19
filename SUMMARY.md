@@ -119,7 +119,7 @@
   * [Planifier un audit ou un PIA](features/audit/planifier-un-audit.md)
   * [Partager un rapport d'audit ou PIA](features/audit/rapport-daudit.md)
 * [La configuration avancée](features/settings/README.md)
-  * [Intégrations fichiers](features/settings/integrations-fichiers.md)
+  * [Intégrations OneDrive/Google Drive](features/settings/integrations-onedrive-google-drive.md)
   * [Gestion des clés d'API](features/settings/gestion-des-cles-dapi.md)
   * [Les notifications](features/settings/les-notifications.md)
   * [Single Sign On (SSO)](features/settings/single-sign-on-sso/README.md)
