@@ -35,7 +35,7 @@ Pour visualiser les risques sur les traitements, il est nécessaire de vous rend
 
 
 
-![](<../../.gitbook/assets/image (253) (1).png>)
+![](<../../.gitbook/assets/image (253) (1) (1).png>)
 
 Vous devez vous rendre sur l'onglet "Risques" et vous aurez une visualisation de l'ensemble des risques triés selon les éléments liés à chaque risque.&#x20;
 

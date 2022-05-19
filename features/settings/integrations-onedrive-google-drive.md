@@ -22,13 +22,23 @@ Pour configurer votre gestionnaire de fichiers cloud, c'est hyper simple :
 * Cliquez sur **Gérez le stockage cloud**
 * Choisissez votre fournisseur (Google Drive ou OneDrive pour l'instant)
 
-![](<../../.gitbook/assets/image (255).png>)
+![](<../../.gitbook/assets/image (257).png>)
 
 * Cliquez sur le bouton "Ajouter", vous allez être redirigé vers la page de login du fournisseur qui vous demandera les autorisations nécessaires à l'établissement de la connexion avec Dastra.
 
 ### Comment attacher des fichiers de votre cloud à Dastra
 
-Editez n'importe quelle entité : tâche, traitement, acteur...&#x20;
+* **Editez n'importe quelle entité** : tâche, traitement, acteur...&#x20;
+* **Choisissez la source de donnée** en haut à gauche de la boîte permettant de charger les fichiers.
+
+![](<../../.gitbook/assets/image (254).png>)
+
+* Envoyez des fichiers directement sur votre Drive (Modifiez les, déplacez les)
+* Cliquez sur **sélectionnez dans le gestionnaire**. et choisissez le fichier à attacher
+
+![](<../../.gitbook/assets/image (255).png>)
+
+
 
 ### Limitations
 

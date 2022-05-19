@@ -36,7 +36,7 @@ Remplissez le fichier téléchargé avec vos données :
 
 Envoyez le fichier en cliquant dans la zone
 
-![](<../../.gitbook/assets/image (256).png>)
+![](<../../.gitbook/assets/image (256) (1).png>)
 
 {% hint style="info" %}
 Vous pouvez également envoyer vos fichiers en effectuant un glisser-déposer dans la zone d'envoi des fichiers
