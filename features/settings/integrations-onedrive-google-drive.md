@@ -24,6 +24,20 @@ Pour configurer votre gestionnaire de fichiers cloud, c'est hyper simple :
 
 * Cliquez sur le bouton "Ajouter", vous allez être redirigé vers la page de login du fournisseur qui vous demandera les autorisations nécessaires à l'établissement de la connexion avec Dastra.
 
+### Comment attacher des fichiers de votre cloud à Dastra
+
+Editez n'importe quelle entité : tâche, traitement, acteur...&#x20;
+
 ### Limitations
 
-Google Drive : attention, uniquement les fichiers créés depuis votre espace Dastra pourront être ajoutés ou modifiés à votre Google Drive. Dastra n'a pas les droits d'accès pour accéder à des fichiers créés de votre côté dans le Drive. C'est une limitation de ce connecteur. Vous pouvez partager les fichiers créés dans Dastra avec d'autres collaborateurs sans problème.
+**Google Drive** : attention, uniquement les fichiers créés depuis votre espace Dastra pourront être ajoutés ou modifiés à votre Google Drive. Dastra n'a pas les droits d'accès pour accéder à des fichiers créés de votre côté dans le Drive. C'est une limitation de ce connecteur. Vous pouvez partager les fichiers créés dans Dastra avec d'autres collaborateurs sans problème.
+
+**One Drive :** le système n'a été testé que sur la version personnelle de OneDrive.  Si vous rencontrez des problèmes avec les versions entreprise, n'hésitez pas à [contacter le support](https://www.dastra.eu/fr/contact?type=support)
+
+Par défaut Dastra va créer des fichiers dans le répertoire "**Applications\DastraOneDrive**" qu'il considèrera comme sa racine
+
+{% hint style="warning" %}
+Attention ! La mise en place de la connexion OneDrive **donne un accès à l'ensemble des fichiers de votre Drive personnel**. Il faut donc être très prudent, car le connecteur sera mis à disposition à l'ensemble des utilisateurs disposant du droit de lecture "Fichiers".
+
+Nous vous recommandons d'utiliser un compte de service avec un dossier partager.
+{% endhint %}
