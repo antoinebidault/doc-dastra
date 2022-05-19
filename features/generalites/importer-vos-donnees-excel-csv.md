@@ -16,7 +16,7 @@ Dastra actuellement ne supporte que les formats suivants :
 
 Pour accéder au menu d'import de données, cliquez sur le bouton "importer"
 
-![](<../../.gitbook/assets/image (255).png>)
+![](<../../.gitbook/assets/image (255) (1).png>)
 
 Ensuite, téléchargez un échantillon de fichier en cliquand sur le bouton "télécharger le modèle de fichier (.csv)"
 
