@@ -54,7 +54,7 @@ Si tout vous semble conforme, vous pouvez lancer l'import des données.
 
 Lancez l'import des données en cliquant sur le bouton continuer. Le processus d'import va alors se déclencher.
 
-![](<../../.gitbook/assets/image (252).png>)
+![](<../../.gitbook/assets/image (252) (1).png>)
 
 
 

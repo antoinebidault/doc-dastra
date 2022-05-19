@@ -6,7 +6,9 @@ description: Dastra s'intègre nativement à votre fournisseur de fichiers cloud
 
 ### Intérêt
 
-Bien que très sécurisé et pratique dans la plupart des cas, le stockage des fichiers dans l'application Dastra peut être une source de réplication de l'information. C'est pourquoi, il peut être intéressant de mettre en place une intégration avec votre serveur de fichier cloud
+Bien que très sécurisé et pratique dans la plupart des scénarios, le stockage des fichiers dans l'application Dastra peut faire doublon avec d'autres GED ou gestionnaire de fichiers cloud. Pour remédier à ce problème, Dastra s'intègre nativement aux principaux fournisseur de fichiers sur le cloud.
+
+![](<../../.gitbook/assets/image (252).png>)
 
 ### Configuration
 

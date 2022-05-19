@@ -23,7 +23,7 @@ Rendez-vous dans "Réglages" à gauche de l'écran, puis cliquez sur "Unités or
 
 
 
-![Bouton d'accès aux réglages de l'espace de travail](<../../.gitbook/assets/image (252) (1) (1) (1).png>)
+![Bouton d'accès aux réglages de l'espace de travail](<../../.gitbook/assets/image (252) (1) (1) (1) (1).png>)
 
 
 
