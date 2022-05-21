@@ -59,6 +59,12 @@ Temporisation d’accès au compte après plusieurs échecs.
 
 Chiffrement des mots de passe en base de données.
 
+
+
+## Politique de renouvellement des mots de passe
+
+Dastra permet à l'administrateur de compte via [la page de gestion de la sécurité](https://app.dastra.eu/general-settings/security) de définir une politique de renouvellement des mots de passe de l'ensemble de vos utilisateurs.
+
 ## **Contrôles de jeton d'API**
 
 Affichez et gérez l'ensemble des clés d'API utilisés par les développeurs de votre organisation
