@@ -50,6 +50,8 @@ Le [guide de la CNIL sur les durées de conservation](https://www.cnil.fr/sites/
 * La **politique de gestion des habilitations** et la **matrice d’habilitation** en cas d’archivage, etc.
 {% endhint %}
 
+Avec Dastra, renseignez les différents cycles de vie de la donnée et adaptez les durées de conservation à chaque jeu de données créé.&#x20;
+
 ## Comment les déterminer ?
 
 En appliquant le principe de protection des données dès la conception :
