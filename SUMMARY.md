@@ -124,6 +124,7 @@
   * [Gestion des clés d'API](features/settings/gestion-des-cles-dapi.md)
   * [Les notifications](features/settings/les-notifications.md)
   * [Single Sign On (SSO)](features/settings/single-sign-on-sso/README.md)
+    * [ADFS](features/settings/single-sign-on-sso/adfs.md)
     * [OpenId](features/settings/single-sign-on-sso/openid.md)
     * [SAML 2](features/settings/single-sign-on-sso/saml-2.md)
   * [Référentiels](features/settings/referentials.md)
