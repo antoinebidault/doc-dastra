@@ -21,7 +21,7 @@ Seuls les **propriétaires** peuvent modifier les paramètres du compte d'organi
 Dans Dastra, un utilisateur peut cumuler plusieurs rôles différents. Pour assigner plusieurs rôles à un utilisateur, rendez-vous dans la section "Utilisateurs" des réglages,&#x20;
 
 {% hint style="info" %}
-<img src="../../.gitbook/assets/image (248) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (248) (1) (1).png" alt="" data-size="original">
 
 
 
@@ -29,7 +29,7 @@ puis afficher les options liées à l'utilisateur&#x20;
 
 
 
-![](<../../.gitbook/assets/image (251) (1) (1).png>)
+![](<../../.gitbook/assets/image (251) (1) (1) (1).png>)
 
 
 

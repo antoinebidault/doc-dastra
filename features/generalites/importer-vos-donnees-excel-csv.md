@@ -28,7 +28,7 @@ Celui-ci contiendra toutes les colonnes nécessaires avec des exemples de donné
 
 Exemple de fichier (pour les acteurs) :&#x20;
 
-![](<../../.gitbook/assets/image (251).png>)
+![](<../../.gitbook/assets/image (251) (1).png>)
 
 Remplissez le fichier téléchargé avec vos données :
 
@@ -46,7 +46,7 @@ Vous pouvez également envoyer vos fichiers en effectuant un glisser-déposer da
 
 L'utilitaire suivant vous permet de valider et d'éventuellement mapper les colonnes de votre fichier Excel sur les colonnes attendues en format d'import.
 
-![](<../../.gitbook/assets/image (248).png>)
+![](<../../.gitbook/assets/image (248) (1).png>)
 
 Si tout vous semble conforme, vous pouvez lancer l'import des données.
 
@@ -54,7 +54,7 @@ Si tout vous semble conforme, vous pouvez lancer l'import des données.
 
 Lancez l'import des données en cliquant sur le bouton continuer. Le processus d'import va alors se déclencher.
 
-![](<../../.gitbook/assets/image (252) (1).png>)
+![](<../../.gitbook/assets/image (252) (1) (1).png>)
 
 
 

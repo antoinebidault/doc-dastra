@@ -23,7 +23,7 @@ Rendez-vous dans "Réglages" à gauche de l'écran, puis cliquez sur "Unités or
 
 
 
-![Bouton d'accès aux réglages de l'espace de travail](<../../.gitbook/assets/image (252) (1) (1) (1) (1).png>)
+![Bouton d'accès aux réglages de l'espace de travail](<../../.gitbook/assets/image (252) (1) (1) (1) (1) (1).png>)
 
 
 
@@ -31,7 +31,7 @@ Rendez-vous dans "Réglages" à gauche de l'écran, puis cliquez sur "Unités or
 
 Vous accéderez ainsi à l'écran de **création et de paramétrage** des unités organisationnelles :
 
-![Interface de gestion des unités organisationnelles](<../../.gitbook/assets/image (250).png>)
+![Interface de gestion des unités organisationnelles](<../../.gitbook/assets/image (250) (1).png>)
 
 ## Créer ou modifier une entité
 
