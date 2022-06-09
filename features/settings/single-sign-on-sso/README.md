@@ -32,6 +32,10 @@ Dastra propose deux protocoles d'authentification unique, [**SAML 2**](saml-2.md
 [openid.md](openid.md)
 {% endcontent-ref %}
 
+{% content-ref url="adfs.md" %}
+[adfs.md](adfs.md)
+{% endcontent-ref %}
+
 ## Comment activer le provisionnement automatique des utilisateurs ?
 
 Si vous souhaitez que les utilisateurs de votre fournisseur d'identité n'ait pas besoin de se créer des comptes pour accéder à l'entité, vous pouvez cocher la case "provisionnement automatique des utilisateurs". Si vous fournissez à vos utilisateurs une url de fournisseur SSO comme celle-ci : https://account.dastra.eu/account/loginexternal?provider={id de votre provider}\&returnUrl=https://www.dastra.eu&#x20;

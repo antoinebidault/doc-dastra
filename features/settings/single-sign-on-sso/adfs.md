@@ -10,8 +10,6 @@ description: >-
 
 Les services de fédération Active Directory (généralement désignés sous l'acronyme ADFS) sont une solution d'authentification unique (SSO) conçue par Microsoft. Ces services, qui sont un composant des systèmes d'exploitation Windows Server, permettent aux utilisateurs de s'authentifier via Active Directory (AD) lorsqu'ils souhaitent accéder à une application qui ne peut pas utiliser l'authentification Windows intégrée (IWA).
 
-
-
 ## **Configuration de ADFS dans Dastra**
 
 **Etape 1 : Créez un login SAML dans Dastra.**
