@@ -31,7 +31,7 @@ Pour configurer votre gestionnaire de fichiers cloud, c'est hyper simple :
 * **Editez n'importe quelle entité** : tâche, traitement, acteur...&#x20;
 * **Choisissez la source de donnée** en haut à gauche de la boîte permettant de charger les fichiers.
 
-![](<../../.gitbook/assets/image (254).png>)
+![](<../../.gitbook/assets/image (254) (1).png>)
 
 * Envoyez des fichiers directement sur votre Drive (Modifiez les, déplacez les)
 * Cliquez sur **sélectionnez dans le gestionnaire**. et choisissez le fichier à attacher

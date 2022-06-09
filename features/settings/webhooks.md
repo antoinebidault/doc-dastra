@@ -24,7 +24,7 @@ Pour configurer vos webhooks, rendez-vous sur la page : [https://app.dastra.eu/g
 
 Vous arrivez sur l'**écran de détail du webhook.**
 
-![](<../../.gitbook/assets/image (254) (1).png>)
+![](<../../.gitbook/assets/image (254) (1) (1).png>)
 
 ## Comment réceptionner le webhook 🛬
 
