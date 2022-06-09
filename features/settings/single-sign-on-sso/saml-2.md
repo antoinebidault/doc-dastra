@@ -10,6 +10,12 @@ La configuration du SSO avec SAML 2 se fait en trois étapes&#x20;
 * Configuration du fournisseur de service (**Service Provider - SP**) : Dastra
 * Tests de l'authentification
 
+Dans le cas spécifique **des serveurs ADFS**, consultez notre documentation spécifique :&#x20;
+
+{% content-ref url="adfs.md" %}
+[adfs.md](adfs.md)
+{% endcontent-ref %}
+
 ## 1. Configuration du fournisseur d'authentification
 
 Vous devez mettre en place une configuration SAML dans votre fournisseur d'authentification.
