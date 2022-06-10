@@ -6,7 +6,7 @@ description: >-
 
 # Okta
 
-Voici comment configurer le login Okta en SSO dans Dastra en utilisant le protocole O**penId Connect**. A noter, qu'il est également de le faire en utilisant SAML.
+Voici comment configurer le login Okta en SSO dans Dastra en utilisant le protocole **OpenId Connect**. A noter, qu'il est également de le faire en utilisant SAML.
 
 **Etape 1**: se rendre dans **le back-office administrateur Okta**
 
@@ -57,4 +57,4 @@ Pour le logo de l'application, vous pouvez [utiliser celui-ci](https://www.dastr
 
 ![](../../../.gitbook/assets/okta-dastra-settings.png)
 
-**Etape 8** :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup: Cliquez sur "Enregistrer" => Puis lancez un test ! Si vous êtes bien redirigé
+**Etape 8** : Cliquez sur "Enregistrer" => Puis lancez un test ! Si vous êtes bien redirigé
