@@ -36,9 +36,7 @@ Pour le logo de l'application, vous pouvez [utiliser celui-ci](https://www.dastr
 
 ![](../../../.gitbook/assets/okta-redirecturi-config.png)
 
-**Etape 7** : Vous y êtes presque ! Vous êtes redirigé sur une page avec l'ensemble des settings de la nouvelle app SSO : Client Id, Clé secrète et domaine/autorité
-
-&#x20;
+**Etape 7** : Vous y êtes presque ! Vous êtes redirigé sur une page avec l'ensemble des settings de la nouvelle app SSO : Client Id, Clé secrète et domaine/autorité.
 
 ![](../../../.gitbook/assets/okta-client-settings.png)
 
@@ -57,4 +55,5 @@ Pour le logo de l'application, vous pouvez [utiliser celui-ci](https://www.dastr
 
 ![](../../../.gitbook/assets/okta-dastra-settings.png)
 
-**Etape 8** : Cliquez sur "Enregistrer" => Puis lancez un test ! Si vous êtes bien redirigé
+**Etape 8** : Cliquez sur "**Enregistrer**" => Puis lancez un test en cliquant sur le bouton "Tester" ! Si vous êtes bien redirigé vers Dastra ! Vous avez réussi ! :tada:
+
