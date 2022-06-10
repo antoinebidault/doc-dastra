@@ -28,4 +28,31 @@ Pour le logo de l'application, vous pouvez [utiliser celui-ci](https://www.dastr
 
 ![](../../../.gitbook/assets/okta-config.png)
 
-Etape 5 : A ce stade, vous allez avoir besoin de configurer une url de redirection de Dastra dans votre application Okta. Pour cela, retournez dans l'application Dastra, dans la page de gestion du SSO.
+**Etape 5** : A ce stade, vous allez avoir besoin de configurer une url de redirection de _Dastra_ dans votre application _Okta_. Pour cela, retournez dans l'application _Dastra_, [dans la page de gestion du SSO](https://app.dastra.eu/general-settings/sso). Cliquez sur "**Nouveau login SSO**", et vers le bas du formulaire, vous avez une url de redirection qui s'affiche que vous devez copier.
+
+![](../../../.gitbook/assets/okta-redirecturi.png)
+
+**Etape 6** : Retournez dans Okta, et collez l'url de redirection dans le champ approprié, sélectionnez les utilisateurs Okta à qui vous souhaitez octroyer l'accès à Dastra (par défaut, vous pouvez cocher "Allow everyone") puis cliquez sur "**Save**"
+
+![](../../../.gitbook/assets/okta-redirecturi-config.png)
+
+**Etape 7** : Vous y êtes presque ! Vous êtes redirigé sur une page avec l'ensemble des settings de la nouvelle app SSO : Client Id, Clé secrète et domaine/autorité
+
+&#x20;
+
+![](../../../.gitbook/assets/okta-client-settings.png)
+
+![Attention de prendre le domaine avec le protocole https://](../../../.gitbook/assets/okta-domain.png)
+
+**Etape 8** : Retournez dans **Dastra**, vous pouvez ainsi renseigner les champs de formulaire de la façon suivante :&#x20;
+
+* Id du client : copier l'id du client de Okta&#x20;
+* Authority/Domain : **Attention !** mettre le domaine avec le protocole (https://\*\*\*.okta.com).
+* Issuer: laisser vide ! <mark style="color:blue;"></mark>&#x20;
+* Clé secrète : Copier la clé secrète de Okta
+
+<mark style="color:blue;"></mark>
+
+![](../../../.gitbook/assets/okta-dastra-settings.png)
+
+**Etape 8** :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup: Cliquez sur "Enregistrer" => Puis lancez un test ! Si vous êtes bien redirigé
