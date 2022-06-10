@@ -46,10 +46,12 @@ Pour le logo de l'application, vous pouvez [utiliser celui-ci](https://www.dastr
 
 **Etape 8** : Retournez dans **Dastra**, vous pouvez ainsi renseigner les champs de formulaire de la façon suivante :&#x20;
 
-* Id du client : copier l'id du client de Okta&#x20;
-* Authority/Domain : **Attention !** mettre le domaine avec le protocole (https://\*\*\*.okta.com).
-* Issuer: laisser vide ! <mark style="color:blue;"></mark>&#x20;
-* Clé secrète : Copier la clé secrète de Okta
+* **Id du client** : copier l'id du client de Okta&#x20;
+* **Authority/Domain** : **Attention !** mettre le domaine avec le protocole (https://\*\*\*.okta.com).
+* **Issuer** : laisser vide ! <mark style="color:blue;"></mark>&#x20;
+* **Clé secrète** : Copier la clé secrète de Okta
+* **Scope** : openid profile email &#x20;
+* **Type de réponse** : id\_token
 
 <mark style="color:blue;"></mark>
 
