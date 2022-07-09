@@ -12,8 +12,8 @@ Apprenez à mettre en place le SSO :
 
 Apprenez à gérer les référentiels :
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="referentials.md" %}
+[referentials.md](referentials.md)
 {% endcontent-ref %}
 
 Apprenez-en davantage sur les rôles et permissions:&#x20;
