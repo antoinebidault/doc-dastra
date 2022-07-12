@@ -6,7 +6,7 @@ description: Apprenez à déclarer une activité de traitement de données.
 
 ## Qu'est-ce qu'un traitement de données ?
 
-Une activité de traitement est une opération ou un ensemble d'opérations effectuées sur des données personnelles, telles que la gestion de la paie. Toutes les activités de traitement prises ensemble constituent le registre de traitement.
+Une activité de traitement est une opération ou un ensemble d'opérations effectuées sur des données personnelles, telles que la gestion de la paie. Toutes les activités de traitement prises ensemble constituent le registre des traitements.
 
 ## Créer une activité de traitement&#x20;
 
