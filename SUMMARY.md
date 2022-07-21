@@ -136,6 +136,7 @@
 
 ## 📄 La documentation API <a href="#api-references" id="api-references"></a>
 
+* [Les API](api-references/les-api.md)
 * [Authentification](api-references/authentification.md)
 * [API References](https://api.dastra.eu/swagger)
 * [Intégrations](api-references/integrations.md)
