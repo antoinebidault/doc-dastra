@@ -8,7 +8,7 @@ Les API permettent de connecter la plateforme Dastra a d'autres outils extérieu
 
 Les possibilités sont multiples : connexion avec un logiciel CRM pour récupérer les parties prenantes de manière automatisée, synchronisation d'un outil de gestion des exercices des droits avec le module de Dastra etc.
 
-Dastra repose sur le standard **API-Rest** et notamment les ressources HTTP suivantes :&#x20;
+Dastra repose sur le standard **API-Rest** et notamment les requêtes HTTP suivantes :&#x20;
 
 
 
