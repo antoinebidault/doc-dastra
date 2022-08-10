@@ -21,3 +21,15 @@ Par exemple, il s’agit d’une base de données, d’un tableau Excel, d’une
 Un traitement de données à caractère personnel peut être informatisé ou non.
 
 [**En savoir plus**](https://www.cnil.fr/fr/RGDP-le-registre-des-activites-de-traitement)****
+
+Ci-dessous une vidéo explicative :&#x20;
+
+[https://www.youtube.com/watch?v=eQWf47xYWgc\&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ\&index=3](https://www.youtube.com/watch?v=eQWf47xYWgc\&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ\&index=3)
+
+
+
+**``**
+
+****
+
+****
