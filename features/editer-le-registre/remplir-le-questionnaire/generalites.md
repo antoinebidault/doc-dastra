@@ -24,7 +24,7 @@ Un traitement de données à caractère personnel peut être informatisé ou non
 
 Ci-dessous une vidéo explicative :&#x20;
 
-[https://www.youtube.com/watch?v=eQWf47xYWgc\&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ\&index=3](https://www.youtube.com/watch?v=eQWf47xYWgc\&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ\&index=3)
+{% embed url="https://www.youtube.com/watch?v=eQWf47xYWgc&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ&index=3" %}
 
 
 
