@@ -2,7 +2,7 @@
 description: Apprenez à configurer Dastra à travers les fonctions avancées.
 ---
 
-# La configuration avancée
+# Configuration avancée
 
 Apprenez à mettre en place le SSO :
 
@@ -30,14 +30,14 @@ Si besoin, consultez la section API :
 
 Apprenez à gérer les notifications dans Dastra :
 
-{% content-ref url="les-notifications.md" %}
-[les-notifications.md](les-notifications.md)
+{% content-ref url="notifications.md" %}
+[notifications.md](notifications.md)
 {% endcontent-ref %}
 
 Apprenez à mettre en place des workflows dans Dastra :
 
-{% content-ref url="les-workflows/" %}
-[les-workflows](les-workflows/)
+{% content-ref url="workflows.md" %}
+[workflows.md](workflows.md)
 {% endcontent-ref %}
 
 Apprenez à mettre en place des intégrations :

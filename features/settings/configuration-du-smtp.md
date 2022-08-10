@@ -10,7 +10,7 @@ description: >-
 
 Par défaut, Dastra route un nombre important de notifications par email pour les services suivants :&#x20;
 
-* [Notifications ](les-notifications.md)en temps réel (Nouveaux commentaires, tâches, ...)
+* [Notifications ](notifications.md)en temps réel (Nouveaux commentaires, tâches, ...)
 * Emails d'échanges dans le cadre d'[une demande d'exercice de droits](../gerer-les-exercices-des-droits/)
 * Invitation aux [audits](../audit/) pour les répondants
 * [Invitations ](../../commencer/commencer/inviter-utilisateurs.md)de nouveaux utilisateurs
