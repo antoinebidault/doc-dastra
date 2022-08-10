@@ -6,6 +6,8 @@ description: >-
 
 # Données et conservation
 
+{% embed url="https://www.youtube.com/watch?v=BJSynYF0aDw&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ&index=6" %}
+
 [**L’article 30 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4) exige également l’inscription des catégories de données traitées.
 
 Il s’agit ici de définir les catégories de données traitées. Celles-ci peuvent être dites courantes ou sensibles. On distingue en effet les données qui présentent un risque plus important sur les personnes physiques tel que les données relatives à la santé des personnes, les données relatives aux opinions politiques ou à l’activité syndicale. Les données relatives à des infractions ou autres mesures d’exécution de peines constituent également des données particulièrement protégées.&#x20;

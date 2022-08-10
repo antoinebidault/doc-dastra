@@ -62,12 +62,12 @@ Les 12 étapes sont:&#x20;
 
 * **Destinataires** - Cette section répertorie les destinataires des données de traitement. C'est à cette étape que vous pouvez déclarer un transfert de données hors UE.&#x20;
 
-{% content-ref url="destinataires.md" %}
-[destinataires.md](destinataires.md)
+{% content-ref url="destinataires/" %}
+[destinataires](destinataires/)
 {% endcontent-ref %}
 
-{% content-ref url="transferts-de-donnees-hors-ue.md" %}
-[transferts-de-donnees-hors-ue.md](transferts-de-donnees-hors-ue.md)
+{% content-ref url="destinataires/transferts-de-donnees-hors-ue.md" %}
+[transferts-de-donnees-hors-ue.md](destinataires/transferts-de-donnees-hors-ue.md)
 {% endcontent-ref %}
 
 * **Mesures de sécurité** - décrit les mesures de sécurité organisationnelles et techniques prévues pour préserver la confidentialité des données.&#x20;

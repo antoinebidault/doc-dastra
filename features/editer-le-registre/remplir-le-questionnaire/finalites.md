@@ -4,7 +4,9 @@ description: Inscrivez ici les finalités du traitement de données.
 
 # Finalités
 
-Une finalité constitue l’objectif poursuivi par la mise en place  de votre fichier. Elle indique à quoi le traitement de données personnelles va servir, sa raison d’être. Cet objectif doit être clair et compréhensible.
+{% embed url="https://www.youtube.com/watch?v=CnSRO2N-NOk&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ&index=5" %}
+
+Une **finalité** constitue l’objectif poursuivi par la mise en place  de votre fichier. Elle indique à quoi le traitement de données personnelles va servir, sa raison d’être. Cet objectif doit être clair et compréhensible.
 
 La définition de la finalité est fondamentale car elle est un prérequis pour les autres éléments encadrant le traitement tels que la durée de conservation des données, l’adéquation, la pertinence, la proportionnalité des données ainsi que l’exactitude et de la mise à jour des données.
 

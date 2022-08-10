@@ -4,6 +4,10 @@ description: Apprenez à créer et paramétrer des entités et des départements
 
 # Créer et paramétrer les unités organisationnelles
 
+
+
+{% embed url="https://www.youtube.com/watch?v=QyEliXjoMJ0&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ&index=2" %}
+
 ### Introduction
 
 Les unités organisationnelles permettent de structurer votre espace de travail. Deux types d'unités organisationnelles peuvent être créés :&#x20;

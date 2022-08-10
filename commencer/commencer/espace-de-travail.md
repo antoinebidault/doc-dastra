@@ -4,6 +4,10 @@ description: Apprenez à créer votre premier espace de travail dans Dastra.
 
 # Créer et paramétrer un espace de travail
 
+
+
+{% embed url="https://www.youtube.com/watch?v=IJE5rzou-EM&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ&index=1" %}
+
 ## Connectez-vous à Dastra.eu&#x20;
 
 Commencez par vous connecter à [Dastra.eu](https://www.dastra.eu/). Si vous n'avez pas encore de compte, [inscrivez-vous](https://app.dastra.eu/signup) et créez-en un nouveau.

@@ -7,6 +7,8 @@ description: >-
 
 # Actifs
 
+{% embed url="https://www.youtube.com/watch?v=T8ipK2jsVAw&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ&index=7" %}
+
 Il s'agit ici de renseigner les applications, logiciels ou autre qui servent de **supports aux données personnelles**.
 
 _Par exemple, si vous utilisez un logiciel de relation client type CRM, ajoutez le dans cette liste._
