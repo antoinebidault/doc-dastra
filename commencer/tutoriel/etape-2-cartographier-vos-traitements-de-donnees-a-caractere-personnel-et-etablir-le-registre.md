@@ -41,8 +41,4 @@ Vous partagez le registre avec l'ensemble des responsables de traitement ainsi q
 [partager-le-registre.md](../../features/editer-le-registre/partager-le-registre.md)
 {% endcontent-ref %}
 
-Ci-dessous un exemple de registre respectant le format demandé disponible à l'import et pouvant être importé en "glisser-déposer" dans Dastra :
-
-{% file src="../../.gitbook/assets/sample-dataTreatments - SHIPBUILDER.xlsx" %}
-
 Ca y est, **votre registre est constitué** et vos traitements sont prêts à être protégés !
