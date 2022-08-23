@@ -150,5 +150,5 @@
 ## 🤖 DIVERS
 
 * [FAQ Tarifs](divers/faq.md)
-* [FAQ Registre](divers/faq-registre.md)
+* [Foire aux questions](divers/faq-registre.md)
 * [Guide partenaires](divers/guide-partenaires.md)
