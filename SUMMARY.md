@@ -136,10 +136,10 @@
 
 ## 📄 La documentation API <a href="#api-references" id="api-references"></a>
 
-* [Les API](api-references/les-api.md)
+* [Configuration API](api-references/configuration-api.md)
 * [Authentification](api-references/authentification.md)
 * [API References](https://api.dastra.eu/swagger)
-* [Intégrations](api-references/integrations.md)
+* [Intégrations via Zapier](api-references/integrations-via-zapier.md)
 
 ## 🛡 La sécurité <a href="#security" id="security"></a>
 
