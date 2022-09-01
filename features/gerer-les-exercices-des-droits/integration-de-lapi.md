@@ -1247,32 +1247,6 @@ L'id de la demande d'exercice de droits existante que vous souhaitez supprimer
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="put" path="{workspaceId}​/DataSubjectRequests​/set-identity-validation​/{id}" baseUrl="​/v1​/ws​/" summary="Permuter la validation de l'identité du demandeur" %}
-{% swagger-description %}
-
-{% endswagger-description %}
-
-{% swagger-parameter in="body" name="validation" type="Boolean" %}
-valeur true pour passer à vérifiée l'identité du demandeur et à false pour passer à null la validation de l'identité du demandeur
-{% endswagger-parameter %}
-
-{% swagger-parameter in="path" name="workspaceId" type="String" required="true" %}
-L'id de l'espace de travail dans lequel se trouve la demande d'exercice de droits que vous souhaitez supprimer
-{% endswagger-parameter %}
-
-{% swagger-parameter in="path" name="id" type="Integer" required="true" %}
-L'id de la demande d'exercice de droits existante que vous souhaitez supprimer
-{% endswagger-parameter %}
-
-{% swagger-response status="200: OK" description="Success" %}
-```javascript
-{
-    // Response
-}
-```
-{% endswagger-response %}
-{% endswagger %}
-
 {% swagger method="post" path="{workspaceId}​/DataSubjectRequests​/workflow" baseUrl="/v1​/ws​/" summary="Changer l'étape de processus de la demande d'exercice de droits" %}
 {% swagger-description %}
 
