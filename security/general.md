@@ -5,7 +5,7 @@ description: >-
   vos données sont protégées.
 ---
 
-# La sécurité chez Dastra
+# Sécurité chez Dastra
 
 ## Hébergement sécurisé sur le Cloud
 
@@ -13,9 +13,10 @@ Nous externalisons l'hébergement des données de la plateforme auprès de Micro
 
 Les lieux de stockage des données sont situés à Paris et Marseille en France. Une redondance entre les données est effectuée entre les deux sites.&#x20;
 
-## **Authentification à deux facteurs obligatoire**&#x20;
+## **Authentification à deux facteurs**
 
-Il est possible pour tous les propriétaires d'organisation de forcer l'utilisation de l'authentification à deux facteurs. L'authentification à 2 facteurs fonctionne en utilisant TOTP
+Il est possible pour tous les propriétaires d'organisation de forcer l'utilisation de l'authentification à deux facteurs. L'authentification à 2 facteurs fonctionne en utilisant TOTP.\
+Chaque utilisateur peut individuellement activer la fonctionnalité d'authentification à 2 facteurs.
 
 [En savoir plus sur l'authentification forte](mfa.md)
 
