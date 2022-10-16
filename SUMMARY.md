@@ -45,6 +45,7 @@
 * [Généralités](features/generalites/README.md)
   * [Importer vos données (Excel, Csv)](features/generalites/importer-vos-donnees-excel-csv.md)
   * [Gestion des tags](features/generalites/gestion-des-tags.md)
+* [Cartographie des données](features/cartography.md)
 * [Registre des traitements](features/editer-le-registre/README.md)
   * [Registre "Responsable de traitement"](features/editer-le-registre/le-registre-responsable-de-traitement.md)
   * [Registre "Sous-traitant"](features/editer-le-registre/le-registre-sous-traitant.md)
