@@ -72,6 +72,7 @@
   * [Visualiser la cartographie des données du registre](features/la-visualisation-des-donnees/visualiser-la-cartographie-des-donnees.md)
   * [Visualiser la carte des transferts](features/la-visualisation-des-donnees/visualiser-la-carte-des-transferts.md)
 * [Gestion des risques](features/la-gestion-des-risques/README.md)
+  * [Glossaire](features/la-gestion-des-risques/glossaire.md)
   * [Associer un risque à un traitement](features/la-gestion-des-risques/risques.md)
 * [Planification](features/planifier/README.md)
   * [Créez ou modifier une tâche](features/planifier/gerer-vos-taches.md)
