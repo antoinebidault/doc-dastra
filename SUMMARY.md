@@ -73,6 +73,7 @@
   * [Visualiser la carte des transferts](features/la-visualisation-des-donnees/visualiser-la-carte-des-transferts.md)
 * [Gestion des risques](features/la-gestion-des-risques/README.md)
   * [Glossaire](features/la-gestion-des-risques/glossaire.md)
+  * [Le processus de gestion des risques](features/la-gestion-des-risques/le-processus-de-gestion-des-risques.md)
   * [Associer un risque à un traitement](features/la-gestion-des-risques/risques.md)
 * [Planification](features/planifier/README.md)
   * [Créez ou modifier une tâche](features/planifier/gerer-vos-taches.md)
