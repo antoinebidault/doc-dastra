@@ -54,6 +54,16 @@ Vous pouvez choisir **le rôle assigné par défaut** sur toutes les organisatio
 Pour l'instant, Dastra ne supporte pas le binding des rôles via les propriétés du serveur d'authentification. Si cette fonctionnalité est importante, vous pouvez nous le remonter via la [page de support](https://app.dastra.eu/general-settings/support).
 {% endhint %}
 
+
+
+### Binding des équipes
+
+Il est possible de binder les équipes d'un espace de travail sur une propriété (Claim) renvoyé par votre serveurs d'authentification.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ## Comment administrer les logins des utilisateurs ?
 
 Vous pouvez configurer le type de login des utilisateurs en vous rendant dans [la page de gestion des utilisateurs de l'abonnement](https://app.dastra.eu/general-settings/users) . En vous rendant dans un profil utilisateur, il sera possible de choisir le login SSO privilégié. Dès lors, l'utilisateur qui se connecte à Dastra avec son adresse email, sera automatiquement redirigé vers la page de login du fournisseur d'authentification que vous avez mis en place.
