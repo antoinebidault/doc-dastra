@@ -2,7 +2,7 @@
 description: Apprenez à gérer les notifications dans Dastra.
 ---
 
-# Les notifications
+# Notifications
 
 ## Introduction
 
@@ -11,6 +11,8 @@ Dans Dastra, il est possible de personnaliser les notifications que vous recevez
 ## Gérer les notifications
 
 Pour cela, cliquez sur votre profil en haut à droite une fois dans l'application, puis sur le bouton "Notifications". Vous accéderez ainsi au centre des notifications.
+
+La gestion des notifications est personnelle à chaque utilisateur.&#x20;
 
 ![Bouton "Notifications"](<../../.gitbook/assets/image (242).png>)
 
@@ -30,3 +32,27 @@ Les différentes catégories des notifications possibles sont les suivantes :
 * Activités sur les modèles d'audit
 * Activités sur les rapports d'analyse
 
+Par module, vous aurez la possibilité de choisir de laisser activer ou non différents types de notifications :&#x20;
+
+Dans le cadre des traitements par exemple :
+
+* Modification d'un traitement
+* Changement de statut d'un traitement
+* Suppression d'une relation à un traitement
+
+En ce qui concerne les audits :&#x20;
+
+* Réponse à un audit refusée
+* Réponse à un audit validée
+* Invitation à répondre à l'audit
+* Annotation de l'audit ajouté
+
+Quelques exceptions :&#x20;
+
+Dans le cadre des audits, certains types de notifications sont hors champ du centre de gestion des notifications.&#x20;
+
+En effet, lorsque vous planifiez un audit et sélectionner "envoyer les invitations immédiatement", l'invitation à l'audit par e-mail sera reçue malgré avoir déselctionné la notification "Invitation à répondre à l'audit".&#x20;
+
+Tout simplement car l'on vous soumet explicitement cet audit.&#x20;
+
+Le mme type d'exception existe en ce qui concerne les "invitations à compléter le registre", fonctionnalité que vous retrouvez dans vos fiches de traitement afin de soumettre une invitation, personnablisable, à un utilisateur pour lui demander de remplir telle ou telle étape de la fiche de traitement.
