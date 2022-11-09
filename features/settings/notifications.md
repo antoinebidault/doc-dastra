@@ -18,7 +18,7 @@ La gestion des notifications est personnelle à chaque utilisateur.&#x20;
 
 Une fois dans le centre, vous avez la possibilité d'activer ou de désactiver les notifications reçues.
 
-Les différentes catégories des notifications possibles sont les suivantes :
+Les différentes catégories de notifications possibles sont les suivantes :
 
 * Notifications push
 * Marketing
@@ -32,7 +32,7 @@ Les différentes catégories des notifications possibles sont les suivantes :
 * Activités sur les modèles d'audit
 * Activités sur les rapports d'analyse
 
-Par module, vous aurez la possibilité de choisir de laisser activer ou non différents types de notifications :&#x20;
+Par fonctionnalité, vous aurez la possibilité de choisir de laisser activer ou non différents types de notifications :&#x20;
 
 Dans le cadre des traitements par exemple :
 
@@ -51,8 +51,8 @@ Quelques exceptions :&#x20;
 
 Dans le cadre des audits, certains types de notifications sont hors champ du centre de gestion des notifications.&#x20;
 
-En effet, lorsque vous planifiez un audit et sélectionner "envoyer les invitations immédiatement", l'invitation à l'audit par e-mail sera reçue malgré avoir déselectionné la notification "Invitation à répondre à l'audit".&#x20;
+En effet, lorsque vous planifiez un audit et sélectionnez "envoyer les invitations immédiatement", l'invitation à l'audit par e-mail sera reçue malgré avoir déselectionné la notification "Invitation à répondre à l'audit".&#x20;
 
-Tout simplement car l'on vous soumet explicitement cet audit.&#x20;
+Tout simplement car l'on vous soumet explicitement cet audit, ce qui ne rentre pas dans les considérations du centre de gestion des notifications.
 
 Le meme type d'exception existe en ce qui concerne les "invitations à compléter le registre", fonctionnalité que vous retrouvez dans vos fiches de traitement afin de soumettre une invitation, personnalisable, à un utilisateur pour lui demander de remplir telle ou telle étape de la fiche de traitement.
