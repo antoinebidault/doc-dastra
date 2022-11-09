@@ -51,8 +51,8 @@ Quelques exceptions :&#x20;
 
 Dans le cadre des audits, certains types de notifications sont hors champ du centre de gestion des notifications.&#x20;
 
-En effet, lorsque vous planifiez un audit et sélectionner "envoyer les invitations immédiatement", l'invitation à l'audit par e-mail sera reçue malgré avoir déselctionné la notification "Invitation à répondre à l'audit".&#x20;
+En effet, lorsque vous planifiez un audit et sélectionner "envoyer les invitations immédiatement", l'invitation à l'audit par e-mail sera reçue malgré avoir déselectionné la notification "Invitation à répondre à l'audit".&#x20;
 
 Tout simplement car l'on vous soumet explicitement cet audit.&#x20;
 
-Le mme type d'exception existe en ce qui concerne les "invitations à compléter le registre", fonctionnalité que vous retrouvez dans vos fiches de traitement afin de soumettre une invitation, personnablisable, à un utilisateur pour lui demander de remplir telle ou telle étape de la fiche de traitement.
+Le meme type d'exception existe en ce qui concerne les "invitations à compléter le registre", fonctionnalité que vous retrouvez dans vos fiches de traitement afin de soumettre une invitation, personnalisable, à un utilisateur pour lui demander de remplir telle ou telle étape de la fiche de traitement.
