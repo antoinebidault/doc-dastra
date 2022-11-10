@@ -34,7 +34,7 @@ Les différentes catégories de notifications possibles sont les suivantes :
 
 Par fonctionnalité, vous aurez la possibilité de choisir de laisser activer ou non différents types de notifications :&#x20;
 
-Dans le cadre des traitements par exemple :
+#### Dans le cadre des traitements par exemple :
 
 * Modification d'un traitement
 * Changement de statut d'un traitement
@@ -42,7 +42,7 @@ Dans le cadre des traitements par exemple :
 
 ![](<../../.gitbook/assets/Capture d’écran 2022-11-10 à 15.11.24.png>)
 
-En ce qui concerne les audits :&#x20;
+#### En ce qui concerne les audits :&#x20;
 
 * Réponse à un audit refusée
 * Réponse à un audit validée
@@ -51,12 +51,12 @@ En ce qui concerne les audits :&#x20;
 
 ![](<../../.gitbook/assets/Capture d’écran 2022-11-10 à 15.11.59.png>)
 
-Quelques exceptions :&#x20;
+## Les notifications hors champ du centre de gestion&#x20;
 
 Dans le cadre des audits, certains types de notifications sont hors champ du centre de gestion des notifications.&#x20;
 
-En effet, lorsque vous planifiez un audit et sélectionnez "envoyer les invitations immédiatement", l'invitation à l'audit par e-mail sera reçue malgré avoir déselectionné la notification "Invitation à répondre à l'audit".&#x20;
+En effet, lorsque vous planifiez un audit et sélectionnez "_envoyer les invitations immédiatement_", l'invitation à l'audit par e-mail sera reçue malgré avoir déselectionné la notification "_Invitation à répondre à l'audit_".&#x20;
 
-Tout simplement car l'on vous soumet explicitement cet audit, ce qui ne rentre pas dans les considérations du centre de gestion des notifications.
+Tout simplement car l'on vous **soumet explicitement cet audit**, ce qui **ne rentre pas dans les considérations du centre de gestion des notifications**.
 
-Le meme type d'exception existe en ce qui concerne les "invitations à compléter le registre", fonctionnalité que vous retrouvez dans vos fiches de traitement afin de soumettre une invitation, personnalisable, à un utilisateur pour lui demander de remplir telle ou telle étape de la fiche de traitement.
+Le meme type d'exception existe en ce qui concerne les "_invitations à compléter le registre_", fonctionnalité que vous retrouvez dans vos fiches de traitement afin de **soumettre une invitation**, personnalisable, à un **utilisateur** pour lui demander de **remplir telle ou telle étape de la fiche de traitement**.
