@@ -40,12 +40,16 @@ Dans le cadre des traitements par exemple :
 * Changement de statut d'un traitement
 * Suppression d'une relation à un traitement
 
+![](<../../.gitbook/assets/Capture d’écran 2022-11-10 à 15.11.24.png>)
+
 En ce qui concerne les audits :&#x20;
 
 * Réponse à un audit refusée
 * Réponse à un audit validée
 * Invitation à répondre à l'audit
 * Annotation de l'audit ajouté
+
+![](<../../.gitbook/assets/Capture d’écran 2022-11-10 à 15.11.59.png>)
 
 Quelques exceptions :&#x20;
 
