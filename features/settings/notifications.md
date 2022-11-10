@@ -40,7 +40,7 @@ Par fonctionnalité, vous aurez la possibilité de choisir de laisser activer ou
 * Changement de statut d'un traitement
 * Suppression d'une relation à un traitement
 
-![](<../../.gitbook/assets/Capture d’écran 2022-11-10 à 15.11.24.png>)
+<figure><img src="../../.gitbook/assets/Capture d’écran 2022-11-10 à 15.11.24.png" alt=""><figcaption></figcaption></figure>
 
 #### En ce qui concerne les audits :&#x20;
 
@@ -49,7 +49,7 @@ Par fonctionnalité, vous aurez la possibilité de choisir de laisser activer ou
 * Invitation à répondre à l'audit
 * Annotation de l'audit ajouté
 
-![](<../../.gitbook/assets/Capture d’écran 2022-11-10 à 15.11.59.png>)
+<figure><img src="../../.gitbook/assets/Capture d’écran 2022-11-10 à 15.11.59.png" alt=""><figcaption></figcaption></figure>
 
 ## Les notifications hors champ du centre de gestion&#x20;
 
