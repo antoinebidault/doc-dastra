@@ -1,9 +1,9 @@
-# FAQ Registre
+# Foire aux questions
 
-## Quels sont les délais de conservation des documents pour les entreprises ?
+## Comment afficher le nom des modules sous les icones dans Dastra ?
 
-Une entreprise doit conserver tout document émis ou reçu dans l'exercice de son activité pendant une durée minimale. Ce délai varie selon la nature des papiers et les obligations légales. L'entreprise peut aussi archiver les documents plus longtemps, sauf s'ils contiennent des données personnelles. Pendant ce délai, l'administration peut mener des contrôles.&#x20;
+Vous souhaitez afficher le nom des modules sous chaque icône à gauche de l'écran ? Cela dépend du niveau de zoom du navigateur.&#x20;
 
-Plus d'information sur les délais de conservation par type de document sur [**ce lien**](https://www.service-public.fr/professionnels-entreprises/vosdroits/F10029)****
+Baissez le niveau de zoom et vous verrez apparaitre les noms :&#x20;
 
-****
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Nom des modules</p></figcaption></figure>
