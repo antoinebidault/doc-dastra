@@ -12,6 +12,8 @@ L’article 37.1 du RGPD (règlement général sur la protection des données) *
 
 Pour en savoir plus sur la désignation du DPO, rendez-vous sur l'article "[Dans quel cas la désignation du DPO est-elle obligatoire ?](https://www.dastra.eu/fr/guide/designation-obligatoire-ou-facultative-dun-dpo/48289)"
 
+Consultez également notre [article sur les modalités de désignation d'un DPO ](https://www.dastra.eu/fr/guide/les-modalites-de-designation-dun-delegue-a-la-protection-des-donnees/42392)pour vous assurer de désigner la bonne personne.
+
 
 
 ## Ajouter un DPO dans Dastra
