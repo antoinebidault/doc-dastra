@@ -24,6 +24,7 @@
 * [Mise en place](commencer/commencer/README.md)
   * [Créer et paramétrer un espace de travail](commencer/commencer/espace-de-travail.md)
   * [Créer et paramétrer les unités organisationnelles](commencer/commencer/creer-et-parametrer-des-entites-et-departements.md)
+  * [Désigner un DPO](commencer/commencer/designer-un-dpo.md)
   * [Inviter d'autres utilisateurs](commencer/commencer/inviter-utilisateurs.md)
   * [Gérer les rôles et permissions](commencer/commencer/gerez-les-roles-et-permissions.md)
   * [Créer puis affecter des équipes](commencer/commencer/creer-puis-affectez-des-equipes.md)
