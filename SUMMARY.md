@@ -68,6 +68,7 @@
     * [Documents](features/editer-le-registre/remplir-le-questionnaire/documents.md)
   * [Créer une relation entre les traitements](features/editer-le-registre/creer-une-relation-entre-les-traitements.md)
   * [Partager le registre](features/editer-le-registre/partager-le-registre.md)
+  * [Dépannage](features/editer-le-registre/depannage.md)
 * [Visualisation des données](features/la-visualisation-des-donnees/README.md)
   * [Visualiser l'arborescence des traitements](features/la-visualisation-des-donnees/visualiser-larborescence-des-traitements.md)
   * [Visualiser la cartographie des données du registre](features/la-visualisation-des-donnees/visualiser-la-cartographie-des-donnees.md)
