@@ -18,11 +18,11 @@ Pour accéder au menu d'import de données, cliquez sur le bouton "importer"
 
 ![](<../../.gitbook/assets/image (255) (1).png>)
 
-Ensuite, téléchargez un échantillon de fichier en cliquand sur le bouton "télécharger le modèle de fichier (.csv)"
+Ensuite, téléchargez un échantillon de fichier en cliquant sur le bouton "télécharger le modèle de fichier (.csv)"
 
 ![](<../../.gitbook/assets/image (247).png>)
 
-Le modèle de fichier est **un fichier CSV** que vous pouvez facilement édité avec Excel ou Google Sheet.
+Le modèle de fichier est **un fichier CSV** que vous pouvez facilement éditer avec Excel ou Google Sheet.
 
 Celui-ci contiendra toutes les colonnes nécessaires avec des exemples de données.
 
