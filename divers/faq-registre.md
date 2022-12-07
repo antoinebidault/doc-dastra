@@ -31,3 +31,17 @@ Vous avez un registre des traitements existant sur le format de la CNIL ? Vous p
 5 : créer les liens entre les objets dans les traitements
 
 Si vous souhaitez qu'on vous aide à importer votre registre existant, n'hésitez pas à nous solliciter. Ce sera l'occasion de le revoir !
+
+
+
+## Comment ajouter un sous-traitant dans un traitement ?&#x20;
+
+
+
+
+
+## Comment supprimer un traitement ?&#x20;
+
+
+
+Afin d'éviter les mauvaises surprises, nous avons mis en place un garde-fou. La suppression se fait en deux étapes.&#x20;

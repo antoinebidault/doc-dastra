@@ -16,7 +16,7 @@ Ce widget se compose de plusieurs éléments:
 
 ![Une fenêtre d'introduction dépliable](<../../../.gitbook/assets/image (42).png>)
 
-![La liste des cookies par finalité utilisées par le site ](<../../../.gitbook/assets/image (40).png>)
+![La liste des cookies par finalité utilisées par le site ](<../../../.gitbook/assets/image (40) (1).png>)
 
 ## Prérequis&#x20;
 

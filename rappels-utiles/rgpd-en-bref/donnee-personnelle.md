@@ -59,8 +59,8 @@ Le règlement européen interdit de recueillir ou d’utiliser ces données, sau
 
 ## Pour aller plus loin
 
-{% content-ref url="../../features/la-visualisation-des-donnees/visualiser-la-cartographie-des-donnees.md" %}
-[visualiser-la-cartographie-des-donnees.md](../../features/la-visualisation-des-donnees/visualiser-la-cartographie-des-donnees.md)
+{% content-ref url="../../features/editer-le-registre/la-visualisation-des-donnees/visualiser-la-cartographie-des-donnees.md" %}
+[visualiser-la-cartographie-des-donnees.md](../../features/editer-le-registre/la-visualisation-des-donnees/visualiser-la-cartographie-des-donnees.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../features/editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md" %}

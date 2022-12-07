@@ -2,7 +2,7 @@
 description: Apprenez à utiliser le tableau de bord de Dastra.
 ---
 
-# Le tableau de bord
+# Tableau de bord
 
 ## Introduction
 
@@ -49,8 +49,8 @@ Explorez dès maintenant les fonctionnalités :
 [editer-le-registre](editer-le-registre/)
 {% endcontent-ref %}
 
-{% content-ref url="la-visualisation-des-donnees/" %}
-[la-visualisation-des-donnees](la-visualisation-des-donnees/)
+{% content-ref url="editer-le-registre/la-visualisation-des-donnees/" %}
+[la-visualisation-des-donnees](editer-le-registre/la-visualisation-des-donnees/)
 {% endcontent-ref %}
 
 {% content-ref url="la-gestion-des-risques/" %}
