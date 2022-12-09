@@ -16,7 +16,7 @@ et sélectionner "modèle prédéfini"
 
 
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ensuite vous pourrez chercher des modèles de traitement à partir de la barre de recherche.
 
@@ -34,7 +34,7 @@ Pour **visualiser le contenu du modèle** avant son import, vous pouvez cliquer 
 
 Si vous ne trouvez pas un modèle, vous pouvez nous en suggérer la création.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Créer des modèles de traitement en masse
 

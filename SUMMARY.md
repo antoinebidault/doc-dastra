@@ -44,8 +44,10 @@
 
 * [Tableau de bord](features/le-tableau-de-bord.md)
 * [Généralités](features/generalites/README.md)
+  * [Filtres avancés](features/generalites/advanced-filters.md)
   * [Importer vos données (Excel, Csv)](features/generalites/importer-vos-donnees-excel-csv.md)
   * [Gestion des tags](features/generalites/gestion-des-tags.md)
+  * [Champs personnalisés](features/generalites/custom-fields.md)
 * [Cartographie des données](features/cartography.md)
 * [Registre des traitements](features/editer-le-registre/README.md)
   * [Registre "Responsable de traitement"](features/editer-le-registre/le-registre-responsable-de-traitement.md)
