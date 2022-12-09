@@ -28,7 +28,7 @@ La **langue** vous permet de visualiser les modèles de traitements dans les aut
 
 Pour **visualiser le contenu du modèle** avant son import, vous pouvez cliquer sur l'oeil situé en haut à droite du modèle.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Suggérer un modèle de traitement
 
@@ -50,7 +50,7 @@ Rendez vous dans les options du bouton "Créer un traitement de données" puis "
 
 Sélectionnez un ou plusieurs modèles, choisissez une unité organisationnelle et cliquez sur "ajouter"
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le bouton "**Détails**" permet de prévisualiser le modèle.&#x20;
 

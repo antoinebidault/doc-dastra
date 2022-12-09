@@ -35,7 +35,7 @@ Reproduisez le processus décrit ci-dessus, mais en allant à l'intérieur du tr
 
 Les traitements sont partageables quelque soit le statut (publié ou brouillon).
 
-![](<../../.gitbook/assets/image (18) (1).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 Il est également possible de partager plusieurs traitements en les sélectionnant dans le menu Registre et choisissant l'action groupée "partager".&#x20;
 

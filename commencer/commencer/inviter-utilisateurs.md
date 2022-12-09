@@ -10,7 +10,7 @@ Vous pouvez amener quelqu'un à collaborer sur vos espaces en l'invitant dans l'
 
 Vous pouvez inviter des utilisateurs à votre espace de travail en cliquant sur le bouton "config" en bas à gauche de l'écran, puis "gestion d'accès / utilisateurs" et enfin "inviter un utilisateur":
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 Rentrez l'adresse email de la personne que vous souhaitez inviter dans votre espace Dastra. Si cette adresse n'est pas déjà rattachée à l'organisation, cliquez sur celle-ci pour lui envoyer un lien d'invitation.
 

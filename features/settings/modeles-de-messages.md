@@ -16,7 +16,7 @@ Pour optimiser votre temps et gagner en efficacité, vous pouvez paramétrer des
 
 Les types de modèles sont les suivants :
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   **Message dans les demandes d'exercice des droits**
 
@@ -35,11 +35,11 @@ Les types de modèles sont les suivants :
 
 La création de modèle s'effectue soit à partir des réglages de l'espace de travail, soit à partir du lieu du message.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Création depuis les réglages de l'espace de travail</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Création depuis les réglages de l'espace de travail</p></figcaption></figure>
 
 Cliquez sur Créer modèle
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Interface de création d'un modèle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Interface de création d'un modèle</p></figcaption></figure>
 
 N'oubliez pas d'enregistrer votre travail !
 
@@ -51,7 +51,7 @@ Cela signifie que vous pouvez inclure automatiquement des informations concernan
 
 Par exemple, dans l'invitation à répondre à un audit, il sera possible de reprendre automatiquement la date d'échéance d'un audit.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Les champs personnalisés du message d'invitation à répondre à un audit</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Les champs personnalisés du message d'invitation à répondre à un audit</p></figcaption></figure>
 
 
 
