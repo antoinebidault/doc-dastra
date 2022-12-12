@@ -145,7 +145,7 @@
   * [Référentiels](features/settings/referentials.md)
   * [Gestion des clés d'API](features/settings/gestion-des-cles-dapi.md)
   * [Notifications](features/settings/notifications.md)
-  * [Etapes de workflow](features/settings/workflows.md)
+  * [Etapes de workflow / déroulement du processus](features/settings/workflows.md)
   * [Intégrations OneDrive/Google Drive](features/settings/integrations-onedrive-google-drive.md)
   * [Webhooks](features/settings/webhooks.md)
   * [Configuration du SMTP](features/settings/configuration-du-smtp.md)
