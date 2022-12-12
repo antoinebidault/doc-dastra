@@ -58,7 +58,7 @@ Dastra vous propose plusieurs types de champs personnalisés possibles
 * Nombre décimal
 * Date
 * Date et heure
-* Case à cocher (réponse multiple)
+* Case à cocher (réponse multiple) (**non filtrable**)
 * Case à cocher (réponse unique)
 * Sélecteur simple
 * Sélecteur multiple
@@ -72,7 +72,7 @@ Vous pouvez :
 * Les champs personnalsiés peuvent s'afficher dans tous les tableaux de visualisation de l'application. Pour les afficher, cliquer sur le bouton de paramétrage des colonnes du tableau.
 * Les champs personnalisés sont **présents dans tous les exports Excel** de données. Pour plus d'informations sur les exports, [consultez la page sur les exports](../editer-le-registre/exporter-importer-le-registre.md)
 * Les champs personnalisés peuvent être présents dans les exports HTML, Word et PDF sur option (en cochant la case "Exportable dans les rapports" sur le champ en question)
-* **A l'exception des champs à réponses multiples**, les champs personnalisés sont tous filtrables via le système de [filtres avancés](advanced-filters.md) à l'exception des champs comportant plusieurs réponses.&#x20;
+* **A l'exception des champs à réponses multiples**, les champs personnalisés sont tous filtrables via le système de [filtres avancés](advanced-filters.md).&#x20;
 * Les champs personnalisés peuvent être mis à jour en masse dans les tableaux de données
 * Les champs personnalisés peuvent être importés via fichiers plats [en utilisant le système d'import](importer-vos-donnees-excel-csv.md)
 * Les champs personnalisés sont **accessibles et modifiables via toutes les API**. Pour cela, il faudra utiliser le nom de variable attribué à chaque colonne. [Consultez la rubrique concernant les modifications via API des champs personnalisés](custom-fields.md#manipuler-les-champs-personnalises-dans-les-api).
