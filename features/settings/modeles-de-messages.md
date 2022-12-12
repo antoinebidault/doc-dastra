@@ -35,7 +35,7 @@ Les types de modèles sont les suivants :
 
 La création de modèle s'effectue soit à partir des réglages de l'espace de travail, soit à partir du lieu du message.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Création depuis les réglages de l'espace de travail</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Création depuis les réglages de l'espace de travail</p></figcaption></figure>
 
 Cliquez sur Créer modèle
 

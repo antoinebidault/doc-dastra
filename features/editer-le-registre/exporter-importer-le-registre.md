@@ -50,11 +50,11 @@ N'hésitez pas à consulter également notre bibliothèque de modèles de traite
 
 Pour importer vos labels de traitements existants, il faut cliquer sur l'onglet "importer vos données" dans la section Registre, onglet Registre:
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 Ensuite, téléchargez un échantillon de notre fichier tel que présenté à l'écran.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 
 
