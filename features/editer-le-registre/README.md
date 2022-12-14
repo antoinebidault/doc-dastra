@@ -2,7 +2,7 @@
 description: Apprenez à éditer votre registre de traitement avec Dastra.
 ---
 
-# Le registre des traitements
+# Registre des traitements
 
 ## Introduction
 
@@ -34,6 +34,26 @@ L’article 30 du RGPD prévoit des obligations spécifiques pour le _registre d
 {% content-ref url="le-registre-sous-traitant.md" %}
 [le-registre-sous-traitant.md](le-registre-sous-traitant.md)
 {% endcontent-ref %}
+
+## Les différentes méthodologies pour mettre en place le registre des traitements
+
+Il existe deux méthodologies pour créer une fiche de traitement :&#x20;
+
+* **La conception en Top-Down (Descendante)** : on démarre le projet en partant des traitements de données, et on collecte ensuite les informations propre au traitement (les données, les sous-traitants).&#x20;
+* **La conception en Bottom-Up (Ascendante)** : on commence par faire l'inventaire des données (les logiciels, jeux de données et champs de données personnelles) et ensuite on créé les traitements à partir de cet inventaire.
+
+### Quelle méthodologie de mise en place de registre choisir ?
+
+Il n'y a pas de bonne ou de mauvaise méthode, tout va dépendre du contexte de votre organisation, des compétences de l'équipe DPO, de l'accessibilité des opérationnels de la donnée...
+
+Voici un tableau de comparaison des deux approches :
+
+| Méthodologie               | Cible                                                                                                                                                | Bénéfices                                                                                                                                                                                                                                                                                                                    | Inconvénients                                                                                                                                                                                                                                                                                                                         |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Top-Down (Descendante)** | <p>Petites organisations ou collectivités<br>Entreprise avec une faible culture de la donnée<br>Equipe légale avec une faible affinité pour l'IT</p> | <p>Rapidité de mise en place<br>Moins de travail<br>Correspond bien aux attentes légales du RGPD<br></p>                                                                                                                                                                                                                     | <p>Peu engendrer des difficultés si l'équipe de mise en place du registre ne connaît pas les données de l'organisation<br>Plus contraignant pour les opérationnels<br>L'inventaire des données sera beaucoup moins valorisable car modelé pour des attentes légales uniquement<br>Plus complexe à maintenir sur le long terme<br></p> |
+| **Bottom-Up (Ascendante)** | <p>Grandes ou moyennes organisations<br>Avec une forte culture de la donnée<br>Equipe légale avec forte affinité IT</p>                              | <p>Faire l'inventaire des données sera moins abstrait que de créer directement des traitements.<br>Le registre reflète la réalité de l'organisation<br>La tenue du registre sera plus aisée sur le long terme<br>Plus de membres de l'organisation sont impliqués<br>Création de fiche de traitement est plus automatisé</p> | <p>Globalement plus difficile et long à mettre en place<br>Projet nécessitant une bonne gouvernance</p>                                                                                                                                                                                                                               |
+
+La bonne nouvelle, c'est que Dastra gère parfaitement les deux approches ! Vous pouvez soit créer une fiche en automatique [en prenant un modèle de traitement](utiliser-un-modele-de-traitement.md). Si vous préférez l'approche , il est possible de [créer sa cartographie de données](../cartography.md) et créer un traitement directement à partir d'un actif (logiciel, base de données)
 
 ## Comment établir son registre de traitement ?
 
