@@ -2,7 +2,7 @@
 description: Apprenez à personnaliser les workflows dans Dastra.
 ---
 
-# Etapes de workflow
+# Etapes de workflow / déroulement du processus
 
 ## A quoi servent les étapes de workflow ?
 
@@ -16,7 +16,7 @@ Cliquez dans "Réglages" puis "Déroulement du processus"&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 
 
