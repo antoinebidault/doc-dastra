@@ -39,8 +39,8 @@ L’article 30 du RGPD prévoit des obligations spécifiques pour le _registre d
 
 Il existe deux méthodologies pour créer une fiche de traitement :&#x20;
 
-* **La conception en Top-Down (Descendante)** : on démarre le projet en partant des traitements de données, et on collecte ensuite les informations propre au traitement (les données, les sous-traitants).&#x20;
-* **La conception en Bottom-Up (Ascendante)** : on commence par faire l'inventaire des données (les logiciels, jeux de données et champs de données personnelles) et ensuite on créé les traitements à partir de cet inventaire.
+* **La conception en Top-Down (Descendante)** : on démarre le projet en établissant l'inventaire des traitements de données, et on collecte ensuite les informations propres à chaque traitement (les données, les sous-traitants...etc...).&#x20;
+* **La conception en Bottom-Up (Ascendante)** : on commence par faire l'inventaire des données (les logiciels, jeux de données et champs de données personnelles) et on créé les traitements à partir de celui-ci.
 
 ### Quelle méthodologie de mise en place de registre choisir ?
 
