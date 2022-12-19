@@ -24,9 +24,9 @@ Dans chaque import, le processus est le même.&#x20;
 
 Il s'effectue en 4 étapes :&#x20;
 
-1. [Préparation du fichier de données](importer-vos-donnees-excel-csv.md#1.-preparez-vos-donnees)
-2. [Téléchargement du fichier](importer-vos-donnees-excel-csv.md#2.-envoyez-le-fichier)
-3. [Vérification des données avant import](importer-vos-donnees-excel-csv.md#3.-mappez-vos-donnees)
+1. [Préparation du fichier de données](importer-vos-donnees-excel-csv.md#1.-preparation-du-fichier-de-donnees)
+2. [Téléchargement du fichier](importer-vos-donnees-excel-csv.md#2.-charger-le-fichier)
+3. [Vérification des données avant import](importer-vos-donnees-excel-csv.md#3.-verifiez-vos-donnees)
 4. [Import des données](importer-vos-donnees-excel-csv.md#4.-importez-les-donnees)
 
 
