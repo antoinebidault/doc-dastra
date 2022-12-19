@@ -16,11 +16,11 @@ Dastra vous permettra de créer des champs de formulaire personnalisés que vous
 
 Voici un exemple de configuration de champs pour l'acteur :
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Configuration des champs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Configuration des champs</p></figcaption></figure>
 
 Et voici le résultat dans le formulaire :
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Fonctionnalités concernées
 
@@ -89,7 +89,7 @@ Vous pouvez :
 
 * **Renseignez le nom et l'emplacement** dans le formulaire que vous souhaitez
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pour certains éléments, il est possible de définir l'emplacement que vous souhaitez dans le formulaire !
 
