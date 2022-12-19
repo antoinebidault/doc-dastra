@@ -20,6 +20,18 @@ Un formulaire apparait. Rentrez son nom, son prénom, son rôle, son équipe pui
 \
 Ca y est, l'utilisateur a été invité !
 
+### Retrouvez les invitations en cours
+
+Vous pouvez piloter les invitations en cours dans les réglages de l'espace de travail sur la section "Utilisateurs".&#x20;
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+### Renvoyer un lien d'invitation
+
+Si l'utilisateur invité n'a pas cliqué sur le lien d'invitation et que le lien a expiré (au bout de 10 jours), vous pouvez lui renvoyer le lien d'invitation en cliquant sur le bouton "Renvoyer l'invitation".&#x20;
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 ### Créer puis affectez des équipes
 
 Dans Dastra, les utilisateurs sont regroupés par équipe, qui elles-mêmes sont affectées soit à des entités juridiques, soit à des départements. Ainsi, il est possible de gérer finement les rôles et responsabilités.
