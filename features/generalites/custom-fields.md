@@ -8,6 +8,10 @@ description: Dastra vous donne la possibilité de personnaliser à l'infini vos 
 Cette fonctionnalité est encore en beta. Il se peut qu'elle comporte encore quelques instabilités.
 {% endhint %}
 
+{% embed url="https://www.youtube-nocookie.com/embed/mDyJD-mnnL0" %}
+Comment utiliser les champs personnalisés dans Dastra
+{% endembed %}
+
 ## Dans quel cas utiliser les champs personnalisés ?
 
 Il se peut que certaines informations propres à votre secteur ne soient pas présentes dans les champs natifs du registre des traitements, les exercices de droits, les tâches...etc...
