@@ -2,31 +2,31 @@
 description: Apprenez à réaliser des audits et des PIA avec Dastra.
 ---
 
-# Les audits et PIA
+# Audits et PIA
 
 ## Introduction
 
-En tant qu'entreprise, vous avez besoin de réaliser des PIAs et la conformité RGPD de vos traitements. Le module d’audit de Dastra vous permet de collecter toutes les informations nécessaires au pilotage de votre conformité : PIA, audits de sécurité des fournisseurs, PIA, audits de conformité…&#x20;
+En tant qu'organisation, vous avez besoin de réaliser des analyses d'impacts relatives à la protection des données (AIPD ou PIA) et de vous assurer du niveau de conformité de vos traitements. Le module d’audit de Dastra vous permet de collecter toutes les informations nécessaires au pilotage de votre conformité : PIA, audits des sous-traitants, audits de conformité, audits de sécurité etc. &#x20;
 
 Avec le module "Audit" Dastra, vous pouvez :
 
-* Créez des questionnaires d'audits & PIA
-* Lier vos audits à des applications, des traitements, des acteurs
-* Notifiez automatiquement les participants
+* Créer des questionnaires d'audits dont des AIPD/PIA
+* Lier vos audits à des actifs, des traitements, des acteurs, des mesures, violations, demandes d'exercice de droits et risques.
+* Notifier automatiquement les participants
 * Répondre à l’audit avec une interface simple et intuitive&#x20;
 * Suivre la validation des audits
 * Evaluer les risques
-* Générez un plan d’action
+* Générer un plan d’actions
 
 {% hint style="info" %}
-Dans Dastra, les PIA sont considérés comme **un modèle d'audit** particulier.
+Dans Dastra, les AIPD sont considérées comme **un modèle d'audit** particulier.
 {% endhint %}
 
 ## Comment accéder à la fonctionnalité "audit" de Dastra ?
 
 &#x20;Pour accéder à la fonctionnalité "Audit", cliquer sur la fonctionnalité "Audit" à gauche de l'écran.
 
-![](<../../.gitbook/assets/Capture web\_6-5-2022\_103140\_app.dastra.eu.jpeg>)
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 ## Créer ou modifier un modèle d'audit ou de PIA
 

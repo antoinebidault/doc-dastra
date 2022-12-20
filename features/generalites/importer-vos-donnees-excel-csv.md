@@ -45,7 +45,7 @@ Pour accéder au menu d'import de données, cliquez sur le bouton "importer" sou
 
 Sélectionnez Excel si cela vous est demandé :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Téléchargement du modèle de fichier
 
@@ -67,7 +67,7 @@ Remplissez le fichier téléchargé avec vos données.
 
 Pour chaque fichier de données, vous pourrez afficher les valeurs attendues sur les colonnes :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (262).png" alt=""><figcaption><p>Valeurs attendues pour le fichier d'import du registre</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (262) (1).png" alt=""><figcaption><p>Valeurs attendues pour le fichier d'import du registre</p></figcaption></figure>
 
 Les imports contiennent des valeurs attendues en anglais. C'est tout à fait normal. En effet, il s'agit d'un import technique en base de données.&#x20;
 
