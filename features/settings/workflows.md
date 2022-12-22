@@ -36,7 +36,7 @@ Par exemple, si vous supprimez l'étape "En cours" dans les workflow de tâches&
 
 Les objets attachés passeront à l'étape "Besoins d'infos"
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
