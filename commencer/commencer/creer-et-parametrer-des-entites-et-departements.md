@@ -81,6 +81,20 @@ Ainsi, vous pourrez visualiser le schéma organisationnel de votre groupement de
 Vous pouvez réaliser dans la vue "Organigramme" la plupart des opérations disponibles dans la vue "Entités / départements"
 {% endhint %}
 
+## Limiter les accès au contenu d'une unité organisationnelle
+
+Vous pouvez grâce au système d'équipes d'utilisateurs limiter l'accès au contenu attaché à une unité organisationnelle.&#x20;
+
+Pour cela, il faut attacher des équipes à des unités organisationnelles.&#x20;
+
+Le système est arborescent. Cela signifie que, pour qu'une équipe accède à une UO enfant, elle doit accéder à l'UO parent.&#x20;
+
+
+
+Voici une vidéo explicative :
+
+{% embed url="https://www.youtube-nocookie.com/embed/AQdTo_4wSZk" %}
+
 ## Aller plus loin
 
 {% content-ref url="creer-puis-affectez-des-equipes.md" %}
