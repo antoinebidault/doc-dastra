@@ -26,7 +26,7 @@ Vous arrivez sur l'**écran de détail du webhook.**
 
 ![](<../../.gitbook/assets/image (254) (1) (1).png>)
 
-## Comment réceptionner le webhook 🛬
+### Comment réceptionner le webhook 🛬
 
 Pour réceptionner les requêtes du webhook, vous devez créer un endpoint d'API de captation de l'évènement. La requête effectuée est en **POST** et sera toujours structurée de cette façon. Le body de la requête contient un json avec le détail de l'évènement déclenché.
 
@@ -46,17 +46,19 @@ Voici la structure générale de la réponse envoyée :&#x20;
 
 Un timeout de 10 secondes est appliqué sur la requête, au delà de ce temps la requête sera en erreur. Il est nécessaire que le code de réponse soit 200.&#x20;
 
+Il peut y avoir un petit délai entre le moment où l'évènement a lieu dans l'application et le déclenchement du webhooks (ce délai est lié à la nature asynchrone de l'exécution du webhook dans notre infrastructure). Ce délai est plus ou moins important selon la charge de notre infrastructure et peut aller jusque 60-120 secondes maximum.
+
 {% hint style="info" %}
 Il n'existe pour l'instant aucun système permettant de rejouer les webhooks qui ont échoués et donc de compenser une éventuelle indisponibilité des serveurs de réception des webhooks. Dans ce cas, nous vous recommandons d'effectuer une synchronisation manuelle des évènements qui ont échoué.
 {% endhint %}
 
-## Tester votre url de webhooks 🧪
+### Tester votre url de webhooks 🧪
 
 Vous allez pouvoir tester votre webhook en condition réelle **en cliquant sur le bouton "Tester".**
 
 
 
-## Comment sécuriser le webhook ? 🛡️
+### Comment sécuriser le webhook ? 🛡️
 
 {% hint style="info" %}
 Même si ce n'est pas une obligation, il est **recommandé de valider la requête entrante** du webhook pour éviter les attaques potentielles d'un hackeur qui aurait sniffé le réseau et serait ainsi en capacité de poster n'importe quoi sur votre url de webhook et ainsi déclencher ou spammer la création d'éléments dans votre système.
@@ -156,6 +158,19 @@ private static string GetRequestBody()
 {% endtab %}
 {% endtabs %}
 
-## Que se passe-t-il quand l'url répond autre chose que 200
+### Que se passe-t-il quand l'url répond autre chose que 200
 
 Le webhook sera automatiquement bloqué et considéré en erreur quand le seuil de 5 erreurs est dépassé.
+
+### Quelles sont les adresses IP des serveurs de Dastra qui appellent les webhooks ?
+
+Vous pouvez contrôler les adresses IP entrantes dans votre webhook en utilisant les adresses IP suivantes :&#x20;
+
+* 40.89.131.148
+* 40.89.142.231
+* 40.89.143.1
+* 40.89.136.129
+* 40.89.137.32
+* 40.89.141.38
+* 40.89.137.122
+* 40.89.136.182
