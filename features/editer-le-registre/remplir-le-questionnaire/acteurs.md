@@ -21,7 +21,7 @@ Pour ajouter un responsable conjoint, il faut ajouter une nouvelle partie prenan
 
 Vous serez invité à ajouter un acteur en tant que responsable conjoint.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
