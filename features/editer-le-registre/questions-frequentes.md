@@ -16,6 +16,12 @@ Il suffit de cliquer sur l'icone en haut de la page représentant une horloge.
 
 Attention, les modifications d'unités organisationnelles ne sont pas tracées.&#x20;
 
+## Est-il possible d'ajouter automatiquement des éléments dans le champ "parties prenantes" dans un nouveau traitement ?
+
+Non, on ne peut pas mettre à jour de parties prenantes de manière automatisée via les workflow automatisés.&#x20;
+
+Par contre, il est possible de créer un champ personnalisé au niveau des parties prenantes qu'il est possible de modifier via le workflow automatisé.
+
 {% hint style="info" %}
 Si vous ne trouvez la réponse dans ce guide, vous pouvez nous [contacter via le support](../../commencer/le-support/faire-une-demande-de-support.md)
 
