@@ -10,7 +10,7 @@ Vous pouvez amener quelqu'un à collaborer sur vos espaces en l'invitant dans l'
 
 Vous pouvez inviter des utilisateurs à votre espace de travail en cliquant sur le bouton "réglages" en bas à gauche de l'écran, puis "gestion d'accès / utilisateurs" et enfin "inviter un utilisateur":
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

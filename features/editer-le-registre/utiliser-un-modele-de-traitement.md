@@ -10,7 +10,7 @@ Les modèles de traitement permettent de gagner du temps dans la saisie de trait
 
 Aller sur "créer un traitement de données"&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 et sélectionner "modèle prédéfini"
 
