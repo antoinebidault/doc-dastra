@@ -89,7 +89,7 @@ Vous pouvez :
 * Choisissez le module dans lequel vous voulez ajouter un champ personnalisé
 * Les champs doivent être créés dans des groupes. Ces groupes peuvent être positionnés d'une certaine façon dans le formulaire Cliquez sur "**Ajouter un groupe de champs**"
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Renseignez le nom et l'emplacement** dans le formulaire que vous souhaitez
 
@@ -99,7 +99,7 @@ Pour certains éléments, il est possible de définir l'emplacement que vous sou
 
 * Une fois le groupe créé, vous pouvez désormais **effectuer un glisser-déposer des types de champs** que vous souhaitez mettre en place !
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Renseignez toutes les informations !
 

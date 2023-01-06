@@ -46,10 +46,10 @@ Pour créer une entité juridique, il vous suffit de cliquer sur le bouton "Cré
 Renseignez les champs demandés : le nom et le pays sont obligatoires. Vous pouvez renseigner le le nom du ou de la responsable (le représentant légal), ainsi que le ou la délégué(e) à la protection des données (le cas échéant) et le représentant au sein de l'UE (le cas échéant).
 
 {% hint style="info" %}
-Contrairement aux départements, le nombre d'entités légales (responsables de traitements) pouvant être entré dans Dastra est limité par un quota qui dépend de votre abonnement. Si vous souhaitez augmenter ce quota, [contactez le service commercial](https://www.dastra.eu/fr/contacts).
+Contrairement aux départements, le nombre d'entités (responsables de traitements) pouvant être entré dans Dastra est limité par un quota qui dépend de votre abonnement. Si vous souhaitez augmenter ce quota, [contactez le service commercial](https://www.dastra.eu/fr/contacts).
 {% endhint %}
 
-Pour modifier une entité légale, cliquez sur les 3 points à droite de l'entité concernée, puis sur "Modifier"
+Pour modifier une entité, cliquez sur les 3 points à droite de l'entité concernée, puis sur "Modifier"
 
 ![Menu déroulant lié à une entité.](<../../.gitbook/assets/image (208).png>)
 
@@ -64,6 +64,18 @@ Pour créer un département, il vous suffit de cliquer sur le bouton "Créer un 
 Pour modifier un département, il suffit de cliquer sur les 3 points à droite du département que vous souhaitez modifier, cliquer sur "Modifier" et remplir les champs demandés, avant de cliquer sur "enregistrer".
 
 ![Menu déroulant lié à un département](<../../.gitbook/assets/image (210).png>)
+
+## Importer des unités organisationnelles
+
+Vous pouvez importer une liste d'unités organisationnelles via un fichier d'import. Ce fichier est à télécharger en cliquant sur le bouton "Importer" dans l'interface de gestion des unités organisationnelles.&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Cliquez ensuite "Télécharger le modèle de fichier"
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Après avoir renseigné le fichier, déposez le dans le champ de dépôt et suivez les instructions.
 
 ## Visualiser et paramétrer les entités et départements depuis l'organigramme
 
