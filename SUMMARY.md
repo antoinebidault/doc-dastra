@@ -20,6 +20,9 @@
 
 ## Features
 
+* [Dashboard](features/dashboard.md)
+* [General](features/general/README.md)
+  * [Advanced Filters](features/general/advanced-filters.md)
 * [Edit the record of processing](features/editer-le-registre/README.md)
   * [Upload your existing record](features/editer-le-registre/upload-your-existing-record.md)
   * [Design and manage your record](features/editer-le-registre/gerer-votre-registre.md)

@@ -14,7 +14,7 @@ Our mission is to make a **user-friendly** and **collaborative** product for eve
 
 * **Share** **your record of processing** publicly or privately with anyone or use a secret **** link **** to allow non-Dastra users to access your private content.
 
-![](<.gitbook/assets/image (36).png>)
+![](<.gitbook/assets/image (36) (1).png>)
 
 * **Collaborate with your network, define an action plan and allocate tasks** to better protect your data and comply with GDPR.
 
