@@ -32,16 +32,30 @@ Vous avez un registre des traitements existant sur le format de la CNIL ? Vous p
 
 Si vous souhaitez qu'on vous aide à importer votre registre existant, n'hésitez pas à nous solliciter. Ce sera l'occasion de le revoir !
 
-
-
-## Comment ajouter un sous-traitant dans un traitement ?&#x20;
-
-
-
-
-
 ## Comment supprimer un traitement ?&#x20;
 
-
-
 Afin d'éviter les mauvaises surprises, nous avons mis en place un garde-fou. La suppression se fait en deux étapes.&#x20;
+
+
+
+
+
+## Comment supprimer le localstorage ?
+
+Vous avez un problème sur l'application ? Parfois, on peut vous demander de supprimer le localstorage. Il s'agit d'éléments de stockage du navigateur web qui permettent d'utiliser l'application et de se souvenir des paramètres choisis (les filtres par exemple).&#x20;
+
+Voici la procédure :&#x20;
+
+### Google Chrome
+
+1. Menu « sandwich » / plus d’outils / Outils de développement (F12)
+2. Menu application / storage / local storage
+3. Clic droit : « clear »
+4. Actualiser la page (F5)
+
+### Mozilla Firefox
+
+1. Menu « sandwich » / développement web / Outils de développement (F12)
+2. Menu stockage / stockage local
+3. Clic droit : « tout supprimer »
+4. Actualiser la page (F5)
