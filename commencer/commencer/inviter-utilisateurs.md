@@ -2,7 +2,7 @@
 description: Découvrez comment le système d'invitation de Dastra fonctionne.
 ---
 
-# Inviter d'autres utilisateurs
+# Inviter des utilisateurs
 
 ## Invitez un utilisateur
 
@@ -50,7 +50,7 @@ Il existe plusieurs rôles proposés par défaut dans Dastra, représentant des 
 
 Vous pouvez demander l'import d'une grande liste d'utilisateurs dans la plateforme. Pour cela il faut passer par les équipes de Dastra.&#x20;
 
-Les étapes à suivre :&#x20;
+**Les étapes à suivre :**&#x20;
 
 * rendez vous sur ce lien : [https://app.dastra.eu/general-settings/users](https://app.dastra.eu/general-settings/users)
 * Cliquez sur le bouton "contacter l'équipe de Dastra"
@@ -61,7 +61,7 @@ Les étapes à suivre :&#x20;
 
 De manière obligatoire : &#x20;
 
-* mail (email de l'utilisateur)
+* Email (email de l'utilisateur)
 * GivenName (prénom de l'utilisateur)
 * FamilyName(nom de l'utilisateur)
 
@@ -71,9 +71,11 @@ De manière optionnelle :&#x20;
 * Teams (séparé par des |) > cela correspond aux équipes dans Dastra
 * SsoConfigurationId > cela correspond à l'identifiant de login SSO le cas échéant
 
-Voici un modèle de fichier :&#x20;
+Voici un modèle de fichier à télécharger et à remplir :&#x20;
 
-
+{% file src="../../.gitbook/assets/Template_import_users.csv" %}
+Modèle de fichier d'import
+{% endfile %}
 
 **S'agissant des identifiants de rôles :**&#x20;
 
@@ -85,17 +87,35 @@ Par défaut : les rôles de base ont les identifiants suivants :&#x20;
 
 Pour les rôles personnalisés que vous avez créé, l'identifiant est visible depuis la console de développement de votre navigateur via l'onglet réseau.&#x20;
 
+{% hint style="info" %}
+Pour ouvrir la console sur Chrome, utilisez le raccourci clavier suivant : Cmd + Option + C (sur Mac) ou Ctrl + Maj + J (sous Windows)
+
+Pour ouvrir la console sur Firefox, utilisez le raccourci clavier suivant : Cmd + Option + K (sur Mac) ou Ctrl + Maj + J (sous Windows)
+
+Pour ouvrir la console, vous pouvez utiliser le raccourci clavier suivant : Cmd + Option + C
+
+Pour ouvrir la console sur Microsoft Edge, vous pouvez utiliser le raccourci suivant : Ctrl + Maj + I
+{% endhint %}
+
+Attention, les rôles doivent être créés préalablement.
+
+
+
 **S'agissant des identifiants des équipes :**&#x20;
 
 Ceux ci sont paramétrables lors de l'ajout d'une équipe
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Attention, les équipes doivent être crées préalablement dans l'espace de travail
+{% endhint %}
+
 Enregistrez votre fichier au format CSV UTF 8&#x20;
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Une fois votre fichier prêt, déposez le via l'interface de dépôt :&#x20;
+Une fois votre fichier prêt, indiquez nous dans quel espace de travail vous souhaitez importer les utilisateurs et déposez le fichier via l'interface de dépôt :&#x20;
 
 
 
