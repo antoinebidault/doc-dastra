@@ -101,6 +101,10 @@ Attention, les rôles doivent être créés préalablement.
 
 
 
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Ici l'identifiant du rôle est le numéro 115</p></figcaption></figure>
+
+
+
 **S'agissant des identifiants des équipes :**&#x20;
 
 Ceux ci sont paramétrables lors de l'ajout d'une équipe

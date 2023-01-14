@@ -54,7 +54,7 @@ Dastra vous permet de créer une tâche au moment où vous en avez besoin, direc
 
 * Violation de données
 
-![Tâches attachées à une notification de violation de données](<../../.gitbook/assets/image (28).png>)
+![Tâches attachées à une notification de violation de données](<../../.gitbook/assets/image (28) (1).png>)
 
 * Génération de tâches depuis un audit
 
