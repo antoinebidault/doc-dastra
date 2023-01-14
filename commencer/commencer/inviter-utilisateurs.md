@@ -46,7 +46,59 @@ Il existe plusieurs rôles proposés par défaut dans Dastra, représentant des 
 * **Lecteur**: peuvent uniquement visiter les espaces publiés dans l'organisation. Ils ne peuvent pas éditer et ne peuvent pas voir les modifications qui ne sont pas encore publiées.
 {% endhint %}
 
-###
+## Importer une grande liste d'utilisateurs
+
+Vous pouvez demander l'import d'une grande liste d'utilisateurs dans la plateforme. Pour cela il faut passer par les équipes de Dastra.&#x20;
+
+Les étapes à suivre :&#x20;
+
+* rendez vous sur ce lien : [https://app.dastra.eu/general-settings/users](https://app.dastra.eu/general-settings/users)
+* Cliquez sur le bouton "contacter l'équipe de Dastra"
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* Créez un fichier par espace de travail au format CSV comprenant les colonnes suivantes séparées par des ; (point virgule) :&#x20;
+
+De manière obligatoire : &#x20;
+
+* mail (email de l'utilisateur)
+* GivenName (prénom de l'utilisateur)
+* FamilyName(nom de l'utilisateur)
+
+De manière optionnelle :&#x20;
+
+* Roles (séparé par des |) > cela correspond aux rôles dans Dastra
+* Teams (séparé par des |) > cela correspond aux équipes dans Dastra
+* SsoConfigurationId > cela correspond à l'identifiant de login SSO le cas échéant
+
+Voici un modèle de fichier :&#x20;
 
 
 
+**S'agissant des identifiants de rôles :**&#x20;
+
+Par défaut : les rôles de base ont les identifiants suivants :&#x20;
+
+* Administrateur = 1
+* Contributeur = 2
+* Lecteur = 3
+
+Pour les rôles personnalisés que vous avez créé, l'identifiant est visible depuis la console de développement de votre navigateur via l'onglet réseau.&#x20;
+
+**S'agissant des identifiants des équipes :**&#x20;
+
+Ceux ci sont paramétrables lors de l'ajout d'une équipe
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Enregistrez votre fichier au format CSV UTF 8&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Une fois votre fichier prêt, déposez le via l'interface de dépôt :&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Nous recevrons la demande et nous reviendrons vers vous pour le suivi.

@@ -16,7 +16,7 @@ Pour optimiser votre temps et gagner en efficacité, vous pouvez paramétrer des
 
 Les types de modèles sont les suivants :
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 *   **Message dans les demandes d'exercice des droits**
 
@@ -39,7 +39,7 @@ La création de modèle s'effectue soit à partir des réglages de l'espace de t
 
 Cliquez sur Créer modèle
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Interface de création d'un modèle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption><p>Interface de création d'un modèle</p></figcaption></figure>
 
 N'oubliez pas d'enregistrer votre travail !
 
