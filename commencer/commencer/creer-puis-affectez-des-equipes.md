@@ -4,7 +4,9 @@ description: Découvrez comment le système d'équipes de Dastra fonctionne.
 
 # Créer puis affecter des équipes
 
-Dans Dastra, les utilisateurs sont regroupés par équipe, qui elles-mêmes sont affectées à des unités organisationnelles. Ainsi, il est possible de gérer finement les accès.
+### Créer puis affectez des équipes
+
+Dans Dastra, les utilisateurs sont regroupés par équipe, qui elles-mêmes sont affectées soit à des entités juridiques, soit à des départements. Ainsi, il est possible de gérer finement les rôles et responsabilités.
 
 ### Créer une nouvelle équipe ou assigner un nouvel utilisateur à une équipe existante
 
