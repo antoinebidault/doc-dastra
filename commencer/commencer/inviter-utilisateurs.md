@@ -57,7 +57,7 @@ Vous pouvez demander l'import d'une grande liste d'utilisateurs dans la platefor
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* Créez un fichier par espace de travail au format CSV comprenant les colonnes suivantes séparées par des ; (point virgule) :&#x20;
+* Créez un fichier par espace de travail au format CSV comprenant les colonnes suivantes séparées par des , (virgule) :&#x20;
 
 De manière obligatoire : &#x20;
 
@@ -73,7 +73,7 @@ De manière optionnelle :&#x20;
 
 Voici un modèle de fichier à télécharger et à remplir :&#x20;
 
-{% file src="../../.gitbook/assets/Template_import_users.csv" %}
+{% file src="../../.gitbook/assets/Template_import_users (1).csv" %}
 Modèle de fichier d'import
 {% endfile %}
 
