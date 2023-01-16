@@ -71,3 +71,38 @@ You can link audits to items in Dastra. By choosing the type of item being audit
 
 <figure><img src="../../.gitbook/assets/Element audité.png" alt=""><figcaption></figcaption></figure>
 
+You can choose not to link an audit to a particular object. In this case, the response will always be linked to an organisational unit. This may be the case for global compliance audits for example.
+
+## Types of templates
+
+When creating a custom template, you will need to choose a template type.
+
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+These types allow for some customisation of audit models.&#x20;
+
+* **Standard audit**: this is a standard questionnaire&#x20;
+* **Compliance audit**: currently a standard questionnaire&#x20;
+* **Impact analysis**: this audit template allows a risk matrix to be displayed (with the required configuration) and to be called up at the PIA stage of a processing operation&#x20;
+* **Subcontractor audit**: this audit template is called at the subcontractor recipients stage of a processing operation&#x20;
+* **Transfer Impact Audit (TIA)**: an audit to analyse the risks related to a data transfer outside the EU&#x20;
+* **Legal Basis Audit of the Register (LIA)**: audit of the legal basis of legitimate interests to ensure that the interests do not override the rights and freedoms of individuals&#x20;
+* **Training questionnaire**: a questionnaire for conducting training quizzes. This type of questionnaire makes it possible to select a correct answer from the answers and to display the correct answers at the end of the questionnaire.
+
+## Combined audit templates
+
+In Dastra, you can combine several existing audit templates into one. To do this, select the "Combined Audit" option and follow the steps.
+
+## Load an audit template you own
+
+Finally, it is possible to import one of your audit templates, in json format. To do this, when creating the audit, select the "Load a template" option.
+
+## Go further
+
+{% content-ref url="scheduling-an-audit-or-an-aip.md" %}
+[scheduling-an-audit-or-an-aip.md](scheduling-an-audit-or-an-aip.md)
+{% endcontent-ref %}
+
+{% content-ref url="share-an-audit-report-or-pia.md" %}
+[share-an-audit-report-or-pia.md](share-an-audit-report-or-pia.md)
+{% endcontent-ref %}
