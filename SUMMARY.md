@@ -41,6 +41,8 @@
     * [Impact analysis](features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
     * [Documentation](features/editer-le-registre/remplir-le-questionnaire/documents.md)
   * [Share the record of processing](features/editer-le-registre/partager-le-registre.md)
+* [Audits and PIA](features/audits-and-pia.md)
+* [Risk management](features/risk-management.md)
 * [Planning](features/planifier/README.md)
   * [Create your action plan](features/planifier/gerer-vos-taches.md)
   * [Export your tasks](features/planifier/exportez-vos-taches.md)
