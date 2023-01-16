@@ -48,7 +48,7 @@
   * [FAQ](features/audits-and-pia/faq.md)
 * [Risk management](features/risk-management/README.md)
   * [Glossary of terms](features/risk-management/glossary-of-terms.md)
-  * [Risk management process](features/risk-management/risk-management-process/README.md)
+  * [Risk management process](features/risk-management/risk-management-process.md)
     * [1. Identification](features/risk-management/risk-management-process/1.-identification.md)
     * [2. Assess](features/risk-management/risk-management-process/2.-assess.md)
     * [3. Monitor](features/risk-management/risk-management-process/3.-monitor.md)
