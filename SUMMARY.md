@@ -43,7 +43,7 @@
   * [Share the record of processing](features/editer-le-registre/partager-le-registre.md)
 * [Audits and PIA](features/audits-and-pia/README.md)
   * [Create or modify an audit template or PIA](features/audits-and-pia/create-or-modify-an-audit-template-or-pia.md)
-  * [Scheduling an audit or an AIP](features/audits-and-pia/scheduling-an-audit-or-an-aip.md)
+  * [Scheduling an audit or an PIA](features/audits-and-pia/scheduling-an-audit-or-an-pia.md)
   * [Share an audit report or PIA](features/audits-and-pia/share-an-audit-report-or-pia.md)
   * [FAQ](features/audits-and-pia/faq.md)
 * [Risk management](features/risk-management/README.md)
