@@ -55,7 +55,7 @@ Vous pouvez demander l'import d'une grande liste d'utilisateurs dans la platefor
 * rendez vous sur ce lien : [https://app.dastra.eu/general-settings/users](https://app.dastra.eu/general-settings/users)
 * Cliquez sur le bouton "contacter l'équipe de Dastra"
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Créez un fichier par espace de travail au format CSV comprenant les colonnes suivantes séparées par des , (virgule) :&#x20;
 
@@ -109,7 +109,7 @@ Attention, les rôles doivent être créés préalablement.
 
 Ceux ci sont paramétrables lors de l'ajout d'une équipe
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Attention, les équipes doivent être crées préalablement dans l'espace de travail
@@ -123,6 +123,6 @@ Une fois votre fichier prêt, indiquez nous dans quel espace de travail vous sou
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Nous recevrons la demande et nous reviendrons vers vous pour le suivi.
