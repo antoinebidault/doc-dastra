@@ -6,17 +6,17 @@ description: >-
 
 # Intégration technique
 
-## Objectifs
+### Objectifs
 
 Le widget d'exercice de droits vous permet de **collecter automatiquement depuis une page de votre site des demandes d'exercice de droit** de différents types (suppressions, modifications, rectifications...)
 
 Le widget est intégré au **SDK javascript** de dastra.
 
-## Prérequis
+### Prérequis
 
 Afin de mettre en place le widget d'exercice de droit, vous devez disposer d'**une clé publique d'API** : [lire la documentation](../settings/gestion-des-cles-dapi.md) ou[ accéder directement à la page de gestion des clés d'API](https://app.dasta.eu/general-settings/api)
 
-## Mise en place du widget dans l'interface dédiée
+### Mise en place du widget dans l'interface dédiée
 
 Pour commencer, vous devez **mettre en place le widget** dans[ le panel de gestion des widgets](https://app.dasta.eu/workspace/data-subject-request/integrations) d'exercice de droits :&#x20;
 
@@ -45,9 +45,19 @@ Voici un exemple simple d'intégration du widget (en mode popup avec un bouton d
 </script>
 ```
 
+### Comment forcer la langue du formulaire ?
+
+Par défaut, ce sera **la langue du navigateur** qui sera prise. Si la langue n'est pas disponible dans les traductions du widgets, la langue par défaut sera sélectionnée automatiquement. Vous pouvez forcer la langue courante du widget en ajoutant la propriété **data-lang** à la div où le formulaire s'affichera.
+
+_Dans cet exemple, la langue italienne sera sélectionnée par défaut (si elle est disponible)_
+
+```html
+<div id="customer-subject-popup" data-lang="it"></div>
+```
 
 
-## Comment envoyer automatiquement des valeur de formulaire au widget ?
+
+### Comment envoyer automatiquement des valeur de formulaire au widget ?
 
 ```html
 <script>
