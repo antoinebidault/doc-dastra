@@ -93,7 +93,7 @@ Vous pouvez remplacer le nom de la colonne **refId** par le nom de propriété s
 
 Les champs additionnels seront automatiquement fusionnés
 
-## Envoi des paramètres en utilisant le mode page
+### Envoi des paramètres en utilisant le mode page
 
 Il est également possible de passer ces paramètres en utilisant les paramètres querystring, il suffit de préfixer le nom du paramètre par dsr\_ :&#x20;
 

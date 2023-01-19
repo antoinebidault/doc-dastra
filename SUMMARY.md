@@ -153,6 +153,7 @@
   * [Configuration du SMTP](features/settings/configuration-du-smtp.md)
   * [Règles de worfkows](features/settings/workflow-rules.md)
   * [Modèles de messages](features/settings/modeles-de-messages.md)
+  * [Domaines emails](features/settings/domaines-emails.md)
 
 ## 📄 La documentation API <a href="#api-references" id="api-references"></a>
 

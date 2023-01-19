@@ -54,7 +54,7 @@ Pour importer vos labels de traitements existants, il faut cliquer sur l'onglet 
 
 Ensuite, téléchargez un échantillon de notre fichier tel que présenté à l'écran.
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 
 

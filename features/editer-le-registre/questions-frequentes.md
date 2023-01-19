@@ -28,11 +28,11 @@ Pour supprimer un traitement, il y a nécessairement un passage par l’archivag
 
 Pour archiver un traitement, il faut aller sur les trois petits points sur le traitement pour afficher le menu.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Et enfin, afficher les archives
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 et supprimer&#x20;
 
