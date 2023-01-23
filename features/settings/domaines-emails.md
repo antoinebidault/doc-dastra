@@ -24,9 +24,17 @@ Puis choisissez le rôle et l'espace de travail qui seront affectés aux futurs 
 
 Enfin, sauvegardez la configuration en cliquant sur le bouton _Enregistrer_ !
 
+{% hint style="warning" %}
+**Restrictions** :
+
+Vous n'êtes autorisés à ajouter que des domaines emails préalablement autorisés (c'est à dire pour lesquels un utilisateur de votre organisation a validé une adresse mail).&#x20;
+
+Les domaines de type personnels (gmail, hotmail, etc...) ou identifiés comme "jetables" sont interdits !
+{% endhint %}
+
 ## Impact pour les futurs utilisateurs
 
-La prochaine fois qu'un collaborateur s'inscrira sur Dastra, il devra toujours inscrire son addresse mail et valider celle-ci. Cependant, il lui sera maintenant proposé de rejoindre votre organisation !
+La prochaine fois qu'un collaborateur s'inscrira sur Dastra, il devra toujours inscrire son adresse mail et valider celle-ci. Cependant, il lui sera maintenant proposé de rejoindre votre organisation !
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
