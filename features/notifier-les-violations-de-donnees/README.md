@@ -28,7 +28,7 @@ DASTRA allows you to establish a register of data breach notifications. To do th
 
 The data breach notification registry appears.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-20 à 18.34.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-20 à 18.34.34.png" alt=""><figcaption></figcaption></figure>
 
 ## Go further :&#x20;
 
