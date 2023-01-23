@@ -98,6 +98,7 @@
   * [Créer ou modifier un projet ou une itération](features/planifier/creer-ou-modifier-un-projet-ou-une-iteration.md)
   * [Suivre, filtrer ou exporter les tâches](features/planifier/suivre-les-taches.md)
   * [Synchroniser avec d'autres calendriers](features/planifier/synchroniser-avec-dautres-calendriers.md)
+  * [Questions fréquentes](features/planifier/questions-frequentes.md)
   * [Personnaliser le workflow des tâches](features/planifier/allez-plus-loin-avec-la-planification.md)
 * [Exercices des droits](features/gerer-les-exercices-des-droits/README.md)
   * [Gestion des demandes d'exercices de droits](features/gerer-les-exercices-des-droits/gestion-des-demandes-dexercices-de-droits.md)

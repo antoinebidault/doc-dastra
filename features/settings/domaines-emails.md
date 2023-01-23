@@ -36,6 +36,6 @@ Les domaines de type personnels (gmail, hotmail, etc...) ou identifiés comme "j
 
 La prochaine fois qu'un collaborateur s'inscrira sur Dastra, il devra toujours inscrire son adresse mail et valider celle-ci. Cependant, il lui sera maintenant proposé de rejoindre votre organisation !
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Il pourra ensuite vous rejoindre et commencer à travailler avec vous !
