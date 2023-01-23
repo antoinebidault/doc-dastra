@@ -27,9 +27,9 @@ Article 30 of the GDPR sets out specific obligations for the _controller's recor
 1. one for the processing of personal data for which you yourself are responsible,
 2. another for the processing operations that you carry out, as a subcontractor, on behalf of your clients.
 
-/Registre Responsable de traitement
+<mark style="background-color:red;">/Registre Responsable de traitement</mark>
 
-/Registre sous-traitant
+<mark style="background-color:red;">/Registre sous-traitant</mark>
 
 ## The different methodologies for setting up the record of processing activities
 
@@ -45,6 +45,11 @@ There is no right or wrong method, everything will depend on the context of your
 Here is a table comparing the two approaches:
 
 /tableau
+
+| Methodology               | Target                                                                                                     | Benefits | Disadvantages |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------- | -------- | ------------- |
+| **Top-Down (descending)** | Small organizations or communities Company with a weak data culture Legal team with little affinity for IT |          |               |
+| **Bottom-Up (ascending)** | Large or medium-sized organizations With a strong data culture Legal team with a strong IT affinity        |          |               |
 
 The good news is that Dastra handles both approaches perfectly! You can either create a form automatically by taking a treatment template. If you prefer the automatic approach, it's possible to create your own data map and create a treatment directly from an asset (software, database).
 
