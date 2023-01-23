@@ -31,6 +31,25 @@ Article 30 of the GDPR sets out specific obligations for the _controller's recor
 
 /Registre sous-traitant
 
+## The different methodologies for setting up the record of processing activities
+
+There are two methodologies for creating a treatment record:
+
+* **Top-Down design**: we start the project by establishing the inventory of data processing, and then we collect the information specific to each processing (data, subcontractors...etc...).
+* **Bottom-Up design**: we start by making an inventory of the data (software, data sets and personal data fields) and we create the treatments from it.
+
+### Which record methodology to choose?
+
+There is no right or wrong method, everything will depend on the context of your organization, the skills of the DPO team, the accessibility of the operational data...
+
+Here is a table comparing the two approaches:
+
+/tableau
+
+The good news is that Dastra handles both approaches perfectly! You can either create a form automatically by taking a treatment template. If you prefer the automatic approach, it's possible to create your own data map and create a treatment directly from an asset (software, database).
+
+## How to set up your treatment record?
+
 If you want to learn how to design and manage your data processing record, start here:
 
 {% content-ref url="gerer-votre-registre.md" %}
