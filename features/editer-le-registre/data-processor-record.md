@@ -27,3 +27,11 @@ This record contains :&#x20;
 * the **recipients**&#x20;
 * the **transfers** outside the EEA&#x20;
 * the **security measures**
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-24 à 17.42.53.png" alt=""><figcaption><p>The different sections of a "data processor" treatment in Dastra</p></figcaption></figure>
+
+## For more information
+
+{% content-ref url="data-controller-record.md" %}
+[data-controller-record.md](data-controller-record.md)
+{% endcontent-ref %}
