@@ -81,8 +81,14 @@ If you want to learn how to share the record of processing, click here:
 
 ## For more information
 
-[registre-de-traitement.md](../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md "mention")
+{% content-ref url="../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md" %}
+[registre-de-traitement.md](../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md)
+{% endcontent-ref %}
 
-[linking-a-risk-to-a-treatment.md](../risk-management/linking-a-risk-to-a-treatment.md "mention")
+{% content-ref url="../risk-management/linking-a-risk-to-a-treatment.md" %}
+[linking-a-risk-to-a-treatment.md](../risk-management/linking-a-risk-to-a-treatment.md)
+{% endcontent-ref %}
 
-[planifier](../planifier/ "mention")
+{% content-ref url="../planifier/" %}
+[planifier](../planifier/)
+{% endcontent-ref %}
