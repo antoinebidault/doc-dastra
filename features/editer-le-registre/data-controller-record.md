@@ -49,3 +49,14 @@ For each processing operation, the record of a controller shall indicate at leas
 * Public interest&#x20;
 * Consent&#x20;
 * Safeguarding the vital interests of the data subject or another person
+
+## Inventory of data and data subjects
+
+* Type of data subjects&#x20;
+* Categories of data&#x20;
+* Time limits for deleting data or applicable rule
+
+## Recipients and transfers of data outside the EEA
+
+* Identification of recipients including internal recipients (department concerned by the processing); external bodies (commercial or institutional partners); data processors (host, solution provider); data subject where applicable and joint data controllers&#x20;
+* For each recipient, identification of transfers outside the European Economic Area (EEA) and the legal tools used (Binding corporate rules in the case of transfers outside the EU with subsidiaries, standard contractual clauses, country recognized as adequate, etc.)
