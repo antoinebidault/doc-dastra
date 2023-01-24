@@ -27,9 +27,13 @@ Article 30 of the GDPR sets out specific obligations for the _controller's recor
 1. one for the processing of personal data for which you yourself are responsible,
 2. another for the processing operations that you carry out, as a subcontractor, on behalf of your clients.
 
-<mark style="background-color:red;">/Registre Responsable de traitement</mark>
+{% content-ref url="data-controller-record.md" %}
+[data-controller-record.md](data-controller-record.md)
+{% endcontent-ref %}
 
-<mark style="background-color:red;">/Registre sous-traitant</mark>
+{% content-ref url="data-processor-record.md" %}
+[data-processor-record.md](data-processor-record.md)
+{% endcontent-ref %}
 
 ## The different methodologies for setting up the record of processing activities
 
