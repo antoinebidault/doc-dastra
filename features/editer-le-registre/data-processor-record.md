@@ -14,3 +14,16 @@ Article 30 of the GDPR sets out specific obligations for the personal _data cont
 2. another for the processing operations that you carry out, as a data processor, on behalf of your clients.
 
 The rest of this page deals only with the "Data processor" record.
+
+## The "Data processor" record
+
+Each data processor is required to fill out a less extensive record.&#x20;
+
+This record contains :&#x20;
+
+* the **contact details of the data processor**, its representative, if applicable, and its DPO&#x20;
+* the **contact details of all data controllers on whose behalf the data processor acts** (usually the clients)&#x20;
+* the **categories of data** processed&#x20;
+* the **recipients**&#x20;
+* the **transfers** outside the EEA&#x20;
+* the **security measures**
