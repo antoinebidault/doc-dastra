@@ -27,3 +27,5 @@ For each processing operation, the record of a controller shall indicate at leas
 6. **transfers** of personal data to a third country or to an international organization and, in certain very specific cases, the guarantees provided for these transfers;
 7. the **time limits for the erasure** of the various categories of data, i.e. the retention period, or failing that the criteria for determining it
 8. to the extent possible, **a general description of the technical and organizational security measures** that you implement
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-24 à 16.56.25.png" alt=""><figcaption><p>The different sections of a "data controller" treatment in Dastra</p></figcaption></figure>
