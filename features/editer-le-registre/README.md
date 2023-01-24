@@ -79,3 +79,10 @@ If you want to learn how to share the record of processing, click here:
 [partager-le-registre.md](partager-le-registre.md)
 {% endcontent-ref %}
 
+## For more information
+
+[registre-de-traitement.md](../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md "mention")
+
+[linking-a-risk-to-a-treatment.md](../risk-management/linking-a-risk-to-a-treatment.md "mention")
+
+[planifier](../planifier/ "mention")
