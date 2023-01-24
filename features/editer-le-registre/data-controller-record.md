@@ -60,3 +60,8 @@ For each processing operation, the record of a controller shall indicate at leas
 
 * Identification of recipients including internal recipients (department concerned by the processing); external bodies (commercial or institutional partners); data processors (host, solution provider); data subject where applicable and joint data controllers&#x20;
 * For each recipient, identification of transfers outside the European Economic Area (EEA) and the legal tools used (Binding corporate rules in the case of transfers outside the EU with subsidiaries, standard contractual clauses, country recognized as adequate, etc.)
+
+## Security measures
+
+* Technical and organizational measures implemented to secure each data processing&#x20;
+* For example, data encryption, pseudonymization, access limitation
