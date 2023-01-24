@@ -29,3 +29,23 @@ For each processing operation, the record of a controller shall indicate at leas
 8. to the extent possible, **a general description of the technical and organizational security measures** that you implement
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-24 à 16.56.25.png" alt=""><figcaption><p>The different sections of a "data controller" treatment in Dastra</p></figcaption></figure>
+
+## Actors
+
+* The identity and contact information of the data controller&#x20;
+* The identity and contact information of the DPO, if applicable&#x20;
+* The identity and contact information of the representative, if applicable&#x20;
+* The joint data controller(s), if applicable
+
+## Purposes
+
+* All purposes related to the activity involving the processing
+
+## Legal basis
+
+* Compliance with a legal obligation&#x20;
+* Fulfillment of a contract&#x20;
+* Legitimate interest of the company or a third party&#x20;
+* Public interest&#x20;
+* Consent&#x20;
+* Safeguarding the vital interests of the data subject or another person
