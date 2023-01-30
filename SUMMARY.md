@@ -82,6 +82,7 @@
   * [Créer ou modifier un modèle d'audit ou un PIA](features/audit/creez-un-modele-daudit.md)
   * [Planifier un audit ou un PIA](features/audit/planifier-un-audit.md)
   * [Partager un rapport d'audit ou PIA](features/audit/rapport-daudit.md)
+  * [Supprimer un audit ou un modèle d'audit](features/audit/supprimer-un-audit-ou-un-modele-daudit.md)
   * [Questions fréquentes](features/audit/questions-frequentes.md)
 * [Gestion des risques](features/la-gestion-des-risques/README.md)
   * [Glossaire](features/la-gestion-des-risques/glossaire.md)

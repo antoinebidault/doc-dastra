@@ -1,0 +1,29 @@
+---
+description: Comment supprimer un audit ? Comment supprimer un modèle d'audit ?
+---
+
+# Supprimer un audit ou un modèle d'audit
+
+## Supprimer un audit
+
+Avant de supprimer un audit, nous avons mis en place un garde-fou : une phase d'archive. Cette phase permet de conserver le document supprimer avant suppression définitive. Cela fonctionne comme une corbeille.&#x20;
+
+### Archivage
+
+Tout d'abord, vous devez archiver l'audit via le bouton **Archiver** présent dans le menu de l'audit. Pour afficher le menu, il faut se rendre sur les trois petits points dans la liste des audits.
+
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Le bouton Archiver est en bas de la liste</p></figcaption></figure>
+
+Cliquez sur **Archiver** et votre audit passera en archive.
+
+### Suppression définitive d'un audit
+
+Pour **supprimer définitivement** un audit, il faut afficher les archives et procéder à sa suppression.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Coche pour afficher les archives</p></figcaption></figure>
+
+Ensuite, il faut suffit de supprimer l'audit via le menu de l'audit
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Vous pouvez également restaurer votre audit si besoin</p></figcaption></figure>
