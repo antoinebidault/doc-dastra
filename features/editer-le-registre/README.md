@@ -67,8 +67,8 @@ If you want to learn how to design and manage your data processing record, start
 
 If you want to learn how to design and manage your record of data processing, start here:
 
-{% content-ref url="gerer-votre-traitement.md" %}
-[gerer-votre-traitement.md](gerer-votre-traitement.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 If you want to understand the different stages of the questionnaire, click here:

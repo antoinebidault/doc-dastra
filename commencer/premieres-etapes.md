@@ -75,8 +75,8 @@ Not all information in the record of processing can be imported into DASTRA from
 
 You then fill in all the information necessary for processing.
 
-{% content-ref url="../features/editer-le-registre/gerer-votre-traitement.md" %}
-[gerer-votre-traitement.md](../features/editer-le-registre/gerer-votre-traitement.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 You share the register with all of the data controllers and your network of GDPR correspondents and request validation from all stakeholders.
