@@ -37,3 +37,11 @@ You can select multiple processing templates and import them at once through the
 Go to the options of the "New data processing" button and then "Create from library...".
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.08.16.png" alt=""><figcaption></figcaption></figure>
+
+Select one or more templates, choose an organizational unit and click on "Add".
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.11.55.png" alt=""><figcaption></figcaption></figure>
+
+The "**Details**" button allows you to preview the template.&#x20;
+
+Then your templates will be imported in the background.
