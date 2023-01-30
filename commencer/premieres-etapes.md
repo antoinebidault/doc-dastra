@@ -61,8 +61,8 @@ To do this, you start a project on Dastra:
 
 Then, complete your register in Dastra:
 
-{% content-ref url="../features/editer-le-registre/gerer-votre-registre.md" %}
-[gerer-votre-registre.md](../features/editer-le-registre/gerer-votre-registre.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 See below an example of a record of processing activities respecting the requested format available for download and which can be imported by "drag and drop" in Dastra:

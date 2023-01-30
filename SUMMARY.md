@@ -28,7 +28,7 @@
   * ["Data processor" record](features/editer-le-registre/data-processor-record.md)
   * [Establish your record](features/editer-le-registre/establish-your-record.md)
   * [Export / import the record](features/editer-le-registre/upload-your-existing-record.md)
-  * [Design and manage your record](features/editer-le-registre/gerer-votre-registre.md)
+  * [Use a treatment model](features/editer-le-registre/use-a-treatment-model.md)
   * [Design and manage your processing](features/editer-le-registre/gerer-votre-traitement.md)
   * [Complete a data processing activity](features/editer-le-registre/remplir-le-questionnaire/README.md)
     * [General information](features/editer-le-registre/remplir-le-questionnaire/generalites.md)

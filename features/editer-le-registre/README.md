@@ -61,8 +61,8 @@ The good news is that Dastra handles both approaches perfectly! You can either c
 
 If you want to learn how to design and manage your data processing record, start here:
 
-{% content-ref url="gerer-votre-registre.md" %}
-[gerer-votre-registre.md](gerer-votre-registre.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 If you want to learn how to design and manage your record of data processing, start here:

@@ -68,6 +68,6 @@ For each processing operation, the record of a controller shall indicate at leas
 
 ## For more information
 
-{% content-ref url="gerer-votre-registre.md" %}
-[gerer-votre-registre.md](gerer-votre-registre.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
