@@ -56,3 +56,10 @@ Indicate the organizational unit:
 
 That's it, your treatment labels are imported!
 
+## Step 2: Import of the asset referential
+
+To import your existing applications/assets, click on the "Import" tab in the Data mapping module, Assets tab:
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.40.35.png" alt=""><figcaption></figcaption></figure>
+
+That's it, your assets are imported!
