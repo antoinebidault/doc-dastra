@@ -32,10 +32,27 @@ It's also possible to export only one or several treatments of the record, inste
 
 ## Record import
 
-In order to avoid filling in each processing by hand and to take into account all possible record formats, Dastra has designed a methodology based on the principle of segregating the record into data domains. Thus, 7 steps are recommended to import an entire existing record into Dastra.
+In order to avoid filling in each processing by hand and to take into account all possible record formats, Dastra has designed a methodology based on the principle of **segregating the record into data domains**. Thus, 7 steps are recommended to import an entire existing record into Dastra.
 
 {% hint style="info" %}
 These steps, which are not mandatory, are nevertheless strongly recommended, especially when the processing record contains many treatments.
 {% endhint %}
 
 Don't hesitate to consult our library of data processing models: [https://www.dastra.eu/en/data-processing/referentials](https://www.dastra.eu/en/data-processing/referentials)
+
+## Step 1: Import of treatment labels
+
+To import your existing treatment labels, click on the "Import" tab in the Record section:
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.27.32.png" alt=""><figcaption></figcaption></figure>
+
+Next, download a sample of our file as shown on the screen.
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.31.36.png" alt=""><figcaption></figcaption></figure>
+
+Indicate the organizational unit:
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.32.35.png" alt=""><figcaption></figcaption></figure>
+
+That's it, your treatment labels are imported!
+
