@@ -40,7 +40,7 @@ These steps, which are not mandatory, are nevertheless strongly recommended, esp
 
 Don't hesitate to consult our library of data processing models: [https://www.dastra.eu/en/data-processing/referentials](https://www.dastra.eu/en/data-processing/referentials)
 
-## Step 1: Import of treatment labels
+### Step 1: Import of treatment labels
 
 To import your existing treatment labels, click on the "Import" tab in the Record section:
 
@@ -56,10 +56,40 @@ Indicate the organizational unit:
 
 That's it, your treatment labels are imported!
 
-## Step 2: Import of the asset referential
+### Step 2: Import of the asset referential
 
 To import your existing applications/assets, click on the "Import" tab in the Data mapping module, Assets tab:
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.40.35.png" alt=""><figcaption></figcaption></figure>
 
 That's it, your assets are imported!
+
+### Step 3: Import of the actors' referential
+
+Repeat the procedure similar to the previous ones from the Data mapping module, Actors tab.
+
+Your actors referential refers to all the parties involved in a processing operation. Legal entities such as data processor, customers or joint controllers, or natural persons such as processing contact persons.&#x20;
+
+This referential serves as an internal directory in the workspace. For each actor, you can define a type that characterizes him. For example, if you want to add your subcontractor repository, you add all the actors and each subcontractor will have to be associated with a processing.
+
+### Step 4: Import of the security measures referential
+
+Repeat the procedure similar to the previous ones from the Data mapping module, Measures tab.
+
+### Step 5: Import the data glossary
+
+Repeat the procedure similar to the previous ones from the Data mapping module, Data glossary tab.
+
+### Step 6: Import of the datasets referential
+
+Repeat the procedure similar to the previous ones from the Data mapping section, Datasets tab.
+
+### Step 7: Construction of links
+
+Now that the repositories have all been imported, edit each of the treatments and fill in the information based on the imported information following the guide below:
+
+{% content-ref url="remplir-le-questionnaire/" %}
+[remplir-le-questionnaire](remplir-le-questionnaire/)
+{% endcontent-ref %}
+
+That's it, the links are built!
