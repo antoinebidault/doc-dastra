@@ -2,7 +2,7 @@
 description: Apprenez à mettre en place un widget d'exercice des droits sur votre site.
 ---
 
-# Implémentez un widget d'exercice des droits
+# Widget de collecte de demandes
 
 ## Processus
 
@@ -14,7 +14,7 @@ Le processus de demande d'exercice de droits via le widget se déroule comme **s
 
 DASTRA vous permets de mettre un place un widget d'exercice des droits directement sur votre site, à l'instar de ce qui est fait sur sa [politique de confidentialité](https://www.dastra.eu/fr/privacy-policy) :&#x20;
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)
 
 En cliquant sur le bouton "Accéder au service en ligne", une fenêtre apparaît, permettant à l'internaute le désirant d'effectuer sa demande :
 

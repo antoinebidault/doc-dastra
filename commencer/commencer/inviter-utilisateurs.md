@@ -109,7 +109,7 @@ Attention, les rôles doivent être créés préalablement.
 
 Ceux ci sont paramétrables lors de l'ajout d'une équipe
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Attention, les équipes doivent être crées préalablement dans l'espace de travail

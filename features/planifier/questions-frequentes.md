@@ -4,11 +4,11 @@
 
 Pour supprimer une tache, vous devez d'abord l'archiver puis la supprimer des archives.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Bouton Archiver</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Bouton Archiver</p></figcaption></figure>
 
 Ensuite, afficher les archives des tâches
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Et supprimer les tâches
 
