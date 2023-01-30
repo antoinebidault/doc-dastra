@@ -25,3 +25,15 @@ To create a treatment as a processor, it's very simple. When creating a processi
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.32.58.png" alt=""><figcaption></figcaption></figure>
 
 You will then automatically arrive at the documentation phase of a processing operation as a data processor and you will be able to declare your data controllers (usually your customers).
+
+## Modifying a data processing
+
+To modify an existing treatment activity, click on the "Edit" button linked to the treatment or click directly on the treatment name:
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.38.05.png" alt=""><figcaption></figcaption></figure>
+
+Then follow each step of the questionnaire, starting with the next section:
+
+{% content-ref url="remplir-le-questionnaire/" %}
+[remplir-le-questionnaire](remplir-le-questionnaire/)
+{% endcontent-ref %}
