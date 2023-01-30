@@ -26,6 +26,7 @@
 * [Record of processing activities](features/editer-le-registre/README.md)
   * ["Data controller" record](features/editer-le-registre/data-controller-record.md)
   * ["Data processor" record](features/editer-le-registre/data-processor-record.md)
+  * [Establish your record](features/editer-le-registre/establish-your-record.md)
   * [Upload your existing record](features/editer-le-registre/upload-your-existing-record.md)
   * [Design and manage your record](features/editer-le-registre/gerer-votre-registre.md)
   * [Design and manage your processing](features/editer-le-registre/gerer-votre-traitement.md)
