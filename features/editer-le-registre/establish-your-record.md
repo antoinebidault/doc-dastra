@@ -12,3 +12,15 @@ description: Learn how to design and manage your treatment record using Dastra.
 ## Upload your existing record
 
 With Dastra, you can easily upload your existing treatment record instead of having to manually enter it, regardless of the current format - excel, text or csv.
+
+/Importer/Exporter le registre
+
+{% hint style="info" %}
+Don't forget to publish your data processing activities if you want them to be reflected in the dashboard.
+{% endhint %}
+
+## Create a new treatment record from scratch
+
+With Dastra, a record is automatically created as soon as the workspace is defined. If you don't want to download an existing record, you can start filling in the default one immediately when creating your first processing activity. If you want to know how, click on the following link:
+
+/déclarer un traitement
