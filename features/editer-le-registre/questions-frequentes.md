@@ -32,7 +32,7 @@ Pour archiver un traitement, il faut aller sur les trois petits points sur le tr
 
 Et enfin, afficher les archives
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 et supprimer&#x20;
 
