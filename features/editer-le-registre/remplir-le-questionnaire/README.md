@@ -74,9 +74,19 @@ The 12 steps are:
 [mesures-de-securite.md](mesures-de-securite.md)
 {% endcontent-ref %}
 
-1. **Impact assessment** - describes the privacy impact of this processing
-2. **Documentation** - In this space, you can download any additional document for your data processing activity (for example, Code of ethics, privacy policy, etc.).
-3. **Summary** - synthesis of the above.
+* **Impact assessment** - Describes the privacy impact of this processing.
+
+{% content-ref url="analyse-dimpact.md" %}
+[analyse-dimpact.md](analyse-dimpact.md)
+{% endcontent-ref %}
+
+* **Documentation** - In this space, you can download any additional document for your data processing activity (for example, Code of ethics, privacy policy, etc.).
+
+{% content-ref url="documents.md" %}
+[documents.md](documents.md)
+{% endcontent-ref %}
+
+* **Summary** - Synthesis of the above.
 
 Once you have entered the information you have, you can start identifying what remains to be done.
 
