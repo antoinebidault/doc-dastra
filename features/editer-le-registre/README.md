@@ -61,14 +61,14 @@ The good news is that Dastra handles both approaches perfectly! You can either c
 
 If you want to learn how to design and manage your data processing record, start here:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="establish-your-record.md" %}
+[establish-your-record.md](establish-your-record.md)
 {% endcontent-ref %}
 
 If you want to learn how to design and manage your record of data processing, start here:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="declare-a-treatment.md" %}
+[declare-a-treatment.md](declare-a-treatment.md)
 {% endcontent-ref %}
 
 If you want to understand the different stages of the questionnaire, click here:
