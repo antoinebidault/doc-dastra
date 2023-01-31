@@ -70,8 +70,8 @@ The 12 steps are:
 
 * **Security measures** - Describes the organizational and technical security measures planned to preserve the confidentiality of data.
 
-{% content-ref url="../../../le-rgpd-en-bref/rgpd-en-bref/mesures-de-securite.md" %}
-[mesures-de-securite.md](../../../le-rgpd-en-bref/rgpd-en-bref/mesures-de-securite.md)
+{% content-ref url="mesures-de-securite.md" %}
+[mesures-de-securite.md](mesures-de-securite.md)
 {% endcontent-ref %}
 
 1. **Impact assessment** - describes the privacy impact of this processing
