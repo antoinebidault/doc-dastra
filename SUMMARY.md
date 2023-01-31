@@ -35,7 +35,7 @@
     * [Stakeholders](features/editer-le-registre/remplir-le-questionnaire/acteurs.md)
     * [Dataset](features/editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md)
     * [Purpose](features/editer-le-registre/remplir-le-questionnaire/finalites.md)
-    * [Applications](features/editer-le-registre/remplir-le-questionnaire/applications.md)
+    * [Assets](features/editer-le-registre/remplir-le-questionnaire/applications.md)
     * [Data subjects](features/editer-le-registre/remplir-le-questionnaire/personnes-concernees.md)
     * [Right of persons](features/editer-le-registre/remplir-le-questionnaire/droits-des-personnes.md)
     * [Recipients](features/editer-le-registre/remplir-le-questionnaire/destinataires.md)
