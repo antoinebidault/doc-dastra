@@ -10,7 +10,7 @@ You can bring someone to collaborate on your spaces by inviting them to the orga
 
 You can invite users to your workspace by selecting "settings", then "access management / Users" and then "invite user":
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 You can generate invitation links with different permission levels:
 

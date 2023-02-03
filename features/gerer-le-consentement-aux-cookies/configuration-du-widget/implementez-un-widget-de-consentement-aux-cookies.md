@@ -14,9 +14,9 @@ Ce widget se compose de plusieurs éléments:
 
 ![Un symbole "cookies" apparaissant en bas à gauche de l'écran](<../../../.gitbook/assets/image (103).png>)
 
-![Une fenêtre d'introduction dépliable](<../../../.gitbook/assets/image (26) (1).png>)
+![Une fenêtre d'introduction dépliable](<../../../.gitbook/assets/image (26).png>)
 
-![La liste des cookies par finalité utilisées par Dastra ](<../../../.gitbook/assets/image (47) (1).png>)
+![La liste des cookies par finalité utilisées par Dastra ](<../../../.gitbook/assets/image (47).png>)
 
 ## Prérequis&#x20;
 
@@ -44,7 +44,7 @@ Pour mettre en place un widget de consentement aux cookies sur votre site intern
 
 ![Interface "Apparence" du module Consentement aux Cookies DASTRA](<../../../.gitbook/assets/image (95).png>)
 
-![Section "Cookies" du module Consentement aux cookies"](<../../../.gitbook/assets/image (48) (1).png>)
+![Section "Cookies" du module Consentement aux cookies"](<../../../.gitbook/assets/image (48).png>)
 
 A partir de cette interface, vous pouvez **personnaliser intégralement votre widget** pour qu'il s'affiche de la façon dont vous le souhaitez sur votre site internet.&#x20;
 

@@ -18,11 +18,11 @@ At Dastra, we believe that keeping a **clear, collaborative** and **auditable** 
 
 To access the planning module, go to the application and click on the "planning" module on the left of the screen
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
 This will take you to the planning module:
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
 ## Go further
 
@@ -38,12 +38,12 @@ This will take you to the planning module:
 [exportez-vos-taches.md](exportez-vos-taches.md)
 {% endcontent-ref %}
 
-{% content-ref url="synchronize-with-other-calendars.md" %}
-[synchronize-with-other-calendars.md](synchronize-with-other-calendars.md)
+{% content-ref url="share-as-calendar.md" %}
+[share-as-calendar.md](share-as-calendar.md)
 {% endcontent-ref %}
 
-{% content-ref url="customise-the-task-workflow.md" %}
-[customise-the-task-workflow.md](customise-the-task-workflow.md)
+{% content-ref url="customise-the-task-workflow-1.md" %}
+[customise-the-task-workflow-1.md](customise-the-task-workflow-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="allez-plus-loin-avec-la-planification.md" %}

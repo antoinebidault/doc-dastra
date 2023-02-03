@@ -2,7 +2,7 @@
 
 ## Activer le mode prévisualisation
 
-![](<../../../.gitbook/assets/image (17) (1).png>)
+![](<../../../.gitbook/assets/image (17).png>)
 
 Le mode prévisualisation désactivera le cache du widget et vous permettra de visualiser vos modifications de configuration en live. Les domaines en localhost seront également autorisés
 

@@ -18,7 +18,7 @@ Then, you must go to the "Consent to cookies" module, and click on the "New widg
 
 ![Click on this icon to access the "Consent to cookies" module](<../../../.gitbook/assets/image (163).png>)
 
-![Click on the 'New widget' button](<../../../.gitbook/assets/image (22) (1).png>)
+![Click on the 'New widget' button](<../../../.gitbook/assets/image (22).png>)
 
 ![](<../../../.gitbook/assets/image (157).png>)
 
