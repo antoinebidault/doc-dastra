@@ -11,17 +11,17 @@ description: >-
 
 To add a risk to a processing of data, go to the risks tab on the processing of data edit page.
 
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 and click on the "Create an evaluation" button.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 You will be taken to a risk edit page and you can start to fill in the information about the risk you have identified.&#x20;
 
 You can then find all the risks in your register in the risk repository.
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 You can also attach a risk to a treatment directly from the risk management module.&#x20;
 
@@ -31,7 +31,7 @@ To do this, simply go to the "Risks" tab and "create an evaluation".
 
 To view the risks on treatments, it is necessary to go to the Dastra Risks module.
 
-<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 You have to go to the "Risks" tab and you will have a visualization of all the risks sorted according to the elements related to each risk.
 

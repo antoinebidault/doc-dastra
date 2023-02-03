@@ -18,7 +18,7 @@ Then, you must go to the "Consent to cookies" module, and click on the "New widg
 
 ![Click on this icon to access the "Consent to cookies" module](<../../../.gitbook/assets/image (163).png>)
 
-![Click on the 'New widget' button](<../../../.gitbook/assets/image (22).png>)
+![Click on the 'New widget' button](<../../../.gitbook/assets/image (22) (1).png>)
 
 ![](<../../../.gitbook/assets/image (157).png>)
 
@@ -26,7 +26,7 @@ Then, you must go to the "Consent to cookies" module, and click on the "New widg
 
 Once in the "Scan cookies" section, simply enter the domain name of your website in the space reserved, and click on "Submit".
 
-![Section "Scan des cookies"](<../../../.gitbook/assets/image (144) (1).png>)
+![Section "Scan des cookies"](<../../../.gitbook/assets/image (144).png>)
 
 {% hint style="info" %}
 Your domain name must include the entire prefix "https: // www." to be taken into account by our engine. Websites without SSL are not eligible to the scan feature.

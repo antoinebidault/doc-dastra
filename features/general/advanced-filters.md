@@ -12,17 +12,17 @@ Advanced filters allow you to filter your data on almost any field in your entit
 
 * Go to a Dastra module (for example, the data subject rights module)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the "Filters" button at the top right of the data table.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * A small window will appear, showing you a list of the most commonly used standard filters, by applying one of these filters, the table will update automatically.&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Combo of advanced filters for exercise requests&#x20;
@@ -38,7 +38,7 @@ _The combination of these filters is cumulative. For example: if I filter on one
 
 You can save and share the filters you apply to your data with all your collaborators. Click on the save button, to save the filter in your workspace&#x20;
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Known problems&#x20;
 

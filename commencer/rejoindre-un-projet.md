@@ -10,7 +10,7 @@ You can bring someone to collaborate on your spaces by inviting them to the orga
 
 You can invite users to your workspace by selecting "settings", then "access management / Users" and then "invite user":
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 You can generate invitation links with different permission levels:
 
@@ -19,6 +19,4 @@ You can generate invitation links with different permission levels:
 * **Readers**: Can only visit the published spaces in organization. They cannot edit, and cannot see changes that are not yet published.
 
 Once you have filled the information, click on "send an invitation" to share it with people you want to invite.
-
-
 

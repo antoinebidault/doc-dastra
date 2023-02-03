@@ -18,11 +18,11 @@ Our mission is to make a **user-friendly** and **collaborative** product for eve
 
 * **Collaborate with your network, define an action plan and allocate tasks** to better protect your data and comply with GDPR.
 
-![](<.gitbook/assets/image (45).png>)
+![](<.gitbook/assets/image (45) (1).png>)
 
 * **Implement specific measures** such as deploying a cookie consent widget&#x20;
 
-![](<.gitbook/assets/image (122) (1).png>)
+![](<.gitbook/assets/image (122).png>)
 
 
 

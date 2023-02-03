@@ -17,9 +17,9 @@ Creating and tracking a data protection task has never been easier with Dastra's
 
 In the main page of the "planning" module, click on "new task". A new "New task" window appears on the right of the screen allowing you to describe the desired task. Once described, click on save.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Each task in Dastra can be assigned to an item in the application, for example :&#x20;
@@ -42,15 +42,15 @@ Dastra allows you to create a task when you think about it, directly within the 
 
 * Editing a data processing
 
-<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 * Management of a request for exercise of rights
 
-<figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 * Data breach notification
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 * Generating tasks from an audit
 
@@ -62,7 +62,7 @@ An action plan can also be generated automatically following the completion of a
 
 It is possible to create a list of subtasks to each task in Dastra. To do this, edit a task and click on the "add subtask" button.
 
-<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ## Assigning a task
 
@@ -72,7 +72,7 @@ When creating the task, you will have the option to assign the task to a Dastra 
 
 To edit a task, simply click on the three dots to the right of a task, and select "Edit".
 
-<figure><img src="../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 To change the status of a task even more easily, you can "click and drop" it from the "table" tab, which allows tasks to be divided into 4 status columns: "new", "additional information required", "in progress", "done". You can also customise the status columns.
@@ -82,7 +82,7 @@ To change the status of a task even more easily, you can "click and drop" it fro
 
 In Dastra, it is possible to archive or delete a task from the task drop-down menu accessible by clicking on the three dots on the right.
 
-<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ## Go further
 

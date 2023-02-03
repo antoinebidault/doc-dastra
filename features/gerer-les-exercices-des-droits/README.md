@@ -16,7 +16,7 @@ To do this, the company or organization must set up a register of requests to ex
 
 Dastra allows you to constitute a register of requests for the exercise of rights centralizing all past, present and future requests. This is available by clicking on the "exercise of rights" tab in the banner on the left of the screen.
 
-![Rights exercise request register](<../../.gitbook/assets/image (41).png>)
+![Rights exercise request register](<../../.gitbook/assets/image (41) (1).png>)
 
 ## Complete a new request to exercise rights
 
@@ -38,7 +38,7 @@ By clicking on the "New exercise request" button, a window appears where you can
 
 The entire request register is importable and exportable. To import a request, click on the three vertical points on the right of the screen.
 
-![](<../../.gitbook/assets/image (51) (1).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
 A window appears with an "import" button. Click on it, download the registry template and follow the instructions to import the requests into Dastra. Once imported, the request will be directly available in the request register.
 
