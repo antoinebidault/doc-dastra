@@ -22,7 +22,7 @@ Our mission is to make a **user-friendly** and **collaborative** product for eve
 
 * **Implement specific measures** such as deploying a cookie consent widget&#x20;
 
-![](<.gitbook/assets/image (122).png>)
+![](<.gitbook/assets/image (122) (1).png>)
 
 
 

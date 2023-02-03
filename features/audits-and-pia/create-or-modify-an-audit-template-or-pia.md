@@ -99,8 +99,8 @@ Finally, it is possible to import one of your audit templates, in json format. T
 
 ## Go further
 
-{% content-ref url="scheduling-an-audit-or-a-pia.md" %}
-[scheduling-an-audit-or-a-pia.md](scheduling-an-audit-or-a-pia.md)
+{% content-ref url="scheduling-an-audit-or-an-aip.md" %}
+[scheduling-an-audit-or-an-aip.md](scheduling-an-audit-or-an-aip.md)
 {% endcontent-ref %}
 
 {% content-ref url="share-an-audit-report-or-pia.md" %}
