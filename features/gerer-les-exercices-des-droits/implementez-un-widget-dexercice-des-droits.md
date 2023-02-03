@@ -1,20 +1,26 @@
 ---
-description: Learn how to set up a rights exercise widget on your site.
+description: Learn how to set up a data subject right request widget on your website.
 ---
 
-# Implement a rights exercise widget
+# Set up a data subject right request widget
 
-DASTRA allows you to put a rights exercise widget directly on your website, that can be accessed by anyone via a simple button:
+## Process
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+The process of data subject right request via the widget is as shown in the diagram below:
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+## Setting up
+
+DASTRA allows you to put a data subject right request widget directly on your website, that can be accessed by anyone via a simple button, as currently done on its [privacy policy](https://www.dastra.eu/fr/privacy-policy):
+
+![](<../../.gitbook/assets/image (70).png>)
 
 By clicking on the "Access online service" button, a window will appear, allowing the Internet user who wishes to make their request:
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](<../../.gitbook/assets/image (87).png>)
 
 To set up such a widget, simply configure your widget using our right exercice widget editor functionality.
 
 For more information on how to implement a rights exercise widget on your website, [**contact us**](https://www.dastra.eu/en/contact?type=Other)**.**
-
-
 

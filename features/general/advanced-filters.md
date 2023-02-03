@@ -16,7 +16,7 @@ Advanced filters allow you to filter your data on almost any field in your entit
 
 * Click on the "Filters" button at the top right of the data table.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * A small window will appear, showing you a list of the most commonly used standard filters, by applying one of these filters, the table will update automatically.&#x20;
 
