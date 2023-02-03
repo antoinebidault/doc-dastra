@@ -2,7 +2,7 @@
 description: Learn how to schedule an audit with Dastra.
 ---
 
-# Scheduling an audit or an AIP
+# Scheduling an audit or a PIA
 
 ## Campaign planning
 
