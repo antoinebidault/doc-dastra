@@ -60,12 +60,12 @@ The 12 steps are:
 
 * **Recipients** - This section lists the recipients of the processing data. This is where you can declare a data transfer outside the EU.
 
-{% content-ref url="destinataires.md" %}
-[destinataires.md](destinataires.md)
+{% content-ref url="destinataires/" %}
+[destinataires](destinataires/)
 {% endcontent-ref %}
 
-{% content-ref url="transferts-de-donnees-hors-ue.md" %}
-[transferts-de-donnees-hors-ue.md](transferts-de-donnees-hors-ue.md)
+{% content-ref url="destinataires/transferts-de-donnees-hors-ue.md" %}
+[transferts-de-donnees-hors-ue.md](destinataires/transferts-de-donnees-hors-ue.md)
 {% endcontent-ref %}
 
 * **Security measures** - Describes the organizational and technical security measures planned to preserve the confidentiality of data.
