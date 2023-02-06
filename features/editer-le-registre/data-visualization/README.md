@@ -12,9 +12,9 @@ In Dastra, **data** can be **viewed** in several ways:&#x20;
 * The **data mapping** of the treatment register,&#x20;
 * Data **transfers**.
 
-## Change the Registry view
+## Change the Record view
 
-To change the way treatments are displayed in your registry, go to the "Record of processing activities" module in the left-hand banner of the screen. By default, the treatments are displayed in table mode. Click on the **arrow to the right** of the "List view" button.
+To change the way treatments are displayed in your record, go to the "Record of processing activities" module in the left-hand banner of the screen. By default, the treatments are displayed in table mode. Click on the **arrow to the right** of the "List view" button.
 
 <figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-06 à 17.44.31.png" alt=""><figcaption></figcaption></figure>
 
