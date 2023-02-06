@@ -4,33 +4,33 @@ description: Assess the privacy impact of the processing.
 
 # Impact analysis
 
-Cette étape vous permettra d’évaluer de manière simple si votre traitement doit faire l’objet d’une analyse d’impact sur la protection des données (AIPD ou  PIA en anglais) prévue par l’[**article 35 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article35).&#x20;
+This step will allow you to evaluate in a simple way if your processing must be subject to a data protection impact analysis (DPI or PIA) provided for by [Article 35 of the GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e3546-1-1).&#x20;
 
-Un PIA c’est quoi ? Un processus pour évaluer la nécessité et la proportionnalité et de gérer les risques.&#x20;
+What is a DIA? A process to assess the necessity and proportionality and to manage the risks.&#x20;
 
-Dans quelles conditions dois-je mener un PIA ? Si les risques pour les droits et libertés des personnes concernées sont élevées. Le  CEPD a apporté des éclaircissements pour préciser le champ d’application de cette exigence. Concrètement, si le traitement répond à au moins deux des critères suivants, la réalisation d’un PIA s’imposera :&#x20;
+Under what conditions should I conduct a PIA? If the risks to the rights and freedoms of data subjects are high. The EDPS has clarified the scope of this requirement. Specifically, if the processing meets at least two of the following criteria, an AIP will be required:
 
-* Évaluation/scoring
-* Décision automatique avec effet légal
-* Surveillance systématique
-* Données sensibles
-* Large échelle
-* Croisement de données
-* Personnes vulnérables
-* Usage innovant
-* Transfert hors UE
-* Blocage d’un droit/contrat
+* Evaluation/scoring&#x20;
+* Automatic decision with legal effect&#x20;
+* Systematic monitoring&#x20;
+* Sensitive data&#x20;
+* Large scale&#x20;
+* Cross-referencing of data&#x20;
+* Vulnerable persons&#x20;
+* Innovative use&#x20;
+* Transfer outside the EU&#x20;
+* Blocking a right/contract
 
-Le critère des transferts hors UE ne fait pas partie de la liste établie par le CEPD mais constitue un risque important compte tenu des garanties nécessaires pour effectuer un transfert.&#x20;
+The criterion of transfers outside the EU is not part of the list established by the EDPS, but it constitutes a significant risk in view of the safeguards necessary to carry out a transfer.&#x20;
 
-Parfois, en cas de traitement particulièrement sensible pour les personnes concernées, seul un critère pourra être retenu.&#x20;
+Sometimes, in case of a processing operation that is particularly sensitive for the data subjects, only one criterion may be retained.&#x20;
 
-Par ailleurs, les autorités de contrôle publient une liste des types de traitement dont la réalisation d’un PIA est obligatoire et peuvent publier une liste des types de traitement dont la réalisation d’un PIA n’est pas obligatoire.&#x20;
+In addition, supervisory authorities publish a list of types of processing for which an AIP is mandatory and may publish a list of types of processing for which an AIP is not mandatory.&#x20;
 
-La CNIL en France a publié ces deux listes accessibles ici :&#x20;
+The French CNIL has published these two lists (in French)which can be accessed here:&#x20;
 
-[**Liste des types de traitement avec PIA non obligatoire**](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf)****
+[List of types of processing with non-mandatory PIA ](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf)
 
-[**Liste des types de traitement avec PIA obligatoire**](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-requise.pdf)****
+[List of types of processing with mandatory PIA ](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-requise.pdf)
 
-Notons que l’[**article 30 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article30) n’exige pas de préciser si un PIA a été réalisé sur le traitement.\
+Note that [Article 30 of the GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e3265-1-1) doesn't require to specify whether an AIP has been performed on the processing.

@@ -4,14 +4,14 @@ description: Indicate the technical and organization measures applied on this pr
 
 # Security measures
 
-L’[**article 30 1. g) du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4) exige d’inscrire dans le registre « _dans la mesure du possible, une description générale des mesures de sécurité techniques et organisationnelles visées à l'_[_**article 32, paragraphe 1**_](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article32) **** ».
+[Article 30 1. g) of the GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e3265-1-1) requires that "_a general description of the technical and organizational security measures referred to in_ [_Article 32(1)_](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e3383-1-1) _be included in the register as far as possible"_.
 
-Chaque responsable de traitement ou sous-traitant a l’obligation en vertu des [**articles 5 1. f)** ](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5)et [**32**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article32) du RGPD de garantir la sécurité des données par des mesures adaptées au niveau du risque.&#x20;
+Each controller or processor has an obligation under [Articles 5 1. f)](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e1807-1-1) and [32 of the GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e3383-1-1) to ensure the security of data by measures appropriate to the level of risk.&#x20;
 
-Qu’est-ce qu’une mesure de sécurité ? Il s’agit de toutes mesures nécessaires pour assurer la sécurité et la confidentialité des données personnelles. Il peut s’agir par exemple de mesures de sécurités physiques telles que la sécurité des accès aux locaux ou encore de mesures de sécurité informatiques comme la mise en place d’un antivirus, d’un mot de passe contraignant pour l’accès aux données etc.&#x20;
+What is a security measure? It's any measures necessary to ensure the security and confidentiality of personal data. It can be, for example, physical security measures such as the security of access to the premises or computer security measures such as the installation of an antivirus, a binding password for access to data, etc.&#x20;
 
-Pour chaque traitement de données personnelles, il est nécessaire de prendre les mesures appropriées afin de garantir un niveau de sécurité adapté au risque pour les droits et libertés des personnes concernées (atteinte à la vie privée, discrimination etc.). Le risque ne doit pas être évalué par rapport à l’entreprise mais bien par rapport à la personne concernée par le traitement.&#x20;
+For each processing of personal data, it's necessary to take appropriate measures to guarantee a level of security adapted to the risk for the rights and freedoms of the persons concerned (invasion of privacy, discrimination etc.). The risk should not be assessed in relation to the company but in relation to the person concerned by the processing.
 
-Garantir la sécurité, c’est garantir la confidentialité, l’intégrité et la disponibilité des données. Les mesures de sécurité doivent ainsi prévenir les accès illégitimes à des données, la modification non désirée de données et la disparition de données.&#x20;
+Guaranteeing security means guaranteeing the confidentiality, integrity and availability of data. Security measures must therefore prevent illegitimate access to data, unwanted modification of data and the disappearance of data.&#x20;
 
-Pour que les mesures soient adaptées au risque, il convient d’apprécier ces risques. Pour cela, il convient d’identifier les impacts potentiels sur la sécurité des données, les sources des risques, les menaces réalisables et évaluer si les mesures existantes sont suffisantes.  Sinon, il faut les augmenter.\
+To ensure that the measures are adapted to the risk, these risks must be assessed. For this purpose, the potential impacts on data security, the sources of the risks, the feasible threats and whether the existing measures are sufficient must be identified. If not, they must be increased.

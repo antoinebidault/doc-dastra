@@ -43,6 +43,7 @@
     * [Security measures](features/editer-le-registre/remplir-le-questionnaire/mesures-de-securite.md)
     * [Impact analysis](features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
     * [Documentation](features/editer-le-registre/remplir-le-questionnaire/documents.md)
+  * [Create a relationship between treatments](features/editer-le-registre/create-a-relationship-between-treatments.md)
   * [Share the record of processing](features/editer-le-registre/partager-le-registre.md)
 * [Audits and PIA](features/audits-and-pia/README.md)
   * [Create or modify an audit template or PIA](features/audits-and-pia/create-or-modify-an-audit-template-or-pia.md)

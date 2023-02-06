@@ -6,23 +6,17 @@ description: Make an inventory of the data flowing outside the EU.
 
 The transfer can be defined as any communication, copy or movement of personal data intended to be processed in a country outside the European Union.
 
+Data transfers outside the European Union are prohibited as a matter of principle.&#x20;
 
+[Articles 44 to 49 of the GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e4227-1-1) provide for exceptions to this prohibition. They provide for the use of tools to control this transfer:&#x20;
 
+* an adequacy decision by the European Commission regarding certain countries ensuring an adequate level of protection;&#x20;
+* standard contractual clauses (SCC) of the European Commission;
+* internal company rules (BCR);&#x20;
+* specific contractual clauses (considered to comply with the European Commission's model clauses);&#x20;
+* standard contractual clauses adopted by a supervisory authority and approved by the European Commission;
+* an approved code of conduct (including a binding and enforceable commitment by non-EU recipients to apply appropriate safeguards);
+* an approved certification scheme (including a binding and enforceable commitment by non-EU recipients to apply appropriate safeguards);&#x20;
+* an administrative arrangement or a legally binding and enforceable text taken to enable cooperation between public authorities (Memorandum of Understanding or MMOU, international convention, etc.).&#x20;
 
-
-
-
-Les transferts de données hors de l’Union européenne sont par principe interdits.&#x20;
-
-Les [**articles 44 à 49 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre5) prévoient des exceptions à cette interdiction. Ils prévoient l’utilisation d’outils permettant d’encadrer ce transfert :
-
-* une décision d’adéquation de la Commission européenne concernant certains pays assurant un niveau de protection adéquat ;
-* des clauses contractuelles types (CCT) de la Commission européenne ;
-* des règles internes d’entreprises (BCR) ;
-* des clauses contractuelles spécifiques (considérées comme conformes aux modèles de clauses de la Commission européenne) ;
-* des clauses contractuelles types adoptées par une autorité de contrôle et approuvées par la Commission européenne,
-* un code de conduite approuvé (comportant l’engagement contraignant et exécutoire pris par les destinataires hors UE d’appliquer les garanties appropriées),
-* un mécanisme de certification approuvé (comportant l’engagement contraignant et exécutoire pris par les destinataires hors UE d’appliquer les garanties appropriées),
-* un arrangement administratif ou un texte juridiquement contraignant et exécutoire pris pour permettre la coopération entre autorités publiques (Mémorandum of Understanding dit MOU ou MMOU, convention internationale…).
-
-Des dérogations sont prévues à l’[**article 49 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre5). Si une dérogation justifie le transfert, il faut indiquer la nature de celle-ci et le cas échéant, détailler l’évaluation des circonstances du transfert et des garanties appropriées.\
+Derogations are provided for in [Article 49 of the GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e4535-1-1). If a derogation justifies the transfer, the nature of the derogation must be indicated and, if necessary, the assessment of the circumstances of the transfer and the appropriate guarantees must be detailed.\
