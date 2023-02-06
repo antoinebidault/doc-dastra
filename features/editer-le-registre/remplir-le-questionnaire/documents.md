@@ -6,20 +6,20 @@ description: >-
 
 # Documentation
 
-L’exigence de documentation découle du principe de responsabilité (accountability) rappelé à l’[**article 24 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4).&#x20;
+The documentation requirement stems from the accountability principle recalled in [Article 24 of the GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e3043-1-1).&#x20;
 
-Cette documentation se traduit en pratique en premier lieu par le registre des activités de traitement mais également à travers d’autres éléments de gestion des données et de la conformité au RGPD. Il peut s’agir des éléments suivants (liste non exhaustive) :&#x20;
+In practice, this documentation is primarily reflected in the register of processing activities, but also through other elements of data management and compliance with the GDPR. These may include (but are not limited to) the following elements:
 
-* procédures internes encadrant la création d’un nouveau traitement de données à caractère personnel (contrôle interne, évaluation des risques et de la proportionnalité, etc.)
-* procédure de réalisation des PIA
-* mise en place de politiques de protection des données écrites et contraignantes, à prendre en compte et à appliquer aux nouvelles opérations de traitement des données (par exemple, conformité aux critères de qualité des données, préavis, principes de sécurité, consultation, etc.), lesquelles devraient être mises à la disposition des personnes concernées&#x20;
-* mappage des procédures en vue de veiller au bon recensement de toutes les opérations de traitement des données et gestion d’un inventaire de celles-ci
-* mise en place de programmes de formation pour les personnes en charge de la gestion des traitements de données
-* mise en place de procédures de gestion des demandes d'accès, de rectification et d'effacement et des droits détenus par les personnes concernées sur les données
-* mise sur pied d’un mécanisme interne de gestion des plaintes
-* élaboration de procédures internes pour une gestion et une notification efficaces des violations de données&#x20;
-* réalisation d’évaluations d’impact sur la vie privée dans certaines circonstances
-* mise en œuvre et supervision de procédures de vérification afin de s’assurer que toutes les mesures n’existent pas seulement sur papier, mais qu’elles sont aussi mises en œuvre et fonctionnent dans la pratique (audits internes ou externes, etc.).
+* internal procedures for the creation of a new personal data processing operation (internal control, risk and proportionality assessment, etc.);&#x20;
+* procedure for carrying out PIAs;
+* establishment of written and binding data protection policies to be considered and applied to new data processing operations (e.g. compliance with data quality criteria, prior notice, security principles, consultation, etc.), which should be made available to data subjects;
+* mapping procedures to ensure that all data processing operations are properly identified and an inventory of data processing operations is maintained;
+* setting up training programs for the people in charge of data processing management;
+* establishment of procedures for managing requests for access, rectification and deletion and the rights of data subjects;
+* setting up an internal complaints management mechanism;
+* developing internal procedures for effective data breach management and notification;
+* conducting privacy impact assessments in certain circumstances;
+* implementation and supervision of verification procedures to ensure that all measures do not only exist on paper, but are also implemented and work in practice (internal or external audits, etc.).
 
-Vous pouvez également dans cet espace stocker tout document utile à la compréhension du traitement, les notes de formation ainsi que les contrats encadrant le traitement le cas échéant.\
-****
+You can also store in this space any document useful for the understanding of the treatment, the training notes as well as the contracts framing the treatment if necessary.
+
