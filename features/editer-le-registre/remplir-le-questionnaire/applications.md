@@ -4,16 +4,7 @@ description: >-
   storage media for personal data.
 ---
 
-# Assets
+# Applications
 
-This is where you fill in the applications, software or other that are used to **store personal data**.&#x20;
+For example, if you use CRM software, add it to this list. This will allow you to master the data carriers and to link your applications to your data catalog. You can quickly and simply specify the types of data processed through this processing activity. The applications are not necessarily linked to subcontractors. This may, for example, be software installed on the server without intervention by the publisher in the processing of personal data.
 
-_For example, if you use a CRM software, add it in this list._&#x20;
-
-This information, **which is not mandatory for the register**, allows you to **map the application chain linking the data together**.&#x20;
-
-**The objective is to allow you to control the data carriers and to link your assets to your data catalog.**&#x20;
-
-You can thus quickly and **simply specify the types of data processed through this processing activity**.&#x20;
-
-NB: Assets are not necessarily linked to subcontractors. Indeed, it can be for example a **software installed on the server without intervention of the editor in the processing of personal data**.
