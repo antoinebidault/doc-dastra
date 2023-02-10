@@ -48,5 +48,7 @@ If you encounter difficulties with the filters: you lose the display of your dat
 
 ### Some columns are not present in the advanced filters?&#x20;
 
-It may not be technically possible to set up these filters for various reasons. In this case, we recommend that you either export the data in a raw form, and run the report in tools like Excel. If it is a filter that is essential to your business, do not hesitate to ask us for a new feature.
+It may not be technically possible to set up these filters for various reasons. In this case, we recommend that you either export the data in a raw form, and run the report in tools like Excel.&#x20;
+
+If it's a filter that is essential to your business, do not hesitate to ask us for a new feature.
 
