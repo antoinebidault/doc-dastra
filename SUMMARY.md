@@ -48,7 +48,7 @@
   * [Data visualization](features/editer-le-registre/data-visualization/README.md)
     * [View the treatment tree](features/editer-le-registre/data-visualization/view-the-treatment-tree.md)
     * [View the record data map](features/editer-le-registre/data-visualization/view-the-record-data-map.md)
-    * [View the transfer map](features/editer-le-registre/data-visualization/view-the-transfer-map.md)
+    * [View the transfers map](features/editer-le-registre/data-visualization/view-the-transfers-map.md)
 * [Audits and PIA](features/audits-and-pia/README.md)
   * [Create or modify an audit template or PIA](features/audits-and-pia/create-or-modify-an-audit-template-or-pia.md)
   * [Scheduling an audit or a PIA](features/audits-and-pia/scheduling-an-audit-or-an-aip.md)

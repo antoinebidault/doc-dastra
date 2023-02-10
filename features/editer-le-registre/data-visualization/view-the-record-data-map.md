@@ -28,6 +28,6 @@ A search bar also allows you to make additional filters.
 
 ## Go further
 
-{% content-ref url="view-the-transfer-map.md" %}
-[view-the-transfer-map.md](view-the-transfer-map.md)
+{% content-ref url="view-the-transfers-map.md" %}
+[view-the-transfers-map.md](view-the-transfers-map.md)
 {% endcontent-ref %}
