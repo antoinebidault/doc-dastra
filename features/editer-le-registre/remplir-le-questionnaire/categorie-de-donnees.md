@@ -22,6 +22,26 @@ La collecte de données sensibles est par principe interdite. Seules les excepti
 
 Le jeu de données regroupe les données d'un élément précis, par exemple, une table dans une base de données ou un formulaire de collecte papier.
 
+Les jeux de données peuvent être utilisés selon plusieurs manières :
+
+* **Cas n°1** : en associant **un jeu de données à un actif unique**. Dans ce cas, le jeu de données correspond aux données de l'actif et n'est pas générique
+* **Cas n°2** : en associant **un jeu de données au traitement de données**. Ce jeu de données peut être spécifique au traitement de données et n'est pas réutilisé dans un autre traitement de données
+* **Cas n°3** : en associant des **jeux de données génériques au traitement de données**. Dans ce cas, le jeu de données peut être réutilisé dans plusieurs traitements de données.
+
+Pour utiliser les jeux de données génériques, nous recommandons la procédure suivante :
+
+* Ouvrir la page du traitement concernant les jeux de données
+* Ouvrir un nouvel onglet sur la page des jeux de données dans la cartographie
+* Sélectionner le jeu de données dans le traitement de données
+* Si le jeu de données doit être modifié, il faut en créer un autre : se rendre sur l'autre onglet et dupliquer le jeu de données générique en enlevant ou en ajoutant les champs souhaités
+* Pour plus de clarté, je vous recommande d'utiliser un tag pour ces jeux de données (cela vous permettra de les distinguer facilement dans le sélecteur de jeux de données). Par exemple : un tag "générique" et un tag concernant la donnée ajoutée ou enlevée
+
+L'objectif à terme peut être de limiter l'utilisation de jeux de données génériques et de s'orienter vers une cartographie plus précise soit via les traitements de données (cas n°2) soit via les actifs (cas n°1).
+
+Par ailleurs, il est possible de rester encore plus générique en ne précisant pas les données associées au jeu de données mais en nommant le jeu de données en tant que catégorie de données (ce qui est également valable au sens du RGPD par exemple).
+
+Selon les traitements, vous pouvez avoir des approches différentes, en fonction de la sensibilité qu'ils présentent au regard des droits et libertés des personnes concernées.
+
 ## Conservation des données
 
 La conservation limitée des données fait partie des principes généraux du droit des données à caractère personnel et est rappelée à l’[**article 5 1. e) du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2). Celui-ci prévoit en effet que « _conservées sous une forme permettant l'identification des personnes concernées pendant une durée n'excédant pas celle nécessaire au regard des finalités pour lesquelles elles sont traitées_ ».
