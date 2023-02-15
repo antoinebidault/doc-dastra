@@ -22,5 +22,5 @@ Pour l'actionner, rendez-vous dans l'onglet "profil" au sein de vos paramètres 
 En sélectionnant cette option, vous perdrez vos réglages de colonnes dans tous les tableaux de Dastra et vous redéclencherez l'affichage des tutoriels dans tous les modules.&#x20;
 {% endhint %}
 
-\
+Ces deux actions n'ont pas permis de résoudre votre problème ? Contactez le support directement depuis l'application, via chat ou onglet "porte-voix".\
 \
