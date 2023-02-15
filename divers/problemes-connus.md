@@ -1,5 +1,5 @@
 ---
-description: Dans cette page, retrouvez la résolutions des principaux problèmes connus.
+description: Dans cette page, retrouvez la résolution des principaux problèmes connus.
 ---
 
 # Problèmes connus
