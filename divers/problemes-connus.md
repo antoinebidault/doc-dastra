@@ -22,5 +22,21 @@ Pour l'actionner, rendez-vous dans l'onglet "profil" au sein de vos paramètres 
 En sélectionnant cette option, vous perdrez vos réglages de colonnes dans tous les tableaux de Dastra et vous redéclencherez l'affichage des tutoriels dans tous les modules.&#x20;
 {% endhint %}
 
-Ces deux actions n'ont pas permis de résoudre votre problème ? Contactez le support directement depuis l'application, via chat ou onglet "porte-voix".\
-\
+Ces deux actions n'ont pas permis de résoudre votre problème ? Contactez le support directement depuis l'application, via chat ou onglet "porte-voix".
+
+
+
+## Erreur 401 lors de la connexion
+
+**Scénario** : vous vous connecter à Dastra via l'url https://app.dastra.eu, vous saisissez vos identifiants et vous arrivez sur une page d'erreur "**Accès refusé (401)**" .
+
+Aperçu de la page :\
+![](<../.gitbook/assets/image (1).png>)
+
+**Solutions** :&#x20;
+
+1. **Vérifier les paramètres d'horloge de votre ordinateur**. Il est fortement recommandé d'activer la synchronisation du temps avec internet. En effet, les délais d'expiration de vos jetons d'identification sont comparés au temps de votre machine. Si la date n'est pas bien synchronisée avec le temps du serveur, vous allez rencontrer cette erreur. Pour configurer votre horloge, rendez-vous sur les liens suivants :&#x20;
+   * [Mac](https://support.apple.com/fr-fr/guide/mac-help/mchlp2996/mac)
+   * [PC](https://support.microsoft.com/fr-fr/windows/comment-d%C3%A9finir-l-heure-et-le-fuseau-horaire-dfaa7122-479f-5b98-2a7b-fa0b6e01b261)
+2. **Utilisez cette adresse pour accéder à Dastra: https://app.dastra.eu** . Vous pouvez l'enregistrer dans vos favoris. Ce problème peut se produire lorsque vous tentez d'accéder à Dastra par les urls avec le domaine account.dastra.eu (souvent enregistrées automatiquement dans les suggestions d'url de votre navigateur)
+3. **Nettoyez les données du site et les cookies de votre navigateur**

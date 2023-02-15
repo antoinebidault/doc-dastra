@@ -8,7 +8,7 @@ Pour supprimer une tache, vous devez d'abord l'archiver puis la supprimer des ar
 
 Ensuite, afficher les archives des tâches
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 Et supprimer les tâches
 
