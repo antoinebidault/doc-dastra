@@ -173,3 +173,4 @@
 ## 🤖 DIVERS
 
 * [Foire aux questions](divers/faq-registre.md)
+* [Problèmes connus](divers/problemes-connus.md)
