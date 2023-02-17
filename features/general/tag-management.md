@@ -13,3 +13,11 @@ Thus, you can put a "priority" or "To be checked" or "sensitive treatment" tag t
 ## How to create tags?
 
 In the tag entry form, start typing the name of any tag, there are two possibilities, either the tag already exists, in which case you can select it. If it doesn't exist, you can press **the enter key on your keyboard**, which will create the new tag automatically to add it to the selection list.
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 11.27.07.png" alt=""><figcaption></figcaption></figure>
+
+## How to manage all the tags in the application?
+
+Go to > **Workspace Settings** ![](<../../.gitbook/assets/image (2).png>)****
+
+Click on the **Tag** menu in "Process"

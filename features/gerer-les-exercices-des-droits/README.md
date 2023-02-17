@@ -40,7 +40,7 @@ The entire request register is importable and exportable. To import a request, c
 
 A window appears with an "import" button. Click on it, download the registry template and follow the instructions to import the requests into Dastra. Once imported, the request will be directly available in the request register.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Implementation of data subject right request widget
 
