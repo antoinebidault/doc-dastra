@@ -114,11 +114,12 @@
 
 * [Security at Dastra](security/general.md)
 * [Security roadmap](security/feuille-de-route.md)
+* [Quality of Service](security/qualite-de-nos-services.md)
 
 ## Other
 
-* [Quality of Service](other/qualite-de-nos-services.md)
 * [FAQ](other/faq.md)
+* [Known problems](other/known-problems.md)
 
 ## Referentials
 
