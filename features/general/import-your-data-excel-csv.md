@@ -24,10 +24,10 @@ In each import, the process is the same.
 
 It is done in 4 steps:
 
-1. Preparation of the data file&#x20;
-2. Downloading the file
-3. Verification of data before import
-4. Importing the data
+1. [Preparation of the data file ](import-your-data-excel-csv.md#1.-preparation-of-the-data-file)
+2. [Downloading the file](import-your-data-excel-csv.md#2.-download-the-template-file)
+3. [Verification of data before import](import-your-data-excel-csv.md#3.-check-your-data)
+4. [Importing the data](import-your-data-excel-csv.md#4.-import-the-data)
 
 ### 1. Preparation of the data file
 
@@ -45,7 +45,7 @@ Select Excel if asked:
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.16.33.png" alt=""><figcaption></figcaption></figure>
 
-#### Download the template file
+### 2. Download the template file
 
 Then, download a file template by clicking on the "Download file template" button:
 
@@ -67,7 +67,7 @@ For each data file, you will be able to display the expected values on the colum
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.22.43.png" alt=""><figcaption><p>Expected values for the record import file</p></figcaption></figure>
 
-### 2. Load the file
+#### Load the file
 
 Once your data file is ready, you may need to specify an organizational unit. All imported files will be placed in this organizational unit.
 
