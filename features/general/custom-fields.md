@@ -104,3 +104,35 @@ Fill in all the information! Click on save and that's it!&#x20;
 
 ## Handling custom fields in APIs
 
+Dastra allows you to retrieve, modify and create via the Rest API all entity values that include custom fields.&#x20;
+
+A "customFields" property will be available in all entities you retrieve in get in Dastra.c:
+
+```json
+ {
+   "id": 1234,
+   "label": "Test asset",
+   etc...
+   "customFields": {
+     "dpo_name":"jean-marc le dpo",
+     "dpo_email":"dpo@github.com",
+     "dpo_habilitations": ["Expert","Consulting","Data Mapping"],
+     "has_large_dataset":false,
+     etc...
+   }
+ }s
+```
+
+To modify this property, you just have to post (POST) or modify (PUT) the element by updating the elements of the collection.
+
+To collect the name of the custom variables, you must go to the custom fields configuration page.
+
+{% hint style="info" %}
+Attention, all custom fields will be validated by the server. If a colonen is not present in the configuration, it will be automatically deleted.&#x20;
+
+If a field is not valid (for example, if it's not filled in even though it's marked as mandatory), it will raise an exception with the code 400
+{% endhint %}
+
+## Limitations
+
+You cannot **filter custom fields of the multiple type (checkbox (Multiple) and selector (Multiple))**. This is a known limitation that we are working on.
