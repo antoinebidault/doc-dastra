@@ -19,7 +19,7 @@ The rest of this page deals only with the "Data controller" record.
 
 For each processing operation, the record of a controller shall indicate at least:
 
-1. where applicable, **the name and contact details** of the joint data controller of the processing operation
+1. where applicable, **the name and contact details** of the [joint data controller](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679#d1e3083-1-1) of the processing operation
 2. the **purposes** of the processing, the objective for which you have collected the data
 3. the categories of **data subjects** (customer, prospect, employee, etc.)
 4. the categories of **personal data** (e.g. identity, family, economic or financial situation, banking data, connection data, location data, etc.)
