@@ -29,7 +29,7 @@ These two actions did not solve your problem? Contact the support directly from 
 
 Preview of the page:
 
-<mark style="color:red;">/IMAGE</mark>
+<figure><img src="../.gitbook/assets/MicrosoftTeams-image.png" alt=""><figcaption></figcaption></figure>
 
 **Solutions**:&#x20;
 
