@@ -29,9 +29,12 @@ These two actions did not solve your problem? Contact the support directly from 
 
 Preview of the page:
 
+<mark style="color:red;">/IMAGE</mark>
+
 **Solutions**:&#x20;
 
 1. **Check your computer's clock settings**. It's strongly recommended to activate the time synchronization with the internet. Indeed, the expiration times of your identification tokens are compared to the time of your machine. If the date is not well synchronized with the server time, you will encounter this error. To configure your clock, go to the following links:
    * [Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2996/mac)
    * [PC](https://support.microsoft.com/en-us/windows/how-to-set-your-time-and-time-zone-dfaa7122-479f-5b98-2a7b-fa0b6e01b261)
-2. bbbb
+2. **Use this address to access Dastra: https://app.dastra.eu** . You can save it to your favorites. This problem may occur when you try to access Dastra through urls with the domain account.dastra.eu (often automatically saved in your browser's url suggestions)
+3. **Clean up your browser's site data and cookies**
