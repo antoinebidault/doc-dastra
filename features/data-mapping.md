@@ -13,8 +13,8 @@ Before you start creating your treatment sheets, we recommend that you map the c
 To inventory all the personal data of your IS, here is the procedure to follow:&#x20;
 
 1. **Identify the assets** which can be software, files, plugins, servers, machines...&#x20;
-2. **Identify the publisher of the asset (if applicable)**: enter the information of the company that produces this asset. This can be listed in the subcontractors when the registry is created.&#x20;
-3. **Inventory the data**: list the associated dataset(s) (you can refer to the DPA signed with the subcontractor). Click here to learn more about the [datasets](editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md).&#x20;
+2. **Identify the publisher of the asset (if applicable)**: enter the information of the company that produces this asset. This can be listed in the data processors when the record is created.&#x20;
+3. **Inventory the data**: list the associated dataset(s) (you can refer to the DPA signed with the data processors). Click here to learn more about the [datasets](editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md).&#x20;
 4. **List the security measures** in place.
 
 This mapping will make it much easier to create treatment sheets based on the reality of your data.
