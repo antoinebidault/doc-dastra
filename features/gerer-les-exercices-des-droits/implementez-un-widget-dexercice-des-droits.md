@@ -8,7 +8,7 @@ description: Learn how to set up a data subject right request widget on your web
 
 The process of data subject right request via the widget is as shown in the diagram below:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Setting up
 
