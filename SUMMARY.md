@@ -26,6 +26,7 @@
   * [Import your data (Excel, Csv)](features/general/import-your-data-excel-csv.md)
   * [Tag management](features/general/tag-management.md)
   * [Custom fields](features/general/custom-fields.md)
+* [Data Mapping](features/data-mapping.md)
 * [Record of processing activities](features/editer-le-registre/README.md)
   * ["Data controller" record](features/editer-le-registre/data-controller-record.md)
   * ["Data processor" record](features/editer-le-registre/data-processor-record.md)
