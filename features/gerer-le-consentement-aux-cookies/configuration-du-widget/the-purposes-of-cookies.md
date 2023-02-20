@@ -1,0 +1,2 @@
+# The purposes of cookies
+
