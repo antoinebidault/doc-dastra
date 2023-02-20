@@ -13,11 +13,11 @@ Les filtres avancés permettent de filtrer vos données sur presque tous les cha
 * Allez dans un module de Dastra (par exemple, le module des exercices de droits
 * Cliquez sur le bouton "Filtres" en haut à droite de la table de données.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Une petite fenêtre s'affiche, elle vous présente une liste de filtres standards les plus utilisés, en appliquant un de ces filtres, le tableau se met à jour automatiquement.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Combo de filtres avancés des demandes d'exercices de droits</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>Combo de filtres avancés des demandes d'exercices de droits</p></figcaption></figure>
 
 {% hint style="info" %}
 La combinaison de ces filtres est cumuliative.&#x20;
