@@ -137,7 +137,7 @@
       * [Applications natives](features/gerer-le-consentement-aux-cookies/integration-technique/applications-mobiles/applications-natives.md)
     * [TCF 1.1/2.0](features/gerer-le-consentement-aux-cookies/integration-technique/iab-et-cmp.md)
   * [Conformité RGAA](features/gerer-le-consentement-aux-cookies/rgaa.md)
-  * [Questions fréquentes](features/gerer-le-consentement-aux-cookies/questions-frequentes.md)
+  * [Dépannage](features/gerer-le-consentement-aux-cookies/troubleshouting.md)
 * [Configuration avancée](features/settings/README.md)
   * [Rôles et permissions](features/settings/roles-et-permissions.md)
   * [Single Sign On (SSO)](features/settings/single-sign-on-sso/README.md)

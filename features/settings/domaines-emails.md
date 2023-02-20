@@ -14,7 +14,7 @@ Les domaines emails permettent à vos collaborateurs futurs la possibilité d'ê
 
 Vous trouverez la configuration des domaines emails dans la configuration générale de votre organisation, partie **sécurité**&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt="Accès à la configuration des domaines email"><figcaption><p>domaines emails configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt="Accès à la configuration des domaines email"><figcaption><p>domaines emails configuration</p></figcaption></figure>
 
 Activez ou désactivez la fonctionnalité en cliquant sur le bouton "_Permettre aux utilisateurs_..."
 
