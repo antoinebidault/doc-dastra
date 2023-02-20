@@ -14,7 +14,7 @@ La création ou la modification d'un modèle d'audit ou d'un PIA dans Dastra est
 
 Pour créer un modèle d'audit ou de PIA, cliquez sur le bouton "Créer un modèle" dans l'onglet "Audit". Ensuite vous pouvez sélectionner un des 3 types de modèles d'audit existant dans Dastra : audit automatisé, combiné ou personnalisé.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
 
 Vous arrivez sur l'interface de sélection des types de modèles :&#x20;
 

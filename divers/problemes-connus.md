@@ -31,7 +31,7 @@ Ces deux actions n'ont pas permis de résoudre votre problème ? Contactez le su
 **Scénario** : vous vous connecter à Dastra via l'url https://app.dastra.eu, vous saisissez vos identifiants et vous arrivez sur une page d'erreur "**Accès refusé (401)**" .
 
 Aperçu de la page :\
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 **Solutions** :&#x20;
 
