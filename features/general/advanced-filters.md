@@ -17,7 +17,7 @@ Advanced filters allow you to filter your data on almost any field in your entit
 
 * A small window will appear, showing you a list of the most commonly used standard filters, by applying one of these filters, the table will update automatically.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Advanced filter combo for rights exercise requests</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption><p>Advanced filter combo for rights exercise requests</p></figcaption></figure>
 
 {% hint style="info" %}
 Combo of advanced filters for exercise requests&#x20;

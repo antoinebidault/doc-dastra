@@ -1,58 +1,52 @@
 ---
-description: >-
-  Apprenez à mettre en place un widget de consentement aux cookies sur votre
-  site.
+description: Learn how to set up a cookie consent widget on your site.
 ---
 
-# Implémentez un widget de consentement aux cookies
+# Implement a cookie consent widget
 
-DASTRA vous permets de mettre un place un widget de consentement aux cookies directement sur votre site respectant les recommandations de la CNIL sur les cookies et autres traceurs.
+DASTRA allows you to set up a cookie consent widget directly on your site in compliance with the recommendations of the CNIL (French Data Protection Authority) on cookies and other tracking devices.
 
-## En quoi consiste le widget de consentement aux cookies Dastra&#x20;
+## What is the Dastra cookie consent widget?
 
-Ce widget se compose de plusieurs éléments:
+This widget is composed of several elements
 
-![Un symbole "cookies" apparaissant en bas à gauche de l'écran](<../../../.gitbook/assets/image (103).png>)
+<figure><img src="https://138894690-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F6C7JDBYbJydNYzQ8vGjp%2FCapture%20web_6-5-2022_93427_www.dastra.eu.jpeg?alt=media&#x26;token=bab7e0b0-450a-4ff4-8117-91e121d03c94" alt=""><figcaption><p>A "cookies" symbol appearing at the bottom left of the screen</p></figcaption></figure>
 
-![Une fenêtre d'introduction dépliable](<../../../.gitbook/assets/image (26).png>)
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-21 à 15.11.52.png" alt=""><figcaption><p>A fold-out introduction window</p></figcaption></figure>
 
-![La liste des cookies par finalité utilisées par Dastra ](<../../../.gitbook/assets/image (47).png>)
+## Prerequisites&#x20;
 
-## Prérequis&#x20;
-
-Pour implémenter votre widget de consentement aux cookies, vous devez préalablement avoir **identifié** et **classifié** par catégories de finalités **les cookies déposés sur votre site internet.** Le module Consentement aux cookies de DASTRA permets de faire cela en quelques clics.
+To implement your cookie consent widget, you must first **identify** and **classify** the cookies **placed on your website by purpose**. DASTRA's Cookie Consent module allows you to do this in just a few clicks.
 
 {% hint style="info" %}
-Pour rendre l'implémentation du widget de consentement aux cookies plus facile, Dastra a intégré dans le même module toutes les étapes nécessaires, depuis la mise en place des pré-requis jusqu'aux lignes de code.
+To make the implementation of the cookie consent widget easier, Dastra has integrated all the necessary steps, from setting up the prerequisites to the lines of code, in the same module.
 {% endhint %}
 
-Pour scanner les cookies déposés sur votre site Web, rendez-vous sur la page suivante :
+To scan the cookies placed on your website, go to the following page:
 
 {% content-ref url="scannez-les-cookies-deposes-sur-votre-site-web.md" %}
 [scannez-les-cookies-deposes-sur-votre-site-web.md](scannez-les-cookies-deposes-sur-votre-site-web.md)
 {% endcontent-ref %}
 
-Pour classifier les cookies par catégories de consentement, rendez-vous sur la page suivante :
+To classify cookies by consent categories, go to the following page:
 
 {% content-ref url="classifiez-les-cookies-par-categories-de-consentement.md" %}
 [classifiez-les-cookies-par-categories-de-consentement.md](classifiez-les-cookies-par-categories-de-consentement.md)
 {% endcontent-ref %}
 
-## Définissez l'apparence de votre widget de consentement aux cookies cible
+## Set the appearance of your target cookie consent widget
 
-Pour mettre en place un widget de consentement aux cookies sur votre site internet, vous devez vous rendre sur l'interface "Apparence" du module Consentement aux cookies de DASTRA.
+To set up a cookie consent widget on your website, you must go to the "Appearance" interface of the DASTRA cookie consent module.
 
-![Interface "Apparence" du module Consentement aux Cookies DASTRA](<../../../.gitbook/assets/image (95).png>)
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-21 à 15.18.41 (1).png" alt=""><figcaption><p>DASTRA Cookie Consent Module "Templating" Interface</p></figcaption></figure>
 
-![Section "Cookies" du module Consentement aux cookies"](<../../../.gitbook/assets/image (48).png>)
-
-A partir de cette interface, vous pouvez **personnaliser intégralement votre widget** pour qu'il s'affiche de la façon dont vous le souhaitez sur votre site internet.&#x20;
+From this interface, you can **fully customize your widget** so that it displays the way you want it to on your website.
 
 {% hint style="info" %}
-Vous pouvez également apporter d'autres modifications sur le widget, comme modifier la position relative, les couleurs, le texte et les déclencheurs dans les sections "Texte", "Design" et "Déclencheurs".
+You can also make other more general changes to the widget in the "Configuration", "Texts and translations" and "Triggers" sections.
 {% endhint %}
 
-Une fois le paramétrage terminé, cliquez ensuite sur "Enregistrer et continuer".
+Once the settings are complete, click on "Save and continue".
 
 ![](<../../../.gitbook/assets/image (120).png>)
 
