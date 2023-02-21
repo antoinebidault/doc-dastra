@@ -10,28 +10,24 @@ description: >-
 [integration-dans-les-cms.md](integration-dans-les-cms.md)
 {% endcontent-ref %}
 
+{% content-ref url="quick-start/" %}
+[quick-start](quick-start/)
+{% endcontent-ref %}
+
+{% content-ref url="language-management.md" %}
+[language-management.md](language-management.md)
+{% endcontent-ref %}
+
 {% content-ref url="comment-tester-lintegration-dun-widget.md" %}
 [comment-tester-lintegration-dun-widget.md](comment-tester-lintegration-dun-widget.md)
 {% endcontent-ref %}
 
-{% content-ref url="wordpress.md" %}
-[wordpress.md](wordpress.md)
+{% content-ref url="blocage-des-cookies/" %}
+[blocage-des-cookies](blocage-des-cookies/)
 {% endcontent-ref %}
 
 {% content-ref url="design-avance.md" %}
 [design-avance.md](design-avance.md)
-{% endcontent-ref %}
-
-{% content-ref url="iab-et-cmp.md" %}
-[iab-et-cmp.md](iab-et-cmp.md)
-{% endcontent-ref %}
-
-{% content-ref url="google-tag-manager.md" %}
-[google-tag-manager.md](google-tag-manager.md)
-{% endcontent-ref %}
-
-{% content-ref url="blocage-des-cookies.md" %}
-[blocage-des-cookies.md](blocage-des-cookies.md)
 {% endcontent-ref %}
 
 {% content-ref url="gerer-le-consentement-programmatiquement.md" %}

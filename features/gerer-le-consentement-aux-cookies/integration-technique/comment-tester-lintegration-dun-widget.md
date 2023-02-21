@@ -1,4 +1,8 @@
-# Comment tester l'intégration d'un widget ?
+---
+description: Learn how to test the integration of a consent widget.
+---
+
+# Test the integration of a widget
 
 ## Activer le mode prévisualisation
 
