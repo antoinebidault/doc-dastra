@@ -1,32 +1,32 @@
 ---
-description: Apprenez à collecter les preuves de consentement cookies avec Dastra.
+description: Learn how to collect proof of consent cookies with Dastra.
 ---
 
-# Collectez les preuves de consentement cookies
+# Collect proof of cookie consent
 
-Une fois le widget de consentement aux cookies DASTRA implémenté sur votre site internet, le module de Consentement aux cookies DASTRA vous permets également de **collecter** et d'**exporter** les **preuves de consentement aux cookies**.
+Once the DASTRA cookie consent widget is implemented on your website, the DASTRA Cookie Consent module also allows you to **collect** and **export proof of cookie consent**.
 
-## Prérequis
+## Prerequisites
 
-Pour faire cela, vous devez avoir préalablement implémenté un widget de consentement aux cookies DASTRA sur votre site internet.
+To do this, you must have implemented a DASTRA cookie consent widget on your website.
 
 {% content-ref url="implementez-un-widget-de-consentement-aux-cookies.md" %}
 [implementez-un-widget-de-consentement-aux-cookies.md](implementez-un-widget-de-consentement-aux-cookies.md)
 {% endcontent-ref %}
 
-## Collectez les preuves de consentement aux cookies
+## Collect evidence of consent to cookies
 
-Une fois le widget implémenté, DASTRA collecte automatiquement pour vous les preuves de consentement des internautes visitant votre site web.
+Once the widget is implemented, DASTRA automatically collects proof of consent from visitors to your website.
 
-Pour les consulter, il suffit de se rendre dans l'interface "Consentement" du module de Consentement aux cookies DASTRA.
+To consult them, simply go to the "Consent" interface of the DASTRA cookie consent module.
 
-![Interface "Consentement"](<../../../.gitbook/assets/image (29) (1).png>)
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-21 à 16.20.07.png" alt=""><figcaption><p>"Consent" interface</p></figcaption></figure>
 
 {% hint style="info" %}
-A partir de cette interface, vous pouvez également personnaliser les preuves de consentement collectées, exporter les données, filtrer par date ou widget de cookies, notamment.
+From this interface, you can also customize the proofs of consent collected, export data, filter by date or cookie widget, among others.
 {% endhint %}
 
-Pour aller plus loin:
+To go further:
 
 {% content-ref url="allez-plus-loin-sur-le-consentement-des-cookies.md" %}
 [allez-plus-loin-sur-le-consentement-des-cookies.md](allez-plus-loin-sur-le-consentement-des-cookies.md)
