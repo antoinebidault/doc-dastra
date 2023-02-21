@@ -1,19 +1,22 @@
 ---
-description: Allez plus loin dans la gestion des consentements des cookies avec DASTRA.
+description: Go cookie consent management further with DASTRA.
 ---
 
-# Allez plus loin sur le consentement des cookies
+# Go further on cookie consent
 
-Le module Consentement aux cookies de DASTRA vous permets également d'aller plus loin dans la gestion de vos cookies, en faisant en sorte que le consentement aux cookies soit vraiment efficace.
+DASTRA's Cookie Consent module also allows you to go further in managing your cookies, making cookie consent really effective.
 
-En plus des fonctionnalités de scan, de classification, de widget des cookies et de collecte des preuves de consentement, DASTRA vous permets également:
+In addition to the scanning, classification, cookie widget and proof-of-consent features, DASTRA also allows you to:
 
-* D'accéder à une API configurée
-* D'implémenter le consentement préalable
-* D'implémenter nativement l'intégration d'une couche "Google Tag Manager"
-* D'insérer des snippets de code personnalisé html ou javascript
-* De générer des rapports statistiques
-* D'intégrer le consentement
+* Access a configured API&#x20;
+* Implement prior consent&#x20;
+* Implement natively the integration of a "Google Tag Manager" layer&#x20;
+* Insert custom html or javascript code snippets&#x20;
+* Generate statistical reports&#x20;
+* Integrate consent
 
-Pour en savoir plus, n'hésitez pas à [nous contacter directement](https://www.dastra.eu/fr/Contact?type=Demo).
+For more information, please [contact us directly](https://www.dastra.eu/en/contact).
 
+{% content-ref url="../integration-technique/" %}
+[integration-technique](../integration-technique/)
+{% endcontent-ref %}
