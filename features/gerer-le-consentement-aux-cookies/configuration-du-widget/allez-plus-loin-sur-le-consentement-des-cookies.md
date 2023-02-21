@@ -15,7 +15,7 @@ In addition to the scanning, classification, cookie widget and proof-of-consent 
 * Generate statistical reports&#x20;
 * Integrate consent
 
-For more information, please [contact us directly](https://www.dastra.eu/en/contact) or see the following section:
+For more information, please [contact us directly](https://www.dastra.eu/en/contact).
 
 {% content-ref url="../integration-technique/" %}
 [integration-technique](../integration-technique/)
