@@ -4,25 +4,29 @@ description: Learn how to classify cookies by consent categories.
 
 # Classify cookies by consent categories
 
-Avec DASTRA, vous pouvez classifier via simple "drag and drop" les cookies déposés sur votre site internet, par grande catégorie de finalité :
+With DASTRA, you can classify via a simple "drag and drop" the cookies deposited on your website, by broad category of purpose:
 
-* Les cookies "**strictement nécessaires**": il s'agit de cookies exemptés de consentement de par leur nature (par exemple, cookies de session ou de consentement)
-* Les cookies de type "**préférences**"
-* Les cookies de type "**analyse d'audience**"
-* Les cookies de type "**marketing et expérience utilisateur**"
-* les autres.
+* "**Strictly necessary**" cookies: these are cookies that are exempt from consent by their nature (for example, session or consent cookies)&#x20;
+* "**Preferences**" type cookies&#x20;
+* "**Audience analysis**" type cookies&#x20;
+* "**Marketing and user experience**" cookies&#x20;
+* Other cookies.
 
-Pour ce faire, il suffit de sélectionner le cookie à classifier depuis l'interface de Classification, puis de le déplacer par simple "cliquer - déposer" vers la catégorie de son choix.
+{% content-ref url="the-purposes-of-cookies.md" %}
+[the-purposes-of-cookies.md](the-purposes-of-cookies.md)
+{% endcontent-ref %}
 
-![Le cookie "Cookie à classer" en cours de classification](<../../../.gitbook/assets/image (81) (1).png>)
+To do this, simply select the cookie to be classified from the Classification interface, then move it by simply "clicking and dropping" it to the category of your choice.
 
-![Le cookie "Cookie à classer" classé dans la catégorie "Préférences"](<../../../.gitbook/assets/image (161).png>)
+![The "Cookie to classify" cookie being classified](<../../../.gitbook/assets/image (81) (1).png>)
+
+![The "Cookie to be filed" cookie filed in the "Preferences" category](<../../../.gitbook/assets/image (161).png>)
 
 {% hint style="info" %}
-Vous pouvez définir s'il y a besoin de demander le consentement ou non pour chaque cookie au cas par cas.
+You can define whether or not consent is required for each cookie on a case-by-case basis.
 {% endhint %}
 
-&#x20;Une fois tous vos cookies classifiés par catégorie, vous pouvez implémenter le widget de consentement correspondant.
+Once you have categorized all your cookies, you can implement the corresponding consent widget.
 
 {% content-ref url="implementez-un-widget-de-consentement-aux-cookies.md" %}
 [implementez-un-widget-de-consentement-aux-cookies.md](implementez-un-widget-de-consentement-aux-cookies.md)
