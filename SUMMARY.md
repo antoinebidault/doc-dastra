@@ -105,6 +105,9 @@
     * [Google Tag Manager](features/gerer-le-consentement-aux-cookies/integration-technique/google-tag-manager.md)
     * [Blocking cookies](features/gerer-le-consentement-aux-cookies/integration-technique/blocage-des-cookies.md)
     * [Manage consent programmatically](features/gerer-le-consentement-aux-cookies/integration-technique/gerer-le-consentement-programmatiquement.md)
+    * [User identification](features/gerer-le-consentement-aux-cookies/integration-technique/user-identification.md)
+    * [Mobile applications](features/gerer-le-consentement-aux-cookies/integration-technique/mobile-applications.md)
+    * [TCF 1.1/2.0](features/gerer-le-consentement-aux-cookies/integration-technique/tcf-1.1-2.0.md)
   * [Reporting](features/gerer-le-consentement-aux-cookies/reporting.md)
 
 ## API documentation <a href="#api-references" id="api-references"></a>

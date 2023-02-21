@@ -37,3 +37,15 @@ description: >-
 {% content-ref url="gerer-le-consentement-programmatiquement.md" %}
 [gerer-le-consentement-programmatiquement.md](gerer-le-consentement-programmatiquement.md)
 {% endcontent-ref %}
+
+{% content-ref url="user-identification.md" %}
+[user-identification.md](user-identification.md)
+{% endcontent-ref %}
+
+{% content-ref url="mobile-applications.md" %}
+[mobile-applications.md](mobile-applications.md)
+{% endcontent-ref %}
+
+{% content-ref url="tcf-1.1-2.0.md" %}
+[tcf-1.1-2.0.md](tcf-1.1-2.0.md)
+{% endcontent-ref %}
