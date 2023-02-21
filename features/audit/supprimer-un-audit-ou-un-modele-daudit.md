@@ -14,7 +14,7 @@ Tout d'abord, vous devez archiver l'audit via le bouton **Archiver** présent da
 
 
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Le bouton Archiver est en bas de la liste</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Le bouton Archiver est en bas de la liste</p></figcaption></figure>
 
 Cliquez sur **Archiver** et votre audit passera en archive.
 

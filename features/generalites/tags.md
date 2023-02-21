@@ -22,6 +22,6 @@ Dans le formulaire de saisie des tags, commencez à taper le nom de n'importe qu
 
 ## **Comment administrer tous les tags de l'application ?**
 
-* Allez dans > **Réglages de l'espace de travail** ![](<../../.gitbook/assets/image (11) (1).png>)&#x20;
+* Allez dans > **Réglages de l'espace de travail** ![](<../../.gitbook/assets/image (11) (1) (2).png>)&#x20;
 * Cliquez sur le menu **Gestion des tags**
 

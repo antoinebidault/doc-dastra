@@ -117,7 +117,7 @@ Attention, les équipes doivent être crées préalablement dans l'espace de tra
 
 Enregistrez votre fichier au format CSV UTF 8&#x20;
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Une fois votre fichier prêt, indiquez nous dans quel espace de travail vous souhaitez importer les utilisateurs et déposez le fichier via l'interface de dépôt :&#x20;
 
