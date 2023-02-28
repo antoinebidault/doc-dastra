@@ -30,7 +30,7 @@ There are 3 ways to fill in a new data subject rights request in DASTRA:
 
 By clicking on the "Add a data subject right request" button, a window appears where you can detail the data subject right request. Click on "Save and exit". That's it, you have created your first data subject right request manually!
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Import / export of the data subject right request register
 

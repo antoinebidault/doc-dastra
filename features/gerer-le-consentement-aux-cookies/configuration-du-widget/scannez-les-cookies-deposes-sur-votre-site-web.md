@@ -16,7 +16,7 @@ You must first log into your Dastra workspace. To learn how to do this, go to th
 
 Then, you must go to the "Consent to cookies" module, and click on the "New widget" button.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Icon of the "Cookies" module</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Icon of the "Cookies" module</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-20 à 17.41.03.png" alt=""><figcaption><p>Click on the "New widget" button</p></figcaption></figure>
 
