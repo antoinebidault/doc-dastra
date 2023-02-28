@@ -142,3 +142,196 @@ The public api key provided
 ```
 {% endswagger-response %}
 {% endswagger %}
+
+{% swagger baseUrl="https://api.dastra.eu" path="/v1/client/collect/:id?key=:key" method="post" summary="Registration of consents" %}
+{% swagger-description %}
+This method allows to collect the consents to cookies
+{% endswagger-description %}
+
+{% swagger-parameter in="path" name="id" type="string" %}
+ID of the widget configuration
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="key" type="string" %}
+The public api key
+{% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="consents" type="object" %}
+The list of user's consents
+
+\
+
+
+
+
+\
+
+
+
+
+`{`
+
+\
+
+
+`"cookieConsents":`
+
+\
+
+
+`[`
+
+\
+
+
+  
+
+`{`
+
+\
+
+
+    
+
+`"consent":true, // True if consented, false if refused`
+
+\
+
+
+    
+
+`"id":"e213aca4-79b7-4b93-2bad-08d897969898", // Cookies id`
+
+\
+
+
+    
+
+`"date":"2021-03-15T14:00:04.133Z",`
+
+\
+
+
+    
+
+`"name":"yrdy",`
+
+\
+
+
+    
+
+`"slug":"yrdy",`
+
+\
+
+
+    
+
+`"purpose":3`
+
+\
+
+
+  
+
+`}`
+
+\
+
+
+`],`
+
+\
+
+
+`"lang":"fr-FR",`
+
+\
+
+
+`"consentId":"6f47576e-5a0c-4219-8efe-331e72bab73a",`
+
+\
+
+
+`"date":1615809009744`
+
+\
+
+
+`}`
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+``
+
+\
+
+
+ 
+
+``
+
+ 
+{% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="type" type="string" %}
+CookieEventType Visit,Quit,Consents
+{% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="consentId" type="string" %}
+The current consent Id (If any collected before)
+{% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="userId" type="string" %}
+Custom user id (
+{% endswagger-parameter %}
+
+{% swagger-response status="200" description="Return the id of the consent collected" %}
+```
+140f213b-de17-4572-99a7-5075ccbcbbec
+```
+{% endswagger-response %}
+{% endswagger %}
