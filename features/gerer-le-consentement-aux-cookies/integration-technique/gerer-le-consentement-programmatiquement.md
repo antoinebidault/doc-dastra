@@ -14,7 +14,7 @@ The entire proof of user consent is stored in the browser's localStorage (the st
 It's not recommended to directly modify the data in the localStorage. Preferably use the Javascript SDK of dastra.
 {% endhint %}
 
-## Access to the consent service
+### Access to the consent service
 
 The dastra consent service can be accessed in this way:
 
@@ -27,21 +27,21 @@ dastra.push(['cookieReady',function(manager){
 </script>
 ```
 
-### Liste des méthodes disponibles dans le manageur de consentement
+### List of methods available in the consent manager
 
-dans manager.consent, vous disposez des méthodes suivantes :
+In manager.consent, you have the following methods:
 
-* open() : ouvre le widget de consentement
-* close() : ferme le widget de consentement
-* getAllConsents() : récupération des tous les consentements
-* getPurposeConsent(purposeId:number) : récupère le consentement d'une catégorie de cookies
-* setPurposeConsent(purposeId:number, consent:bool): défini le consentement pour une catégorie
-* getServiceConsent(serviceShortName:string): Récupère le consentement d'un service particulier.
-* setServiceConsent(serviceShortName:string, consent:bool): Définit le consentement d'un élément particulier
+* open(): opens the consent widget&#x20;
+* close(): close the consent widget&#x20;
+* getAllConsents() : retrieve all consents&#x20;
+* getPurposeConsent(purposeId:number): get consent for a category of cookies&#x20;
+* setPurposeConsent(purposeId:number, consent:bool): set the consent for a category&#x20;
+* getServiceConsent(serviceShortName:string): Retrieves consent for a particular service
+* setServiceConsent(serviceShortName:string, consent:bool): Sets the consent for a particular element
 
-### Récupérer la liste des consentements de l'utilisateur (getAllConsents)
+### Get the list of user's consents (getAllConsents)
 
-Une fois que vous accédez au manager de consentement, il est très aisé de récupérer les consentements de l'utilisateur courant :
+Once you access the consent manager, it is very easy to retrieve the consents of the current user:
 
 ```javascript
 <script>
@@ -53,7 +53,7 @@ dastra.push(['cookieReady', function(manager){
 </script>
 ```
 
-La méthode ci-dessus renvoie la liste de tous les consentements de l'utilisateur
+The above method returns a list of all the user's consents
 
 ```javascript
 [
@@ -71,17 +71,17 @@ La méthode ci-dessus renvoie la liste de tous les consentements de l'utilisateu
 ]
 ```
 
-### Interroger les consentements par catégorie (getPurposeConsent/setPurposeConsent)
+### Query consents by category (getPurposeConsent/setPurposeConsent)
 
-Les catégories de cookies sont représentés par les ids suivants :
+The categories of cookies are represented by the following ids:
 
 | Type        | Id |
 | ----------- | -- |
-| Nécessaires | 0  |
-| Préférences | 1  |
-| Analytique  | 2  |
+| Necessary   | 0  |
+| Preferences | 1  |
+| Analytical  | 2  |
 | Marketing   | 3  |
-| Autre       | 4  |
+| Other       | 4  |
 
 ```javascript
 <script>
@@ -95,13 +95,13 @@ dastra.push(['cookieReady',function(manager){
 </script>
 ```
 
-### Manipuler les consentements par service
+### Handle consents by service
 
-Pour manipuler les consentements par service, vous aurez besoin du nom simplifié du service disponible dans l'interface de gestion des services de votre widget.
+To manipulate consents by service, you will need the simplified service name available in the service management interface of your widget.
 
 {% hint style="info" %}
-**Comment trouver le nom simplifié du service ?**\
-Rendez-vous dans l'interface de gestion des services, en éditant un service, le nom simplifié (slug) du service apparaît en dessous du nom du cookie.
+**How to find the simplified name of the service?**\
+****Go to the service management interface, when editing a service, the simplified name (slug) of the service appears below the cookie name.
 {% endhint %}
 
 ![Emplacement du nom du cookies simplifié](<../../../.gitbook/assets/image (79).png>)

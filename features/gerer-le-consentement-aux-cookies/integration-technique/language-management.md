@@ -22,6 +22,6 @@ By default, the language is detected automatically according to the browser lang
 
 To force the language of the widget, you just have to add a data-lang="" attribute to the widget's div
 
-```json
+```ssml
 <div id="cookie-consent" data-lang="fr"></div>
 ```

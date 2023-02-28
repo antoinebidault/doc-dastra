@@ -30,7 +30,7 @@ For the code to work properly, make sure the public key of your API is configure
 
 Here is how the widget integration code looks:
 
-```json
+```ssml
 <div id="dastra-cookie-consent" data-widgetid="{your_widget_id}"></div>
 <script src="https://app.dastra.eu/sdk/dastra.js?key={your_public_key}" async>
 </script>
