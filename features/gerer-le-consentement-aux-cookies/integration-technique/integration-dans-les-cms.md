@@ -90,3 +90,13 @@ For this phase, we invite you to consult the guide on blocking cookies:
 {% content-ref url="blocage-des-cookies/" %}
 [blocage-des-cookies](blocage-des-cookies/)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+With the exception of strictly necessary cookies, all third-party tracking services should be blocked by default.
+{% endhint %}
+
+Congratulations, you are ready to start the technical integration of the widget:
+
+{% content-ref url="quick-start/" %}
+[quick-start](quick-start/)
+{% endcontent-ref %}
