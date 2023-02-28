@@ -26,7 +26,11 @@ To consult them, simply go to the "Consent" interface of the DASTRA cookie conse
 From this interface, you can also customize the proofs of consent collected, export data, filter by date or cookie widget, among others.
 {% endhint %}
 
-To go further:
+Congratulations, you are now collecting proof of consent cookies!&#x20;
+
+The lifespan of the proof of consent is one year.&#x20;
+
+To make your site dynamic and truly take into account the consent of the user, go to the next section "go further on cookie consent":
 
 {% content-ref url="allez-plus-loin-sur-le-consentement-des-cookies.md" %}
 [allez-plus-loin-sur-le-consentement-des-cookies.md](allez-plus-loin-sur-le-consentement-des-cookies.md)
