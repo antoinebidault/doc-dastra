@@ -4,18 +4,18 @@ description: Learn how to test the integration of a consent widget.
 
 # Test the integration of a widget
 
-## Activer le mode prévisualisation
+## Activate the preview mode
 
-![](<../../../.gitbook/assets/image (17).png>)
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-28 à 14.59.49.png" alt=""><figcaption></figcaption></figure>
 
-Le mode prévisualisation désactivera le cache du widget et vous permettra de visualiser vos modifications de configuration en live. Les domaines en localhost seront également autorisés
+The preview mode will disable the widget cache and allow you to view your configuration changes live. Localhost domains will also be allowed.
 
-## Vous pouvez utiliser la clé d'api suivante
+## You can use the following api key
 
 ```
 dastra00-0testing1-key
 ```
 
 {% hint style="info" %}
-&#x20;Cette clé affichera un widget de consentement d'exemple. Il n'est pas possible de modifier la configuration de celui-ci. La finalité de cette clé est d'effectuer des tests d'intégrations dans un jsFiddle...etc...
+This key will display an example consent widget. It's not possible to modify the configuration of this one. The purpose of this key is to perform integration tests in a jsFiddle...
 {% endhint %}
