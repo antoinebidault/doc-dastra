@@ -1,22 +1,22 @@
 ---
 description: >-
-  Ce chapitre vous apprendra comment gérer les consentements de notre widget de
-  cookies programmatiquement.
+  This chapter will teach you how to manage the consents of our cookie widget
+  programmatically.
 ---
 
-# Gérer le consentement programmatiquement
+# Manage consent programmatically
 
-## Où sont stockés les consentements ?
+## Where are the consents stored?
 
-L'intégralité de la preuve du consentement de l'utilisateur est stocké dans le localStorage du navigateur \(La clé de stockage est nommée dastra-consents\) au format json. La propagation des consentements en dépend, c'est pourquoi, il n'est pas recommandé de modifier directement les données de cette clé
+The entire proof of user consent is stored in the browser's localStorage (the storage key is named dastra-consents) in json format. The propagation of consents depends on it, that's why it's not recommended to directly modify the data of this key
 
 {% hint style="info" %}
- Il n'est pas recommandé de modifier directement les données se trouvant dans le localStorage. Utilisez de préférence le SDK Javascript de dastra.
+It's not recommended to directly modify the data in the localStorage. Preferably use the Javascript SDK of dastra.
 {% endhint %}
 
-### Accès au service de consentement
+## Access to the consent service
 
-Le service de consentement de dastra est accessible de cette façon
+The dastra consent service can be accessed in this way:
 
 ```javascript
 <script>
@@ -31,15 +31,15 @@ dastra.push(['cookieReady',function(manager){
 
 dans manager.consent, vous disposez des méthodes suivantes :
 
-* open\(\) : ouvre le widget de consentement
-* close\(\) : ferme le widget de consentement
-* getAllConsents\(\) : récupération des tous les consentements
-* getPurposeConsent\(purposeId:number\) : récupère le consentement d'une catégorie de cookies
-* setPurposeConsent\(purposeId:number, consent:bool\): défini le consentement pour une catégorie
-* getServiceConsent\(serviceShortName:string\): Récupère le consentement d'un service particulier.
-* setServiceConsent\(serviceShortName:string, consent:bool\): Définit le consentement d'un élément particulier
+* open() : ouvre le widget de consentement
+* close() : ferme le widget de consentement
+* getAllConsents() : récupération des tous les consentements
+* getPurposeConsent(purposeId:number) : récupère le consentement d'une catégorie de cookies
+* setPurposeConsent(purposeId:number, consent:bool): défini le consentement pour une catégorie
+* getServiceConsent(serviceShortName:string): Récupère le consentement d'un service particulier.
+* setServiceConsent(serviceShortName:string, consent:bool): Définit le consentement d'un élément particulier
 
-### Récupérer la liste des consentements de l'utilisateur \(getAllConsents\)
+### Récupérer la liste des consentements de l'utilisateur (getAllConsents)
 
 Une fois que vous accédez au manager de consentement, il est très aisé de récupérer les consentements de l'utilisateur courant :
 
@@ -71,17 +71,17 @@ La méthode ci-dessus renvoie la liste de tous les consentements de l'utilisateu
 ]
 ```
 
-### Interroger les consentements par catégorie \(getPurposeConsent/setPurposeConsent\)
+### Interroger les consentements par catégorie (getPurposeConsent/setPurposeConsent)
 
 Les catégories de cookies sont représentés par les ids suivants :
 
-| Type | Id |
-| :--- | :--- |
-| Nécessaires | 0 |
-| Préférences | 1 |
-| Analytique | 2 |
-| Marketing | 3 |
-| Autre | 4 |
+| Type        | Id |
+| ----------- | -- |
+| Nécessaires | 0  |
+| Préférences | 1  |
+| Analytique  | 2  |
+| Marketing   | 3  |
+| Autre       | 4  |
 
 ```javascript
 <script>
@@ -100,11 +100,11 @@ dastra.push(['cookieReady',function(manager){
 Pour manipuler les consentements par service, vous aurez besoin du nom simplifié du service disponible dans l'interface de gestion des services de votre widget.
 
 {% hint style="info" %}
-**Comment trouver le nom simplifié du service ?**  
-Rendez-vous dans l'interface de gestion des services, en éditant un service, le nom simplifié \(slug\) du service apparaît en dessous du nom du cookie.
+**Comment trouver le nom simplifié du service ?**\
+Rendez-vous dans l'interface de gestion des services, en éditant un service, le nom simplifié (slug) du service apparaît en dessous du nom du cookie.
 {% endhint %}
 
-![Emplacement du nom du cookies simplifi&#xE9;](../../../.gitbook/assets/image%20%2879%29.png)
+![Emplacement du nom du cookies simplifié](<../../../.gitbook/assets/image (79).png>)
 
 ```javascript
 <script> 
@@ -127,6 +127,4 @@ Pour illustrer la chose, voici un exemple complet qui permet de manipuler les co
 ```javascript
 todo
 ```
-
-
 
