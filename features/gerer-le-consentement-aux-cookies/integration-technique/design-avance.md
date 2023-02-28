@@ -1,18 +1,18 @@
 ---
 description: >-
-  Ce guide vous expliquera comment modifier l'apparence du widget à l'aide de
-  règles CSS simples
+  This guide will show you how to change the appearance of the widget using
+  simple CSS rules
 ---
 
-# Design avancé
+# Advanced Design
 
-## Intégration CSS
+## CSS integration
 
-De manière à obtenir de bonnes performances d'affichage, le rendu du widget de Dastra se fait directement dans la page du site, dans le container avec l'id **\#dastra-widget**
+In order to obtain good display performance, the Dastra widget is rendered directly in the site page, in the container with the id **#dastra-widget**&#x20;
 
-Il est possible de surcharger l'apparence du widget à l'aide de règles CSS simple.
+It's possible to override the appearance of the widget using simple CSS rules.
 
-Exemple basique :
+Exemple:
 
 ```css
 /**Trigger button**/
@@ -49,10 +49,5 @@ Exemple basique :
 ```
 
 {% hint style="info" %}
- Attention, certaines modifications sur le container du widget peut engendrer des effets indésirables.
+Be careful, some modifications on the widget container may cause undesirable effects.
 {% endhint %}
-
-
-
-
-
