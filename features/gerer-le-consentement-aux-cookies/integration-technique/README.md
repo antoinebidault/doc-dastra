@@ -38,8 +38,8 @@ description: >-
 [user-identification.md](user-identification.md)
 {% endcontent-ref %}
 
-{% content-ref url="mobile-applications.md" %}
-[mobile-applications.md](mobile-applications.md)
+{% content-ref url="mobile-applications/" %}
+[mobile-applications](mobile-applications/)
 {% endcontent-ref %}
 
 {% content-ref url="tcf-1.1-2.0.md" %}
