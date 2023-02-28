@@ -61,3 +61,9 @@ To do this, go to the "Installation" interface of the DASTRA Cookie Consent modu
 {% hint style="info" %}
 You can use the Google tag manager to dynamically insert this code on each page.
 {% endhint %}
+
+Don't hesitate to ask your webmaster to do this step. Once this is done, a widget will appear on your screen.
+
+{% hint style="info" %}
+For security reasons, only sites with an "https" SSL certificate can set up a widget.
+{% endhint %}
