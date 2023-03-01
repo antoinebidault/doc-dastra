@@ -30,6 +30,7 @@
   * [Gérer les rôles et permissions](commencer/commencer/gerez-les-roles-et-permissions.md)
   * [Créer puis affecter des équipes](commencer/commencer/creer-puis-affectez-des-equipes.md)
   * [Questions fréquentes](commencer/commencer/questions-frequentes.md)
+  * [Problèmes connus](commencer/commencer/problemes-connus.md)
 * [Tutoriel](commencer/tutoriel/README.md)
   * [Etape 1 : La mise en place](commencer/tutoriel/etape-1-la-mise-en-place.md)
   * [Etape 2 : Cartographier vos traitements de données à caractère personnel et établir le registre](commencer/tutoriel/etape-2-cartographier-vos-traitements-de-donnees-a-caractere-personnel-et-etablir-le-registre.md)
