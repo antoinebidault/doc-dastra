@@ -6,7 +6,7 @@ description: Dans cette page, retrouvez la résolution des principaux problèmes
 
 ### L'utilisateur invité ne reçoit pas les e-mails d'invitations
 
-**Vérifiez que le domaine de l'email** est correct. Si celui-ci est incorrect, le mail sera quand même envoyé
+**Vérifiez que l'adresse email de l'utilisateur (domaine, nom...)** est correct. Si celle-ci est incorrecte, l'interface ne remontera pas d'erreur
 
 Vérifiez que la boîte mail de la personne n'est pas pleine
 
