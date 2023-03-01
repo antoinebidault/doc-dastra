@@ -16,8 +16,6 @@ De même, le numéro d’inscription au répertoire (NIR) ou numéro de sécurit
 
 La collecte de données sensibles est par principe interdite. Seules les exceptions prévues à l’[**article 9 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2) permettent de les collecter.
 
-
-
 ## Jeux de données
 
 Le jeu de données regroupe les données d'un élément précis, par exemple, une table dans une base de données ou un formulaire de collecte papier.
@@ -50,9 +48,31 @@ Dans chaque jeu de données, vous pouvez inscrire l'origine des données. Celle 
 
 Un champ vous permettant de décrire l'origine de la collecte permet d'apporter la précision nécessaire.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Source des données</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Source des données</p></figcaption></figure>
 
+### Associer un actif au jeu de données
 
+Les jeux de données ont une vocation naturelle à être ajoutés à des [actifs](applications.md).&#x20;
+
+Vous pouvez associer un actif à votre jeu de données lors de sa création.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Sélecteur d'actif</p></figcaption></figure>
+
+Un jeu de données ne peut être associé qu'à un seul actif. En effet, en définissant les jeux de données d'un actif, ceux-ci sont uniques.&#x20;
+
+Par exemple, en considérant un logiciel de comptabilité comme un actif, plusieurs jeux de données pourraient être associés à cet actif, tels que "données de facturation" comprenant les données relatives au module suivi des factures ou encore "données des clients" comprenant les données relatives aux comptes clients.
+
+### Catégories de personnes concernées
+
+Pour chaque jeu de données, vous pouvez associer une catégorie de personnes concernées.&#x20;
+
+Cela vous permet de mieux comprendre quelles sont les données associées aux personnes concernées. De plus, cela simplifie le travail de cartographie.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sélecteur de catégories de personnes concernées</p></figcaption></figure>
+
+{% hint style="info" %}
+Indiquer les personnes concernées est utile dans la gestion des [demandes d'exercice des droits](../../gerer-les-exercices-des-droits/). En effet, vous pourrez retrouver facilement les données qui l'objet de la demande en identifiant rapidement les jeux de données concernés.
+{% endhint %}
 
 ## Conservation des données
 
