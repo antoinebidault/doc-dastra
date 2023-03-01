@@ -56,22 +56,48 @@ Les jeux de données ont une vocation naturelle à être ajoutés à des [actifs
 
 Vous pouvez associer un actif à votre jeu de données lors de sa création.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Sélecteur d'actif</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Sélecteur d'actif</p></figcaption></figure>
 
 Un jeu de données ne peut être associé qu'à un seul actif. En effet, en définissant les jeux de données d'un actif, ceux-ci sont uniques.&#x20;
 
 Par exemple, en considérant un logiciel de comptabilité comme un actif, plusieurs jeux de données pourraient être associés à cet actif, tels que "données de facturation" comprenant les données relatives au module suivi des factures ou encore "données des clients" comprenant les données relatives aux comptes clients.
 
-### Catégories de personnes concernées
+### Associer une catégorie de personnes concernées
 
-Pour chaque jeu de données, vous pouvez associer une catégorie de personnes concernées.&#x20;
+Pour chaque jeu de données, vous pouvez associer une ou plusieurs catégories de personnes concernées.&#x20;
 
 Cela vous permet de mieux comprendre quelles sont les données associées aux personnes concernées. De plus, cela simplifie le travail de cartographie.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sélecteur de catégories de personnes concernées</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Sélecteur de catégories de personnes concernées</p></figcaption></figure>
 
 {% hint style="info" %}
 Indiquer les personnes concernées est utile dans la gestion des [demandes d'exercice des droits](../../gerer-les-exercices-des-droits/). En effet, vous pourrez retrouver facilement les données qui l'objet de la demande en identifiant rapidement les jeux de données concernés.
+{% endhint %}
+
+### Associer des champs de données
+
+Chaque jeu de données a vocation à être complété par des champs de données. Ces champs sont les données en tant que tel.&#x20;
+
+Les champs qui s'affichent dans le sélecteur sont les champs disponibles dans le glossaire de données.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Sélecteur de champs de données</p></figcaption></figure>
+
+Si une donnée n'est pas présente, vous pouvez la créer directement depuis ce sélecteur pour l'ajouter au jeu de données.&#x20;
+
+Les champs peuvent être catégorisés selon des catégories prédéterminées. Il s'agit notamment des catégories préconisées par la CNIL.
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Sélecteur de catégorie de données personnelles</p></figcaption></figure>
+
+C'est également au niveau du champ que vous pouvez indiquer la présence d'une donnée sensible. Par exemple, une donnée de santé ou un autre type de donnée sensible.&#x20;
+
+Dans ce cas, vous êtes invité à justifier de la collecte de cette donnée et en particulier du fondement juridique la permettant.
+
+&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Donnée sensible</p></figcaption></figure>
+
+{% hint style="info" %}
+Cette information sera analysée par l'application pour déclencher un critère intelligent [d'AIPD](analyse-dimpact.md).&#x20;
 {% endhint %}
 
 ## Conservation des données
@@ -90,7 +116,7 @@ Les champs de données d'un jeu de données générique ne peuvent pas varier d'
 
 Pour cela, il est nécessaire d'ajouter le jeu de données au traitement. Sur la liste des jeux de données, il faut cliquer sur les boutons "base active/...".
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Bouton "base active"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (5).png" alt=""><figcaption><p>Bouton "base active"</p></figcaption></figure>
 
 Vous pourrez voir apparaitre la fenêtre de personnalisation.&#x20;
 
