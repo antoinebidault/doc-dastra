@@ -4,6 +4,26 @@ description: Dans cette page, retrouvez la résolution des principaux problèmes
 
 # Problèmes connus
 
+### L'utilisateur invité ne reçoit pas les e-mails d'invitations
+
+**Vérifiez que le domaine de l'email** est correct. Si celui-ci est incorrect, le mail sera quand même envoyé
+
+Vérifiez que la boîte mail de la personne n'est pas pleine
+
+Dans de très rares cas, Dastra peut être bloqué par le filtre anti-spam du serveur. Dans ce cas, vous pouvez générer un lien d'invitation en créant de nouveau une invitation en **cliquant sur "Inviter un utilisateur**" > **Suivre les étapes > Sélectionnez "Générer un lien".**&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**Cliquez sur "Générer lien" > Copiez le lien présent dans la page**
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez ainsi transmettre le lien d'invitation à l'utilisateur via un chat d'entreprise, un envoi depuis votre boîte mail...
+
+{% hint style="info" %}
+Attention, une validation de l'adresse mail sera nécessaire pour que l'utilisateur puisse accéder à votre espace
+{% endhint %}
+
 ## Résoudre les problèmes liés au cache de votre navigateur
 
 Lorsque vous utilisez un navigateur, celui-ci utilise le cache et les cookies pour enregistrer des informations provenant des sites Web. Les supprimer corrige certains problèmes, comme ceux liés au chargement des applications comme Dastra.\
@@ -31,7 +51,7 @@ Ces deux actions n'ont pas permis de résoudre votre problème ? Contactez le su
 **Scénario** : vous vous connecter à Dastra via l'url https://app.dastra.eu, vous saisissez vos identifiants et vous arrivez sur une page d'erreur "**Accès refusé (401)**" .
 
 Aperçu de la page :\
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 **Solutions** :&#x20;
 
