@@ -50,6 +50,8 @@ Dans chaque jeu de données, vous pouvez inscrire l'origine des données. Celle 
 
 Un champ vous permettant de décrire l'origine de la collecte permet d'apporter la précision nécessaire.
 
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Source des données</p></figcaption></figure>
+
 
 
 ## Conservation des données

@@ -16,7 +16,7 @@ Dans de très rares cas, Dastra peut être bloqué par le filtre anti-spam du se
 
 **Cliquez sur "Générer lien" > Copiez le lien présent dans la page**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez ainsi transmettre le lien d'invitation à l'utilisateur via un chat d'entreprise, un envoi depuis votre boîte mail...
 
