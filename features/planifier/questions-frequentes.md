@@ -26,8 +26,8 @@ Pour ajouter la charge de travail, vous devrez ajouter des champs personnalisés
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 Vous pourrez ensuite exporter ces valeurs dans un classeur ou les retrouver via vos filtres de tâches.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemple de champs de charge de travail</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Exemple de champs de charge de travail</p></figcaption></figure>
