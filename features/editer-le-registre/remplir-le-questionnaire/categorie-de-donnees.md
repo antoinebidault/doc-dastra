@@ -94,7 +94,7 @@ Dans ce cas, vous êtes invité à justifier de la collecte de cette donnée et 
 
 &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Donnée sensible</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Donnée sensible</p></figcaption></figure>
 
 {% hint style="info" %}
 Cette information sera analysée par l'application pour déclencher un critère intelligent [d'AIPD](analyse-dimpact.md).&#x20;
