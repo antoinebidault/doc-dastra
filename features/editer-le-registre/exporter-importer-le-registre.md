@@ -50,7 +50,7 @@ N'hésitez pas à consulter également notre bibliothèque de modèles de traite
 
 Pour importer vos labels de traitements existants, il faut cliquer sur l'onglet "importer vos données" dans la section Registre, onglet Registre:
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 Ensuite, téléchargez un échantillon de notre fichier tel que présenté à l'écran.
 
@@ -69,7 +69,7 @@ Remplissez le fichier  téléchargé avec vos labels de traitements en respectan
 
 Ci-dessous un exemple de fichier respectant le format demandé disponible à l'import et pouvant être importé en "glisser-déposer" dans Dastra :
 
-{% file src="../../.gitbook/assets/sample-DataProcessing.csv" %}
+{% file src="../../.gitbook/assets/sample-DataProcessing (18).csv" %}
 
 Importez-le directement dans notre interface par glisser-déposer, puis cliquez sur Continuez.&#x20;
 

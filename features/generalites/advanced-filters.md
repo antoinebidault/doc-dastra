@@ -17,7 +17,7 @@ Les filtres avancés permettent de filtrer vos données sur presque tous les cha
 
 * Une petite fenêtre s'affiche, elle vous présente une liste de filtres standards les plus utilisés, en appliquant un de ces filtres, le tableau se met à jour automatiquement.
 
-<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>Combo de filtres avancés des demandes d'exercices de droits</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Combo de filtres avancés des demandes d'exercices de droits</p></figcaption></figure>
 
 {% hint style="info" %}
 La combinaison de ces filtres est cumuliative.&#x20;
@@ -35,7 +35,7 @@ Par défaut, Dastra fait persister les filtres que vous sélectionnez, ce qui si
 
 Vous pouvez enregistrer et partager les filtres que vous appliquez à vos données avec tous vos collaborateurs. Cliquez sur le bouton enregistrer, pour sauvegarder le filtre dans votre espace de travail
 
-<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Problèmes connues
 

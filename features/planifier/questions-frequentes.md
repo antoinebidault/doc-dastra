@@ -12,7 +12,7 @@ Ensuite, afficher les archives des tâches
 
 Et supprimer les tâches
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez également supprimer la tache directement depuis la vue tableau
 
@@ -30,4 +30,4 @@ Pour ajouter la charge de travail, vous devrez ajouter des champs personnalisés
 
 Vous pourrez ensuite exporter ces valeurs dans un classeur ou les retrouver via vos filtres de tâches.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Exemple de champs de charge de travail</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (6).png" alt=""><figcaption><p>Exemple de champs de charge de travail</p></figcaption></figure>

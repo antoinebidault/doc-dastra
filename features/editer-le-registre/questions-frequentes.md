@@ -36,7 +36,7 @@ Et enfin, afficher les archives
 
 et supprimer&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Si vous ne trouvez la réponse dans ce guide, vous pouvez nous [contacter via le support](../../commencer/le-support/faire-une-demande-de-support.md)

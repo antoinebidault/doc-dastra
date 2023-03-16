@@ -50,7 +50,7 @@ Rendez vous dans les options du bouton "Créer un traitement de données" puis "
 
 Sélectionnez un ou plusieurs modèles, choisissez une unité organisationnelle et cliquez sur "ajouter"
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le bouton "**Détails**" permet de prévisualiser le modèle.&#x20;
 
