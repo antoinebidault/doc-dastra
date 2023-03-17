@@ -77,11 +77,13 @@ Les boucles fonctionnent de la même manière, sauf que cette fois on va génér
 
 Ca fonctionne de la manière suivante :&#x20;
 
-> \{% for _purpose_ in purposes %\}
->
-> \{{ _purpose_ \}}
->
-> \{% endfor %\}
+```liquid
+{% raw %}
+{% for purpose in purposes %}
+  {{ purpose }}
+{% endfor %}
+{% endraw %}i
+```
 
 Dans l'exemple ci dessus, je déclare vouloir faire une boucle sur la liste "purposes" et affecter la variable "_purpose_" à chaque élément que j'affiche directement.
 
