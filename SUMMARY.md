@@ -79,6 +79,7 @@
     * [Visualiser la cartographie des données du registre](features/editer-le-registre/la-visualisation-des-donnees/visualiser-la-cartographie-des-donnees.md)
     * [Visualiser la carte des transferts](features/editer-le-registre/la-visualisation-des-donnees/visualiser-la-carte-des-transferts.md)
   * [Questions fréquentes](features/editer-le-registre/questions-frequentes.md)
+* [Gestion de documents (GED)](features/gestion-de-documents-ged.md)
 * [Audits et PIA](features/audit/README.md)
   * [Créer ou modifier un modèle d'audit ou un PIA](features/audit/creez-un-modele-daudit.md)
   * [Planifier un audit ou un PIA](features/audit/planifier-un-audit.md)
