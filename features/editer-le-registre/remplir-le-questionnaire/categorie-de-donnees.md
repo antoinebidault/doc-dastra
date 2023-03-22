@@ -56,7 +56,7 @@ Les jeux de données ont une vocation naturelle à être ajoutés à des [actifs
 
 Vous pouvez associer un actif à votre jeu de données lors de sa création.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sélecteur d'actif</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Sélecteur d'actif</p></figcaption></figure>
 
 Un jeu de données ne peut être associé qu'à un seul actif. En effet, en définissant les jeux de données d'un actif, ceux-ci sont uniques.&#x20;
 
@@ -128,7 +128,7 @@ Les champs de données d'un jeu de données générique ne peuvent pas varier d'
 
 Pour cela, il est nécessaire d'ajouter le jeu de données au traitement. Sur la liste des jeux de données, il faut cliquer sur les boutons "base active/...".
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Bouton "base active"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption><p>Bouton "base active"</p></figcaption></figure>
 
 Vous pourrez voir apparaitre la fenêtre de personnalisation.&#x20;
 
@@ -138,7 +138,7 @@ Lorsque la durée de conservation est personnalisée au niveau du traitement, un
 
 L'objectif à terme peut être de limiter l'utilisation de jeux de données génériques et de s'orienter vers une cartographie plus précise soit via les traitements de données (cas n°2) soit via les actifs (cas n°1).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Durée personnalisée au niveau du traitement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (7).png" alt=""><figcaption><p>Durée personnalisée au niveau du traitement</p></figcaption></figure>
 
 
 

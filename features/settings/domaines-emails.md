@@ -20,7 +20,7 @@ Activez ou désactivez la fonctionnalité en cliquant sur le bouton "_Permettre 
 
 Puis choisissez le rôle et l'espace de travail qui seront affectés aux futurs utilisateurs :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>affectation du rôle et de l'espace de travail</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3) (3).png" alt=""><figcaption><p>affectation du rôle et de l'espace de travail</p></figcaption></figure>
 
 Enfin, sauvegardez la configuration en cliquant sur le bouton _Enregistrer_ !
 
