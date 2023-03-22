@@ -131,7 +131,7 @@ Le corps de texte ci-dessous utilise tous les éléments ci-dessus
 
 Pour la demande en cours de traitement, il sera transformé de la manière suivante :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Un exemple de modèle complet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Un exemple de modèle complet</p></figcaption></figure>
 
 ### Vous avez encore des besoins ?
 
