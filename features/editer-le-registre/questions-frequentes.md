@@ -38,6 +38,27 @@ et supprimer&#x20;
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+## Comment utiliser les jeux de données sans pouvoir modifier les données ?
+
+Vous vous posez la question de savoir comment restreindre l'accès aux données (champs) des jeux de données pour éviter tout problème de liaison avec d'autres fiches de traitement.
+
+En effet, il est possible que vos relais DPO doivent utiliser les jeux de données que vous leur proposez sans devoir en créer de nouveaux.&#x20;
+
+Dans ce cas, il convient de faire un rôle personnalisé.&#x20;
+
+Pour cela, il faut se rendre dans les rôles : [https://app.dastra.eu/general-settings/roles](https://app.dastra.eu/general-settings/roles)
+
+Ensuite, créer un rôle personnalisé avec les permissions :&#x20;
+
+* Registre : lecture, écriture
+* Cartographie des données : lecture
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Rôle permettant l'accès aux jeux de données sans pouvoir les modifier</p></figcaption></figure>
+
+Ensuite, il faut attribuer ce rôle aux utilisateurs concernés.&#x20;
+
+Ils ne pourront pas modifier les éléments de la cartographie.
+
 {% hint style="info" %}
 Si vous ne trouvez la réponse dans ce guide, vous pouvez nous [contacter via le support](../../commencer/le-support/faire-une-demande-de-support.md)
 
