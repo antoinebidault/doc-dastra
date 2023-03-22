@@ -80,7 +80,7 @@ Chaque jeu de données a vocation à être complété par des champs de données
 
 Les champs qui s'affichent dans le sélecteur sont les champs disponibles dans le glossaire de données.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Sélecteur de champs de données</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>Sélecteur de champs de données</p></figcaption></figure>
 
 Si une donnée n'est pas présente, vous pouvez la créer directement depuis ce sélecteur pour l'ajouter au jeu de données.&#x20;
 
@@ -138,7 +138,7 @@ Lorsque la durée de conservation est personnalisée au niveau du traitement, un
 
 L'objectif à terme peut être de limiter l'utilisation de jeux de données génériques et de s'orienter vers une cartographie plus précise soit via les traitements de données (cas n°2) soit via les actifs (cas n°1).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Durée personnalisée au niveau du traitement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Durée personnalisée au niveau du traitement</p></figcaption></figure>
 
 
 

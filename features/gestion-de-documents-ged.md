@@ -42,8 +42,6 @@ De nombreux formats sont acceptés :
 
 Si un format n'est pas accepté, vous pouvez mettre le ficher dans une archive .zip pour l'intégrer dans la documentation.&#x20;
 
-
-
 ### Créer un document
 
 Avec Dastra, vous pouvez créer rapidement un document pour prise de note.&#x20;
@@ -52,11 +50,19 @@ Pour cela, allez dans la gestion de documents et cliquez sur "Ecrire un document
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ecrire un nouveau document</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Ecrire un nouveau document</p></figcaption></figure>
 
 Le nouveau document est enregistré au format markdown (.md)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### Créer un dossier
+
+Vous pouvez ranger vos documents dans des dossiers pour les retrouver facilement.&#x20;
+
+Il est possible de créer des sous-dossiers.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 
 
