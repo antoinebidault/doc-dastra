@@ -56,7 +56,7 @@ Les jeux de données ont une vocation naturelle à être ajoutés à des [actifs
 
 Vous pouvez associer un actif à votre jeu de données lors de sa création.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sélecteur d'actif</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Sélecteur d'actif</p></figcaption></figure>
 
 Un jeu de données ne peut être associé qu'à un seul actif. En effet, en définissant les jeux de données d'un actif, ceux-ci sont uniques.&#x20;
 

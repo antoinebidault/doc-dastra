@@ -2,8 +2,6 @@
 
 Dastra intègre nativement une fonctionnalité de gestion de documents.&#x20;
 
-
-
 Ce module permet de centraliser et mutualiser l'accès à tous les documents associés dans Dastra.
 
 C'est par exemple ici que vous pouvez stocker toute la documentation utile pour prouver votre conformité au RGPD.
@@ -30,4 +28,28 @@ Cette documentation se traduit en pratique en premier lieu par le registre des a
 
 Vous pouvez également dans cet espace **stocker tout document utile à la compréhension des traitements, les notes de formation ainsi que les contrats encadrant le traitement le cas échéant**.
 {% endhint %}
+
+### Les formats acceptés
+
+
+
+
+
+### Créer un document
+
+Avec Dastra, vous pouvez créer rapidement un document pour prise de note.&#x20;
+
+Pour cela, allez dans la gestion de documents et cliquez sur "Ecrire un document"
+
+&#x20;
+
+<figure><img src="../.gitbook/assets/image (265).png" alt=""><figcaption><p>Ecrire un nouveau document</p></figcaption></figure>
+
+Le nouveau document est enregistré au format markdown (.md)
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 

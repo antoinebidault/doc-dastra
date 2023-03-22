@@ -59,7 +59,7 @@ Celui-ci contiendra toutes les colonnes nécessaires avec des exemples de donné
 
 Exemple de fichier (pour le registre) : &#x20;
 
-<figure><img src="../../.gitbook/assets/image (265).png" alt=""><figcaption><p>La ligne 2 contient des données d'exemple qu'il faut remplacer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (265) (1).png" alt=""><figcaption><p>La ligne 2 contient des données d'exemple qu'il faut remplacer</p></figcaption></figure>
 
 #### Renseignement du modèle de fichier
 
