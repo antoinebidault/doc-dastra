@@ -64,3 +64,16 @@ Si vous ne trouvez la réponse dans ce guide, vous pouvez nous [contacter via le
 
 
 {% endhint %}
+
+## Ajouter des parties prenantes ou des destinataires sur plusieurs traitements ?
+
+Vous pouvez ajouter des parties prenantes sur plusieurs traitements en masse en utilisant les modifications groupées.&#x20;
+
+Pour cela, il faut se mettre sur la vue tableau du registre et sélectionner les traitements avec les cases à cocher.&#x20;
+
+Ensuite, vous verrez le bouton "Choisir des actions groupées" apparaitre.&#x20;
+
+Sélectionner l'option "Lier des acteurs" et ajoutez vos acteurs en tant que partie prenante.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
