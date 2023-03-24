@@ -77,13 +77,11 @@ Sélectionner l'option "Lier des acteurs" et ajoutez vos acteurs en tant que par
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-## Obtenir la liste des actifs par unité organisationnelle ?
+## Obtenir la liste des actifs par unité organisationnelle (UO) ?
 
 Vous pouvez obtenir la liste des actifs répartis par unité organisationnelle via les liens qu'ils ont avec les traitements.&#x20;
 
-Vous pouvez utiliser l'export des traitements au format excel pour cela. En filtrant les traitements par UO et en exportant les traitements sélectionnés, vous pouvez choisir d'exporter uniquement le champ Actifs dans l'export. Ainsi vous avez l'export des actifs par UO. Vous pouvez aussi choisir d'exporter les UO et les actifs uniquement pour avoir tous les actifs de toutes les UO. E
-
-n utilisant la vue cartographie du registre, vous trouvez également cette information en visualisation graphique.
+Vous pouvez utiliser l'export des traitements au format excel pour cela. En filtrant les traitements par UO et en exportant les traitements sélectionnés, vous pouvez choisir d'exporter uniquement le champ Actifs dans l'export. Ainsi vous avez l'export des actifs par UO. Vous pouvez aussi choisir d'exporter les UO et les actifs uniquement pour avoir tous les actifs de toutes les UO. En utilisant la vue cartographie du registre, vous trouvez également cette information en visualisation graphique.
 
 
 
