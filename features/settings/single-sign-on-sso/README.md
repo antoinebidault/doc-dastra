@@ -22,7 +22,11 @@ Dans notre cas, le User Agent est le **navigateur d'un utilisateur de Dastra**. 
 
 Au sein d'un abonnement à Dastra, vous avez la possibilité, si vous avez souscrit à la fonctionnalité, de gérer un ou plusieurs login SSO. Pour accéder à la configuration du SSO, allez sur [la page de configuration des logins SSO](https://app.dastra.eu/general-settings/sso) dans l'onglet sécurité du panel de configuration du compte d'abonnement.
 
-Dastra propose deux protocoles d'authentification unique, [**SAML 2**](saml-2.md) **** et [**Open ID**](openid.md). Pour accéder à l'aide de configuration, cliquez sur les liens ci-dessous.&#x20;
+{% hint style="info" %}
+**Attention** : vous devez être propriétaire de l'organisation pour accéder à cette page.
+{% endhint %}
+
+Dastra propose deux protocoles d'authentification unique, [**SAML 2**](saml-2.md) et [**Open ID**](openid.md). Pour accéder à l'aide de configuration, cliquez sur les liens ci-dessous.&#x20;
 
 {% content-ref url="saml-2.md" %}
 [saml-2.md](saml-2.md)
