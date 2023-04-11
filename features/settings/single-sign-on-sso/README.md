@@ -20,6 +20,8 @@ Dans notre cas, le User Agent est le **navigateur d'un utilisateur de Dastra**. 
 
 ![Principe de fonctionnement du SSO en utilisant le protocole SAML 2](<../../../.gitbook/assets/image (115).png>)
 
+## Mise en place
+
 Au sein d'un abonnement à Dastra, vous avez la possibilité, si vous avez souscrit à la fonctionnalité, de gérer un ou plusieurs login SSO. Pour accéder à la configuration du SSO, allez sur [la page de configuration des logins SSO](https://app.dastra.eu/general-settings/sso) dans l'onglet sécurité du panel de configuration du compte d'abonnement.
 
 {% hint style="info" %}
