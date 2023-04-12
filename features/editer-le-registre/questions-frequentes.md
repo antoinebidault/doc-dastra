@@ -53,7 +53,7 @@ Ensuite, créer un rôle personnalisé avec les permissions :&#x20;
 * Registre : lecture, écriture
 * Cartographie des données : lecture
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Rôle permettant l'accès aux jeux de données sans pouvoir les modifier</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Rôle permettant l'accès aux jeux de données sans pouvoir les modifier</p></figcaption></figure>
 
 Ensuite, il faut attribuer ce rôle aux utilisateurs concernés.&#x20;
 

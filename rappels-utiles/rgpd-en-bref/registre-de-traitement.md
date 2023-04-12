@@ -121,7 +121,7 @@ Celui-ci contient :&#x20;
 * les **transferts** hors EEE
 * les **mesures de sécurité**
 
-****
+
 
 ![Un traitement "sous-traitant" dans Dastra](<../../.gitbook/assets/image (195).png>)
 

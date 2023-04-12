@@ -54,7 +54,7 @@ Pour cela, allez dans la gestion de documents et cliquez sur "Ecrire un document
 
 Le nouveau document est enregistré au format markdown (.md)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Créer un dossier
 
@@ -64,7 +64,24 @@ Il est possible de créer des sous-dossiers.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
+### Gestion des droits
 
+Il est possible de rajouter des droits sur les dossiers et fichiers de la GED. Ces droits peuvent être affectés aux dossiers comme aux fichiers et peuvent être configurés par l'administrateur de l'espace de travail ou un utilisateur ayant la permission "Gestion des fichiers : gestion".
 
+{% hint style="info" %}
+Important : Par défaut, aucune restriction n'est appliquée sur l'arborescence des dossiers. Les permissions liées aux rôles de l'utilisateur sont toutefois appliquées !&#x20;
+{% endhint %}
 
+Le propriétaire de l'espace de travail (ou administrateur) peut configurer les droits d'accès en cliquant sur l'icône de configuration sur ligne correspondante. Il peut ensuite configurer les accès en ajoutant les équipes et utilisateur avec la permission d'exécution associée.
 
+&#x20;
+
+<figure><img src="../../.gitbook/assets/select-permission.gif" alt=""><figcaption><p>Interface de gestion des interfaces</p></figcaption></figure>
+
+Ces permissions sont appliquées à tous les éléments "enfants" (c'est à dire tous les éléments contenus dans le dossier, ce qui implique donc les sous-dossiers).&#x20;
+
+{% hint style="info" %}
+Un dossier pour lequel aucune permission n'est défini est considéré comme accessible par l'ensemble des utilisateurs.
+
+Si des permissions ont été définies ou sont héritées sur un élément, celui-ci sera caché pour les utilisateurs n'ayant pas les habilitations nécessaires.
+{% endhint %}

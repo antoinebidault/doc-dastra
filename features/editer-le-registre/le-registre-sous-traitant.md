@@ -2,7 +2,7 @@
 description: Apprenez à utiliser le registre "Sous-traitant" de Dastra.
 ---
 
-# Le registre "Sous-traitant"
+# Registre "Sous-traitant"
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Celui-ci contient :&#x20;
 * les **transferts** hors EEE
 * les **mesures de sécurité**
 
-****
+
 
 ![Les différentes sections d'un traitement "sous-traitant" dans Dastra](<../../.gitbook/assets/image (195).png>)
 

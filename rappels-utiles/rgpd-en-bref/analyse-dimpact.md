@@ -114,7 +114,7 @@ Dans le cas contraire, proposer des **mesures complémentaires** et réévaluer 
   * Conseil et vérification d’exécution, évaluation des mesures et risques résiduels, suggère les PIA
 * **Les personnes concernées (ou leurs représentants), le cas échéant**
   * Leur avis peut être pris et documenté
-* **Les** [**sous-traitants**](https://www.dastra.eu/fr/article/sous-traitant/388)****
+* **Les** [**sous-traitants**](https://www.dastra.eu/fr/article/sous-traitant/388)
   * Assistance et fourniture d’informations
 * **Le RSSI ou la direction informatique**
   * Proposition de mener un DPIA, assistance

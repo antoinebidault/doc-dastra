@@ -10,7 +10,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=eQWf47xYWgc&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ&index=3" %}
 
-[**L’article 30 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4) **** impose à chaque responsable du traitement de tenir un registre des activités de traitement dont il porte la responsabilité. Il constitue le premier élément d’ « accountability » permettant de démontrer le respect du RGPD. Le registre des activités de traitement permet de recenser vos traitements de données et de disposer d’une vue d’ensemble de ce que vous faites avec les données personnelles.
+[**L’article 30 du RGPD**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4) impose à chaque responsable du traitement de tenir un registre des activités de traitement dont il porte la responsabilité. Il constitue le premier élément d’ « accountability » permettant de démontrer le respect du RGPD. Le registre des activités de traitement permet de recenser vos traitements de données et de disposer d’une vue d’ensemble de ce que vous faites avec les données personnelles.
 
 L’activité de traitement constitue l’activité « parapluie  » qui englobe l’ensemble des finalités poursuivies dans le cadre de l’activité.&#x20;
 
@@ -24,12 +24,11 @@ Par exemple, il s’agit d’une base de données, d’un tableau Excel, d’une
 
 Un traitement de données à caractère personnel peut être informatisé ou non.
 
-[**En savoir plus**](https://www.cnil.fr/fr/RGDP-le-registre-des-activites-de-traitement)****
+[**En savoir plus**](https://www.cnil.fr/fr/RGDP-le-registre-des-activites-de-traitement)
 
 
 
-**``**
 
-****
 
-****
+
+

@@ -61,4 +61,3 @@ Aperçu de la page :\
 2. **Utilisez cette adresse pour accéder à Dastra: https://app.dastra.eu** . Vous pouvez l'enregistrer dans vos favoris. Ce problème peut se produire lorsque vous tentez d'accéder à Dastra par les urls avec le domaine account.dastra.eu (souvent enregistrées automatiquement dans les suggestions d'url de votre navigateur)
 3. **Nettoyez les données du site et les cookies de votre navigateur**
 
-****

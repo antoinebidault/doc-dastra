@@ -7,7 +7,7 @@ description: >-
 
 # Applications natives
 
-{% swagger baseUrl="https://api.dastra.eu" path="/v1/client/cookie-widget-settings/:id?key=:key" method="get" summary="Récupérer la configuration du widget" %}
+{% swagger baseUrl="https://api.dastra.eu" path="/v1/client/cookie-widget-settings/:id?key=:key" method="get" summary="Récupérer la configuration du widget" expanded="false" %}
 {% swagger-description %}
 Cet endpoint permet de récupérer l'intégralité de la configuration du widget
 {% endswagger-description %}
@@ -266,54 +266,50 @@ The public api key
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
-
- 
-
-``
 
  
 {% endswagger-parameter %}

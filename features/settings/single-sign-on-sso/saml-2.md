@@ -55,7 +55,7 @@ Il est possible de forcer tous les utilisateurs du compte d'abonnement à utilis
 
 {% hint style="warning" %}
 **Cas particuliers des utilisateurs externes**\
-****Seuls les comptes qui sont internes à un abonnement seront soumis au SSO. Les comptes d'utilisateurs externes (qui ont un autre abonnement supplémentaire) ne seront pas soumis au SSO.
+Seuls les comptes qui sont internes à un abonnement seront soumis au SSO. Les comptes d'utilisateurs externes (qui ont un autre abonnement supplémentaire) ne seront pas soumis au SSO.
 {% endhint %}
 
 ## 3. Tester le SSO

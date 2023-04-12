@@ -3,7 +3,7 @@
 Dans certain cas, le widget de Cookies ne s'affiche pas, voici les solutions à ce problème :&#x20;
 
 1.  Vérifier les domaines associés au widget. Pour cela, se rendre dans **Cookies** > **Sélectionnez un widget** > **Configuration** \
-    ****Modifiez les domaines autorisés de cette façon, en respectant le format _https://monurl.com_ : \
+    Modifiez les domaines autorisés de cette façon, en respectant le format _https://monurl.com_ : \
     \
 
 

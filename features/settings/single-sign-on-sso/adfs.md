@@ -56,19 +56,19 @@ Voici comment configurer le SSO Dastra avec ADFS SSO SAML2P
 
 
 
-&#x20;**** ![](<../../../.gitbook/assets/image (248).png>)****
+&#x20;![](<../../../.gitbook/assets/image (248).png>)
 
 **Etape 3 :**  Dans l'écran _**Select Data Source**_ choisissez _**Enter data about the relying party manually**_.&#x20;
 
-****
 
-&#x20;**** ![](<../../../.gitbook/assets/image (254).png>)****
+
+&#x20;![](<../../../.gitbook/assets/image (254).png>)
 
 **Etape 4 :**  Entrez un _**Display name** , par exemple **"Dastra"**_ _puis cliquez sur **"Next"**_
 
 **Etape 5 :** Choisissez _**AD FS profile**_ with SAML 2.0 et cliquez sur "**Next**"
 
-**Etape 6** : **** Cliquez sur _**Next**_ sur l'écran _**Configure Certificate** sans choisir de certificat_
+**Etape 6** :  Cliquez sur _**Next**_ sur l'écran _**Configure Certificate** sans choisir de certificat_
 
 **Etape 7 :** Sélectionnez "_**Enable support for the SAML 2.0 SSO Web SSO protocol**_."
 
@@ -78,9 +78,9 @@ Dans le champ "Relying party SAML 2.0 SSO service URL: mettre l'url de "**SP red
 
 **Etape 8** : Dans la partie "**Add a Relying party trust identifier**", **Ajoutez deux valeurs** : _account.dastra.eu_ et _https://account.dastra.eu_
 
-**Etape 9** __ : __ Cliquez sur suivant jusque la fin du processus.&#x20;
+**Etape 9** : Cliquez sur suivant jusque la fin du processus.&#x20;
 
-**Etape 10** : Cochez la case _**Open the Edit Claim Rules dialog**_ avant de cliquer sur "terminer". Une fenêtre "_**Edit Claim Rules"** _ va alors s'afficher.&#x20;
+**Etape 10** : Cochez la case _**Open the Edit Claim Rules dialog**_ avant de cliquer sur "terminer". Une fenêtre "_**Edit Claim Rules"**_ va alors s'afficher.&#x20;
 
 ![](<../../../.gitbook/assets/image (251).png>)
 
@@ -110,5 +110,5 @@ Appliquez ensuite les changements en cliquant sur "Apply"
 
 Une fois que tout est configuré des deux côtés vous pouvez retourner dans Dastra et lancer un test de login SSO directement dans le gestionnaire.
 
-****
+
 

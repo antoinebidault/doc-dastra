@@ -1,8 +1,8 @@
-# Les API
+# Configuration API
 
 ### Configurer des API dans Dastra&#x20;
 
-API signifie _**application programming interface**_** ** ou « interface de programmation d’application » en français.&#x20;
+API signifie _**application programming interface**_ ou « interface de programmation d’application » en français.&#x20;
 
 Les API permettent de connecter la plateforme Dastra a d'autres outils extérieurs.&#x20;
 
