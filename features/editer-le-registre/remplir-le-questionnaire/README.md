@@ -8,7 +8,7 @@ description: >-
 
 ## Un processus de création de traitement qui vous guide pas à pas
 
-L''application Dastra vous accompagne à chaque étape du processus de création d'un traitement, tout en restant autonome. Bénéficiez de conseils et devenez conforme aux exigences du RGPD.
+L'application Dastra vous accompagne à chaque étape du processus de création d'un traitement, tout en restant autonome. Bénéficiez de conseils et devenez conforme aux exigences du RGPD.
 
 
 
