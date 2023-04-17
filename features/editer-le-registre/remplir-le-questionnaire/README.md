@@ -96,3 +96,38 @@ Une fois que vous avez saisi les informations dont vous disposez, vous pouvez co
 [planifier](../../planifier/)
 {% endcontent-ref %}
 
+
+
+## Les indices sur les fiches de traitement
+
+Le questionnaire n'est pas le seul élément de guide compris dans l'établissement des fiches de traitement.\
+Effectivement, vous retrouverez des indices vous permettant d'évaluer notamment l'avancée et la qualité de votre fiche.&#x20;
+
+Ces indices sont au nombre de 3 :&#x20;
+
+* L'indice de progression
+* L'indice de qualité
+* L'indice de sensibilité
+
+#### L'indice de progression
+
+Il s'agit d'un pourcentage de progrès calculé à partir d'une série de contrôles de vos traitements qui vérifient que tous vos traitements contiennent tous les éléments strictement nécessaires (finalité, label, personnes concernées, destinataires, données...).
+
+Cet indice fait référence aux champs obligatoires au sens de l'article 30 du RGPD
+
+#### L'indice de qualité
+
+Ce pourcentage de qualité est calculé à partir d'une série de contrôles de vos traitements qui vérifient la qualité des éléments que vous avez saisis dans le formulaire.
+
+#### L'indice de sensibilité
+
+Cet indicateur vous permet d'évaluer rapidement le **niveau de sensibilité du traitement**.
+
+Il est calculé automatiquement en fonction du nombre de **critères suivants** :
+
+* présence de données sensibles,
+* présence de mineurs et/ou personnes vulnérables dans les personnes concernées,
+* volume important de personnes concernées,
+* présence d'un sous-traitant,
+* présence d'un transfert vers un pays non-adéquat,
+* nécessité de réaliser un PIA.
