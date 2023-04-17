@@ -119,6 +119,12 @@ Cet indice fait référence aux informations à nécessairement renseigner au se
 
 Ce pourcentage de qualité est calculé à partir d'une série de contrôles de vos traitements qui vérifient la qualité des éléments que vous avez saisis dans le formulaire.
 
+Il s'agit notamment de renseigner la présence d'actifs, de détailler la mise en oeuvre des droits des personnes concernées ou encore de remplir l'étape relative à la vérification des critères conditionnant la réalisation d'une analyse d'impact sur le traitement...&#x20;
+
+Ce faisant, vous augmentez la qualité des éléments renseignés dans votre fiche de traitement.
+
+Ces critères non visés directement par l'article 30 du RGPD vont vous permettre d'anticiper d'autres éventualités comme le respect de l'obligation de réalisation d'une AIPD sur un traitement qui en nécessite une ou encore le fait d'identifier l'utilisation d'un logiciel comme support de votre activité de traitement vous renseignera sur l'éditeur de celui-ci, ce faisant, vous identifiez le sous-traitant et les éventuels transferts...
+
 #### L'indice de sensibilité
 
 Cet indicateur vous permet d'évaluer rapidement le **niveau de sensibilité du traitement**.
