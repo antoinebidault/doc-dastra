@@ -113,7 +113,7 @@ Ces indices sont au nombre de 3 :&#x20;
 
 Il s'agit d'un pourcentage de progrès calculé à partir d'une série de contrôles de vos traitements qui vérifient que tous vos traitements contiennent tous les éléments strictement nécessaires (finalité, label, personnes concernées, destinataires, données...).
 
-Cet indice fait référence aux informations à renseigner au sens de l'article 30 du RGPD
+Cet indice fait référence aux informations à nécessairement renseigner au sens de l'article 30 du RGPD
 
 #### L'indice de qualité
 
