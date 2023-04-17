@@ -123,7 +123,10 @@ Il s'agit notamment de renseigner la présence d'actifs, de détailler la mise e
 
 Ce faisant, vous augmentez la qualité des éléments renseignés dans votre fiche de traitement.
 
-Ces critères non visés directement par l'article 30 du RGPD vont vous permettre d'anticiper d'autres éventualités comme le respect de l'obligation de réalisation d'une AIPD sur un traitement qui en nécessite une ou encore le fait d'identifier l'utilisation d'un logiciel comme support de votre activité de traitement vous renseignera sur l'éditeur de celui-ci, ce faisant, vous identifiez le sous-traitant et les éventuels transferts...
+Ces critères non visés directement par l'article 30 du RGPD vont vous permettre d'anticiper d'autres éventualités comme par exemple :&#x20;
+
+* le respect de l'obligation de réalisation d'une AIPD sur un traitement qui en nécessite une&#x20;
+* ou encore le fait d'identifier l'utilisation d'un logiciel comme support de votre activité de traitement vous renseignera sur l'éditeur de celui-ci, ce faisant, vous identifiez le sous-traitant et les éventuels transferts...
 
 #### L'indice de sensibilité
 
