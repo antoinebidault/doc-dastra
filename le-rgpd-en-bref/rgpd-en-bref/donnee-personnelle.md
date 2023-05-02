@@ -26,7 +26,27 @@ However, the contact details of the company are not, in principle, personal data
 
 Categories of **personal data** are groups of personal data by nature.&#x20;
 
-There are different types of personal data: identity, family, economic or financial situation, banking data, connection data, location data, etc.
+There are different types of personal data: identity, family, economic or financial situation, banking data, connection data, location data, etc:
+
+* Civil status, identity, identification data, images...&#x20;
+* Personal life&#x20;
+* Professional life&#x20;
+* Economic and financial information&#x20;
+* Connection data&#x20;
+* Location data&#x20;
+* Web data&#x20;
+* Ethnic Origins&#x20;
+* Political views&#x20;
+* Religious Beliefs&#x20;
+* Union membership&#x20;
+* Genetic data&#x20;
+* Biometric data&#x20;
+* Health data&#x20;
+* Sexual orientation&#x20;
+* Data relating to offences, criminal convictions or security measures&#x20;
+* Judicial files, criminal records&#x20;
+* Other&#x20;
+* National identification number (NIR)
 
 ## Definition of sensitive data
 
