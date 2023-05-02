@@ -1,6 +1,10 @@
+---
+description: Find out more about Dastra.
+---
+
 # What is Dastra
 
-**Dastra** is a modern data protection platform **** where data protection teams can steer and manage all GDPR use cases, from managing the record of processing activity to implementing a cookies widget on their websites.
+**Dastra** is a modern data protection platform where data protection teams can steer and manage all GDPR use cases, from managing the record of processing activity to implementing a cookies widget on their websites.
 
 We want to help data protection teams to **work more efficiently** by creating a simple yet powerful service for them to **comply with privacy laws**.
 
@@ -12,7 +16,7 @@ Our mission is to make a **user-friendly** and **collaborative** product for eve
 
 ![](<.gitbook/assets/image (123).png>)
 
-* **Share** **your record of processing** publicly or privately with anyone or use a secret **** link **** to allow non-Dastra users to access your private content.
+* **Share** **your record of processing** publicly or privately with anyone or use a secret link to allow non-Dastra users to access your private content.
 
 ![](<.gitbook/assets/image (36) (1).png>)
 

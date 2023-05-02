@@ -6,7 +6,7 @@
   * [Starting a project on Dastra](commencer/commencer-un-projet-sur-dastra.md)
   * [Joining a project](commencer/rejoindre-un-projet.md)
 
-## GDPR in brief <a href="#le-rgpd-en-bref" id="le-rgpd-en-bref"></a>
+## USEFUL REMINDERS <a href="#le-rgpd-en-bref" id="le-rgpd-en-bref"></a>
 
 * [What is GDPR ?](le-rgpd-en-bref/quest-ce-que-le-rgpd.md)
 * [GDPR key concepts](le-rgpd-en-bref/rgpd-en-bref/README.md)
