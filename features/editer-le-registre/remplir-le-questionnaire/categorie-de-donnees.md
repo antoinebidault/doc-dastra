@@ -4,7 +4,7 @@ description: Define the dataset and retention policy involved in the processing 
 
 # Dataset
 
-****[**Article 30 of the GDPR**](https://gdpr-info.eu/art-30-gdpr/) also requires the registration of the categories of data processed.
+[**Article 30 of the GDPR**](https://gdpr-info.eu/art-30-gdpr/) also requires the registration of the categories of data processed.
 
 it is a question here of defining the categories of data processed. These can be said to be common or sensitive. A distinction is made between data which present a greater risk to natural persons such as data relating to the health of persons, data relating to political opinions or trade union activity. Data relating to offenses or other measures for the execution of sentences also constitute particularly protected data.
 

@@ -265,54 +265,50 @@ The list of user's consents
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
 
-``
+
 
 \
 
-
- 
-
-``
 
  
 {% endswagger-parameter %}

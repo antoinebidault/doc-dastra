@@ -98,7 +98,7 @@ To find out more about how to edit your registry:
 Once the record has been established and on the basis of it, you set out to list all the tasks to be carried out to comply with the current and future obligations of the General Data Protection Regulation (GDPR). Then, you prioritize these actions with regard to the risks that your processing poses for the rights and freedoms of the persons concerned.
 
 {% hint style="info" %}
-You don't know how to start? Feel free to consult the **** [**Guide to Data Protection**](https://ico.org.uk/for-organisations/guide-to-data-protection/) of the ICO.
+You don't know how to start? Feel free to consult the [**Guide to Data Protection**](https://ico.org.uk/for-organisations/guide-to-data-protection/) of the ICO.
 {% endhint %}
 
 Once the actions necessary to carry out your compliance project have been identified, you create the associated tasks and allocate them to the associated employees directly in the "Planning" tab of the Dastra tool:

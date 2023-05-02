@@ -4,7 +4,7 @@ description: In this section, indicate key information regarding the processing 
 
 # General information
 
-****[**Article 30 of the GDPR**](https://gdpr-info.eu/art-30-gdpr/) requires each controller to keep a record of processing activities for which he is responsible. It is the first element of "accountability" to demonstrate compliance with the GDPR. The processing activities register allows you to record your data processing and to have an overview of what you do with personal data.
+[**Article 30 of the GDPR**](https://gdpr-info.eu/art-30-gdpr/) requires each controller to keep a record of processing activities for which he is responsible. It is the first element of "accountability" to demonstrate compliance with the GDPR. The processing activities register allows you to record your data processing and to have an overview of what you do with personal data.
 
 The processing activity constitutes the “umbrella” activity which includes all of the purposes pursued within the framework of the activity.
 

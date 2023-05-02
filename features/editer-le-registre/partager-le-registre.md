@@ -29,7 +29,7 @@ The share link is a limited lifetime link that you can use to share the registry
 
 ## Generation of a sharing link for data processing
 
-Repeat the process described above, but by clicking on the three-stroke button specific to the **** processing activity you wish to share, then click on "Share".
+Repeat the process described above, but by clicking on the three-stroke button specific to the processing activity you wish to share, then click on "Share".
 
 Treatments can be shared regardless of the status (published or draft).
 
