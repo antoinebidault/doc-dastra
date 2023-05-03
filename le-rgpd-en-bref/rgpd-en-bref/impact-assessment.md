@@ -63,3 +63,70 @@ PIA is an ongoing process:&#x20;
 * PIAs should be reviewed regularly&#x20;
 * A good practice is to update it every 3 to 5 years&#x20;
 * In any case, as soon as a change occurs in the processing
+
+<figure><img src="../../.gitbook/assets/Description of the treatment envisaged.jpg" alt="" width="375"><figcaption><p>An iterative process</p></figcaption></figure>
+
+## How to make a PIA?
+
+**By first assessing the measures of necessity and proportionality. This is a thorough examination of the treatment from every angle!**&#x20;
+
+You have to ask yourself questions and explain your choices on the following aspects of the processing:
+
+* Purposes: determined, explicit and legitimate&#x20;
+* Basis: lawfulness of processing, prohibition of purpose creep&#x20;
+* Data minimization: adequate, relevant and limited&#x20;
+* Data quality: accurate and kept up to date&#x20;
+* Retention periods: limited
+
+**Then by detailing the measures to protect the rights of the persons:**&#x20;
+
+* information of the persons concerned&#x20;
+* collection of consent, if necessary&#x20;
+* exercise of the rights of access and portability&#x20;
+* exercise of the rights of rectification and erasure&#x20;
+* exercise of the rights to limit processing and to object&#x20;
+* relations with processors&#x20;
+* safeguards surrounding the international transfer(s)
+
+It's necessary to use sectoral reference systems, codes of conduct, labels and brands.
+
+**And finally, analyze the risks for the individuals concerned: potential privacy breaches**&#x20;
+
+For each **feared event** (illegitimate access to data, unwanted modification of data and disappearance of data):&#x20;
+
+* determine the potential **impact** on the privacy of data subjects if it were to occur;
+* estimate the **severity** of the event, including the harmfulness of the potential impacts and, if applicable, the measures that could modify them;&#x20;
+* identify the **threats** to data carriers that could lead to this feared event and the sources of risk that could cause it;&#x20;
+* estimate its **likelihood**, particularly in terms of the vulnerabilities of the data carriers, the capabilities of the risk sources to exploit them, and the measures that could modify them.
+
+Determine whether the **initial risks** can be considered acceptable given the existing or planned measures.&#x20;
+
+If not, propose **additional measures** and re-evaluate the level of risk in light of these measures to determine the **residual risk**.
+
+## Who is involved?
+
+* **The data controller** (DC)&#x20;
+  * The Data Controller's teams, including the teams of the business line concerned (MOA, MOE), the compliance officers, the legal teams&#x20;
+  * The DC can delegate to external advisors but this remains under his responsibility
+* **The DPO**&#x20;
+  * Advice and verification of execution, evaluation of measures and residual risks, suggests the PIA&#x20;
+* **Data subjects (or their representatives), if applicable**&#x20;
+  * Their opinion can be taken and documented&#x20;
+* **The processors**&#x20;
+  * Assistance and provision of information&#x20;
+* **The CISO or the IT department**&#x20;
+  * Proposal to conduct a DPIA, assistance
+
+## For more informations
+
+{% content-ref url="../../features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md" %}
+[analyse-dimpact.md](../../features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../features/audits-and-pia/" %}
+[audits-and-pia](../../features/audits-and-pia/)
+{% endcontent-ref %}
+
+{% content-ref url="../../features/risk-management/linking-a-risk-to-a-treatment.md" %}
+[linking-a-risk-to-a-treatment.md](../../features/risk-management/linking-a-risk-to-a-treatment.md)
+{% endcontent-ref %}
