@@ -47,17 +47,17 @@ Article 30 of the GDPR sets out specific obligations for the _personal data cont
 **In practice, in this case, the CNIL recommends that you keep 2 records:**&#x20;
 
 1. one for the processing of personal data for which you yourself are responsible,&#x20;
-2. another for the processing operations that you carry out, as a subcontractor, on behalf of your clients.
+2. another for the processing operations that you carry out, as a processor, on behalf of your clients.
 
 ### The "Data controller" record in Dastra
 
-For each processing operation, the register of a controller shall indicate at least:&#x20;
+For each processing operation, the record of a data controller shall indicate at least:&#x20;
 
 1. where applicable, **the name and contact details** of the [joint controller](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e3083-1-1) of the processing carried out,
 2. the **purposes** of the processing, the objective for which you have collected the data,&#x20;
 3. the categories of **persons concerned** (customer, prospect, employee, etc.),
 4. the categories of **personal data** (e.g. identity, family, economic or financial situation, banking data, connection data, location data, etc.),
-5. the categories of **recipients** to whom the personal data has been or will be communicated, including the subcontractors you use,
+5. the categories of **recipients** to whom the personal data has been or will be communicated, including the processors you use,
 6. **transfers** of personal data to a third country or to an international organization and, in certain very specific cases, the guarantees provided for these transfers,
 7. the **time limits for the deletion** of the various categories of data, i.e. the retention period, or failing that the criteria for determining it,
 8. to the extent possible, **a general description** of the technical and organizational **security** **measures** that you implement.
@@ -99,3 +99,32 @@ For each processing operation, the register of a controller shall indicate at le
 
 * Technical and organizational measures implemented to secure each data processing&#x20;
 * For example, data encryption, pseudonymization, access limitation
+
+### The "Processor" record in Dastra
+
+Each processor is required to fill out a less extensive record.&#x20;
+
+This record contains:&#x20;
+
+* the **contact details of the processor**, its representative, if any, and its DPO&#x20;
+* the **contact details of all data controllers on whose behalf the processor acts** (usually the clients)&#x20;
+* the **categories** of data processed&#x20;
+* the **recipients**&#x20;
+* **transfers** outside the EEA&#x20;
+* the **security measures**
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-03 à 14.40.55.png" alt="" width="151"><figcaption><p>A "processor" treatment in Dastra</p></figcaption></figure>
+
+## For more information
+
+{% content-ref url="../../features/editer-le-registre/" %}
+[editer-le-registre](../../features/editer-le-registre/)
+{% endcontent-ref %}
+
+{% content-ref url="../../features/editer-le-registre/establish-your-record.md" %}
+[establish-your-record.md](../../features/editer-le-registre/establish-your-record.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../features/editer-le-registre/remplir-le-questionnaire/" %}
+[remplir-le-questionnaire](../../features/editer-le-registre/remplir-le-questionnaire/)
+{% endcontent-ref %}
