@@ -26,39 +26,76 @@ It allows you to document your data processing and to ask yourself the right que
 
 Its creation and updating are thus an opportunity to **identify and prioritize the risks** with regard to the RGPD. This **essential step** will allow you to deduce an action **plan for the compliance** of your processing with the data protection rules.
 
-## Stakeholders&#x20;
+## Which companies are affected by the obligation to complete a record?
 
-* The identity and contact information of the DPO and the data controllers
-* The identity and contact information of the joint controllers, if any
+All companies processing personal data of European citizens are concerned by the obligation to fill a register.
 
-## Purpose of processing
+{% hint style="info" %}
+Companies with less than 250 employees benefit from a derogation with regard to record keeping. **They are required to record only the following data processing operations**:&#x20;
 
-* The main purpose
-* The secondary purpose (s);
+* Non-occasional processing (e.g. payroll management, customer/prospect and supplier management, etc.);&#x20;
+* processing operations likely to involve a risk to the rights and freedoms of individuals (e.g. geolocation systems, video surveillance, etc.);&#x20;
+* processing that involves sensitive data (e.g. health data, offenses, etc.).&#x20;
 
-## The legal basis
+In practice, **this exemption is therefore limited to very specific cases of processing**, implemented on an occasional and non-routine basis, such as a communication campaign for the opening of a new establishment, provided that such processing does not raise any risk for the data subjects. If there is any doubt as to whether this exemption applies to a processing operation, the CNIL recommends that you include it in your record.
+{% endhint %}
 
-* Compliance with a legal obligation
-* Execution of a contract
-* Legitimate business interest
-* Client's consent
-* Safeguarding the vital interests of the data subject or of another person
+## Content of the processing record
 
-## Data categories & retention
+Article 30 of the GDPR sets out specific obligations for the _personal data controller record_ and the _processor record_. If your organization acts as both a processor and a data controller, your record must therefore clearly distinguish the two categories of activities.&#x20;
 
-* Type of people concerned
-* Data categories&#x20;
-* Data retention period in active base, intermediate archivage and deletion
-* Storage location
+**In practice, in this case, the CNIL recommends that you keep 2 records:**&#x20;
 
-## Data transfers and corresponding guarantees
+1. one for the processing of personal data for which you yourself are responsible,&#x20;
+2. another for the processing operations that you carry out, as a subcontractor, on behalf of your clients.
 
-* &#x20;Identification of recipients (subsidiary; subcontractor; business partner; authorities, etc.)
-* Binding corporate rules in the event of transfers outside the EU with subsidiaries, contractual agreement clauses with subcontractors in unsuitable countries ...
+### The "Data controller" record in Dastra
 
+For each processing operation, the register of a controller shall indicate at least:&#x20;
 
+1. where applicable, **the name and contact details** of the [joint controller](https://eur-lex.europa.eu/eli/reg/2016/679/oj#d1e3083-1-1) of the processing carried out,
+2. the **purposes** of the processing, the objective for which you have collected the data,&#x20;
+3. the categories of **persons concerned** (customer, prospect, employee, etc.),
+4. the categories of **personal data** (e.g. identity, family, economic or financial situation, banking data, connection data, location data, etc.),
+5. the categories of **recipients** to whom the personal data has been or will be communicated, including the subcontractors you use,
+6. **transfers** of personal data to a third country or to an international organization and, in certain very specific cases, the guarantees provided for these transfers,
+7. the **time limits for the deletion** of the various categories of data, i.e. the retention period, or failing that the criteria for determining it,
+8. to the extent possible, **a general description** of the technical and organizational **security** **measures** that you implement.
 
-## Organisational and technical measures
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-03 à 14.30.23.png" alt="" width="182"><figcaption><p>A "data controller" treatment in Dastra</p></figcaption></figure>
 
-* Technical security measures and organizational arrangements put in place for each processing
-* Indication of access rights
+#### Actors
+
+* The identity and contact information of the data controller&#x20;
+* The identity and contact information of the DPO if applicable&#x20;
+* The identity and contact information of the representative, if any&#x20;
+* The joint controller(s), if any
+
+#### Purposes
+
+* All purposes related to the activity involving the processing
+
+#### Legal basis
+
+* Compliance with a legal obligation&#x20;
+* Fulfillment of a contract&#x20;
+* Legitimate interest of the company or a third party&#x20;
+* Public interest&#x20;
+* Consent&#x20;
+* Safeguarding the vital interests of the data subject or another person
+
+#### Inventory of data and data subjects
+
+* Type of data subjects&#x20;
+* Categories of data&#x20;
+* Time limits for deleting data or applicable rule
+
+#### Recipients and data transfers outside the EEA
+
+* Identification of recipients including internal recipients (department concerned by the processing); external bodies (commercial or institutional partners); subcontractors (host, solution provider); data subject where applicable and joint managers&#x20;
+* For each recipient, identification of transfers outside the European Economic Area (EEA) and the legal tools used (Binding corporate rules in the case of transfers outside the EU with subsidiaries, standard contractual clauses, country recognized as adequate, etc.)
+
+#### Security measures
+
+* Technical and organizational measures implemented to secure each data processing&#x20;
+* For example, data encryption, pseudonymization, access limitation
