@@ -49,3 +49,17 @@ High-risk treatments can be identified if they meet at least 2 of these criteria
 * Blocking a right/contract&#x20;
 * Transfer outside EU
 {% endhint %}
+
+## When should I do a PIA?
+
+* Before the implementation of the processing&#x20;
+* Privacy by design principle&#x20;
+* Tool to help you decide on the implementation of the processing&#x20;
+* Allows to anticipate compliance costs&#x20;
+* Must be done for existing processing&#x20;
+
+PIA is an ongoing process:&#x20;
+
+* PIAs should be reviewed regularly&#x20;
+* A good practice is to update it every 3 to 5 years&#x20;
+* In any case, as soon as a change occurs in the processing
