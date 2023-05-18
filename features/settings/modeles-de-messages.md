@@ -65,10 +65,88 @@ Pour traduire les statuts, vous pouvez utiliser le filtre personnalisé getTrans
 
 Les champs variables sont les suivants :&#x20;
 
+#### Message de demande d'exercice des droits :&#x20;
 
+•             Titre de la demande (title)
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+•             Fermée par (closedByUser)
+
+•             Unité organisationnelle (area)
+
+•             Créé par (creator)
+
+•             Opérateur (operator)
+
+•             Langue (locale)
+
+•             Archivé (archived)
+
+•             Archivé le (archivedDate)
+
+•             Catégorie de personne (subjectCategory)
+
+•             Demande complexe (complex)
+
+•             Date de fermeture (dateClosed)
+
+•             Informations complémentaires (interne) (description)
+
+•             Message de la demande (message)
+
+•             Email (email)
+
+•             N° de téléphone (phoneNumber)
+
+•             Prénom (givenName)
+
+•             Nom (familyName)
+
+•             Mis à jour le (dateUpdate)
+
+•             Ref. Id (refId)
+
+•             Identifiant utilisateur (userId)
+
+•             Raison de la fermeture (closedReason)
+
+•             Description de la fermeture (closedReasonDescription)
+
+•             Date d'expiration (expiryTime)
+
+•             Address (address)
+
+•             Code postal (zipCode)
+
+•             Ville (city)
+
+•             Pays (countryCode)
+
+•             Date de validation de l'email (emailValidationDate)
+
+•             Email validé (mailValidated)
+
+•             Url source (referrerUrl)
+
+•             Identité validée (identityValidated)
+
+•             Date de validation de l'identité (dateIdentityValidated)
+
+•             Id de la demande (demandId)
+
+•             Statut (state)
+
+•             Date (dateCreation)
+
+•             Etape (workFlowStep)
+
+•             Canal de collecte (channel)
+
+•             Types de droits (purposes)
+
+•             Messages (nbMessages)
+
+•             Jours restants (remainingDays)
+
+•             Délai de fermeture (jours) (closingTime)
+
+•             Tags (tags)
