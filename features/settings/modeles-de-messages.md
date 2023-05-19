@@ -14,9 +14,9 @@ Pour optimiser votre temps et gagner en efficacité, vous pouvez paramétrer des
 
 ### Types de modèles de messages accessibles&#x20;
 
-Les types de modèles sont les suivants :
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+Les types de modèles sont les suivants :
 
 *   **Message dans les demandes d'exercice des droits**
 
@@ -30,6 +30,11 @@ Les types de modèles sont les suivants :
 *   **Compléter un traitement**
 
     Vous pouvez inviter un utilisateur de Dastra à compléter un traitement de données à partir d'une étape. Ecrivez une fois le modèle ou sélectionnez un modèle en fonction de la qualité du destinataire (juriste, DSI etc.) pour gagner du temps.&#x20;
+*   **Compléter une violation de données**
+
+    Vous pouvez inviter un utilisateur de Dastra à compléter une violation de données à partir d'une étape. Ecrivez une fois le modèle ou sélectionnez un modèle en fonction de la qualité du destinataire (juriste, DSI etc.) pour gagner du temps.&#x20;
+
+
 
 ### Création du modèle
 
