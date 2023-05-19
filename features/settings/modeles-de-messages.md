@@ -61,9 +61,7 @@ Voici le guide complet ici : [les tags ](https://liquidjs.com/tags/overview.html
 
 Pour traduire les statuts, vous pouvez utiliser le filtre personnalisé getTranslation de cette manière \{{data | getTranslation: ''\}}. Exemple : \{{data | getTranslation: 'dataSubjectRequestStates'\}}
 
-
-
-Les champs variables sont les suivants :&#x20;
+### Détail des champs variables :&#x20;
 
 #### Message de demande d'exercice des droits :&#x20;
 
@@ -150,3 +148,285 @@ Les champs variables sont les suivants :&#x20;
 •             Délai de fermeture (jours) (closingTime)
 
 •             Tags (tags)
+
+
+
+#### Description d'une tâche :&#x20;
+
+•             Projet (project)
+
+•             Iteration (iteration)
+
+•             Ordre (order)
+
+•             Propriétaire (owner)
+
+•             Unité organisationnelle (area)
+
+•             Créé par (creator)
+
+•             Jours restants (remainingDays)
+
+•             Délai de fermeture (jours) (closingTime)
+
+•             Nombre de sous-tâches (nbSubTasks)
+
+•             Nombre de sous-tâches fermées (nbSubTasksClosed)
+
+•             Id (id)
+
+•             Référence interne (ref)
+
+•             Archivé (archived)
+
+•             Nom (label)
+
+•             Description (descriptionHtml)
+
+•             Associée à (objectType)
+
+•             Statut (state)
+
+•             Date limite (deadline)
+
+•             Date de début (startDate)
+
+•             Fermée le (dateClosed)
+
+•             Activée le (dateActivated)
+
+•             Créé le (dateCreation)
+
+•             Mis à jour le (dateUpdate)
+
+•             Source (source)
+
+•             test (customFields.test)
+
+•             LIste (customFields.liste)
+
+•             Case à cocher simple (customFields.case\_a\_cocher\_simple)
+
+•             Tags (tags)
+
+•             Etape (workFlowStep)
+
+•             Priorité (priority)
+
+•             Assignée à (assignedToUser)
+
+
+
+#### Invitations à répondre à un questionnaire d'audit :&#x20;
+
+•             Modèle (template)
+
+•             Date du prochain audit (dateNextAudit)
+
+•             Durée de l'audit (auditDurationDays)
+
+•             Nb. corrections (nbCorrections)
+
+•             Nb validations (nbValidations)
+
+•             Jours avant le prochain audit (nextAuditDaysRemaining)
+
+•             Id (id)
+
+•             Nom (label)
+
+•             Version ancienne (isRevision)
+
+•             Version name (revisionDescription)
+
+•             Archivé (archived)
+
+•             Dépassé (isOverdue)
+
+•             Unité organisationnelle (area)
+
+•             Mis à jour le (dateUpdate)
+
+•             Archivé le (archivedDate)
+
+•             Score (readiness)
+
+•             Points (score)
+
+•             Taux de completion (%) (completionRate)
+
+•             Nb. réponses (nbAnswers)
+
+•             Nb. de questions (nbQuestions)
+
+•             Responsables (owners)
+
+•             Répondants (respondants)
+
+•             Plan d'action généré le (actionPlanDate)
+
+•             Statut (state)
+
+•             Date de début (startDate)
+
+•             Finalisé le (responseDate)
+
+•             Date de publication (publishedDate)
+
+•             Créé le (dateCreation)
+
+•             Objet attaché (objectLabel)
+
+•             Date limite (deadline)
+
+
+
+#### Invitations à compléter un traitement :&#x20;
+
+Unité organisationnelle (area)
+
+Etape (workflowStep)
+
+Id (id)
+
+Source (source)
+
+Nom (label)
+
+Statut (state)
+
+Créé le (dateCreation)
+
+Date d'archivage (dateArchived)
+
+Archivé (archived)
+
+Version description (versionDescription)
+
+Type (processingType)
+
+Unité organisationnelle (areaId)
+
+Actifs (assets)
+
+Référence interne (ref)
+
+État du traitement (processingState)
+
+Documentation (descriptionHtml)
+
+Tags (tags)
+
+Propriétaire du traitement (owner)
+
+Parties prenantes (stakeHolders)
+
+PIA requis (isDPIARequired)
+
+Date de PIA (dpiaDate)
+
+Est exempté de PIA (dpiaExemption)
+
+Destinataires (recipients)
+
+Responsables de traitement / clients (dataControllers)
+
+Jeux de données (dataRetentionRules)
+
+Finalités (purposes)
+
+Mesures (securityMeasures)
+
+Catégories de personnes concernées (personCategories)
+
+AIPD (customFields.aipd)
+
+Progression (%) (progression)
+
+Qualité (%) (quality)
+
+Sensibilité (%) (sensitivity)
+
+Créé par (creatorUser)
+
+Date de déploiement (dateDeployment)
+
+Date de publication (datePublication)
+
+Dernière modification (dateUpdate)
+
+Description (description)
+
+
+
+#### Invitation à compléter une violation :&#x20;
+
+Nom (label)
+
+ID (id)
+
+Localisation des données (location)
+
+Perte de confidentialité (access)
+
+Perte d'intégrité (integrity)
+
+Perte de disponibilité (availability)
+
+Cause (reason)
+
+Source (source)
+
+Sous-traitants impliqués (processorInvolved)
+
+Processors (processors)
+
+Données sensibles (sensitiveData)
+
+Score de probabilité (probabilityScore)
+
+Niveau d'impact (impactScore)
+
+Score (score)
+
+Niveau de risque (riskLevel)
+
+Volume d'enregistrements de données (dataVolume)
+
+Support des données (dataSupport)
+
+Communication effectuée ? (communicationDone)
+
+Raison de l'absence de communication (noCommunicationReason)
+
+Période (period)
+
+Date de début (startDate)
+
+Date de fin (endDate)
+
+Date de constatation (constatationDate)
+
+Délai de notification à l'autorité contrôle (notificationDueTime)
+
+Opérateur (operator)
+
+Etape (workFlowStep)
+
+Unité organisationnelle (area)
+
+Créé le (dateCreation)
+
+Mis à jour le (dateUpdate)
+
+Post-mortem effectué (postMortemDone)
+
+Tags (tags)
+
+Remarques (complementaryInformations)
+
+Date de fermeture (dateClosed)
+
+Date d'archivage (dateArchived)
+
+Créé par (creator)
