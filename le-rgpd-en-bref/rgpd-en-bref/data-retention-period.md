@@ -35,3 +35,19 @@ It is thus necessary to determine :&#x20;
 ## The data life cycle&#x20;
 
 The data life cycle can be broken down into three stages:
+
+<figure><img src="../../.gitbook/assets/The life cycle of the data.png" alt=""><figcaption><p>The data life cycle</p></figcaption></figure>
+
+{% hint style="info" %}
+The [French CNIL guide on retention periods](https://www.cnil.fr/sites/default/files/atoms/files/guide\_durees\_de\_conservation.pdf) (in French)provides clarification on the documentation to be provided on retention periods:&#x20;
+
+* The **record** in which the processing activities and the related retention periods must appear;&#x20;
+* A **reference document** centralizing, for example in the form of a table, the duration of the different phases of the data's life for each processing operation (the SIAF's recommendations can be included, if necessary, in the structure's internal archive management tables);&#x20;
+* The **different actions undertaken**, including if these actions are still in progress;&#x20;
+* The **written instructions** given to the subcontractor regarding time limits;
+* The **possible procedures for archiving data**, and in particular in the case of compulsory payment for the definitive archiving of public records (payment slip, etc.);&#x20;
+* The **procedure for the destruction of data**, if applicable (e.g.: disposal slip, etc.);&#x20;
+* **Authorization management policy** and **authorization matrix** for archiving, etc.
+{% endhint %}
+
+With Dastra, enter the different life cycles of the data and adapt the retention periods to each dataset created.
