@@ -64,7 +64,7 @@ PIA is an ongoing process:&#x20;
 * A good practice is to update it every 3 to 5 years&#x20;
 * In any case, as soon as a change occurs in the processing
 
-<figure><img src="../../.gitbook/assets/Description of the treatment envisaged.jpg" alt="" width="375"><figcaption><p>An iterative process</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Description of the treatment envisaged-2.jpg" alt="" width="375"><figcaption><p>An iterative process</p></figcaption></figure>
 
 ## How to make a PIA?
 
