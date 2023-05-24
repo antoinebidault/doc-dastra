@@ -16,7 +16,7 @@ The processor must allow audits to be carried out by the controller so that the 
 
 ## Supervision of the subcontracting chain
 
-The processor does not recruit any other processor \(level 2 processor\) without the prior, specific or general written authorization of the person in charge of the processing. Any contract with a level 2 processor must provide the same data protection obligations provided for in the contract concluded with the controller.
+The processor does not recruit any other processor (level 2 processor) without the prior, specific or general written authorization of the person in charge of the processing. Any contract with a level 2 processor must provide the same data protection obligations provided for in the contract concluded with the controller.
 
 ## Register of subcontractors
 
@@ -26,5 +26,8 @@ Each processor must keep a record of all the processing carried out on behalf of
 
 The subcontractor is not liable for material or moral damage caused by the processing of personal data only if he has not complied with the obligations laid down by the GDPR which fall specifically upon him or if he has acted outside the instructions of the controller. The processor is subject to the same administrative fines and penalties as the controller.
 
+## For more information
 
-
+{% content-ref url="../../features/risk-management/linking-a-risk-to-a-treatment.md" %}
+[linking-a-risk-to-a-treatment.md](../../features/risk-management/linking-a-risk-to-a-treatment.md)
+{% endcontent-ref %}
