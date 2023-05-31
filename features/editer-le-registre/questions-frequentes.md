@@ -53,7 +53,7 @@ Ensuite, créer un rôle personnalisé avec les permissions :&#x20;
 * Registre : lecture, écriture
 * Cartographie des données : lecture
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Rôle permettant l'accès aux jeux de données sans pouvoir les modifier</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Rôle permettant l'accès aux jeux de données sans pouvoir les modifier</p></figcaption></figure>
 
 Ensuite, il faut attribuer ce rôle aux utilisateurs concernés.&#x20;
 
@@ -75,7 +75,7 @@ Ensuite, vous verrez le bouton "Choisir des actions groupées" apparaitre.&#x20;
 
 Sélectionner l'option "Lier des acteurs" et ajoutez vos acteurs en tant que partie prenante.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Obtenir la liste des actifs par unité organisationnelle (UO) ?
 

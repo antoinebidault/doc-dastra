@@ -161,16 +161,3 @@ private static string GetRequestBody()
 ### Que se passe-t-il quand l'url répond autre chose que 200
 
 Le webhook sera automatiquement bloqué et considéré en erreur quand le seuil de 5 erreurs est dépassé.
-
-### Quelles sont les adresses IP des serveurs de Dastra qui appellent les webhooks ?
-
-Vous pouvez contrôler les adresses IP entrantes dans votre webhook en utilisant les adresses IP suivantes :&#x20;
-
-* 40.89.131.148
-* 40.89.142.231
-* 40.89.143.1
-* 40.89.136.129
-* 40.89.137.32
-* 40.89.141.38
-* 40.89.137.122
-* 40.89.136.182

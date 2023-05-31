@@ -73,7 +73,7 @@ Vous pouvez importer une liste d'unités organisationnelles via un fichier d'imp
 
 Cliquez ensuite "Télécharger le modèle de fichier"
 
-<figure><img src="../../.gitbook/assets/image (24) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 Après avoir renseigné le fichier, déposez le dans le champ de dépôt et suivez les instructions.
 

@@ -12,7 +12,7 @@ Ensuite, afficher les archives des tâches
 
 Et supprimer les tâches
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez également supprimer la tache directement depuis la vue tableau
 

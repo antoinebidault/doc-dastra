@@ -62,7 +62,7 @@ Vous pouvez ranger vos documents dans des dossiers pour les retrouver facilement
 
 Il est possible de créer des sous-dossiers.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Gestion des droits
 
