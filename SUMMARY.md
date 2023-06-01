@@ -2,7 +2,7 @@
 
 * [What is Dastra](README.md)
 
-## USEFUL REMINDERS <a href="#le-rgpd-en-bref" id="le-rgpd-en-bref"></a>
+## 🇪🇺 USEFUL REMINDERS <a href="#le-rgpd-en-bref" id="le-rgpd-en-bref"></a>
 
 * [What is GDPR ?](le-rgpd-en-bref/quest-ce-que-le-rgpd.md)
 * [GDPR key concepts](le-rgpd-en-bref/rgpd-en-bref/README.md)
@@ -19,7 +19,7 @@
   * [Risk assessment](le-rgpd-en-bref/risk-management/risk-assessment.md)
   * [Subcontractor risks](le-rgpd-en-bref/risk-management/risques-sous-traitants.md)
 
-## GETTING STARTED
+## 🧑🎓 GETTING STARTED
 
 * [Setting up](getting-started/commencer/README.md)
   * [Create and set up a workspace](getting-started/commencer/create-and-set-up-a-workspace.md)
@@ -34,7 +34,7 @@
   * [First steps](getting-started/tutorial/premieres-etapes.md)
 * [Support](getting-started/support.md)
 
-## Features
+## ⚙ Features
 
 * [Dashboard](features/dashboard.md)
 * [General](features/general/README.md)
@@ -149,19 +149,19 @@
   * [Message templates](features/advanced-configuration/message-templates.md)
   * [Email domains](features/advanced-configuration/email-domains.md)
 
-## API documentation <a href="#api-references" id="api-references"></a>
+## 📄 API documentation <a href="#api-references" id="api-references"></a>
 
 * [Authentication](api-references/authentification.md)
 * [API References](https://api.dastra.eu/swagger)
 * [Integrations](api-references/integrations.md)
 
-## Security
+## 🛡 Security
 
 * [Security at Dastra](security/general.md)
 * [Security roadmap](security/feuille-de-route.md)
 * [Quality of Service](security/qualite-de-nos-services.md)
 
-## Other
+## 🤖 Other
 
 * [FAQ](other/faq.md)
 * [Known problems](other/known-problems.md)
