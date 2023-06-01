@@ -59,13 +59,44 @@ To modify a department, simply click on the 3 dots to the right of the departmen
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 15.31.49.png" alt="" width="563"><figcaption><p>Department drop-down menu</p></figcaption></figure>
 
+## Import organizational units
 
+You can import a list of organizational units via an import file. This file can be downloaded by clicking on the "Import" button in the organizational unit management interface.
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 15.35.00.png" alt="" width="563"><figcaption></figcaption></figure>
 
+Then click on "Download template file".
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 15.37.43.png" alt=""><figcaption></figcaption></figure>
 
+After filling in the file, drop it in the drop box and follow the instructions.
 
+## View and configure entities and departments from the organizational chart
 
+In Dastra, you can also view entities and departments graphically, and set their parameters directly from the organization chart.&#x20;
 
+To do this, click on the "Organization chart" view in the "Entities and departments" module.
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 15.39.27.png" alt="" width="279"><figcaption></figcaption></figure>
 
+In this way, you can visualize your group's organizational chart graphically:
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 15.13.04 (1).png" alt=""><figcaption><p>Example of an organization chart in Dastra</p></figcaption></figure>
+
+{% hint style="info" %}
+In the "Organization chart" view, you can perform most of the operations available in the "Entities / Departments" view.
+{% endhint %}
+
+## Restrict access to an organizational unit's content
+
+You can use the user team system to restrict access to content attached to an organizational unit.&#x20;
+
+To do this, you need to attach teams to organizational units.&#x20;
+
+The system is tree-based. This means that, for a team to access a child UO, it must access the parent UO.
+
+Here is an explanatory video (in french):
+
+{% embed url="https://www.youtube.com/watch?v=AQdTo_4wSZk" %}
+
+## For more information
