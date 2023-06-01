@@ -55,8 +55,8 @@ Aware of the importance of good mapping and having little time to do so, you cho
 
 To do this, you start a project on Dastra:
 
-{% content-ref url="commencer-un-projet-sur-dastra.md" %}
-[commencer-un-projet-sur-dastra.md](commencer-un-projet-sur-dastra.md)
+{% content-ref url="../commencer/commencer-un-projet-sur-dastra.md" %}
+[commencer-un-projet-sur-dastra.md](../commencer/commencer-un-projet-sur-dastra.md)
 {% endcontent-ref %}
 
 Then, complete your register in Dastra:
@@ -67,7 +67,7 @@ Then, complete your register in Dastra:
 
 See below an example of a record of processing activities respecting the requested format available for download and which can be imported by "drag and drop" in Dastra:
 
-{% file src="../.gitbook/assets/sample-datatreatments-shipbuilder.xlsx" %}
+{% file src="../../.gitbook/assets/sample-datatreatments-shipbuilder.xlsx" %}
 
 {% hint style="info" %}
 Not all information in the record of processing can be imported into DASTRA from a single file. **To complete 100% of the the record**, simply edit each of the treatments and fill in the missing information.
@@ -81,16 +81,16 @@ You then fill in all the information necessary for processing.
 
 You share the register with all of the data controllers and your network of GDPR correspondents and request validation from all stakeholders.
 
-{% content-ref url="../features/editer-le-registre/partager-le-registre.md" %}
-[partager-le-registre.md](../features/editer-le-registre/partager-le-registre.md)
+{% content-ref url="../../features/editer-le-registre/partager-le-registre.md" %}
+[partager-le-registre.md](../../features/editer-le-registre/partager-le-registre.md)
 {% endcontent-ref %}
 
 That's it, **your record of processing actitivities is made** and your processing activities are ready to be protected!
 
 To find out more about how to edit your registry:
 
-{% content-ref url="../features/editer-le-registre/" %}
-[editer-le-registre](../features/editer-le-registre/)
+{% content-ref url="../../features/editer-le-registre/" %}
+[editer-le-registre](../../features/editer-le-registre/)
 {% endcontent-ref %}
 
 ## Step 3 : Prioritize actions to be taken
@@ -103,12 +103,12 @@ You don't know how to start? Feel free to consult the [**Guide to Data Protectio
 
 Once the actions necessary to carry out your compliance project have been identified, you create the associated tasks and allocate them to the associated employees directly in the "Planning" tab of the Dastra tool:
 
-![Action plan example](<../.gitbook/assets/image (65).png>)
+![Action plan example](<../../.gitbook/assets/image (65).png>)
 
 To find out more about the Dastra "Planning" functionality:
 
-{% content-ref url="../features/planifier/" %}
-[planifier](../features/planifier/)
+{% content-ref url="../../features/planifier/" %}
+[planifier](../../features/planifier/)
 {% endcontent-ref %}
 
 ## Step 4 : Manage the risks
@@ -133,7 +133,7 @@ To help you determine if your processing activity is likely to create high risks
 
 These criteria are directly integrated into our data processing creation workflow, and you can provide information for each of your treatments if there has been a PIA on it or not.
 
-![.](<../.gitbook/assets/image (93).png>)
+![.](<../../.gitbook/assets/image (93).png>)
 
 ## Step 5 :  Organize internal processes
 
@@ -143,20 +143,20 @@ To ensure a high level of protection of personal data at all times, you must put
 
 * **Managing requests to exercise rights:**
 
-{% content-ref url="../features/gerer-les-exercices-des-droits/" %}
-[gerer-les-exercices-des-droits](../features/gerer-les-exercices-des-droits/)
+{% content-ref url="../../features/gerer-les-exercices-des-droits/" %}
+[gerer-les-exercices-des-droits](../../features/gerer-les-exercices-des-droits/)
 {% endcontent-ref %}
 
 * **Managing consent to cookies:**
 
-{% content-ref url="../features/gerer-le-consentement-aux-cookies/" %}
-[gerer-le-consentement-aux-cookies](../features/gerer-le-consentement-aux-cookies/)
+{% content-ref url="../../features/gerer-le-consentement-aux-cookies/" %}
+[gerer-le-consentement-aux-cookies](../../features/gerer-le-consentement-aux-cookies/)
 {% endcontent-ref %}
 
 * **Managing data breach notifications:**
 
-{% content-ref url="../features/notifier-les-violations-de-donnees/" %}
-[notifier-les-violations-de-donnees](../features/notifier-les-violations-de-donnees/)
+{% content-ref url="../../features/notifier-les-violations-de-donnees/" %}
+[notifier-les-violations-de-donnees](../../features/notifier-les-violations-de-donnees/)
 {% endcontent-ref %}
 
 ## Step 6: Document compliance

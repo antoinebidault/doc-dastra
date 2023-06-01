@@ -52,8 +52,8 @@ Start discovering Dastra right now, first with features and setup, then the tuto
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="commencer/premieres-etapes.md" %}
-[premieres-etapes.md](commencer/premieres-etapes.md)
+{% content-ref url="getting-started/tutorial/premieres-etapes.md" %}
+[premieres-etapes.md](getting-started/tutorial/premieres-etapes.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

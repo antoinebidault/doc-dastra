@@ -1,10 +1,6 @@
 # Table of contents
 
 * [What is Dastra](README.md)
-* [Getting started](commencer/README.md)
-  * [First steps](commencer/premieres-etapes.md)
-  * [Starting a project on Dastra](commencer/commencer-un-projet-sur-dastra.md)
-  * [Joining a project](commencer/rejoindre-un-projet.md)
 
 ## USEFUL REMINDERS <a href="#le-rgpd-en-bref" id="le-rgpd-en-bref"></a>
 
@@ -22,6 +18,16 @@
   * [Definition of risks](le-rgpd-en-bref/risk-management/definition-of-risks.md)
   * [Risk assessment](le-rgpd-en-bref/risk-management/risk-assessment.md)
   * [Subcontractor risks](le-rgpd-en-bref/risk-management/risques-sous-traitants.md)
+
+## GETTING STARTED
+
+* [Setting up](getting-started/commencer/README.md)
+  * [Create and set up a workspace](getting-started/commencer/create-and-set-up-a-workspace.md)
+  * [Starting a project on Dastra](getting-started/commencer/commencer-un-projet-sur-dastra.md)
+  * [Joining a project](getting-started/commencer/rejoindre-un-projet.md)
+* [Tutorial](getting-started/tutorial/README.md)
+  * [First steps](getting-started/tutorial/premieres-etapes.md)
+* [Support](getting-started/support.md)
 
 ## Features
 
