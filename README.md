@@ -4,34 +4,50 @@ description: Find out more about Dastra.
 
 # What is Dastra
 
-**Dastra** is a modern data protection platform where data protection teams can steer and manage all GDPR use cases, from managing the record of processing activity to implementing a cookies widget on their websites.
+**Dastra** is a data privacy solution with which data protection teams can drive and manage all GDPR use cases, from managing the registration of processing activities to implementing a cookie widget on their websites.&#x20;
 
-We want to help data protection teams to **work more efficiently** by creating a simple yet powerful service for them to **comply with privacy laws**.
+We aim to help data protection teams raise **awareness** across their business and **improve the GDPR experience** with a streamlined solution providing a single response to organizations' different GDPR needs, through:&#x20;
 
-Our mission is to make a **user-friendly** and **collaborative** product for everyone to create, edit and implement data protection measures through personal data processing steering & management.
+* A fast, intuitive and ergonomic **interface**&#x20;
+* A fruitful **collaboration** between the various players involved in GDPR&#x20;
+* **Time savings** in day-to-day compliance management&#x20;
+* New compliance and management **services** and functionalities&#x20;
+* A **guided** pedagogical approach to empower non-experts step by step&#x20;
+
+At Dastra, we believe that data protection is not just a legal matter, it's also a **matter of code, expertise, project management and operations**.&#x20;
+
+For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 ## With Dastra you can:
 
-* **Map your personal data assets** by building and maintaining your record of processing thanks to a flexible and intuitive interface
+* **Map your personal data** by creating and maintaining your treatment record thanks to a flexible and intuitive interface, repositories, libraries and a questionnaire, and **build, share and export** your treatment record.
 
-![](<.gitbook/assets/image (123).png>)
+<figure><img src=".gitbook/assets/Capture d’écran 2023-06-01 à 12.08.51.png" alt=""><figcaption></figcaption></figure>
 
-* **Share** **your record of processing** publicly or privately with anyone or use a secret link to allow non-Dastra users to access your private content.
-
-![](<.gitbook/assets/image (36) (1).png>)
-
-* **Collaborate with your network, define an action plan and allocate tasks** to better protect your data and comply with GDPR.
-
-![](<.gitbook/assets/image (45).png>)
-
-* **Implement specific measures** such as deploying a cookie consent widget&#x20;
-
-![](<.gitbook/assets/image (122) (1).png>)
+* **Identify your risks, and carry out audits** to assess priorities.
 
 
 
-* **Manage** your **exercise of rights** requests and **data breach** notifications
+* **Generate an action plan, allocate tasks and collaborate with your network**, to better protect your data.
 
-![](<.gitbook/assets/image (116).png>)
 
-Let's get started using Dastra!
+
+* **Implement internal processes** such as setting up rights exercise management, managing cookie consents or keeping a register of data breaches.
+
+
+
+* **Centralize documentation** to meet GDPR compliance.
+
+
+
+## How do I get to know Dastra?
+
+Start discovering Dastra right now, first with features and setup, then the tutorial:
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="commencer/premieres-etapes.md" %}
+[premieres-etapes.md](commencer/premieres-etapes.md)
+{% endcontent-ref %}
