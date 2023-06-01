@@ -4,25 +4,32 @@ description: Learn how to get started with Dastra
 
 # Setting up
 
-If you are new to Dastra and want to understand the main steps through a concrete example, start here:
+To start a project, begin here:
 
-{% content-ref url="../tutorial/premieres-etapes.md" %}
-[premieres-etapes.md](../tutorial/premieres-etapes.md)
+{% content-ref url="create-and-set-up-a-workspace.md" %}
+[create-and-set-up-a-workspace.md](create-and-set-up-a-workspace.md)
 {% endcontent-ref %}
 
-To start a project, click here:
+If you'd like to join an existing project on Dastra or invite a member of your network, start here:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="invite-users.md" %}
+[invite-users.md](invite-users.md)
 {% endcontent-ref %}
 
-If you are joining an existing project on Dastra or want to send an invitation, start here:
+To learn how to manage roles and permissions or create new custom roles, see the section below:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="managing-roles-and-permissions.md" %}
+[managing-roles-and-permissions.md](managing-roles-and-permissions.md)
 {% endcontent-ref %}
 
+Then set up teams and assign them to the right entities or departments:
 
+{% content-ref url="create-and-assign-teams.md" %}
+[create-and-assign-teams.md](create-and-assign-teams.md)
+{% endcontent-ref %}
 
+Now you're ready to start a project in Dastra. You can explore Dastra's features on your own, or follow the tutorial to learn by doing:
 
-
+{% content-ref url="../tutorial/" %}
+[tutorial](../tutorial/)
+{% endcontent-ref %}
