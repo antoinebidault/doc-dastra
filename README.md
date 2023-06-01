@@ -26,19 +26,23 @@ For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 * **Identify your risks, and carry out audits** to assess priorities.
 
-
+<figure><img src=".gitbook/assets/Capture d’écran 2023-06-01 à 14.38.07.png" alt=""><figcaption></figcaption></figure>
 
 * **Generate an action plan, allocate tasks and collaborate with your network**, to better protect your data.
 
-
+<figure><img src=".gitbook/assets/Capture d’écran 2023-06-01 à 14.43.00.png" alt=""><figcaption></figcaption></figure>
 
 * **Implement internal processes** such as setting up rights exercise management, managing cookie consents or keeping a register of data breaches.
 
+<figure><img src=".gitbook/assets/image (271).png" alt=""><figcaption><p>Register of requests to exercise rights</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/Capture d’écran 2023-06-01 à 14.46.10.png" alt=""><figcaption><p>Creation of a cookie consent widget</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Capture d’écran 2023-06-01 à 14.47.37.png" alt=""><figcaption><p>The data breach questionnaire</p></figcaption></figure>
 
 * **Centralize documentation** to meet GDPR compliance.
 
-
+<figure><img src=".gitbook/assets/image (272).png" alt=""><figcaption><p>The Repositories module, containing all the data and files in your workspace</p></figcaption></figure>
 
 ## How do I get to know Dastra?
 
