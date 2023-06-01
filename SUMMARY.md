@@ -23,6 +23,7 @@
 
 * [Setting up](getting-started/commencer/README.md)
   * [Create and set up a workspace](getting-started/commencer/create-and-set-up-a-workspace.md)
+  * [Create and set up organizational units](getting-started/commencer/create-and-set-up-organizational-units.md)
   * [Starting a project on Dastra](getting-started/commencer/commencer-un-projet-sur-dastra.md)
   * [Joining a project](getting-started/commencer/rejoindre-un-projet.md)
 * [Tutorial](getting-started/tutorial/README.md)
