@@ -55,8 +55,8 @@ Aware of the importance of good mapping and having little time to do so, you cho
 
 To do this, you start a project on Dastra:
 
-{% content-ref url="../commencer/commencer-un-projet-sur-dastra.md" %}
-[commencer-un-projet-sur-dastra.md](../commencer/commencer-un-projet-sur-dastra.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 Then, complete your register in Dastra:

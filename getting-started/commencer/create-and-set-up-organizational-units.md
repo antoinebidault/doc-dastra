@@ -100,3 +100,7 @@ Here is an explanatory video (in french):
 {% embed url="https://www.youtube.com/watch?v=AQdTo_4wSZk" %}
 
 ## For more information
+
+{% content-ref url="create-and-assign-teams.md" %}
+[create-and-assign-teams.md](create-and-assign-teams.md)
+{% endcontent-ref %}

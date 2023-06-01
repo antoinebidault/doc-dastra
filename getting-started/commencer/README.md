@@ -12,14 +12,14 @@ If you are new to Dastra and want to understand the main steps through a concret
 
 To start a project, click here:
 
-{% content-ref url="commencer-un-projet-sur-dastra.md" %}
-[commencer-un-projet-sur-dastra.md](commencer-un-projet-sur-dastra.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 If you are joining an existing project on Dastra or want to send an invitation, start here:
 
-{% content-ref url="rejoindre-un-projet.md" %}
-[rejoindre-un-projet.md](rejoindre-un-projet.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 
