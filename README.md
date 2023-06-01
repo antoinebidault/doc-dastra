@@ -51,3 +51,16 @@ Start discovering Dastra right now, first with features and setup, then the tuto
 {% content-ref url="commencer/premieres-etapes.md" %}
 [premieres-etapes.md](commencer/premieres-etapes.md)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+Dastra can be tested free of charge and without credit card during 1 month by registering on link: [https://app.dastra.eu/signup](https://app.dastra.eu/signup)
+
+\
+Don't hesitate to sign up, it's immediate and without obligation!
+{% endhint %}
+
+## For more information
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
