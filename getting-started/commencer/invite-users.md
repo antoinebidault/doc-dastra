@@ -71,3 +71,50 @@ Optional:&#x20;
 * Teams (separated by |) > this corresponds to teams in Dastra
 * SsoConfigurationId > this corresponds to the SSO login identifier, if applicable
 
+Here is a sample file for you to download and fill in:
+
+{% file src="../../.gitbook/assets/Template_import_users.csv" %}
+Import file template
+{% endfile %}
+
+**Role identifiers:**&#x20;
+
+By default: basic roles have the following identifiers:&#x20;
+
+* Administrator = 1&#x20;
+* Contributor = 2&#x20;
+* Reader = 3&#x20;
+
+For custom roles you've created, the identifier is visible from your browser's development console via the network tab.
+
+{% hint style="info" %}
+To open the console on Chrome, use the following keyboard shortcut: Cmd + Option + C (on Mac) or Ctrl + Shift + J (on Windows)&#x20;
+
+To open the console on Firefox, use the following keyboard shortcut: Cmd + Option + K (on Mac) or Ctrl + Shift + J (on Windows)&#x20;
+
+To open the console, use the following keyboard shortcut: Cmd + Option + C&#x20;
+
+To open the console on Microsoft Edge, you can use the following shortcut: Ctrl + Shift + I
+{% endhint %}
+
+Please note that roles must be created in advance.
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Here the role identifier is number 115</p></figcaption></figure>
+
+**For team identifiers:**
+
+These can be set when adding a team.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Please note that teams must first be created in the workspace.
+{% endhint %}
+
+Save your file in CSV UTF 8 format
+
+<figure><img src="https://138894690-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FC1FElrWgEomvNHuCAXgC%2Fimage.png?alt=media&#x26;token=e83fc031-1943-452a-b4b5-40e5f4220813" alt=""><figcaption></figcaption></figure>
+
+Once your file is ready, tell us in which workspace you wish to import users and upload the file via the upload interface.
+
+We'll receive your request and get back to you.

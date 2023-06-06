@@ -36,7 +36,7 @@ Your domain name must include the entire prefix "https: // www." to be taken int
 
 Wait a few seconds, and that's it, the cookies placed on your website are identified!
 
-![Scanning is in progress](<../../../.gitbook/assets/image (9).png>)
+![Scanning is in progress](<../../../.gitbook/assets/image (9) (1).png>)
 
 Once the cookies placed on your website are scanned, you can proceed to their classification.
 
