@@ -31,7 +31,12 @@
   * [Create and assign teams](getting-started/commencer/create-and-assign-teams.md)
   * [Frequently asked questions](getting-started/commencer/frequently-asked-questions.md)
 * [Tutorial](getting-started/tutorial/README.md)
-  * [First steps](getting-started/tutorial/premieres-etapes.md)
+  * [Step 1: Setting up](getting-started/tutorial/step-1-setting-up.md)
+  * [Step 2: Map your personal data processing and draw up a register](getting-started/tutorial/step-2-map-your-personal-data-processing-and-draw-up-a-register.md)
+  * [Step 3: Managing risks](getting-started/tutorial/step-3-managing-risks.md)
+  * [Step 4: Prioritize actions](getting-started/tutorial/step-4-prioritize-actions.md)
+  * [Step 5: Implement internal processes](getting-started/tutorial/step-5-implement-internal-processes.md)
+  * [Step 6: Document compliance](getting-started/tutorial/step-6-document-compliance.md)
 * [Support](getting-started/support.md)
 
 ## ⚙ Features

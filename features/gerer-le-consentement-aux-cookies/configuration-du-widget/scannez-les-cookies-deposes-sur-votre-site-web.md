@@ -10,8 +10,8 @@ DASTRA allows you to scan the cookies placed on your website thanks to its **coo
 
 You must first log into your Dastra workspace. To learn how to do this, go to the following page:
 
-{% content-ref url="../../../getting-started/tutorial/premieres-etapes.md" %}
-[premieres-etapes.md](../../../getting-started/tutorial/premieres-etapes.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 Then, you must go to the "Consent to cookies" module, and click on the "New widget" button.
