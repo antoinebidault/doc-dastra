@@ -11,7 +11,7 @@ Une fois le modèle d'audit créé et personnalisé, lancez une campagne en cliq
 Deux possibilités pour soumettre une campagne d'audit :&#x20;
 
 1. Par mail : renseignez le nom de la campagne et les répondants, invitez les répondants internes comme externes et ensuite attendez les réponses. Ceux-ci recevront un mail contenant un lien vers un espace en ligne où ils pourront renseigner leurs réponses.
-2. Via un lien de partage : n'importe quelle personne disposant du lien de partage pourra accéder et devenir répondant de l'audit. Le lien de partage reste disponible jusqu'à sa désactivation.
+2. Via un lien de partage : n'importe quelle personne disposant du lien de partage pourra accéder et devenir répondant de l'audit ; à chaque accès un audit sera généré. Le lien de partage reste disponible jusqu'à sa désactivation.
 
 Il est possible de relancer les personnes qui n'ont pas répondu à l'audit.&#x20;
 
