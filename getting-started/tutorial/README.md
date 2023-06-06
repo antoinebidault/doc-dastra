@@ -25,7 +25,7 @@ You are the business manager of SHIPBUILDER, an organization that builds boats. 
 * Law
 * Procurement
 
-You have decided to bring your company into compliance with the GDPR. After learning what GDPR is, you start without further delay.
+You have decided to bring your company into compliance with the GDPR. After [learning](https://www.cnil.fr/en/sheet-ndeg0-develop-compliance-gdpr) what GDPR is, you start without further delay.
 
 Start by setting up your workspace in Dastra:
 
