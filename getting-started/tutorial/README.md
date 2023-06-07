@@ -8,8 +8,8 @@ In this tutorial, Dastra puts you in the shoes of a data controller in charge of
 
 If you need any help along the way, don't hesitate to contact our support team:
 
-{% content-ref url="../support.md" %}
-[support.md](../support.md)
+{% content-ref url="../support/" %}
+[support](../support/)
 {% endcontent-ref %}
 
 ## Use case (fictional): The SHIPBUILDER company

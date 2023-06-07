@@ -37,7 +37,10 @@
   * [Step 4: Prioritize actions](getting-started/tutorial/step-4-prioritize-actions.md)
   * [Step 5: Implement internal processes](getting-started/tutorial/step-5-implement-internal-processes.md)
   * [Step 6: Document compliance](getting-started/tutorial/step-6-document-compliance.md)
-* [Support](getting-started/support.md)
+* [Support](getting-started/support/README.md)
+  * [The dastronaut's assistant](getting-started/support/the-dastronauts-assistant.md)
+  * [Online help](getting-started/support/online-help.md)
+  * [Request support](getting-started/support/request-support.md)
 
 ## ⚙ Features
 
