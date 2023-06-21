@@ -150,6 +150,7 @@
     * [SAML 2](features/settings/single-sign-on-sso/saml-2.md)
     * [OpenId](features/settings/single-sign-on-sso/openid.md)
     * [ADFS](features/settings/single-sign-on-sso/adfs.md)
+    * [Active Directory](features/settings/single-sign-on-sso/active-directory.md)
     * [Okta](features/settings/single-sign-on-sso/okta.md)
     * [Problèmes connus](features/settings/single-sign-on-sso/problemes-connus.md)
   * [Référentiels](features/settings/referentials.md)

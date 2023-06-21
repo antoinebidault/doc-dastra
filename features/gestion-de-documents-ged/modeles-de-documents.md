@@ -10,7 +10,7 @@ Pour accéder aux ressources documentaires, il faut se rendre dans le module "Ve
 
 Vous n'avez plus qu'à sélectionner les modèles
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 Les modèles sont disponibles en téléchargement au format Word.&#x20;
 

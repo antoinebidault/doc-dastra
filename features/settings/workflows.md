@@ -32,7 +32,7 @@ Les éléments attachés à l'étape supprimés seront automatiquement rattaché
 
 Par exemple, si vous supprimez l'étape "En cours" dans les workflow de tâches&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Les objets attachés passeront à l'étape "Besoins d'infos"
 

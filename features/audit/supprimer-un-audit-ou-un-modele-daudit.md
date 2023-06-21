@@ -32,7 +32,7 @@ Ensuite, il faut suffit de supprimer l'audit via le menu de l'audit
 
 Pour supprimer un modèle d'audit, il faut aller sur la liste des modèles et sélectionner dans le menu du modèle le bouton **supprimer**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Attention, il n'y a pas d'archivage des modèles d'audit. Pensez à le télécharger en format JSON si vous souhaitez en conserver une copie à réimporter.&#x20;

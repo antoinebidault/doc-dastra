@@ -12,7 +12,7 @@ Vérifiez que la boîte mail de la personne n'est pas pleine
 
 Dans de très rares cas, Dastra peut être bloqué par le filtre anti-spam du serveur. Dans ce cas, vous pouvez générer un lien d'invitation en créant de nouveau une invitation en **cliquant sur "Inviter un utilisateur**" > **Suivre les étapes > Sélectionnez "Générer un lien".**&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 **Cliquez sur "Générer lien" > Copiez le lien présent dans la page**
 
@@ -51,7 +51,7 @@ Ces deux actions n'ont pas permis de résoudre votre problème ? Contactez le su
 **Scénario** : vous vous connecter à Dastra via l'url https://app.dastra.eu, vous saisissez vos identifiants et vous arrivez sur une page d'erreur "**Accès refusé (401)**" .
 
 Aperçu de la page :\
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (2).png>)
 
 **Solutions** :&#x20;
 

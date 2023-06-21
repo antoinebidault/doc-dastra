@@ -31,7 +31,7 @@ L'interface de création de modèle comprend 4 éléments&#x20;
 * Un onglet Aperçu : permet d'afficher le rendu du mail en temps réel
 * Un onglet Input Data : vous permet de voir les données de l'objet concerné par le modèle
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Interface de création de modèle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Interface de création de modèle</p></figcaption></figure>
 
 ## Personnalisez le modèle
 
