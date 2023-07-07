@@ -36,9 +36,23 @@ Si vous souhaitez qu'on vous aide à importer votre registre existant, n'hésite
 
 Afin d'éviter les mauvaises surprises, nous avons mis en place un garde-fou. La suppression se fait en deux étapes.&#x20;
 
+## Je ne retrouve pas des éléments, que puis-je faire ?&#x20;
+
+Si vous ne retrouvez pas un élément auquel vous devriez avoir accès, il se peut qu'il ne soit pas visible pour les raisons suivantes&#x20;
+
+1.  Un filtre est présent et restreint l'affichage comme ci-dessous avec le "(1)". Cliquez sur Effacez les filtres \
+    \
 
 
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+2. L'objet est lié à une unité organisationnelle à laquelle vous n'avez pas accès ou pour laquelle vous n'avez pas les droits nécessaires. Contactez le gestionnaire de votre espace de travail.
+3.  L'objet est archivé et ne s'affiche donc plus dans la liste par défaut. Vous pouvez choisir d'afficher les archives dans le menu de sélection des filtres.\
 
+
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+4. Enfin des paramètres incorrects sont enregistrés dans votre navigateur. Pour vérifier, vous pouvez essayer la navigation privée. Si la navigation privée règle le problème, référez vous à la procédure ci-dessous qui permet de vider le stockage local de votre navigateur.
 
 ## Comment supprimer le localstorage ?
 
