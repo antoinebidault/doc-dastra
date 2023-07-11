@@ -33,3 +33,6 @@ La balise Google Optimize ne se déclenchera alors que sur cet évènement. Voic
 
 ![](<../../../../.gitbook/assets/image (169).png>)
 
+### Cas spécifique des "blocking triggers"
+
+le Widget&#x20;

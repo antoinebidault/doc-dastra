@@ -19,7 +19,7 @@ description: >-
 * Cliquez sur **Single-Sign-On** et sélectionnez **SAML**
 * **Vous arrivez sur cette page**
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (4).png>)
 
 
 
@@ -38,13 +38,13 @@ description: >-
 * **Cliquez sur le bouton "Edit"** de la première partie.
 * Saisissez les informations de connexion (**Entity ID et Url ACS**) de la manière suivante :
 
-![](<../../../.gitbook/assets/image (3) (3).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 * Cliquez sur **Enregistrer**
 * Allez directement dans la partie 3 afin de **télécharger le certificat au format base64**
-* ![](<../../../.gitbook/assets/image (5) (3).png>)
+* ![](<../../../.gitbook/assets/image (5).png>)
 * **Ouvrez le fichier CER avec votre éditeur de texte préféré** (par exemple le bloc note) et copiez le contenu (CTRL + C)
-* ![](<../../../.gitbook/assets/image (4) (6).png>)
+* ![](<../../../.gitbook/assets/image (4).png>)
 
 **Etape 3 : Ajouter le certificat au client Dastra**
 
@@ -60,7 +60,7 @@ description: >-
   **Azure AD Identifier => Identity provider's Entity Id** \
   **Logout Url => Identity provider Signout url**
 * Votre formulaire de configuration du SSO dans Dastra devrait ressembler à ceci :
-* ![](<../../../.gitbook/assets/image (2) (5).png>)
+* ![](<../../../.gitbook/assets/image (2).png>)
 * Vous pouvez cocher la case "Utilisateur créé si l'utilisateur n'a jamais été invité dans Dastra" . Si vous activez cette option, les comptes de votre organisation AD qui ne sont pas présents dans Dastra seront provisionnés à la volée au moment du login si ils n'existent pas localement dans Dastra.
 
 ![](<../../../.gitbook/assets/image (6).png>)

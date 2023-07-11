@@ -92,3 +92,6 @@ Voir page suivante:
 [google-tag-manager.md](google-tag-manager.md)
 {% endcontent-ref %}
 
+### Rappel sur le cycle de vie du consentement :&#x20;
+
+<figure><img src="../../../../.gitbook/assets/cookies-lifecycle.drawio.png" alt=""><figcaption><p>Cookie widget lifecycle</p></figcaption></figure>

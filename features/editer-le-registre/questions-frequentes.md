@@ -36,7 +36,7 @@ Et enfin, afficher les archives
 
 et supprimer&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Comment utiliser les jeux de données sans pouvoir modifier les données ?
 
