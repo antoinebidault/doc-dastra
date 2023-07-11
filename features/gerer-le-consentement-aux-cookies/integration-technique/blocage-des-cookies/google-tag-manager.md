@@ -96,3 +96,24 @@ Cliquez sur "Sauvegarder". Vous devriez avoir ceci :
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Enregistrez vos changements et vous devriez constater que vos balises sont bien désactivées sur les pages en question si le consentement n'est pas donné.
+
+
+
+### Cas spécifique : rafraîchissement de la page si changement de la configuration des consentements
+
+Dans certain cas, certaines balises ne sont pas correctements nettoyés suite au refus des cookies. Cela se produit nottament dans le cas où un utilisateur décide d'accepter les cookies puis clique de nouveau sur le widget et décide de revenir sur son consentement. Dans la plupart des cas cela ne pose aucun problème car les marqueurs ne sont de toute façon par exécutés plusieurs fois dans la page et donc en quelque sorte le mal est déjà fait. Dans certaines situations, il est possible que les balises soient toujours actives.
+
+Pour empêcher ce genre de problème, il est possible de forcer le rafraîchissement de la page ce qui permet de réinitialiser à 100% l'ensemble des marqueurs ou sdk javascript chargés par les services.
+
+Il suffit d'insérer le code suivant (en dessous de la balise d'initialisation du widget Dastra si possible)
+
+```html
+<script>
+// If any service is refused explicitely in the modal
+window.addEventListener('dastra:consents:any_refused', function(){
+    // Refresh the current page
+    location.reload();
+})
+</script>
+```
+

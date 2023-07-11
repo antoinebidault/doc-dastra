@@ -95,3 +95,16 @@ Voir page suivante:
 ### Rappel sur le cycle de vie du consentement :&#x20;
 
 <figure><img src="../../../../.gitbook/assets/cookies-lifecycle.drawio.png" alt=""><figcaption><p>Cookie widget lifecycle</p></figcaption></figure>
+
+### Evènements javascript
+
+Par défaut, le widget émet plusieurs évènements sur l'élément window de la page :&#x20;
+
+| Nom de l'évènement                | Remarques                                                                                                                                                                                                                        |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| dastra:consent:\<slug du service> | Se déclenche quand le service a été accepté par l'utilisateur (les cookies nécessaires ne sont pas concernés). Si le service est en mode "consenti par défaut" cet évènement sera déclenché dès le premier chargement de la page |
+| dastra:refused:\<slug du service> | Se déclenche dans le cas où le service n'a pas été activé par l'utilisateur (par défaut si aucun consentement n'est donné) ou si un refus explicite a été donné.                                                                 |
+| dastra:consents:ready             | Se déclenche quand le cookie de consentement (consent-eu) a été lu et décodé.                                                                                                                                                    |
+| dastra:consents:updated           | Se déclenche si les consentements ont été mis à jour par l'utilisateur (accepté, refusé ou configuré)                                                                                                                            |
+| dastra:consents:any\_refused      | Se déclenche si au moins un cookie a été refusé explicitement par l'utilisateur via la modal                                                                                                                                     |
+| dastra:consents:all\_accepted     | Se déclenche si tous les services ont été acceptés par l'utilisateur via la modal                                                                                                                                                |
