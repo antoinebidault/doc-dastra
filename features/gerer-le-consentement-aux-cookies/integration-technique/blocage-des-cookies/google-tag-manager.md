@@ -75,13 +75,19 @@ Exemple d'une balise avec plusieurs déclencheurs :&#x20;
 
 Dans ce cas nous souhaitons ajouter une exception, si la balise google ads (google-ads) n'est pas accepté, nous ne voulons pas que la balise se déclenche .
 
-Cliquez sur "Ajouter une exception" (Add Exception)
+Cliquez sur "**Ajouter une exception**" (Add Exception)
 
 {% hint style="info" %}
 Attention les exceptions ne fonctionnent bien que quand elles sont du même type. Si vos triggers sont du type "Page view", l'exception doit être également de type page view
 {% endhint %}
 
-Créez un déclencheur du même type avec pour nom par exemple "Pages vues avec le service Google Ads refusé"
+Créez un déclencheur du même type avec pour nom par exemple "Pages vues avec le service Google Ads refusé explicitement".&#x20;
+
+{% hint style="info" %}
+Si vous souhaitez également ne pas activer la balise par défaut y compris si l'utilisateur n'a pas cliqué sur la modal de consentement (et donc n'a pas de cookies stockant les préférences). Dans ce cas vous pouvez utiliser un trigger avec une négation du type :&#x20;
+
+**DastraConsents Does not contain "google-ads":true**
+{% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
