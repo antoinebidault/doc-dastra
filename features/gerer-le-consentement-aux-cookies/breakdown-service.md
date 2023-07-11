@@ -7,7 +7,7 @@ In some cases, the Cookies widget is not displayed, here are the solutions to th
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-28 à 15.55.41.png" alt=""><figcaption></figcaption></figure>
 
-2. **Check the validity of your public API key** (Don't use the private key!). To do this, go to **Organization settings** (the top right button![](../../.gitbook/assets/image.png)) > **Development / API keys** . Then check that the API key exists and that it's valid.
+2. **Check the validity of your public API key** (Don't use the private key!). To do this, go to **Organization settings** (the top right button![](<../../.gitbook/assets/image (10).png>)) > **Development / API keys** . Then check that the API key exists and that it's valid.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-28 à 15.59.46.png" alt=""><figcaption></figcaption></figure>
 

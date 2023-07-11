@@ -139,6 +139,7 @@
   * [RGAA compliance](features/gerer-le-consentement-aux-cookies/reporting.md)
   * [Breakdown service](features/gerer-le-consentement-aux-cookies/breakdown-service.md)
 * [Advanced configuration](features/advanced-configuration/README.md)
+  * [SCIM](features/advanced-configuration/scim.md)
   * [Roles and permissions](features/advanced-configuration/roles-and-permissions.md)
   * [Single Sign On (SSO)](features/advanced-configuration/single-sign-on-sso/README.md)
     * [SAML 2](features/advanced-configuration/single-sign-on-sso/saml-2.md)
