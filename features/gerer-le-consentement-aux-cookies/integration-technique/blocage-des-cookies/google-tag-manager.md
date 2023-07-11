@@ -101,7 +101,7 @@ Enregistrez vos changements et vous devriez constater que vos balises sont bien 
 
 ### Cas spécifique : rafraîchissement de la page si changement de la configuration des consentements
 
-Dans certain cas, certaines balises ne sont pas correctements nettoyés suite au refus des cookies. Cela se produit nottament dans le cas où un utilisateur décide d'accepter les cookies puis clique de nouveau sur le widget et décide de revenir sur son consentement. Dans la plupart des cas cela ne pose aucun problème car les marqueurs ne sont de toute façon par exécutés plusieurs fois dans la page et donc en quelque sorte le mal est déjà fait. Dans certaines situations, il est possible que les balises soient toujours actives.
+Dans certain cas, certaines balises ne sont pas correctement nettoyés suite au refus des cookies. Cela se produit notamment dans le cas où un utilisateur décide d'accepter les cookies puis clique de nouveau sur le widget et décide de revenir sur son consentement. Dans la plupart des cas cela ne pose aucun problème car les marqueurs ne sont de toute façon par exécutés plusieurs fois dans la page et donc il n'est plus nécessaire de supprimé les balises scripts insérés dans la page. Dans certaines situations, il est possible que les balises soient toujours actives.
 
 Pour empêcher ce genre de problème, il est possible de forcer le rafraîchissement de la page ce qui permet de réinitialiser à 100% l'ensemble des marqueurs ou sdk javascript chargés par les services.
 
