@@ -69,7 +69,7 @@ Si vous souhaitez déclencher la balise dans le cas d'un refus, mettez la formul
 Si vous avez de nombreux déclencheurs différents pour une même balise, il est également tout à fait possible de créer une exception de cette manière.\
 Exemple d'une balise avec plusieurs déclencheurs :&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Dans ce cas nous souhaitons ajouter une exception, si la balise google ads (google-ads) n'est pas accepté, nous ne voulons pas que la balise se déclenche .
 
@@ -94,8 +94,6 @@ Cliquez sur "Sauvegarder". Vous devriez avoir ceci :
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Enregistrez vos changements et vous devriez constater que vos balises sont bien désactivées sur les pages en question si le consentement n'est pas donné.
-
-
 
 ### Cas spécifique : rafraîchissement de la page si changement de la configuration des consentements
 

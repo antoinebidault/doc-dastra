@@ -14,6 +14,8 @@ Cette page est en cours de construction car il s'agit d'une fonctionnalité en c
 
 Vous pouvez utiliser l'assistant IA pour générer des traitements de données ou des actifs. Pour cela cliquez sur le bouton "Créer un traitement" et sur "générer avec IA". L'assistant IA vous fera une proposition de modèle de données que vous pourrez ensuite adapter à vos besoins.
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ## Comment ça marche ?
 
 Dastra utilise le modèle d'**IA GPT 3.5 boost** fourni par le service OpenAI **hébergé sur Azure**. Nous utilisons un modèle pré-entrainé et **nous ne transférons aucune donnée de votre organisation** dans le but d'entraîner cette intelligence artificielle.&#x20;
