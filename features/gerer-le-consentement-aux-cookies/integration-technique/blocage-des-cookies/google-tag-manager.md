@@ -35,7 +35,7 @@ La balise Google Optimize ne se déclenchera alors que sur cet évènement. Voic
 
 ## Cas spécifique des "blocking triggers"
 
-Dans certains cas, vous avez besoin de désactiver certaines balises si le consentement n'a pas été donné. Dans ce cas il est nécessaire d'effectuer certains paramétrages afin de lire directement la valeur du consentement stocké dans le cookie de consentement.
+Dans certains cas, vous avez besoin de désactiver certaines balises si le consentement n'a pas été donné. L'évènement "dastra:consent:\<nom du service>" ne s'exécutant qu'au moment de l'affichage d'une page, cela peut dans certains cas être insuffisant si vous utilisez des triggers d'interaction dans la page différents tels que des clics sur des éléments de la page, des hauteurs de scroll... Dans ce cas, il est nécessaire d'effectuer certains paramétrages afin de lire directement la valeur du consentement stocké dans le cookie de consentement.
 
 ### 1. Créer une variable "DastraConsents"
 
