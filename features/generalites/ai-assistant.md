@@ -19,7 +19,7 @@ Vous pouvez utiliser l'assistant IA pour générer des traitements de données o
 
 
 {% hint style="warning" %}
-**Je ne souhaite pas utiliser d'IA sur mon compte**
+**Que faire si je ne souhaite pas avoir cette fonctionnalité sur mon compte ?**
 
 Si jamais vous ne souhaitez pas que cette option soit disponible dans votre espace de travail, vous pouvez nous contacter pour que nous désactivions la fonctionnalité au niveau de votre organisation.
 {% endhint %}
