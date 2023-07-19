@@ -38,17 +38,15 @@ Les données générées par l'assistant **sont uniquement des propositions**. I
 
 Dastra **ne fait aucun transfert de données** présentes dans votre espace de travail vers le service d'IA.
 
-{% hint style="info" %}
 **Informations importantes sur l'utilisation des données d'entrée et de sortie de l'assistant IA (hébergé par Microsoft)**
 
 Les requêtes textuelles et les résultats :
 
-* **ne sont PAS disponibles pour d'autres clients**. ne sont PAS à la disposition de l'OpenAI.&#x20;
+* **ne sont PAS disponibles pour d'autres clients**. ne sont PAS à la disposition de l'OpenAI.
 * **ne sont PAS utilisés pour améliorer les modèles de l'OpenAI**&#x20;
 * **ne sont PAS utilisés pour améliorer les produits ou services de Microsoft** ou d'une tierce partie.&#x20;
 * **ne sont PAS utilisées pour améliorer automatiquement les modèles Azure OpenAI** pour votre utilisation dans votre ressource (les modèles sont sans état, sauf si vous affinez explicitement les modèles avec vos données d'entraînement).&#x20;
 
-Vos modèles Azure OpenAI affinés sont disponibles exclusivement pour votre usage. Le service Azure OpenAI est entièrement contrôlé par Microsoft ; Microsoft héberge les modèles OpenAI dans l'environnement Azure de Microsoft et le service n'interagit PAS avec les services exploités par OpenAI (par exemple, ChatGPT ou l'API OpenAI).
-{% endhint %}
+Vos modèles **Azure OpenAI** affinés sont disponibles exclusivement pour votre usage. Le service Azure OpenAI est entièrement contrôlé par Microsoft ; Microsoft héberge les modèles OpenAI dans l'environnement Azure de Microsoft et le service n'interagit PAS avec les services exploités par OpenAI (par exemple, **ChatGPT** ou l'**API OpenAI**).
 
 Si vous souhaitez avoir plus d'informations sur le fonctionnement de ce modèle, [rendez-vous sur cette page ](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
