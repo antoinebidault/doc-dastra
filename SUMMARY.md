@@ -19,7 +19,7 @@
   * [Evaluation d'un risque](rappels-utiles/la-gestion-des-risques/evaluation-dun-risque.md)
   * [Risques sous-traitants](rappels-utiles/la-gestion-des-risques/risques-sous-traitants.md)
 
-## 🧑🎓 Bien commencer <a href="#commencer" id="commencer"></a>
+## 👨💻 Bien commencer <a href="#commencer" id="commencer"></a>
 
 * [Mise en place](commencer/commencer/README.md)
   * [Créer et paramétrer un espace de travail](commencer/commencer/espace-de-travail.md)
