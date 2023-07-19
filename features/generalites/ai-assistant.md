@@ -16,6 +16,14 @@ Vous pouvez utiliser l'assistant IA pour générer des traitements de données o
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+
+
+{% hint style="warning" %}
+**Je ne souhaite pas utiliser d'IA sur mon compte**
+
+Si jamais vous ne souhaitez pas que cette option soit disponible dans votre espace de travail, vous pouvez nous contacter pour que nous désactivions la fonctionnalité au niveau de votre organisation.
+{% endhint %}
+
 ## Comment ça marche ?
 
 Dastra utilise le modèle d'**IA GPT 3.5 boost** fourni par le service OpenAI **hébergé sur Azure**. Nous utilisons un modèle pré-entrainé et **nous ne transférons aucune donnée de votre organisation** dans le but d'entraîner cette intelligence artificielle.&#x20;
