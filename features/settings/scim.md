@@ -10,6 +10,14 @@ description: >-
 
 [Le SCIM](http://www.simplecloud.info/), acronyme anglais de System for Cross-domain Identity Management (comprenez « Système de gestion des identités interdomaines ») est une norme ouverte prenant en charge l'automatisation du provisioning des utilisateurs. Le protocole SCIM est un intermédiaire, il collecte les données relatives à l'identité des utilisateurs auprès des fournisseurs d'identité (Azure AD, Google Workspace, Okta...) et les communique aux prestataires de service ayant besoin de ces informations d'identification (comme Dastra).
 
+
+
+{% hint style="warning" %}
+La fonctionnalité de SCIM est réservée aux clients avec un **plan Entreprise.**
+
+[Consultez notre page tarif](https://www.dastra.eu/pricing)
+{% endhint %}
+
 {% hint style="info" %}
 Nous vous recommandons fortement d'effectuer préalablement [la mise en place du SSO ](single-sign-on-sso/)**avec l'option "Forcer pour tous les utilisateurs" activée**.&#x20;
 {% endhint %}
