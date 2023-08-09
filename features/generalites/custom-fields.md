@@ -38,7 +38,7 @@ Vous pouvez personnaliser les formulaires suivants :&#x20;
 * [Exercice de droits](../gerer-les-exercices-des-droits/)
 * [Tâches](../planifier/gerer-vos-taches.md)
 * [Actifs](../editer-le-registre/remplir-le-questionnaire/applications.md)
-* [Acteurs](../settings/referentials.md)
+* [Acteurs](../cartography/referentials.md)
 * Mesures
 * Jeux de données
 * Champs de données

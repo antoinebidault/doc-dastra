@@ -10,7 +10,7 @@ description: >-
 
 Avant de vous lancer dans la constitution de vos fiches de traitement, nous vous recommandons de cartographier le plus précisémment possible les données de l'entreprise. Le schéma ci-dessous vous présente la structure de la cartographie que vous pouvez mettre en place.
 
-<figure><img src="../.gitbook/assets/assets-schema.png" alt=""><figcaption><p>Schéma de la cartographie de données </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/assets-schema.png" alt=""><figcaption><p>Schéma de la cartographie de données </p></figcaption></figure>
 
 Pour inventorier l'ensemble des données personnelles de votre SI, voici la procédure à suivre :
 
