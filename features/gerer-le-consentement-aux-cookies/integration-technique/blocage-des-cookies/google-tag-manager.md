@@ -145,7 +145,7 @@ window.addEventListener('dastra:consents:all_accepted', function(){
 
 #### &#x20;Acceptation d'un service spécifique :
 
-Pour recharger la page lors de l'acceptation d'un service spécifique (bouton "personnaliser") :&#x20;
+Pour recharger la page lors de l'acceptation d'un service spécifique :&#x20;
 
 ```markup
 <script>
