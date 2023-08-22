@@ -125,7 +125,6 @@
     * [Allez plus loin sur le consentement des cookies](features/gerer-le-consentement-aux-cookies/configuration-du-widget/allez-plus-loin-sur-le-consentement-des-cookies.md)
     * [En cas d'indisponibilité](features/gerer-le-consentement-aux-cookies/configuration-du-widget/en-cas-dindisponibilite.md)
   * [Intégration technique](features/gerer-le-consentement-aux-cookies/integration-technique/README.md)
-    * [Application mobile native](features/gerer-le-consentement-aux-cookies/integration-technique/application-mobile-native.md)
     * [Fonctionnement du widget](features/gerer-le-consentement-aux-cookies/integration-technique/fonctionnement-du-widget.md)
     * [Démarrage rapide](features/gerer-le-consentement-aux-cookies/integration-technique/integration-dans-les-cms/README.md)
       * [Wordpress](features/gerer-le-consentement-aux-cookies/integration-technique/integration-dans-les-cms/wordpress.md)
