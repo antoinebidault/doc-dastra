@@ -97,9 +97,13 @@ Enregistrez vos changements et vous devriez constater que vos balises sont bien 
 
 ### Cas spécifique : rafraîchissement de la page si changement de la configuration des consentements
 
-Dans certain cas, certaines balises ne sont pas correctement nettoyés suite au refus des cookies. Cela se produit notamment dans le cas où un utilisateur décide d'accepter les cookies puis clique de nouveau sur le widget et décide de revenir sur son consentement. Dans la plupart des cas cela ne pose aucun problème car les marqueurs ne sont de toute façon par exécutés plusieurs fois dans la page et donc il n'est plus nécessaire de supprimé les balises scripts insérés dans la page. Dans certaines situations, il est possible que les balises soient toujours actives.
+#### Refus des cookies suite à acceptation :
 
-Pour empêcher ce genre de problème, il est possible de forcer le rafraîchissement de la page ce qui permet de réinitialiser à 100% l'ensemble des marqueurs ou sdk javascript chargés par les services.
+Dans certain cas, certaines balises ne sont pas correctement nettoyés suite au refus des cookies. Cela se produit notamment dans le cas où un utilisateur décide d'accepter les cookies puis clique de nouveau sur le widget et décide de revenir sur son consentement. Dans la plupart des cas cela ne pose aucun problème car les marqueurs ne sont de toute façon par exécutés plusieurs fois dans la page et donc il n'est plus nécessaire de supprimer les balises scripts insérées dans la page.&#x20;
+
+Dans certaines situations, il est possible que les balises soient toujours actives.
+
+Pour empêcher ce type de problèmes, il est possible de forcer le rafraîchissement de la page ce qui permet de réinitialiser totalement l'ensemble des marqueurs ou sdk javascript chargés par les services.
 
 Il suffit d'insérer le code suivant (en dessous de la balise d'initialisation du widget Dastra si possible)
 
@@ -112,4 +116,45 @@ window.addEventListener('dastra:consents:any_refused', function(){
 })
 </script>
 ```
+
+#### Mise à jour du consentement :
+
+Pour recharger la page quand n'importe quel consentement change d'une façon ou d'une autre, utilisez la fonction _updated_ avec le code suivant :&#x20;
+
+```markup
+<script>
+window.addEventListener('dastra:consents:updated', function(){
+    // Refresh the current page
+    location.reload();
+})
+</script>
+```
+
+#### Acceptation totale des traceurs :
+
+Pour recharger la page lors de l'acceptation totale des traceurs (bouton "tout accepter") :&#x20;
+
+```markup
+<script>
+window.addEventListener('dastra:consents:all_accepted', function(){
+    // Refresh the current page
+    location.reload();
+})
+</script>
+```
+
+#### &#x20;Acceptation d'un service spécifique :
+
+Pour recharger la page lors de l'acceptation d'un service spécifique (bouton "personnaliser") :&#x20;
+
+```markup
+<script>
+window.addEventListener('dastra:consent:<slug du service>', function(){
+    // Refresh the current page
+    location.reload();
+})
+</script>
+```
+
+
 
