@@ -22,6 +22,10 @@ Avec le module "Audit" Dastra, vous pouvez :
 Dans Dastra, les AIPD sont considérées comme **un modèle d'audit** particulier.
 {% endhint %}
 
+## Tutoriel utilisateur : les questionnaires d'audit
+
+{% embed url="https://www.youtube-nocookie.com/embed/IHevXHniVvk" %}
+
 ## Comment accéder à la fonctionnalité "audit" de Dastra ?
 
 &#x20;Pour accéder à la fonctionnalité "Audit", cliquer sur la fonctionnalité "Audit" à gauche de l'écran.

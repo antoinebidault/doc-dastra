@@ -65,3 +65,9 @@ En interne, Dastra utilise un moteur de templating basé sur [LiquidJS](https://
 
 
 
+## Tutoriel vidéo : les règles de workflow
+
+{% embed url="https://www.youtube-nocookie.com/embed/FqPmGdk2nTI" %}
+
+
+

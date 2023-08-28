@@ -54,6 +54,10 @@ La bonne nouvelle, c'est que Dastra gère parfaitement les deux approches ! Vous
 
 ## Comment établir son registre de traitement ?
 
+Voici un tutoriel vidéo vous permettant de créer le registre.
+
+{% embed url="https://www.youtube-nocookie.com/embed/YFIj6Syl1Fw" %}
+
 Si vous souhaitez apprendre à concevoir et gérer votre registre de traitement de données, commencez ici:
 
 {% content-ref url="gerer-votre-registre.md" %}
@@ -79,6 +83,8 @@ Si vous souhaitez apprendre à partager le registre, cliquez ici :
 {% endcontent-ref %}
 
 ## Pour aller plus loin
+
+Retrouvez notre webinar dédié au registre des traitements.&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=R_Z2m4sb-44" %}
 Comment passer en mode run sur la gestion des registres de traitements
