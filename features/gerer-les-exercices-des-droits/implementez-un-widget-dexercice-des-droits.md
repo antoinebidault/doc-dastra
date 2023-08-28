@@ -26,3 +26,15 @@ Un **extrait de code HTML** sera généré que vous aurez à placer à l'endroit
 
 Pour en savoir plus sur comment implémenter un widget d'exercice des droits sur votre site internet, [contactez-nous](https://www.dastra.eu/fr/contact?type=quote).
 
+
+
+## Configurer un widget d'exercice des droits
+
+
+
+Voici un tutoriel vidéo vous permettant de suivre les étapes de configuration d'un widget d'exercice de droits.
+
+{% embed url="https://www.youtube-nocookie.com/embed/4B-ZtCuefgY" %}
+Tutoriel : configurer un widget d'exercice de droits
+{% endembed %}
+
