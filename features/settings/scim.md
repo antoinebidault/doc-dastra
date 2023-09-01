@@ -46,7 +46,7 @@ Vous définissez des groupes dans votre Azure Directory et Dastra peut synchroni
 
 #### 5. Nommez votre application
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 6. Dans l'application nouvellement créée, cliquez sur le bouton "Provision User Accounts"
 
@@ -60,13 +60,13 @@ Vous définissez des groupes dans votre Azure Directory et Dastra peut synchroni
 
 **Connectez vous à Dastra** en tant qu'administrateur. **Allez dans la configuration de l'organisation** > **cliquez sur Sécurité / SCIM**
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 
 
 Cliquez sur le bouton **configurer**
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 Configurez votre SCIM. Sélectionnez l'espace de travail que vous souhaitez synchroniser (les équipes et utilisateurs seront automatiquement provisionés dans cet espace).
 
@@ -90,7 +90,7 @@ Cliquez sur "**Tester la connection**" et "**Enregistrer**". Si vous rencontrez 
 
 #### 10. Ajoutez des utilisateurs et/ou des groupes à l'application créée&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

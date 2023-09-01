@@ -55,7 +55,7 @@ Vous pouvez demander l'import d'une grande liste d'utilisateurs dans la platefor
 * rendez vous sur ce lien : [https://app.dastra.eu/general-settings/users](https://app.dastra.eu/general-settings/users)
 * Cliquez sur le bouton "contacter l'équipe de Dastra"
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Créez un fichier par espace de travail au format CSV comprenant les colonnes suivantes séparées par des , (virgule) :&#x20;
 

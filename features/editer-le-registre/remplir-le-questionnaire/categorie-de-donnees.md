@@ -56,7 +56,7 @@ Les jeux de données ont une vocation naturelle à être ajoutés à des [actifs
 
 Vous pouvez associer un actif à votre jeu de données lors de sa création.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Sélecteur d'actif</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption><p>Sélecteur d'actif</p></figcaption></figure>
 
 Un jeu de données ne peut être associé qu'à un seul actif. En effet, en définissant les jeux de données d'un actif, ceux-ci sont uniques.&#x20;
 
@@ -80,7 +80,7 @@ Chaque jeu de données a vocation à être complété par des champs de données
 
 Les champs qui s'affichent dans le sélecteur sont les champs disponibles dans le glossaire de données.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Sélecteur de champs de données</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (3).png" alt=""><figcaption><p>Sélecteur de champs de données</p></figcaption></figure>
 
 Si une donnée n'est pas présente, vous pouvez la créer directement depuis ce sélecteur pour l'ajouter au jeu de données.&#x20;
 
@@ -94,7 +94,7 @@ Dans ce cas, vous êtes invité à justifier de la collecte de cette donnée et 
 
 &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (3) (2) (1).png" alt=""><figcaption><p>Donnée sensible</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (3) (2).png" alt=""><figcaption><p>Donnée sensible</p></figcaption></figure>
 
 {% hint style="info" %}
 Cette information sera analysée par l'application pour déclencher un critère intelligent [d'AIPD](analyse-dimpact.md).&#x20;
@@ -128,7 +128,7 @@ Les champs de données d'un jeu de données générique ne peuvent pas varier d'
 
 Pour cela, il est nécessaire d'ajouter le jeu de données au traitement. Sur la liste des jeux de données, il faut cliquer sur les boutons "base active/...".
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Bouton "base active"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (5).png" alt=""><figcaption><p>Bouton "base active"</p></figcaption></figure>
 
 Vous pourrez voir apparaitre la fenêtre de personnalisation.&#x20;
 
@@ -138,7 +138,7 @@ Lorsque la durée de conservation est personnalisée au niveau du traitement, un
 
 L'objectif à terme peut être de limiter l'utilisation de jeux de données génériques et de s'orienter vers une cartographie plus précise soit via les traitements de données (cas n°2) soit via les actifs (cas n°1).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Durée personnalisée au niveau du traitement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption><p>Durée personnalisée au niveau du traitement</p></figcaption></figure>
 
 
 
