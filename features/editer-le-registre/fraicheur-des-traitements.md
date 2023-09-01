@@ -4,9 +4,13 @@ description: Apprenez à activer et à utiliser l'option de fraicheur des traite
 
 # Fraicheur des traitements
 
-La fraicheur d'un traitement est un indicateur sur la dernière mise à jour d'un traitement. La fraicheur se dégradera au fur et à mesure que la date de péremption du traitement approchera. Cette fonctionnalité est un moyen simple et ludique pour garantir que les informations contenues dans votre registre des traitements sont toujours d'actualité.&#x20;
+### Qu'est ce que l'indicateur de fraîcheur d'un traitement ?
 
-### Activer l'option fraicheur des traitements
+La fraicheur d'un traitement est un indicateur sur le dernier passage en revue du traitement d'un traitement. La fraicheur se dégradera au fur et à mesure que la date de péremption du traitement approchera. Cette fonctionnalité est un moyen simple et ludique pour garantir que les informations contenues dans votre registre des traitements sont révisées régulièrement.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption><p>Schéma de fonctionnement de l'indicateur de fraîcheur du traitement</p></figcaption></figure>
+
+### Comment activer l'indicateur de fraicheur des traitements ?
 
 La fraicheur des traitements est optionnelle et désactivée par défaut.&#x20;
 
