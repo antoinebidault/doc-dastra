@@ -72,7 +72,7 @@
     * [Impact analysis](features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
     * [Documentation](features/editer-le-registre/remplir-le-questionnaire/documents.md)
   * [Create a relationship between treatments](features/editer-le-registre/create-a-relationship-between-treatments.md)
-  * [Processing freshness](features/editer-le-registre/processing-freshness.md)
+  * [Processing freshness](features/editer-le-registre/fraicheur-des-traitements.md)
   * [Share the record of processing](features/editer-le-registre/partager-le-registre.md)
   * [Data visualization](features/editer-le-registre/data-visualization/README.md)
     * [View the treatment tree](features/editer-le-registre/data-visualization/view-the-treatment-tree.md)
