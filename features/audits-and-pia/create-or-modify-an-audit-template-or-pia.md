@@ -77,7 +77,7 @@ You can choose not to link an audit to a particular object. In this case, the re
 
 When creating a custom template, you will need to choose a template type.
 
-<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 These types allow for some customisation of audit models.&#x20;
 

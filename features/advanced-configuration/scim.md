@@ -48,7 +48,7 @@ You define groups in your Azure Directory, and Dastra can synchronize these user
 
 Log on to Dastra as administrator. Go to Organization configuration > click on Security / SCIM
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 
 
