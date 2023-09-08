@@ -14,21 +14,21 @@ Cette page est en cours de construction car il s'agit d'une fonctionnalité en c
 
 Vous pouvez utiliser l'assistant IA pour générer des traitements de données ou des actifs. Pour cela cliquez sur le bouton "Créer un traitement" et sur "générer avec IA". L'assistant IA vous fera une proposition de modèle de données que vous pourrez ensuite adapter à vos besoins.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F3LnwYaR0wxVm1itxA4XH%2Fia-gpt-dastra.mp4?alt=media&token=ba3d66f4-e290-4215-83ec-7a2f91641d39" %}
 
 {% hint style="warning" %}
 **Que faire si je ne souhaite pas avoir cette fonctionnalité sur mon compte ?**
 
-Si jamais vous ne souhaitez pas que cette option soit disponible dans votre espace de travail, vous pouvez nous contacter pour que nous désactivions la fonctionnalité au niveau de votre organisation.
+Si jamais vous ne souhaitez pas que cette option soit disponible dans votre espace de travail, vous pouvez [nous contacter ](../../commencer/le-support/faire-une-demande-de-support.md)afin que nous désactivions la fonctionnalité au niveau de votre organisation.
 {% endhint %}
 
 ## Comment ça marche ?
 
-Dastra utilise le modèle d'**IA GPT 3.5 boost** fourni par le service OpenAI **hébergé sur Azure**. Nous utilisons un modèle pré-entrainé et **nous ne transférons aucune donnée de votre organisation** dans le but d'entraîner cette intelligence artificielle.&#x20;
+Dastra utilise le modèle d'**IA OpenAI GPT 3.5 boost** (Modèle de [ChatGPT](https://chat.openai.com/)) fourni par [le service OpenAI hébergé sur Azure](https://azure.microsoft.com/fr-fr/products/cognitive-services/openai-service). Le modèle utilisé est pré-entrainé. **Nous ne transférons absolument aucune donnée de votre organisation** dans le but d'entraîner cette intelligence artificielle.&#x20;
 
 Dastra utilise simplement la puissance de l'IA générative de GPT pour générer du contenu à partir de simple requête textuelle. Dastra a simplement fourni le modèle de document attendu (JSON) et un exemple de traitement de données (issu de notre bibliothèque) que nous souhaitons avoir et le modèle d'IA s'occupe du reste.
+
+Nous transférons uniquement le texte du prompt que vous allez envoyer à l'IA
 
 {% hint style="warning" %}
 **Avertissement sur la qualité du contenu suggéré !**&#x20;
