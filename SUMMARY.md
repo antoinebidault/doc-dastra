@@ -50,6 +50,8 @@
   * [Import your data (Excel, Csv)](features/general/import-your-data-excel-csv.md)
   * [Tag management](features/general/tag-management.md)
   * [Custom fields](features/general/custom-fields.md)
+  * [AI Assistant (beta)](features/general/ai-assistant-beta.md)
+  * [Email templates](features/general/email-templates.md)
 * [Data Mapping](features/data-mapping.md)
 * [Record of processing activities](features/editer-le-registre/README.md)
   * ["Data controller" record](features/editer-le-registre/data-controller-record.md)
