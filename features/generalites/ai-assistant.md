@@ -1,7 +1,7 @@
 ---
 description: >-
-  L'assistant IA de Dastra utilise la puisse de l'IA OpenAI GPT-4 pour générer
-  automatiquement des fiches de traitement
+  L'assistant IA de Dastra utilise la puissance de l'IA OpenAI GPT-4 pour
+  générer automatiquement des fiches de traitement
 ---
 
 # Assistant IA (beta)
