@@ -57,7 +57,7 @@ _Dans cet exemple, la langue italienne sera sélectionnée par défaut (si elle 
 
 
 
-### Comment envoyer automatiquement des valeur de formulaire au widget ?
+### Comment envoyer automatiquement des valeurs de formulaire au widget ?
 
 ```html
 <script>
@@ -79,7 +79,7 @@ Vous pouvez remplacer le nom de la colonne **refId** par le nom de propriété s
 * message
 * additionalDatas**\***
 
-\*For the specific case of custom fields, you must reference the additionalDatas name:
+\*Pour le cas spécifique des champs personnalisés, vous devez faire référence au nom additionalDatas :
 
 ```html
 <script>
@@ -91,7 +91,7 @@ Vous pouvez remplacer le nom de la colonne **refId** par le nom de propriété s
 </script>
 ```
 
-Les champs additionnels seront automatiquement fusionnés
+Les champs additionnels seront automatiquement fusionnés.
 
 ### Envoi des paramètres en utilisant le mode page
 
