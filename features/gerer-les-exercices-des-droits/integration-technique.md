@@ -87,7 +87,12 @@ Vous pouvez remplacer le nom de la colonne **refId** par le nom de propriété s
     customFieldSlug1: 'test', 
     customFieldSlug2: 'test'
   };
-  dastra.push(['set','dsr:additionalDatas', payload])
+  
+  // You can use this synthax for setting global custom fields as an object
+  dastra.push(['set','dsr:additionalDatas', payload]);
+  
+   // Or directly for a single field, use the prefix @
+   dastra.push(['set','dsr:@customFieldSlug1', payload]);
 </script>
 ```
 
