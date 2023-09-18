@@ -138,7 +138,7 @@ Lorsque la durée de conservation est personnalisée au niveau du traitement, un
 
 L'objectif à terme peut être de limiter l'utilisation de jeux de données génériques et de s'orienter vers une cartographie plus précise soit via les traitements de données (cas n°2) soit via les actifs (cas n°1).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption><p>Durée personnalisée au niveau du traitement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (2) (4).png" alt=""><figcaption><p>Durée personnalisée au niveau du traitement</p></figcaption></figure>
 
 
 

@@ -1,5 +1,23 @@
 # Questions fréquentes
 
+## Attacher plusieurs tâches à un projet
+
+Pour attacher plusieurs à un projet en une seule action, vous devez passer par les actions groupées et la modification des champs.
+
+Commencez par sélectionner les tâches que vous voulez attacher à un projet.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Cliquez sur "Actions groupées"
+
+Cliquez sur "Modifier les champs"
+
+Sélectionnez "Projet" et le projet souhaité.&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Validez les changements en enregistrant.
+
 ## Comment supprimer une tache ?&#x20;
 
 Pour supprimer une tache, vous devez d'abord l'archiver puis la supprimer des archives.&#x20;

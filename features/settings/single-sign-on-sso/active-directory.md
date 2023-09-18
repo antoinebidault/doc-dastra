@@ -38,7 +38,7 @@ description: >-
 * **Cliquez sur le bouton "Edit"** de la première partie.
 * Saisissez les informations de connexion (**Entity ID et Url ACS**) de la manière suivante :
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 * Cliquez sur **Enregistrer**
 * Allez directement dans la partie 3 afin de **télécharger le certificat au format base64**
@@ -54,13 +54,13 @@ description: >-
 **Etape 4 : Configurez les url de l'IdP dans Dastra**
 
 * Copiez les 3 liens Entity Id, SSO Url et Logout Url depuis l'étape 4 de Active Directory
-* ![](<../../../.gitbook/assets/image (7) (1).png>)
+* ![](<../../../.gitbook/assets/image (7) (1) (1).png>)
 * Copiez les urls en respectant le schéma suivant :\
   **Login URL => Single sign on url** \
   **Azure AD Identifier => Identity provider's Entity Id** \
   **Logout Url => Identity provider Signout url**
 * Votre formulaire de configuration du SSO dans Dastra devrait ressembler à ceci :
-* ![](<../../../.gitbook/assets/image (2) (1).png>)
+* ![](<../../../.gitbook/assets/image (2) (1) (1).png>)
 * Vous pouvez cocher la case "Utilisateur créé si l'utilisateur n'a jamais été invité dans Dastra" . Si vous activez cette option, les comptes de votre organisation AD qui ne sont pas présents dans Dastra seront provisionnés à la volée au moment du login si ils n'existent pas localement dans Dastra.
 
 ![](<../../../.gitbook/assets/image (6).png>)

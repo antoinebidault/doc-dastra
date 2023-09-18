@@ -69,7 +69,7 @@ Pour modifier un département, il suffit de cliquer sur les 3 points à droite d
 
 Vous pouvez importer une liste d'unités organisationnelles via un fichier d'import. Ce fichier est à télécharger en cliquant sur le bouton "Importer" dans l'interface de gestion des unités organisationnelles.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Cliquez ensuite "Télécharger le modèle de fichier"
 
