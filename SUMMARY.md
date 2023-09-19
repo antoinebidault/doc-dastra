@@ -178,6 +178,7 @@
 
 * [FAQ](other/faq.md)
 * [Known problems](other/known-problems.md)
+* [Changelog](https://www.dastra.eu/en/category/release/10)
 
 ## Referentials
 
