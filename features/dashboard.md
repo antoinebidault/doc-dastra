@@ -77,6 +77,6 @@ Explore the features now:
 [audits-and-pia](audits-and-pia/)
 {% endcontent-ref %}
 
-{% content-ref url="advanced-configuration/" %}
-[advanced-configuration](advanced-configuration/)
+{% content-ref url="settings/" %}
+[settings](settings/)
 {% endcontent-ref %}

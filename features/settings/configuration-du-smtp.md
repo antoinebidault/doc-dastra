@@ -39,7 +39,7 @@ Note that your SMTP server must support a secure connection using SSL.
 
 Go to the SMTP [server configuration page](https://app.dastra.eu/general-settings/smtp).&#x20;
 
-Fill in the form fields using the data requested in the [prerequisites](smtp-configuration.md#prerequisites).
+Fill in the form fields using the data requested in the [prerequisites](configuration-du-smtp.md#prerequisites).
 
 Note that server connectivity is automatically tested to ensure that the server login credentials are correct. A test email will be automatically sent from our servers.&#x20;
 
