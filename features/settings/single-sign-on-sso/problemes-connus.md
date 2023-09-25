@@ -11,3 +11,12 @@ Si une erreur indique que l'utilisateur ne peut pas accéder à l'application, a
 * Si l'utilisateur a déjà créé un compte utilisateur (par exemple dans une autre organisation ou dans le cadre d'un compte de test), assurez vous que l'organisation dans laquelle vous avez configuré le SSO est bien son organisation principale (pour cela, il faut aller dans la [liste des utilisateurs de l'organisation](https://app.dastra.eu/general-settings/users)). L'utilisateur doit figurer en tant qu'utilisateur interne. Si ce n'est pas le cas, cela signifie qu'une organisation gère sa connexion à Dastra (son organisation principale), il sera alors indiqué comme utilisateur externe.&#x20;
 * Si l'utilisateur n'a jamais créé de compte&#x20;
 
+## Message d'erreur
+
+Vous rencontrez un message d'erreur de ce type  :
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+1. Assurez d'avoir un certificat valide.
+2. Vérifiez que le copier/coller du certificat n'a pas inclus de saut de ligne ou de création d'espace
+
