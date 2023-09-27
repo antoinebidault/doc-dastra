@@ -4,7 +4,26 @@ description: >-
   générer automatiquement des fiches de traitement
 ---
 
-# Assistant IA (beta)
+# 😇 Assistant IA (beta)
+
+## Quels cas d'usage avec Dastra ?&#x20;
+
+Avec Dastra, vous pouvez utiliser l'IA pour deux cas d'usages principaux :&#x20;
+
+### **Générer des traitements de données**
+
+Générez rapidement des traitements de données au format attendu par Dastra à partir d'une description rapide de votre traitement.&#x20;
+
+A partir de l'usage décrit des données, Dastra vous proposera un modèle de traitement incluant un nom, un ou des jeux de données incluant des champs, une durée de conservation, des mesures de sécurité, des destinataires et une description du traitement. \
+En un rien de temps, vous pourrez créer votre traitement.&#x20;
+
+Vous avez une modification à apporter sur ce qui est proposé ? Editez le traitement une fois créé directement.
+
+### **Générer des actifs**
+
+Générez rapidement des actifs (de type logiciel par exemple) au format attendu par Dastra. L'IA vous proposera un nom, des liens vers la politique de confidentialité de l'acteur, créera un acteur en tant qu'éditeur.&#x20;
+
+Gagnez en rapidité et laissez l'IA préremplir ces informations pour vous.&#x20;
 
 ## Comment utiliser l'IA générative de Dastra ?
 
