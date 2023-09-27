@@ -6,6 +6,20 @@ description: >-
 
 # AI Assistant (beta)
 
+## What can Dastra be used for?&#x20;
+
+With Dastra, you can use AI for two main purposes:&#x20;
+
+### Generate data processing&#x20;
+
+Quickly generate data processing in the format expected by Dastra, based on a rapid description of your processing activity. Based on the described use of the data, Dastra will propose a processing model including a name, one or more datasets with fields, a retention period, security measures, recipients and a processing description.&#x20;
+
+In no time at all, you'll be up and running. Do you have a modification to make to what is proposed? Edit the processing once it's been created.&#x20;
+
+### Generate assets&#x20;
+
+Quickly generate assets (such as software) in the format expected by Dastra. The AI will suggest a name, provide links to the actor's privacy policy and create an actor as an editor. Save time and let the AI pre-fill this information for you.
+
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F3LnwYaR0wxVm1itxA4XH%2Fia-gpt-dastra.mp4?alt=media&token=ba3d66f4-e290-4215-83ec-7a2f91641d39" %}
 
 {% hint style="warning" %}
