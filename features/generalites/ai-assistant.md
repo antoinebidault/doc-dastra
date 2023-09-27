@@ -6,10 +6,6 @@ description: >-
 
 # Assistant IA (beta)
 
-{% hint style="info" %}
-Cette page est en cours de construction car il s'agit d'une fonctionnalité en cours de développement
-{% endhint %}
-
 ## Comment utiliser l'IA générative de Dastra ?
 
 Vous pouvez utiliser l'assistant IA pour générer des traitements de données ou des actifs. Pour cela cliquez sur le bouton "Créer un traitement" et sur "générer avec IA". L'assistant IA vous fera une proposition de modèle de données que vous pourrez ensuite adapter à vos besoins.
