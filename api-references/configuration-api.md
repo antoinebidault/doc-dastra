@@ -23,13 +23,15 @@ Dastra repose sur le standard **API-Rest** et notamment les requêtes HTTP suiva
 
 Avec Dastra, il est possible de configurer plusieurs API. La liste des API est accessible ici : [https://api.dastra.eu/swagger/index.html](https://api.dastra.eu/swagger/index.html)
 
+### Limitations&#x20;
 
+Une limite de requête http est fixée à 500/min ou 10000/10min.
 
-##
+Les options de sécurité (notamment filtrage IP) ne s'appliquent pas aux API.&#x20;
 
 ### Exposition des champs personnalisés dans l'API Dastra&#x20;
 
-Dans Dastra, il est possible d'exposer dans l'API des champs personnalisés conçus depuis son espace de travail Dastra.
+Dans Dastra, il est possible d'exposer dans l'API [des champs personnalisés](../features/generalites/custom-fields.md) conçus depuis votre espace de travail Dastra.&#x20;
 
 Les champs personnalisés sont propre à chaque espace de travail. Pour les prendre en compte dans l'API Dastra, il faut d'abord définir le nom de leur variable dans la définition du champs personnalisé :&#x20;
 
@@ -39,19 +41,28 @@ Les champs personnalisés sont propre à chaque espace de travail. Pour les pren
 [custom-fields.md](../features/generalites/custom-fields.md)
 {% endcontent-ref %}
 
+La plupart des entités modifiables via l'API expose un champ nommé "**customFields**" que vous pouvez modifier.&#x20;
 
+Si vous définissez les champs avec les noms de variable suivants au sein de votre espace de travail :&#x20;
 
-&#x20;Il y a un dictionnaire customFields.\[le nom de la variable perso] qui peut être modifié. Pour exposer le champs personnalisé dans l'API, il suffit de récupérer le champs "variable" du champs personnalisé et le poster dans l'objet concerné dans Dastra. Cela va mettre à jour les champs personnalisé de l'élément concerné.\
-\
-Exemple avec l'actif Google Analytics 4 :
+* mon\_champ\_string : un champ "Texte"
+* mon\_champ\_booleen : un champ "Case à coche"
+* mon\_champ\_numeric : un champ "Nombre"
+* mon\_champ\_checkbox : un champ "Cases à cocher"
 
-```
+Il sera possible de modifier ces informations de cette façon
+
+```json
 { 
-
-  "label": "Google Analytics 4"
-
-  "customFields": { "mon_groupe_de_donnees": "Valeur de mon champ" }
-
+  "label": "Google Analytics 4",
+  ...
+  "customFields": {
+     "mon_champ_string": "Valeur de mon champ",
+     "mon_champ_booleen": true,
+     "mon_champ_numeric": 1,
+     "mon_champ_checkbox"!:["Pomme","Banane"],
+     ...a
+  }
 }
 ```
 
@@ -59,13 +70,7 @@ Exemple avec l'actif Google Analytics 4 :
 
 Pour exposer des tags dans l'API Dastra, il faut aller les chercher dans le endpoint tags avant de les ajouter : /v1/ws/{workspaceId}/Tags
 
-
-
-### Limitations&#x20;
-
-Une limite de requête http est fixée à 500/min ou 10000/10min.
-
-Les options de sécurité (notamment filtrage IP) ne s'appliquent pas aux API.&#x20;
+###
 
 {% hint style="info" %}
 **CONSEIL** : ne manipulez les API que si vous savez ce que vous faites !
