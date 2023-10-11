@@ -158,160 +158,34 @@ The public api key
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="consents" type="object" %}
- La liste des consentements de l'utilisateur
-
+&#x20;La liste des consentements de l'utilisateur\
 \
-
-
-
-
+`{`\
+`"cookieConsents":`\
+`[`\
+&#x20; `{`\
+&#x20;   `"consent":true, // True if consented, false if refused`\
+&#x20;   `"id":"e213aca4-79b7-4b93-2bad-08d897969898", // Cookies id`\
+&#x20;   `"date":"2021-03-15T14:00:04.133Z",`\
+&#x20;   `"name":"yrdy",`\
+&#x20;   `"slug":"yrdy",`\
+&#x20;   `"purpose":3`\
+&#x20; `}`\
+`],`\
+`"lang":"fr-FR",`\
+`"consentId":"6f47576e-5a0c-4219-8efe-331e72bab73a",`\
+`"date":1615809009744`\
+`}`\
 \
-
-
-
-
-`{`
-
 \
-
-
-`"cookieConsents":`
-
 \
-
-
-`[`
-
 \
-
-
-  
-
-`{`
-
 \
-
-
-    
-
-`"consent":true, // True if consented, false if refused`
-
 \
-
-
-    
-
-`"id":"e213aca4-79b7-4b93-2bad-08d897969898", // Cookies id`
-
 \
-
-
-    
-
-`"date":"2021-03-15T14:00:04.133Z",`
-
 \
-
-
-    
-
-`"name":"yrdy",`
-
 \
-
-
-    
-
-`"slug":"yrdy",`
-
-\
-
-
-    
-
-`"purpose":3`
-
-\
-
-
-  
-
-`}`
-
-\
-
-
-`],`
-
-\
-
-
-`"lang":"fr-FR",`
-
-\
-
-
-`"consentId":"6f47576e-5a0c-4219-8efe-331e72bab73a",`
-
-\
-
-
-`"date":1615809009744`
-
-\
-
-
-`}`
-
-\
-
-
-
-
-\
-
-
-
-
-\
-
-
-
-
-\
-
-
-
-
-\
-
-
-
-
-\
-
-
-
-
-\
-
-
-
-
-\
-
-
-
-
-\
-
-
-
-
-\
-
-
- 
+&#x20;
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="type" type="string" %}

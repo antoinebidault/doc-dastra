@@ -23,6 +23,44 @@ Dastra repose sur le standard **API-Rest** et notamment les requêtes HTTP suiva
 
 Avec Dastra, il est possible de configurer plusieurs API. La liste des API est accessible ici : [https://api.dastra.eu/swagger/index.html](https://api.dastra.eu/swagger/index.html)
 
+
+
+##
+
+### Exposition des champs personnalisés dans l'API Dastra&#x20;
+
+Dans Dastra, il est possible d'exposer dans l'API des champs personnalisés conçus depuis son espace de travail Dastra.
+
+Les champs personnalisés sont propre à chaque espace de travail. Pour les prendre en compte dans l'API Dastra, il faut d'abord définir le nom de leur variable dans la définition du champs personnalisé :&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="../features/generalites/custom-fields.md" %}
+[custom-fields.md](../features/generalites/custom-fields.md)
+{% endcontent-ref %}
+
+
+
+&#x20;Il y a un dictionnaire customFields.\[le nom de la variable perso] qui peut être modifié. Pour exposer le champs personnalisé dans l'API, il suffit de récupérer le champs "variable" du champs personnalisé et le poster dans l'objet concerné dans Dastra. Cela va mettre à jour les champs personnalisé de l'élément concerné.\
+\
+Exemple avec l'actif Google Analytics 4 :
+
+```
+{ 
+
+  "label": "Google Analytics 4"
+
+  "customFields": { "mon_groupe_de_donnees": "Valeur de mon champ" }
+
+}
+```
+
+### Le cas des tags
+
+Pour exposer des tags dans l'API Dastra, il faut aller les chercher dans le endpoint tags avant de les ajouter : /v1/ws/{workspaceId}/Tags
+
+
+
 ### Limitations&#x20;
 
 Une limite de requête http est fixée à 500/min ou 10000/10min.

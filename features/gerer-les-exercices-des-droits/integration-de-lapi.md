@@ -624,11 +624,11 @@ L'id de l'espace de travail dans lequel se trouve la demande d'exercice de droit
 
 {% swagger method="get" path="{workspaceId}​/DataSubjectRequests" baseUrl="​/v1​/ws​/" summary="Récupérer une liste paginée de demandes d'exercice de droits" %}
 {% swagger-description %}
-Vous pouvez passer des paramètres de recherche optionnels à votre requête pour filtrer la réponse de l'API 
+Vous pouvez passer des paramètres de recherche optionnels à votre requête pour filtrer la réponse de l'API&#x20;
 {% endswagger-description %}
 
 {% swagger-parameter in="query" name="page" type="Integer" %}
-La page que vous souhaitez requêter 
+La page que vous souhaitez requêter&#x20;
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="size" type="Integer" %}
@@ -961,11 +961,7 @@ L'id de la demande d'exercice de droits existante que vous souhaitez supprimer
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" type="Object" name="dataSubjectRequest" %}
-Poster l'objet complet de la demande d'exercice de droits (voir plus haut ou notre 
-
-[documentation d'api swagger](https://api.dastra.eu/swagger/index.html)
-
-)
+Poster l'objet complet de la demande d'exercice de droits (voir plus haut ou notre [documentation d'api swagger](https://api.dastra.eu/swagger/index.html))
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="Success" %}
