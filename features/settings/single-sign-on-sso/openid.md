@@ -20,7 +20,7 @@ The configuration of SSO with OpenID is done in three steps:
 
 
 
-1. Configuration of the Authentication Provider You need to set up an OpenId configuration in your authentication provider.
+1. **Configuration of the Authentication Provider You need to set up an OpenId configuration in your authentication provider.**
 
 For Active Directory: [https://docs.microsoft.com/fr-fr/azure/active-directory/develop/v2-protocols-oidc](https://docs.microsoft.com/fr-fr/azure/active-directory/develop/v2-protocols-oidc)
 
@@ -38,7 +38,7 @@ To configure your authentication provider, you will need the following informati
 
 * **The provided Redirect URI in this format: https://account.dastra.eu/signin-{schemeId}**
 
-2. Configuration of the Service Provider
+2. **Configuration of the Service Provider**
 
 In dastra.eu, go to the [SSO administration page](https://app.dastra.eu/general-settings/sso) and click on "add an SSO login".
 
