@@ -16,11 +16,7 @@ A user (User Agent) will request a connection to the service provider (Service P
 
 In our case, the User Agent is a Dastra user's browser. The Service Provider is Dastra, and the Identity Provider is your preferred authentication provider (for example: Active Directory).
 
-
-
-<img src="../../../.gitbook/assets/sso&#x26; (1).png" alt="" data-size="original">
-
-
+<figure><img src="../../../.gitbook/assets/sso&#x26;.png" alt=""><figcaption></figcaption></figure>
 
 **Implementation**
 
