@@ -109,4 +109,6 @@ Then apply the changes by clicking on "Apply".
 
 **Step 16:** You have succeeded!
 
-End and Tests! Once everything is configured on both sides, you can return to Dastra and launch a test of SSO login directly in the manager.
+End and Tests!
+
+Once everything is configured on both sides, you can return to Dastra and launch a test of SSO login directly in the manager.
